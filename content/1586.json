@@ -1,0 +1,29 @@
+{
+  "id": 1586,
+  "type": "post",
+  "title": "Brian Goetz on Generic Specialization",
+  "slug": "brian-goetz-on-generic-specialization",
+  "date": "2016-02-08 05:05:26",
+  "categories": [
+    {
+      "slug": "jfokus-2016",
+      "name": "Jfokus 2016"
+    }
+  ],
+  "excerpt": "Presentation from Brian Goetz during the VM Tech Summit at Jfokus on the compiler/vm details of generic specialization.",
+  "original_urls": [
+    "http://nighthacking.tv/brian-goetz-on-generic-specialization/",
+    "http://nighthacking.com/brian-goetz-on-generic-specialization/"
+  ],
+  "video_id": "TkpcuL1t1lY",
+  "thumbnail": "/wp-content/uploads/2016/02/brian-goetz-on-generic-specializ.jpg",
+  "review_status": "unreviewed",
+  "provenance": {
+    "database": "nighthacking_wordpress",
+    "post_id": 1586,
+    "source_content_sha256": "37a791e7504a26d9807b21c9ea477c4ffb8de1af8483eb5eb02cfd85df59457f",
+    "exporter_version": "prototype-export-1",
+    "authorship": "Original published text, not newly generated first-person prose"
+  },
+  "warnings": []
+}
