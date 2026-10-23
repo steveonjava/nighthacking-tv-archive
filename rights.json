@@ -1,0 +1,18 @@
+[
+  {
+    "path": "/wp-content/uploads/2013/09/p14.jpg",
+    "rights_holder": "unreviewed",
+    "status": "owner-asserted, unreviewed",
+    "basis": "Found among the owner's own WordPress uploads. Not independently cleared.",
+    "note": "Frame or thumbnail for a video hosted on YouTube. The JavaOne video itself appears on the channel \"Java\", so the video may belong to a third party. Needs rights review before launch.",
+    "export_sha256": "bb96e626b069eb82c0541d07887b230ae9ad0158cdb35fc5d0c4b3dc5b469f6a"
+  },
+  {
+    "path": "/wp-content/uploads/2016/02/brian-goetz-on-generic-specializ.jpg",
+    "rights_holder": "unreviewed",
+    "status": "owner-asserted, unreviewed",
+    "basis": "Found among the owner's own WordPress uploads. Not independently cleared.",
+    "note": "Frame or thumbnail for a video hosted on YouTube (channel \"Raising Young Coders\" on 2026-10-23). The video may belong to a third party. Needs rights review before launch.",
+    "export_sha256": "2c29e7b6a7d777903e0aa6a37cccd5c48b648f1fea2b422e379900befd19aabb"
+  }
+]

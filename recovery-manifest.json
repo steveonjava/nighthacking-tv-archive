@@ -1,0 +1,37 @@
+{
+  "exporter_version": "prototype-export-1",
+  "approved_post_ids": [
+    1586,
+    14
+  ],
+  "media": [
+    {
+      "path": "/wp-content/uploads/2013/09/p14.jpg",
+      "source_sha256": "bacdb8ce3c3418cb522b06f7ab3b699ec0576f337db16fb685ab00b6f44eb335",
+      "export_sha256": "bb96e626b069eb82c0541d07887b230ae9ad0158cdb35fc5d0c4b3dc5b469f6a",
+      "bytes": 122543,
+      "width": 1280,
+      "height": 720,
+      "transformation": "Decode to pixels, apply orientation, encode fresh pixels without metadata"
+    },
+    {
+      "path": "/wp-content/uploads/2016/02/brian-goetz-on-generic-specializ.jpg",
+      "source_sha256": "f15fddcb6adb95bd3da0ef58afa9050c54afa015176fd5330a826090a2426ae9",
+      "export_sha256": "2c29e7b6a7d777903e0aa6a37cccd5c48b648f1fea2b422e379900befd19aabb",
+      "bytes": 227476,
+      "width": 1920,
+      "height": 1080,
+      "transformation": "Decode to pixels, apply orientation, encode fresh pixels without metadata"
+    }
+  ],
+  "excluded": [
+    "Comments",
+    "Users",
+    "Draft/private/password-protected posts",
+    "Executable code",
+    "Original image bytes",
+    "DSC00151.jpg"
+  ],
+  "video_availability": "Not checked: no provider URL was fetched",
+  "review_status": "unreviewed"
+}

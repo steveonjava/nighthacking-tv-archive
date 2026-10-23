@@ -1,0 +1,33 @@
+{
+  "id": 14,
+  "type": "post",
+  "title": "JavaOne Interview with Gerrit Grunwald",
+  "slug": "javaone-interview-with-gerrit-grunwald",
+  "date": "2013-09-15 09:41:22",
+  "categories": [
+    {
+      "slug": "javaone",
+      "name": "JavaOne"
+    },
+    {
+      "slug": "video",
+      "name": "Video"
+    }
+  ],
+  "excerpt": "",
+  "original_urls": [
+    "http://nighthacking.tv/javaone-interview-with-gerrit-grunwald/",
+    "http://nighthacking.com/javaone-interview-with-gerrit-grunwald/"
+  ],
+  "video_id": "LNitmLKWZmA",
+  "thumbnail": "/wp-content/uploads/2013/09/p14.jpg",
+  "review_status": "unreviewed",
+  "provenance": {
+    "database": "nighthacking_wordpress",
+    "post_id": 14,
+    "source_content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "exporter_version": "prototype-export-1",
+    "authorship": "Original published text, not newly generated first-person prose"
+  },
+  "warnings": []
+}
