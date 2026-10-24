@@ -1,0 +1,17 @@
+[
+  {
+    "site": "nighthacking",
+    "path": "/wp-content/uploads/2013/10/NightHacking-Header.png",
+    "source": "https://web.archive.org/web/20191014201429im_/http://nighthacking.tv/wp-content/uploads/2013/10/NightHacking-Header.png",
+    "final_url": "https://web.archive.org/web/20191230110147im_/http://nighthacking.tv/wp-content/uploads/2013/10/NightHacking-Header.png",
+    "checked_at": "2026-10-23T21:31:04.452135+00:00",
+    "content_type": "image/png",
+    "source_sha256": "1bf5affd740bc61cd59775109ad45ed402f8765ad84feac43ca86baf3e1bc458",
+    "export_sha256": "87f8e389141a8c0674596f414fe20967ed7d367319aa0c3c2512f19c7b175259",
+    "width": 230,
+    "height": 28,
+    "bytes": 3343,
+    "transformation": "Fully decoded and encoded from fresh pixels without inherited metadata",
+    "rights": "Owner-site historical branding, owner-asserted; no independent license confirmation"
+  }
+]

@@ -14,5 +14,15 @@
     "basis": "Found among the owner's own WordPress uploads. Not independently cleared.",
     "note": "Frame or thumbnail for a video hosted on YouTube (channel \"Raising Young Coders\" on 2026-10-23). The video may belong to a third party. Needs rights review before launch.",
     "export_sha256": "2c29e7b6a7d777903e0aa6a37cccd5c48b648f1fea2b422e379900befd19aabb"
+  },
+  {
+    "path": "/wp-content/uploads/2013/10/NightHacking-Header.png",
+    "rights_holder": "unreviewed",
+    "status": "owner-asserted, unreviewed",
+    "basis": "Historical header artwork captured on the owner site; recovered from public Wayback, not the lab.",
+    "note": "Reencoded from fresh pixels. Public visibility does not independently establish a reuse license. Included for owner review only; no launch approval implied.",
+    "source_url": "https://web.archive.org/web/20191014201429im_/http://nighthacking.tv/wp-content/uploads/2013/10/NightHacking-Header.png",
+    "source_sha256": "1bf5affd740bc61cd59775109ad45ed402f8765ad84feac43ca86baf3e1bc458",
+    "export_sha256": "87f8e389141a8c0674596f414fe20967ed7d367319aa0c3c2512f19c7b175259"
   }
 ]
