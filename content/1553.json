@@ -48,15 +48,26 @@
     "source_slug_sha256": "10b5007700e950d85000345730d74e51373578896d24457fab02b53f7c04b232",
     "source_title_sha256": "878d4848d252762017e5ef7e3f5b7bd43050988ddba30e5d7bb3068c8d9a623f",
     "table": "wp_posts",
-    "video_status": "unknown"
+    "video_status": "identified-unverified",
+    "body_video_identity_resolution": {
+      "record_id": 1553,
+      "video_id": "lqUGzuoElGc",
+      "source_url": "https://youtu.be/lqUGzuoElGc",
+      "method": "Unique explicit URL in the exported public author body and its source-text URL inventory",
+      "source_markdown_sha256": "5911adb8e5aa232801356fc8e1b84b955516026ed9d7ba75d4cd6dfab995b936",
+      "lab_export_json_sha256": "d07c0db19d7f636b28521f74b331cc36b6a58f07177dc15b3381996df133aa2b",
+      "availability": "unverified",
+      "fetched": false
+    }
   },
   "review_status": "unreviewed",
   "slug": "oredev-behind-the-scenes-with-par-siko",
   "thumbnail": "/wp-content/uploads/2015/11/oredev-behind-the-scenes-with-pa.jpg",
   "title": "\u00d8redev Behind the Scenes with P\u00e4r Siko",
   "type": "post",
-  "video_id": null,
+  "video_id": "lqUGzuoElGc",
   "warnings": [
-    "focus_video has no unique validated YouTube ID in a known field or URL."
+    "focus_video has no unique validated YouTube ID in a known field or URL.",
+    "The recording ID was recovered offline from the explicit unique author-body URL. Provider availability was not checked."
   ]
 }

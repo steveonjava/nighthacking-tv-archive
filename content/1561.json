@@ -48,15 +48,26 @@
     "source_slug_sha256": "a2c2ac40b74ad03af0fdcc8faecdecbca8fcfa7118270f7df26bc44748718bf1",
     "source_title_sha256": "ad830a7993ff7b35e3df2328e5882251ce28776420872581d95d67fbe0869535",
     "table": "wp_posts",
-    "video_status": "unknown"
+    "video_status": "identified-unverified",
+    "body_video_identity_resolution": {
+      "record_id": 1561,
+      "video_id": "PJnXxr-gCzM",
+      "source_url": "https://youtu.be/PJnXxr-gCzM",
+      "method": "Unique explicit URL in the exported public author body and its source-text URL inventory",
+      "source_markdown_sha256": "466ff12eb1f29dcbe4c4da6ac4a718e50e4ed78bce385502633b12ed7831882f",
+      "lab_export_json_sha256": "597f96294456457664a300841091699f4926c9ab9d765b2751e5c74737c152bd",
+      "availability": "unverified",
+      "fetched": false
+    }
   },
   "review_status": "unreviewed",
   "slug": "niall-merrigan-on-security-and-hacking",
   "thumbnail": "/wp-content/uploads/2015/11/niall-merrigan-on-security-and-h.jpg",
   "title": "Niall Merrigan on Security and Hacking",
   "type": "post",
-  "video_id": null,
+  "video_id": "PJnXxr-gCzM",
   "warnings": [
-    "focus_video has no unique validated YouTube ID in a known field or URL."
+    "focus_video has no unique validated YouTube ID in a known field or URL.",
+    "The recording ID was recovered offline from the explicit unique author-body URL. Provider availability was not checked."
   ]
 }

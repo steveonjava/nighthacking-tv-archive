@@ -48,15 +48,26 @@
     "source_slug_sha256": "41e7a26cff56700ed7255a6be3c1a5680febab2d2c5747b4d7b85d36deb682cd",
     "source_title_sha256": "f540e2e66f644666d22ea3c2114c29a7d07cfa320ab2ad54d6baefd665493f6c",
     "table": "wp_posts",
-    "video_status": "unknown"
+    "video_status": "identified-unverified",
+    "body_video_identity_resolution": {
+      "record_id": 1551,
+      "video_id": "xYWnYPo0ZSE",
+      "source_url": "https://youtu.be/xYWnYPo0ZSE",
+      "method": "Unique explicit URL in the exported public author body and its source-text URL inventory",
+      "source_markdown_sha256": "60aa791f07a6f99459fc1eb713d1d044665bc2abfad3eabb755163c743055ea9",
+      "lab_export_json_sha256": "f7909d84c8cd96fc9ce5ef7858e8dc212c95acaf48ded3d831d4abfb8ae2483f",
+      "availability": "unverified",
+      "fetched": false
+    }
   },
   "review_status": "unreviewed",
   "slug": "jonas-ernhill-on-kung-fury",
   "thumbnail": "/wp-content/uploads/2015/11/jonas-ernhill-on-kung-fury.jpg",
   "title": "Jonas Ernhill on Kung Fury",
   "type": "post",
-  "video_id": null,
+  "video_id": "xYWnYPo0ZSE",
   "warnings": [
-    "focus_video has no unique validated YouTube ID in a known field or URL."
+    "focus_video has no unique validated YouTube ID in a known field or URL.",
+    "The recording ID was recovered offline from the explicit unique author-body URL. Provider availability was not checked."
   ]
 }

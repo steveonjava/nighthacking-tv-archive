@@ -48,15 +48,26 @@
     "source_slug_sha256": "370fab1badb6e9d7ea270a9f151ace20d27659f54b3d15dbba2502225e2e996a",
     "source_title_sha256": "c681b401a6eb6ea8a405e7c446936169a516b61bd8fcfe62081c771e119428ee",
     "table": "wp_posts",
-    "video_status": "unknown"
+    "video_status": "identified-unverified",
+    "body_video_identity_resolution": {
+      "record_id": 1549,
+      "video_id": "Dhr-unXETNU",
+      "source_url": "https://youtu.be/Dhr-unXETNU",
+      "method": "Unique explicit URL in the exported public author body and its source-text URL inventory",
+      "source_markdown_sha256": "7529897340c59f14f40717c9b7e3be30e95f1ae8186929e3aee615d2d4397578",
+      "lab_export_json_sha256": "c9597ee95bf7739e9746cdc821aa46ef49106e39980f52da3ab51ebdd04480fa",
+      "availability": "unverified",
+      "fetched": false
+    }
   },
   "review_status": "unreviewed",
   "slug": "karl-henrik-nilsson-on-iot-hardware-hacking",
   "thumbnail": "/wp-content/uploads/2015/11/karl-henrik-nilsson-on-iot-hardw.jpg",
   "title": "Karl-Henrik Nilsson on IoT Hardware Hacking",
   "type": "post",
-  "video_id": null,
+  "video_id": "Dhr-unXETNU",
   "warnings": [
-    "focus_video has no unique validated YouTube ID in a known field or URL."
+    "focus_video has no unique validated YouTube ID in a known field or URL.",
+    "The recording ID was recovered offline from the explicit unique author-body URL. Provider availability was not checked."
   ]
 }

@@ -48,15 +48,26 @@
     "source_slug_sha256": "c2d3a400bedc5d7c73a094dc7fe81db62fcab24fa8d29caa49c3c355d5e531fa",
     "source_title_sha256": "1ffd91c3ac9b20e7106fa3b85ec72a8d1b246ea561883ad993f5de7c2bd6ea28",
     "table": "wp_posts",
-    "video_status": "unknown"
+    "video_status": "identified-unverified",
+    "body_video_identity_resolution": {
+      "record_id": 1557,
+      "video_id": "5fPQEFZYSUg",
+      "source_url": "https://youtu.be/5fPQEFZYSUg",
+      "method": "Unique explicit URL in the exported public author body and its source-text URL inventory",
+      "source_markdown_sha256": "c0777d5fa84134f0539bd21b84e9647e807467a1fb08d3cade7e2ce4b0c55ed1",
+      "lab_export_json_sha256": "c21acc4c832ee63c78cdf898445df306fef01f9cdc1984dafe4ee674c424c201",
+      "availability": "unverified",
+      "fetched": false
+    }
   },
   "review_status": "unreviewed",
   "slug": "markus-eisele-on-microservices",
   "thumbnail": "/wp-content/uploads/2015/11/markus-eisele-on-microservices.jpg",
   "title": "Markus Eisele on Microservices",
   "type": "post",
-  "video_id": null,
+  "video_id": "5fPQEFZYSUg",
   "warnings": [
-    "focus_video has no unique validated YouTube ID in a known field or URL."
+    "focus_video has no unique validated YouTube ID in a known field or URL.",
+    "The recording ID was recovered offline from the explicit unique author-body URL. Provider availability was not checked."
   ]
 }

@@ -8839,66 +8839,75 @@
     },
     {
       "id": 1546,
-      "json_sha256": "7b337adcb1bddd29134da8b0c281d281c3bcf2270714e7d8b23a2fc0f9ceb51d",
+      "json_sha256": "b4aefc066d2e3fe033775549cb1dcf36f8dbe1d1969b7042c06bfaafcb3b249b",
       "markdown_sha256": "ce90af046a3bd6acf71f4338b27c96dfd1a1b6a0c2381a0bd99d44707a9dadc4",
       "route": "/chris-noessel-on-agentive-technologies/",
-      "type": "post"
+      "type": "post",
+      "lab_export_json_sha256": "7b337adcb1bddd29134da8b0c281d281c3bcf2270714e7d8b23a2fc0f9ceb51d"
     },
     {
       "id": 1549,
-      "json_sha256": "c9597ee95bf7739e9746cdc821aa46ef49106e39980f52da3ab51ebdd04480fa",
+      "json_sha256": "f15708d3774a770b898a03fdfcda3a67b6e3c5e81c076d5556c58b049bb714b5",
       "markdown_sha256": "7529897340c59f14f40717c9b7e3be30e95f1ae8186929e3aee615d2d4397578",
       "route": "/karl-henrik-nilsson-on-iot-hardware-hacking/",
-      "type": "post"
+      "type": "post",
+      "lab_export_json_sha256": "c9597ee95bf7739e9746cdc821aa46ef49106e39980f52da3ab51ebdd04480fa"
     },
     {
       "id": 1551,
-      "json_sha256": "f7909d84c8cd96fc9ce5ef7858e8dc212c95acaf48ded3d831d4abfb8ae2483f",
+      "json_sha256": "96904d2bca72739e90ddea7d67077370f80fce01c7849f941a365404d572a2ba",
       "markdown_sha256": "60aa791f07a6f99459fc1eb713d1d044665bc2abfad3eabb755163c743055ea9",
       "route": "/jonas-ernhill-on-kung-fury/",
-      "type": "post"
+      "type": "post",
+      "lab_export_json_sha256": "f7909d84c8cd96fc9ce5ef7858e8dc212c95acaf48ded3d831d4abfb8ae2483f"
     },
     {
       "id": 1553,
-      "json_sha256": "d07c0db19d7f636b28521f74b331cc36b6a58f07177dc15b3381996df133aa2b",
+      "json_sha256": "149a5ff96d6cb4b7d7f2f7c093f203b3923e702a51b741b72658681d52f63a35",
       "markdown_sha256": "5911adb8e5aa232801356fc8e1b84b955516026ed9d7ba75d4cd6dfab995b936",
       "route": "/oredev-behind-the-scenes-with-par-siko/",
-      "type": "post"
+      "type": "post",
+      "lab_export_json_sha256": "d07c0db19d7f636b28521f74b331cc36b6a58f07177dc15b3381996df133aa2b"
     },
     {
       "id": 1555,
-      "json_sha256": "dd343c0f1001a5c87c301b341967482530cacccf7678b0ddb098d55d823a2517",
+      "json_sha256": "682d6327ff081bda603733f7c2770b410a5ba853f7c0e4e23490aab199128615",
       "markdown_sha256": "cfc62ddf28ca75a6cd2db0ce3e1793f9ace91688b02b42e57e9cbf85caeb8e89",
       "route": "/anton-arhipov-on-java-agents/",
-      "type": "post"
+      "type": "post",
+      "lab_export_json_sha256": "dd343c0f1001a5c87c301b341967482530cacccf7678b0ddb098d55d823a2517"
     },
     {
       "id": 1557,
-      "json_sha256": "c21acc4c832ee63c78cdf898445df306fef01f9cdc1984dafe4ee674c424c201",
+      "json_sha256": "2ffc49d0c198603fdcdb35c979e7d6400a25639dd1bf1c4a7f5f505bfe3db1e8",
       "markdown_sha256": "c0777d5fa84134f0539bd21b84e9647e807467a1fb08d3cade7e2ce4b0c55ed1",
       "route": "/markus-eisele-on-microservices/",
-      "type": "post"
+      "type": "post",
+      "lab_export_json_sha256": "c21acc4c832ee63c78cdf898445df306fef01f9cdc1984dafe4ee674c424c201"
     },
     {
       "id": 1559,
-      "json_sha256": "351592a23644f4699c6401c3e4ef075771ee884c43e6d1e47e00b7251fed8579",
+      "json_sha256": "97f2743cdbced422e2ebfe583f1b383134e947d0573820184e53c9d981f1ca95",
       "markdown_sha256": "ce9864e648c6b39dabb5660a81e1bf433bfd6950fc0d39203314e42f13929470",
       "route": "/reza-rahman-on-java-ee-8/",
-      "type": "post"
+      "type": "post",
+      "lab_export_json_sha256": "351592a23644f4699c6401c3e4ef075771ee884c43e6d1e47e00b7251fed8579"
     },
     {
       "id": 1561,
-      "json_sha256": "597f96294456457664a300841091699f4926c9ab9d765b2751e5c74737c152bd",
+      "json_sha256": "28d2de4d89be623e63f881c18573182749fadc11c4881a257799abc0737188c8",
       "markdown_sha256": "466ff12eb1f29dcbe4c4da6ac4a718e50e4ed78bce385502633b12ed7831882f",
       "route": "/niall-merrigan-on-security-and-hacking/",
-      "type": "post"
+      "type": "post",
+      "lab_export_json_sha256": "597f96294456457664a300841091699f4926c9ab9d765b2751e5c74737c152bd"
     },
     {
       "id": 1563,
-      "json_sha256": "82f21d947f4c0187de54203863e702dbed048a8ecdd90e7abf3d2651ff16ec6d",
+      "json_sha256": "bba93b76d4eb7613fecdcecfddc064d4e90c29c8b405517333295289384877b7",
       "markdown_sha256": "8e991a82ecbae8e24c47558c8cf773add54b652bf7bba183121f017b79bfbe65",
       "route": "/christin-wiedemann-on-software-testing-for-developers/",
-      "type": "post"
+      "type": "post",
+      "lab_export_json_sha256": "82f21d947f4c0187de54203863e702dbed048a8ecdd90e7abf3d2651ff16ec6d"
     },
     {
       "id": 1575,
@@ -9513,5 +9522,16 @@
   "review_status": "unreviewed",
   "video_availability": "Not checked: no provider URL was fetched",
   "input_bundle_sha256": "7545a2de6a3808f031d3592f1e8891334a8220ce23e701a5399ae3116b657c33",
-  "retained_prior_media_paths": []
+  "retained_prior_media_paths": [],
+  "host_video_identity_resolution_ids": [
+    1546,
+    1549,
+    1551,
+    1553,
+    1555,
+    1557,
+    1559,
+    1561,
+    1563
+  ]
 }

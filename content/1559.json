@@ -48,15 +48,26 @@
     "source_slug_sha256": "a91909ae5e751627c75e28d69612d84b031fd6a540a856f442e2fecdd8783939",
     "source_title_sha256": "35777f0a0da0a2082ea8e571373c22119fe7be53521d9d11603a002e8687542d",
     "table": "wp_posts",
-    "video_status": "unknown"
+    "video_status": "identified-unverified",
+    "body_video_identity_resolution": {
+      "record_id": 1559,
+      "video_id": "_TpxidD7ik0",
+      "source_url": "https://youtu.be/_TpxidD7ik0",
+      "method": "Unique explicit URL in the exported public author body and its source-text URL inventory",
+      "source_markdown_sha256": "ce9864e648c6b39dabb5660a81e1bf433bfd6950fc0d39203314e42f13929470",
+      "lab_export_json_sha256": "351592a23644f4699c6401c3e4ef075771ee884c43e6d1e47e00b7251fed8579",
+      "availability": "unverified",
+      "fetched": false
+    }
   },
   "review_status": "unreviewed",
   "slug": "reza-rahman-on-java-ee-8",
   "thumbnail": "/wp-content/uploads/2015/11/reza-rahman-on-java-ee-8.jpg",
   "title": "Reza Rahman on Java EE 8",
   "type": "post",
-  "video_id": null,
+  "video_id": "_TpxidD7ik0",
   "warnings": [
-    "focus_video has no unique validated YouTube ID in a known field or URL."
+    "focus_video has no unique validated YouTube ID in a known field or URL.",
+    "The recording ID was recovered offline from the explicit unique author-body URL. Provider availability was not checked."
   ]
 }

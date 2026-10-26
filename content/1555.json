@@ -48,15 +48,26 @@
     "source_slug_sha256": "fc7f186bb13dd3e5e4279104dc0be0a5bd9aad7ecce28ca1e4dfd74d7218bd75",
     "source_title_sha256": "a9974c3b78f64a6de94386e0ba5c89d11d69e96fdc4f6688a05c42bc9ccc54b6",
     "table": "wp_posts",
-    "video_status": "unknown"
+    "video_status": "identified-unverified",
+    "body_video_identity_resolution": {
+      "record_id": 1555,
+      "video_id": "XcLVJhIZuZM",
+      "source_url": "https://youtu.be/XcLVJhIZuZM",
+      "method": "Unique explicit URL in the exported public author body and its source-text URL inventory",
+      "source_markdown_sha256": "cfc62ddf28ca75a6cd2db0ce3e1793f9ace91688b02b42e57e9cbf85caeb8e89",
+      "lab_export_json_sha256": "dd343c0f1001a5c87c301b341967482530cacccf7678b0ddb098d55d823a2517",
+      "availability": "unverified",
+      "fetched": false
+    }
   },
   "review_status": "unreviewed",
   "slug": "anton-arhipov-on-java-agents",
   "thumbnail": "/wp-content/uploads/2015/11/anton-arhipov-on-java-agents.jpg",
   "title": "Anton Arhipov on Java Agents",
   "type": "post",
-  "video_id": null,
+  "video_id": "XcLVJhIZuZM",
   "warnings": [
-    "focus_video has no unique validated YouTube ID in a known field or URL."
+    "focus_video has no unique validated YouTube ID in a known field or URL.",
+    "The recording ID was recovered offline from the explicit unique author-body URL. Provider availability was not checked."
   ]
 }

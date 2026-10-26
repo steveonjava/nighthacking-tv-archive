@@ -324,16 +324,15 @@
   "converted_images": 316,
   "rights_entries": 317,
   "outbound_hosts": 20,
-  "link_registry_urls": 550,
+  "link_registry_urls": 559,
   "link_states": {
-    "unverified": 550
+    "unverified": 559
   },
   "image_omission_reasons": {},
   "encoding_losses": [],
   "known_legacy_decoding_record_ids": [],
   "video_identity_states": {
-    "identified-unverified": 298,
-    "unknown": 9,
+    "identified-unverified": 307,
     "not-applicable-static-page": 3
   },
   "previously_present_ids": [
@@ -395,5 +394,16 @@
       "reason": "page-not-allowlisted",
       "status": "publish"
     }
+  ],
+  "offline_body_video_resolution_ids": [
+    1546,
+    1549,
+    1551,
+    1553,
+    1555,
+    1557,
+    1559,
+    1561,
+    1563
   ]
 }

@@ -48,15 +48,26 @@
     "source_slug_sha256": "b3ddd8e15e8b9fdc32b20afd2882222cea5bd60c8dae460364324d0690e484db",
     "source_title_sha256": "3098c02dad49158890dfdea2e33f1f379d0efd7cc1ce4cf73d65d975be23d815",
     "table": "wp_posts",
-    "video_status": "unknown"
+    "video_status": "identified-unverified",
+    "body_video_identity_resolution": {
+      "record_id": 1563,
+      "video_id": "5ff-KPM7Uw0",
+      "source_url": "https://youtu.be/5ff-KPM7Uw0",
+      "method": "Unique explicit URL in the exported public author body and its source-text URL inventory",
+      "source_markdown_sha256": "8e991a82ecbae8e24c47558c8cf773add54b652bf7bba183121f017b79bfbe65",
+      "lab_export_json_sha256": "82f21d947f4c0187de54203863e702dbed048a8ecdd90e7abf3d2651ff16ec6d",
+      "availability": "unverified",
+      "fetched": false
+    }
   },
   "review_status": "unreviewed",
   "slug": "christin-wiedemann-on-software-testing-for-developers",
   "thumbnail": "/wp-content/uploads/2015/11/christin-wiedemann-on-software-t.jpg",
   "title": "Christin Wiedemann on Software Testing for Developers",
   "type": "post",
-  "video_id": null,
+  "video_id": "5ff-KPM7Uw0",
   "warnings": [
-    "focus_video has no unique validated YouTube ID in a known field or URL."
+    "focus_video has no unique validated YouTube ID in a known field or URL.",
+    "The recording ID was recovered offline from the explicit unique author-body URL. Provider availability was not checked."
   ]
 }
