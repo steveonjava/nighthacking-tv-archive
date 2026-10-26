@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-04-27 07:13:06",
+  "excerpt": "Presentation on Java EE and Websockets by R. SreeSaran at the Chennai Java Summit.",
+  "id": 888,
+  "original_urls": [
+    "http://nighthacking.tv/code-coverage-integration-in-build-process/",
+    "http://nighthacking.com/code-coverage-integration-in-build-process/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "a8e866bc371b0156cb51f6d2b0411b34ba6dfa0e068e837988d289d0ecc834c7",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=_hPSlOYdoY0"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/code-coverage-integration-in-build-process/",
+    "post_id": 888,
+    "rejected_urls": [],
+    "source_content_sha256": "95d4c0cde31277aa283fa367af720f067330b99b48baa70cf7395b6664f77aec",
+    "source_date_sha256": "5dc81ce0384ae566fea9adce2d0d63d6b899c42991ef9d0eb6b9e62cb812fd0c",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "e6f095e985e6762f1538b47ff1abda58dbe8ce088b16d8a5744fc179e9a2fc16",
+      "_video_thumbnail": "71054b493d5c8b18dd8bd2f2f1c91fb3c3a113c6445a0486e7292f42cd0bd540",
+      "focus_video": "d656f2124998c1ac52b27b05095534fda9bed1cc69a804d54f82f94e53171048"
+    },
+    "source_slug_sha256": "47858c329426c09c6f13bcac4d2504d5ecb60070daacc92bc7d89f448396ac55",
+    "source_title_sha256": "0e04f067a683431358a603d385dab7c0b14169e56c1f879a8fcdd7bed855aa87",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "code-coverage-integration-in-build-process",
+  "thumbnail": "/wp-content/uploads/2014/04/code-coverage-integration-in-bui.jpg",
+  "title": "Java EE and Websockets",
+  "type": "post",
+  "video_id": "_hPSlOYdoY0",
+  "warnings": []
+}

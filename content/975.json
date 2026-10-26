@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-07-18 15:34:42",
+  "excerpt": "Interview with Java community leader Kevin Nilson on the new IGNITE evening talks at JavaOne 2014.",
+  "id": 975,
+  "original_urls": [
+    "http://nighthacking.tv/javaone-interview-with-kevin-nilson-on-ignite/",
+    "http://nighthacking.com/javaone-interview-with-kevin-nilson-on-ignite/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "4e1b8fed20d7a1148240d7897b3ea9c19bf27c679dd3eff33b60a39c10da0141",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=oT1hphS3OKw"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/javaone-interview-with-kevin-nilson-on-ignite/",
+    "post_id": 975,
+    "rejected_urls": [],
+    "source_content_sha256": "4019629a6e224930b9364f85c347fe5e0624ffc04d5e4e7908953b944819da98",
+    "source_date_sha256": "a8f887644d38bc7cd24311563b350be2823bb9a230666cc3072a67bfacfed0c4",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "3837e1aa083f578c9179bdd9e3b2b0ebe980361d800f99637c7b331c29a26e87",
+      "_video_thumbnail": "b82561bce0bc83799d4aef2b052cde67f16fc9f553b830d01a4c0b77b042b0c9",
+      "focus_video": "5e5a06998caacdf350d1068a97e29a80aefcd5cbe4df6d7a80ab904395daf7a3"
+    },
+    "source_slug_sha256": "bf4bb41ae3e394d30dbe8497d370423d7114b5a920a3ab2fe598c5a87deeafbf",
+    "source_title_sha256": "859356d2d7835251387bcd428986355d2141e656afd700c2e72d1101f7aa3eac",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "javaone-interview-with-kevin-nilson-on-ignite",
+  "thumbnail": "/wp-content/uploads/2014/07/javaone-interview-with-kevin-nil.jpg",
+  "title": "JavaOne Interview with Kevin Nilson on IGNITE ",
+  "type": "post",
+  "video_id": "oT1hphS3OKw",
+  "warnings": []
+}

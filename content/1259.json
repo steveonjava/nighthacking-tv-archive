@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2015",
+      "slug": "jfokus2015"
+    }
+  ],
+  "date": "2015-02-05 13:59:24",
+  "excerpt": "Interview with Roberto Cortez (@radcortez) on EE 7 Batch Processing at the Jfokus conference.",
+  "id": 1259,
+  "original_urls": [
+    "http://nighthacking.tv/roberto-cortez-ee-7-batch-processing/",
+    "http://nighthacking.com/roberto-cortez-ee-7-batch-processing/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "feaca93a72b5fa94aca1ba37c14cd1cf3b77c08888f241c9611a58b3fde6df97",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=Gto7p373LfU"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/roberto-cortez-ee-7-batch-processing/",
+    "post_id": 1259,
+    "rejected_urls": [],
+    "source_content_sha256": "38d4553865faf7b33c375beacf8c5dbb69c7c7450b24c58008b0adc1c4cbdb68",
+    "source_date_sha256": "2230421fab146dc8215fe5029b33a46a4fe2d43a7572f42b1af1cb6fe8bfbf1c",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "b81d00e65f747a4161b56ab92f400b81862c2bbefe84f220fcefab0399081798",
+      "_video_thumbnail": "871b55e586f560e75fecd9a6fb3d340de1f6640f3d68acc75624d455902216c2",
+      "focus_video": "0e6abf22ba9db6b64e0d8e415be38a428dd18c5363ca085b788675a220fe1927"
+    },
+    "source_slug_sha256": "9de089cb8c54602f3da4b7fb35f1c52019fe06d93c09adaddf4894e29038c6e9",
+    "source_title_sha256": "57754e26122030882f6cf1b81042fd40062dc252dfae7431a6330f31cf106593",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "roberto-cortez-ee-7-batch-processing",
+  "thumbnail": "/wp-content/uploads/2015/02/roberto-cortez-ee-7-batch-proces.jpg",
+  "title": "Roberto Cortez - EE 7 Batch Processing",
+  "type": "post",
+  "video_id": "Gto7p373LfU",
+  "warnings": []
+}

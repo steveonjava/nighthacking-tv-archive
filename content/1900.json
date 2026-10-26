@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "QCon NYC 2016",
+      "slug": "qcon-nyc-2016"
+    }
+  ],
+  "date": "2016-06-13 14:42:14",
+  "excerpt": "Interview with Andrew Psaltis from Hortonworks about unification of streaming APIs with Apache Beam.",
+  "id": 1900,
+  "original_urls": [
+    "http://nighthacking.tv/interview-with-andrew-psaltis/",
+    "http://nighthacking.com/interview-with-andrew-psaltis/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "8b2a901d38a0523c70693fc4b71d1a294139c22dc88b8bab8fe9749d5e92bb42",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/4-ca3nsbm7g"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/interview-with-andrew-psaltis/",
+    "post_id": 1900,
+    "rejected_urls": [],
+    "source_content_sha256": "6c2457c33dafb5c2fa1cf6a55352c825476ee95c881f945ee1244e496e563d78",
+    "source_date_sha256": "cae5d2b8d92f889f873e9b6cf1cca5d8bf1b569072a13ffa1cf4728ed43f6881",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "489ca219174f91b48313c188f4c998a5413fcaf194a93fd8e24bbdb178dc8f3a",
+      "_video_thumbnail": "3c3138dd44e6a3545482aea7ff39ec33172ba5a8d215e0ac47d2e89bf4f3212a",
+      "focus_video": "6c67744382cca5d623df9f6aea5cfbbe95bb254e55b1aa341d6dae132aaec09e"
+    },
+    "source_slug_sha256": "4c63ed880a076baa4a92609834152128b16f6c7a4f7f759b4424fb2bb4716eaa",
+    "source_title_sha256": "876b076e88e0aaf32504c8edab5d256742f787089eb1f77b0c8f202223a840b3",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "interview-with-andrew-psaltis",
+  "thumbnail": "/wp-content/uploads/2016/06/interview-with-andrew-psaltis.jpg",
+  "title": "Andrew Psaltis on Apache Beam",
+  "type": "post",
+  "video_id": "4-ca3nsbm7g",
+  "warnings": []
+}

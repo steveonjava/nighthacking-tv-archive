@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "DevNexus 2016",
+      "slug": "devnexus2016"
+    }
+  ],
+  "date": "2016-02-17 11:47:07",
+  "excerpt": "Interview by Tori Wieldt with Stuart Marks on the Java 9 release.",
+  "id": 1689,
+  "original_urls": [
+    "http://nighthacking.tv/stuart-marks-on-java-9/",
+    "http://nighthacking.com/stuart-marks-on-java-9/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "5244f59500025463a4126e65d228ca0bda69af9346b94b451a165dbb3d85fd54",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/57pOpbmfA9M"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/stuart-marks-on-java-9/",
+    "post_id": 1689,
+    "rejected_urls": [],
+    "source_content_sha256": "b80b9a69c56f8989aad56717c17d02fe5a3a8a1fd41d1c6bd2ef4f662760a938",
+    "source_date_sha256": "970caaf58dce8fbce13ec9ccc15f2f52d79429795aacdee8b70da56bbd02b22e",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "70399d63b169b1ae4b8c6e7ae9a75df6dbf0d7776e55545bdf6c46c97ef59185",
+      "_video_thumbnail": "e55c2fecbaef1b543cc7df1f48946bef5a0ffaceddf5c247983a9a363719c99c",
+      "focus_video": "a0b10f57e0ad878a4a43683a2b9cd6badbd98e55f05b02c1272db1a6a891a6b8"
+    },
+    "source_slug_sha256": "4f016e554e253568183b88b5848ef6cdf8dee6419445e4c63f82c1aae6607c09",
+    "source_title_sha256": "23927fd5c011ff21d9c43dbd03c789becfdbbe87a9131cd2b490fe0625f26a48",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "stuart-marks-on-java-9",
+  "thumbnail": "/wp-content/uploads/2016/02/stuart-marks-on-java-9.jpg",
+  "title": "Stuart Marks on Java 9",
+  "type": "post",
+  "video_id": "57pOpbmfA9M",
+  "warnings": []
+}

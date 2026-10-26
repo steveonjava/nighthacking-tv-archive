@@ -1,0 +1,68 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-11 13:27:19",
+  "excerpt": "First NightHacking Java 8 Tour event with Toni Epple in Munich.",
+  "id": 624,
+  "original_urls": [
+    "http://nighthacking.tv/dukescript-with-toni-epple/",
+    "http://nighthacking.com/dukescript-with-toni-epple/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "3702fd92864c71fc743826368fb4c7a86fd2b37ae580ebbad4187b2ca2e57d1a",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "iframe:src"
+        ],
+        "fetched": false,
+        "host": "www.slideshare.net",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.slideshare.net/steveonjava/slideshelf"
+      },
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=T-xBDHnhdfE"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/dukescript-with-toni-epple/",
+    "post_id": 624,
+    "rejected_urls": [],
+    "source_content_sha256": "6046272ce1374992c135ebc20d0964c6b499d6aa9f23fe583ab51c71de93cd88",
+    "source_date_sha256": "222c855143a77f921aaf3e8a890167f36e8a49ca78fcf3ec1cd9ac98b99178c8",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "87acb1e183a2b0f74c3b2008b8ef6975a95269bc490a8886f317fa4bd714b085",
+      "_video_thumbnail": "75be2c8d8fe277ecf9a9e57ed29e0b26293eacc94e6bddc7fab26d17111b3829",
+      "focus_video": "04841659015ef153745db850c0aec3109a25613d049fe70ba2a7bb3c96991d7a"
+    },
+    "source_slug_sha256": "247e0dc2e5fce8a7145eb3a3b1bd4b3698a3f04aa3304713698522b3fb333051",
+    "source_title_sha256": "208d7097e59064d63fd768d4e1d06785fb9af0f26a15c538407f26553b8b751b",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "dukescript-with-toni-epple",
+  "thumbnail": "/wp-content/uploads/2014/03/dukescript-with-toni-epple.jpg",
+  "title": "DukeScript with Toni Epple",
+  "type": "post",
+  "video_id": "T-xBDHnhdfE",
+  "warnings": [
+    "An active or embedded source element was omitted."
+  ]
+}

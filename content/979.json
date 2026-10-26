@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-07-19 00:51:13",
+  "excerpt": "Presentation on using the new embedded features in Java 8, including JavaFX on devices like the Raspberry Pi and Lego Mindstorms EV3.  Also covers JavaFX on tablets and smartphones.",
+  "id": 979,
+  "original_urls": [
+    "http://nighthacking.tv/java-8-and-embedded-javafx/",
+    "http://nighthacking.com/java-8-and-embedded-javafx/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "0cc346ac057567726df8d567839015e488b30de3296550847e16cc20cb169fa4",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=3gwkBvFUiAw"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/java-8-and-embedded-javafx/",
+    "post_id": 979,
+    "rejected_urls": [],
+    "source_content_sha256": "3b05ac6c7a09453cefc39ec80b5c4213a20db539b8c87bc97c2e7ca52063edea",
+    "source_date_sha256": "d043a9a5762de5cd3eb7efaf0c5e4959ca8edd4f7c67e9f01135a9188dd681ea",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "aaf5060b9517ba4f550ee34a7f3ed7b05b6e5100a523d3e0aae05bf4f8f7ec34",
+      "_video_thumbnail": "b3918f3c8901cbb7a395abe67cc3f21244941298ec59d33d508fd47dd51c71aa",
+      "focus_video": "8eff60b33cdefe57537824a17ed8441ad0d0932f4d32939616fdf45c895ea76b"
+    },
+    "source_slug_sha256": "22dd12ed2acbd043014adba251eb32e16f7b907132387ac2119cc4c8b461748f",
+    "source_title_sha256": "a73c5c77f88f76a354a93003459629d72c03ebbb5a26d7cc8a93ccfe080a1d21",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "java-8-and-embedded-javafx",
+  "thumbnail": "/wp-content/uploads/2014/07/java-8-and-embedded-javafx.jpg",
+  "title": "Java 8 and Embedded JavaFX ",
+  "type": "post",
+  "video_id": "3gwkBvFUiAw",
+  "warnings": []
+}

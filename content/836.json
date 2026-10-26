@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-04-11 16:30:18",
+  "excerpt": "NightHacking session on Java and devices at the Palacio de la Magdalena in Santander, Spain.  Was a beautiful venue, and started with some cool examples and demos from Jos\u00e9 Pereda.",
+  "id": 836,
+  "original_urls": [
+    "http://nighthacking.tv/santander-nighthacking/",
+    "http://nighthacking.com/santander-nighthacking/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "2ea89181d30951fc366b69dec73a39adffab1f81979ec60f10e15acacffd40b9",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=7qCFE9Wq3X0"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/santander-nighthacking/",
+    "post_id": 836,
+    "rejected_urls": [],
+    "source_content_sha256": "02996526e89c28ca8fd8100e04b68f9e11d07110e52effbcee6871deabe877ad",
+    "source_date_sha256": "09076592f2a687e218dddedd8cb09a83d855a0529848e6fe364c33f07fcafb2e",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "cef5838d118dccd9de488f16a934cf10a82303577b62888b7ff6f84114827e58",
+      "_video_thumbnail": "735058374e24d150520ea58a10f309b5bd3c5816cecc6515598b0d2454bb35c0",
+      "focus_video": "ab505a1b2c90a21c6da90af87d0c932fa625b73332210ed67398da3dd2e12291"
+    },
+    "source_slug_sha256": "a10b0d9c9863ee48228741514017fddc930917dc5d07d4c494817cfc57ed9927",
+    "source_title_sha256": "4630cf749effa9c4ce70616f69f1d32c4d1913bc5070ae170a70b626c8262560",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "santander-nighthacking",
+  "thumbnail": "/wp-content/uploads/2014/04/santander-nighthacking.jpg",
+  "title": "Santander NightHacking ",
+  "type": "post",
+  "video_id": "7qCFE9Wq3X0",
+  "warnings": []
+}

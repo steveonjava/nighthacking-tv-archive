@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2013-11-13 09:19:37",
+  "excerpt": "",
+  "id": 270,
+  "original_urls": [
+    "http://nighthacking.tv/interview-with-luke-daley-on-geb-and-ratpack/",
+    "http://nighthacking.com/interview-with-luke-daley-on-geb-and-ratpack/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=zEJ8EDMIHIM"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/interview-with-luke-daley-on-geb-and-ratpack/",
+    "post_id": 270,
+    "rejected_urls": [],
+    "source_content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source_date_sha256": "41a97e4af3c025492e8f3557fbe0660c3b669250e01f393e1227089af30fac06",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "303c8bd55875dda240897db158acf70afe4226f300757f3518b86e6817c00022",
+      "_video_thumbnail": "287ed48a6562af128d765623b8a0839eec8149f3482993ccc6499ea33fde32bf",
+      "focus_video": "f8cf49532a34792638a518b5f7d9c7c76f87e9e5b190f535dc68a4233b773ef2"
+    },
+    "source_slug_sha256": "d5705e6e80a2a76d0a8b8b090cc7dd90cc2facbccb189d25e6be258de6223851",
+    "source_title_sha256": "8de0c2061265eefa6215d2b544f0617d7032ae903c1c77cc7ff6c29fac2980da",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "interview-with-luke-daley-on-geb-and-ratpack",
+  "thumbnail": "/wp-content/uploads/2013/11/interview-with-luke-daley-on-geb-and-ratpack.jpg",
+  "title": "Interview with Luke Daley on Geb and Ratpack",
+  "type": "post",
+  "video_id": "zEJ8EDMIHIM",
+  "warnings": []
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2015",
+      "slug": "jcrete-2015"
+    }
+  ],
+  "date": "2015-07-22 01:56:21",
+  "excerpt": "JITWatch live coding session with Chris Newland (@chriswhocodes).",
+  "id": 1520,
+  "original_urls": [
+    "http://nighthacking.tv/jitwatch-live-coding-at-jcrete/",
+    "http://nighthacking.com/jitwatch-live-coding-at-jcrete/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "1ccbd56ac11241eda974698383ceba7933c7d0a4b7651fadf0e2a4453bb42af7",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/Fn30SozvaqI"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jitwatch-live-coding-at-jcrete/",
+    "post_id": 1520,
+    "rejected_urls": [],
+    "source_content_sha256": "066fddc94bc7d18470c1b9c10ad865853e9502b306aef5fd7916e60c9ce37838",
+    "source_date_sha256": "b6dc8c5e52aca2ed7083038adcacfcdb4fde218cfd2f4a3a5d8fc8fa09a7396f",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "ff231d4dee9c91e9ead0253639c25479b934a352b052aa23ad05f6b79efa137b",
+      "_video_thumbnail": "93cd0c3e1c9ebf96e410a3ecba58487e6cec51d28d1c1f9fe5e3fa45c736784d",
+      "focus_video": "5b15ba80d5b68d689b00018b3723a2e1ddd330f5c30e2106d5c2a9396fd8a9f4"
+    },
+    "source_slug_sha256": "4ed9e0c6b14f23a5ab0f886c8b6332fb8fcce2f679a0a6e10170e22f11816e26",
+    "source_title_sha256": "55778ec6f4ca2bb930f267c30a208d8b324418dc80e3a12b878c607baab79d8d",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jitwatch-live-coding-at-jcrete",
+  "thumbnail": "/wp-content/uploads/2015/07/jitwatch-live-coding-at-jcrete.jpg",
+  "title": "JITWatch Live Coding at JCrete",
+  "type": "post",
+  "video_id": "Fn30SozvaqI",
+  "warnings": []
+}

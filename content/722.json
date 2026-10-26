@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-25 08:26:56",
+  "excerpt": "Presentation with David on JavaEE7 Connector Architecture enhancements you can do on your own!  Example of telnet app and future Java EE 8 meta-annotation concept.  Check out David's company at (http://tomitribe.com/).",
+  "id": 722,
+  "original_urls": [
+    "http://nighthacking.tv/javaland-hacking-on-tomee-with-david-blevins/",
+    "http://nighthacking.com/javaland-hacking-on-tomee-with-david-blevins/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "79b800518138ac1aa8b199ec356eb15d39da2439b480a3b7041848fafac2816f",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "tomitribe.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://tomitribe.com/"
+      },
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=8TlM2_cqGvY"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/javaland-hacking-on-tomee-with-david-blevins/",
+    "post_id": 722,
+    "rejected_urls": [],
+    "source_content_sha256": "190ae4b61e46e8e7b96ff8dcbec51f04aacb2bfb80ffaec97c439b5b76398823",
+    "source_date_sha256": "446a531fe4e4aa2b413a6878f17374442f83922e6e6397a26bcd3465601f504b",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "68c6c6e9ad314d1a5c4d647cfb6ed84265e47cbc2a05a54fb58ae74c0085ef29",
+      "_video_thumbnail": "b8a2d2a01a55dc03a15d20033164db1252393fd7aa76ebf7977285831483719c",
+      "focus_video": "bef4c1dca2c0df8e8e2539edf32a026ae829ad0ca6b72de7db14ea3a8ca6f184"
+    },
+    "source_slug_sha256": "3e42b66e8c0fb152fc38ba367d21c49cd339dee5d2b0ebd4e7f139c1cc7676b1",
+    "source_title_sha256": "0b0cd7c98e39f732dd8204a3e7215fd763c09210e22f05e1bb39347c3d416a98",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "javaland-hacking-on-tomee-with-david-blevins",
+  "thumbnail": "/wp-content/uploads/2014/03/javaland-hacking-on-tomee-with-d.jpg",
+  "title": "JavaLand Hacking on TomEE with David Blevins ",
+  "type": "post",
+  "video_id": "8TlM2_cqGvY",
+  "warnings": []
+}

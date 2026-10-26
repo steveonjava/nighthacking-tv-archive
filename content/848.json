@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-04-20 18:05:14",
+  "excerpt": "NightHacking session at SVQ JUG in Seville, Spain.",
+  "id": 848,
+  "original_urls": [
+    "http://nighthacking.tv/jug-seville-nighthacking/",
+    "http://nighthacking.com/jug-seville-nighthacking/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "2b294d7db610e65150a5dc20d911065814ae2a9f1b7de78a986465a498001421",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=q3OKs08X3oo"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jug-seville-nighthacking/",
+    "post_id": 848,
+    "rejected_urls": [],
+    "source_content_sha256": "048564dbe33b1c43b608cd96e2e496e3712fdc0efd2e81fc6813da52d389ed2b",
+    "source_date_sha256": "aa5f39bf23d33e8b53104050d941f3191bc8b6d82204607943752ca6bdf80435",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "7ffc2066e20c16e95c0b41167e334afe57ff4991b21c8d581611a3f516a786a9",
+      "_video_thumbnail": "44cc981f8c00969dec87163b3c9f18df6ce02c74aa4ec03e53ebdede7acbec87",
+      "focus_video": "8345b6171bc3b7ad70ff5411f3d309fbee7227561f077d576f031d317f552d9b"
+    },
+    "source_slug_sha256": "bd4624f86802fa4b43812ca39cec4f919ec99577248bf8656d541dcce972d2e2",
+    "source_title_sha256": "fa5f039347aabf234904dfc3756bb3bca1bbeb57698af7a3244021e7d6784df1",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jug-seville-nighthacking",
+  "thumbnail": "/wp-content/uploads/2014/04/jug-seville-nighthacking.jpg",
+  "title": "JUG Seville NightHacking",
+  "type": "post",
+  "video_id": "q3OKs08X3oo",
+  "warnings": []
+}

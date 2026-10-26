@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2014",
+      "slug": "oredev"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-11-09 01:15:26",
+  "excerpt": "Interview with James Mickens by the popular Swedish podcast group, Kodsnack.",
+  "id": 1180,
+  "original_urls": [
+    "http://nighthacking.tv/kodsnack-interviewing-james-mickens/",
+    "http://nighthacking.com/kodsnack-interviewing-james-mickens/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "903a132f33b4148055cdeec29c79be62e73ea1947a9888e3ccc22ba3e78baf17",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/cZN9d1qlQ7k"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/kodsnack-interviewing-james-mickens/",
+    "post_id": 1180,
+    "rejected_urls": [],
+    "source_content_sha256": "dd1a9150fc456804f1ebf792746737f7234bd80fb37da4b3901c4edee48fcae2",
+    "source_date_sha256": "3eb19ff6fe87803aead8a23f42fe4aba2b6a4451794b05a4828d00cd58d629c0",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "c7b96125d8bb1b5ac26f057909f1a29dcd87d00ced1a9b563f3220b6d6038d66",
+      "_video_thumbnail": "9ccb7b057d2c264ede991ef591af6c8b2c349a1b03286c3b05c99cba6fe814b7",
+      "focus_video": "70537e8f164e283908ba2f4648b6e09bca4b6098c1dc82ed7d7a39ddc364d402"
+    },
+    "source_slug_sha256": "b2a15c94f0459cc4d47a4904441769c42dd8c1159d565664f4dc7a5aa38c0b39",
+    "source_title_sha256": "124d725044db82d8e84466cdd5247c0d98ce8af1522fc174c4468b4bf3aada65",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "kodsnack-interviewing-james-mickens",
+  "thumbnail": "/wp-content/uploads/2014/11/kodsnack-interviewing-james-mick.jpg",
+  "title": "Kodsnack interviewing James Mickens",
+  "type": "post",
+  "video_id": "cZN9d1qlQ7k",
+  "warnings": []
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-31 14:46:02",
+  "excerpt": "NightHacking session at JUG Basel in Switzerland showing lambdas, devices, and more.",
+  "id": 808,
+  "original_urls": [
+    "http://nighthacking.tv/jug-basel-nighthacking/",
+    "http://nighthacking.com/jug-basel-nighthacking/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "53a09d552a2e88f17ff0dc774985542ca19ac230a033e2c188dcf667d1ae3b00",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/Rk-VbrHF3vs"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jug-basel-nighthacking/",
+    "post_id": 808,
+    "rejected_urls": [],
+    "source_content_sha256": "55a41a98da7756de397d4ce7a8b434ff81ebde89c42d30e6660b59eb33bfef0e",
+    "source_date_sha256": "828c9d0da6f7f6d59a7af31210622f6db54bf3adca253914912bef50dca6555a",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "5d85be4cc5af40a7cf2c4f0818d92689c185fdea6566745ef26305d80413f483",
+      "_video_thumbnail": "98001cc4d6f68e41b41655f5cdb4ab0bc3adddd475986a10fe824c524abf6a29",
+      "focus_video": "faa119fde0fa0dfdd8966a2f5115d1178964bf46eca60a1ec083e51b37acaa8e"
+    },
+    "source_slug_sha256": "986c50abfefd92139e899f6e989e3d62c95fc6a0f8fbf7990cf883fd43ad1895",
+    "source_title_sha256": "c1da7b844a2b0a067741b0800ccc56cdd36645b548c4427b06405d83bbc727ba",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jug-basel-nighthacking",
+  "thumbnail": "/wp-content/uploads/2014/03/jug-basel-nighthacking.jpg",
+  "title": "JUG Basel NightHacking ",
+  "type": "post",
+  "video_id": "Rk-VbrHF3vs",
+  "warnings": []
+}

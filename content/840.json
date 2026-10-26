@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-04-11 16:32:22",
+  "excerpt": "NightHacking session at the Makespace Madrid with the Madrid JUG.  Showed Java running on the Raspberry Pi, Lego Mindstorms, Dukepad, and Java APIs for the NAO robot.",
+  "id": 840,
+  "original_urls": [
+    "http://nighthacking.tv/madrid-jug-at-makespace-madrid/",
+    "http://nighthacking.com/madrid-jug-at-makespace-madrid/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "24abc1fff569eb851892f4edebcf867c239e7e75f9e502f012c5595be56e5c36",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=Sx9QJ17d6js"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/madrid-jug-at-makespace-madrid/",
+    "post_id": 840,
+    "rejected_urls": [],
+    "source_content_sha256": "3caef20f56d3fae3b14b50e2373573d8ff91ce594f359a1f82cc06c412bb434c",
+    "source_date_sha256": "2654c1c7f243125c743526af52e4b008c3d38b53e0f788d1b9c50b9c66dce7bf",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "ac93f3a0fee5afa2d9399d5d0f257dc92bbde89b1e48452e1bfac3c5c1dc99db",
+      "_video_thumbnail": "89ebf3e99289fbe9a5109f8074b5dffd000e1d715d62bc88687836cc5f24024b",
+      "focus_video": "073ea3bd76ba13ff54153b8d1d747d18443887b9fb60d549e335a89de1469f7f"
+    },
+    "source_slug_sha256": "eafafb83ffdef1b018021c2d586662baebdb4a666364958bbf6f4675f72dde5b",
+    "source_title_sha256": "503f5f4542795691c5274e8a6caffdb863fa31a750a6c0caa382eae1ebb70d0c",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "madrid-jug-at-makespace-madrid",
+  "thumbnail": "/wp-content/uploads/2014/04/madrid-jug-at-makespace-madrid.jpg",
+  "title": "Madrid JUG at Makespace Madrid",
+  "type": "post",
+  "video_id": "Sx9QJ17d6js",
+  "warnings": []
+}

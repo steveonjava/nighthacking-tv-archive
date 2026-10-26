@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "QConSF 2015",
+      "slug": "qconsf-2015"
+    }
+  ],
+  "date": "2015-11-17 15:27:08",
+  "excerpt": "Interview with Cliff Click on his new open source software for doing machine learning on large data sets using a compressed in-memory representation with pure Java APIs.",
+  "id": 1575,
+  "original_urls": [
+    "http://nighthacking.tv/cliff-click-on-big-data-and-machine-learning/",
+    "http://nighthacking.com/cliff-click-on-big-data-and-machine-learning/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "af344b577054a86c8849f66fab5d181076dfd780336eee0d05f70bfc80e271ca",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/K1qKWZ4EqMI"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/cliff-click-on-big-data-and-machine-learning/",
+    "post_id": 1575,
+    "rejected_urls": [],
+    "source_content_sha256": "3c1f6966a732a7f72dd5cb5107091da350b424c544151da6fb3d1aec73ea4206",
+    "source_date_sha256": "99842a4acbcd917876f92ad2cbe901e467c992800c8f1ae3777a0a68a099fa8e",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "1d16bb3354a11b509e641db094ca078be290298b0ec32c6b46b88fe919a1a8ed",
+      "_video_thumbnail": "b1572c684bc9233b7769fba4e7f6190b8a0ea82ff6829424f8e6dc7decb6907e",
+      "focus_video": "3179a2bff675c9da884748beba976d2d75e8e4ee4e04990f283d7a43eece14db"
+    },
+    "source_slug_sha256": "ad887fd62f92ccb6dc3155961035af5dbb9747c24f1e10d78d1bf5ebfcb95797",
+    "source_title_sha256": "523779e711bf7fb8f0b0b6be0116179a8a232d0ed962bf1efa59aecf0427830d",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "cliff-click-on-big-data-and-machine-learning",
+  "thumbnail": "/wp-content/uploads/2015/11/cliff-click-on-big-data-and-mach.jpg",
+  "title": "Cliff Click on Big Data and Machine Learning",
+  "type": "post",
+  "video_id": "K1qKWZ4EqMI",
+  "warnings": []
+}

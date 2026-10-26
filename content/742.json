@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-26 04:15:49",
+  "excerpt": "Interview at JavaLand with Heinz and Max Kabutz on the upcoming JCrete unconference.  This is an unusual event being an event on the island of crete with some of the leading experts in the world on Java, who scuba dive and clip jump between compilations!",
+  "id": 742,
+  "original_urls": [
+    "http://nighthacking.tv/heinz-and-max-on-jcrete/",
+    "http://nighthacking.com/heinz-and-max-on-jcrete/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "0299124d0a93a54ee647b874d1243a395e8cea44800858a109a53095c15c6c48",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/nEHbbXb2zDk"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/heinz-and-max-on-jcrete/",
+    "post_id": 742,
+    "rejected_urls": [],
+    "source_content_sha256": "5613ef65b3689618cddfb3b5a4c18cdf2fd4bfa5479974d86fe1d4d8f00c424b",
+    "source_date_sha256": "4d768e4420bbc7ff4c33ea4638ef3f16603e54a9d4df945d769aa7c492fd45e4",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "6f90a5a0d3234433d03c7a06fc4bd5c3ac1f21f33978292fee61323e22238a92",
+      "_video_thumbnail": "82febb7c8b66f8972d96e0c912d5334957359583c22cab51434d313a2d57113f",
+      "focus_video": "477b02f67c9b7b15fb19ecdacf2b5fd6de425e408f254d18e2613f2ea31b6125"
+    },
+    "source_slug_sha256": "b7bf90846ec2a3589b282d5b14369789b5ceadf405c7eb1c573650f03f29d0e2",
+    "source_title_sha256": "5b8b07255173f2c6e8eed87ae93952e4684457615bc8f650991437909ecdd567",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "heinz-and-max-on-jcrete",
+  "thumbnail": "/wp-content/uploads/2014/03/heinz-and-max-on-jcrete.jpg",
+  "title": "Heinz and Max on JCrete",
+  "type": "post",
+  "video_id": "nEHbbXb2zDk",
+  "warnings": []
+}

@@ -1,0 +1,61 @@
+{
+  "categories": [
+    {
+      "name": "JavaOne 2014",
+      "slug": "javaone2014"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-09-29 16:40:35",
+  "excerpt": "http://youtu.be/cALcIoWy48M\nBenjamin Cabe on Eclipse IoT Projects",
+  "id": 1091,
+  "original_urls": [
+    "http://nighthacking.tv/benjamin-cabe-on-eclipse-iot-projects/",
+    "http://nighthacking.com/benjamin-cabe-on-eclipse-iot-projects/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "1879b2be13baf70eff0dd9957cc7bf0314570485e33890f13947dcbf55a4198f",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video",
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/cALcIoWy48M"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/benjamin-cabe-on-eclipse-iot-projects/",
+    "post_id": 1091,
+    "rejected_urls": [],
+    "source_content_sha256": "57933b03d78862a8c800b13009425ae60673fc4bcb33155e77f62eaa941dd65f",
+    "source_date_sha256": "d26250f89671ed5d83c5774fb357c1303da7513dd3db54d4a8035166455e58fd",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "1ff7b91c979ea344298826c212adf745783ae8a14a3eded36d56ba1b0f4bdeee",
+      "_video_thumbnail": "5d42f74703ec1d9ff241b8018d04b5b3d203dbaa296b557e579a1838131504d5",
+      "focus_video": "d30382de7264724b15c8b1ff062beaf6ed66f41f60535ede175afc583b0103fa"
+    },
+    "source_slug_sha256": "c95072e8ca8dcb54a0eb57d00687465f60cfee699100186a9128b985dfb9fdca",
+    "source_title_sha256": "918d96d4585f38d9d16b47c83436e4401325756efb70caeeaa936251525161b0",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "benjamin-cabe-on-eclipse-iot-projects",
+  "thumbnail": "/wp-content/uploads/2014/09/benjamin-cabe-on-eclipse-iot-pro.jpg",
+  "title": "Benjamin Cabe on Eclipse IoT Projects",
+  "type": "post",
+  "video_id": "cALcIoWy48M",
+  "warnings": []
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "DevNexus 2015",
+      "slug": "devnexus-2015"
+    }
+  ],
+  "date": "2015-03-12 17:13:19",
+  "excerpt": "What is happening with these technologies for Java EE 8? Will backward compatibility be maintained? Ed Burns explains. Interview with Tori Wieldt at DevNexus.",
+  "id": 1331,
+  "original_urls": [
+    "http://nighthacking.tv/ed-burns-on-jsf-and-servlet/",
+    "http://nighthacking.com/ed-burns-on-jsf-and-servlet/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "d6868ae049741251d590da3950eae896e878607631fdf1c645c6ba8513e9cdbd",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=7hFu00u-TiQ"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/ed-burns-on-jsf-and-servlet/",
+    "post_id": 1331,
+    "rejected_urls": [],
+    "source_content_sha256": "d247120c8ea17d36a2ddb844a5b97f58f81d3a7b9e56d23e9f6a698a412b51ec",
+    "source_date_sha256": "5ad9b52d35f938d53389ac1a5712e9ff97588d241f6ae844129e4b64b82bacbc",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "6fdd9b073bc00a5da50bbb71825e6461116845cf1fbb3c84cd22aed47a75fdc2",
+      "_video_thumbnail": "46ddc75021c8ba692f7c962ceb30ced91a6cf43442a8e2e39618263d6d8a895d",
+      "focus_video": "bee4baa6550c5d2ae2106410bf08dfbf7a0ed780a851c33520b9acc83970e7cb"
+    },
+    "source_slug_sha256": "183821a0ab420f7d23267bbcb7ade324af5d99d75d25736067a21118cc2e091c",
+    "source_title_sha256": "6fcf1da3a85b0488ef31cee25105b4136b8b1c847ff8f3db1f43c2d3d5cd669a",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "ed-burns-on-jsf-and-servlet",
+  "thumbnail": "/wp-content/uploads/2015/03/ed-burns-on-jsf-and-servlet.jpg",
+  "title": "Ed Burns on JSF and Servlet",
+  "type": "post",
+  "video_id": "7hFu00u-TiQ",
+  "warnings": []
+}

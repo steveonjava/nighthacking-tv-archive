@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-02-06 00:24:05",
+  "excerpt": "Java 8 lambdas are the biggest language change since generics were introduced in Java 5.  Come learn expert tips and tricks on lambdas coding with a live hacking session featuring Venkat Subramaniam, author of Functional Programming in Java.",
+  "id": 395,
+  "original_urls": [
+    "http://nighthacking.tv/java-8-lambdas-hacking/",
+    "http://nighthacking.com/java-8-lambdas-hacking/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "6567b3883b85e39a761fff43ad1857b8a5994d7b471a832b62790d90b068c5d5",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=7vYr12vlwrA"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/java-8-lambdas-hacking/",
+    "post_id": 395,
+    "rejected_urls": [],
+    "source_content_sha256": "46309ab0de7c29c2794845f44278a37e3af3504f506b4d5d3d1d5a2ab73994a0",
+    "source_date_sha256": "3be58c0309697106e180ed09fd8cd035fa4bc07c8998130507c6e8056a0939bc",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "0f78540965a86402578f8188c826c1cb6c7ddcb608ae3a3201e532c7cacb6ce3",
+      "_video_thumbnail": "d678eb2c0b7387518f2017fa1eac290df3d89665c8742fd224513277a75bbe90",
+      "focus_video": "c8b1f4e7cd975ca36abf82c331168d5eb7e4a134e451b89d968ec3c1b75d60c6"
+    },
+    "source_slug_sha256": "cceb18b921ccf8553c3d438f5aebccd45a74cf1a7051a8f92ebb116e2049ac72",
+    "source_title_sha256": "0b55a8802e9bcd35010f0e56ee350e02833f30331266be0e1a9297c19c4c2782",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "java-8-lambdas-hacking",
+  "thumbnail": "/wp-content/uploads/2014/02/java-8-lambdas-hacking1.jpg",
+  "title": "Java 8 Lambdas Hacking",
+  "type": "post",
+  "video_id": "7vYr12vlwrA",
+  "warnings": [
+    "A UTF-8 nonbreaking space was normalized to a space."
+  ]
+}

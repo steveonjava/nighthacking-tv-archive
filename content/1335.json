@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "DevNexus 2015",
+      "slug": "devnexus-2015"
+    }
+  ],
+  "date": "2015-03-12 17:15:40",
+  "excerpt": "Freddy Guime discusses the common causes and ways to find memory leaks in Java applications. (GC does not get you off the hook!). OTN Interview with Tori Wieldt from DevNexus.",
+  "id": 1335,
+  "original_urls": [
+    "http://nighthacking.tv/freddy-guime-on-memory-leaks/",
+    "http://nighthacking.com/freddy-guime-on-memory-leaks/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "33bfabf000356903f51c9ae700c4390e39bc599ca2b1ed12e16ff344c631bf69",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=z2W7UU15d7o"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/freddy-guime-on-memory-leaks/",
+    "post_id": 1335,
+    "rejected_urls": [],
+    "source_content_sha256": "6e227e51591e8e4ee0bd1b75add4466e29dab54c5ba1e76aa850a1f49df95de8",
+    "source_date_sha256": "33e0d67ee7991c498c70cae5af405543598ffb8bc41681a02be0a101d4f6d298",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "5db1fee4b5703808c48078a76768b155b421b210c0761cd6a5d223f4d99f1eaa",
+      "_video_thumbnail": "50b0216331b720867702de219058e254d1f66e9b26cf888d2ffd8b550e2bfbd7",
+      "focus_video": "34e52b5ab33d3f6023e3a29d95c666c186fae5f4c15c5f37c888bcac01e48503"
+    },
+    "source_slug_sha256": "e21d26c4bde785163e59264de8f056585dcd7120cc052395cd9e731829d75f52",
+    "source_title_sha256": "8faec1dda2d1c332e1346d91b5bb441bbaa93098c68e2c3a38daefa3e7b41acb",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "freddy-guime-on-memory-leaks",
+  "thumbnail": "/wp-content/uploads/2015/03/freddy-guime-on-memory-leaks.jpg",
+  "title": "Freddy Guime on Memory Leaks",
+  "type": "post",
+  "video_id": "z2W7UU15d7o",
+  "warnings": []
+}

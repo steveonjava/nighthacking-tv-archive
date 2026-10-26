@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2014",
+      "slug": "oredev"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-11-07 05:41:32",
+  "excerpt": "Interview with Caitie McCaffrey at the \u00d8redev conference on her use of Project Orleans for video game platform development.",
+  "id": 1146,
+  "original_urls": [
+    "http://nighthacking.tv/caitie-mccaffrey-on-project-orleans/",
+    "http://nighthacking.com/caitie-mccaffrey-on-project-orleans/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "628461995c6fdcb07412f4b5d6b9283d844cda608ddc091317b236183db998c9",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/KED_JAHNb_o"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/caitie-mccaffrey-on-project-orleans/",
+    "post_id": 1146,
+    "rejected_urls": [],
+    "source_content_sha256": "48c9d869a1a8a0f9d3d7602e2226d5c72c7ab970ccc507736f50b4da5fb7757e",
+    "source_date_sha256": "67996d609a27f2d6569d1b47bde5ffe03550e22b4f64448c776115ea1da943cd",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "0eaa69a16d7c358a329a7111a809bd2f9a7ff489596bdda17538705e9e03e05d",
+      "_video_thumbnail": "7c49b7bd4d12dbb7e4699bf88c9c6911580edf8808f820a7f77c03819719bc2a",
+      "focus_video": "7b5fa5dd61822920fee0592598a851ee45cfef0972b26ab62014581dc6db7c7a"
+    },
+    "source_slug_sha256": "d9c6340ab92840aa9a044af2439cbaf16e78fa5e92ad2080ecc42d9fac8c6401",
+    "source_title_sha256": "db98e79bd8684e6306bcce831c58403f42402259a2049499ea822ad77b1c7f73",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "caitie-mccaffrey-on-project-orleans",
+  "thumbnail": "/wp-content/uploads/2014/11/caitie-mccaffrey-on-project-orle2.jpg",
+  "title": "Caitie McCaffrey on Project Orleans",
+  "type": "post",
+  "video_id": "KED_JAHNb_o",
+  "warnings": []
+}

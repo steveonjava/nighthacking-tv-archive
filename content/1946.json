@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2016",
+      "slug": "jcrete-2016"
+    }
+  ],
+  "date": "2016-08-05 02:05:34",
+  "excerpt": "The final evening at JCrete we had Core the Band playing with a special harmonica solo from Hermine Deurloo (@herminedeurloo).  If you are observant you might notice some of the drummer, Max Kabutz's (@maxikabutz), fan club in the background.",
+  "id": 1946,
+  "original_urls": [
+    "http://nighthacking.tv/jcrete-rock-band-core-the-band/",
+    "http://nighthacking.com/jcrete-rock-band-core-the-band/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "dc88af6d990477bc35b40612b3aa699a24af263fae43eeaece057ed88a485a24",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/q2_rm1bBu_Y"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jcrete-rock-band-core-the-band/",
+    "post_id": 1946,
+    "rejected_urls": [],
+    "source_content_sha256": "7c061be0bca1941c7a9eba9c409592857def943519804ce073bfc9f10a19e39d",
+    "source_date_sha256": "308456ecbf4f2cda69f8b9f43e6d5571c340267958fd5a344c739f36a860c0d9",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "03b0bd366e8184f8d871c3a7c7cc26c73c25b54ff54c64b28b10b898242cdc8a",
+      "_video_thumbnail": "53242b4dd81b8d9bc6ef7881f8afe23765835b3998c1daee1c3cce390f77bb05",
+      "focus_video": "24413d0bc3730e01cdcff26787e2c0569af360031b5b1e81c45e4fc822543ee8"
+    },
+    "source_slug_sha256": "4a2376e8ce627b7f1338f7abad3b54f1d1644be1ce501cb9ba49c8f6622461b0",
+    "source_title_sha256": "114d917cc88d51cff92e56c45bc0af6f573780b0639d370aecb708e4067c9bad",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jcrete-rock-band-core-the-band",
+  "thumbnail": "/wp-content/uploads/2016/08/jcrete-rock-band-core-the-band.jpg",
+  "title": "JCrete Rock Band (Core the Band)",
+  "type": "post",
+  "video_id": "q2_rm1bBu_Y",
+  "warnings": [
+    "A UTF-8 nonbreaking space was normalized to a space."
+  ]
+}

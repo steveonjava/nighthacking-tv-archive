@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "name": "JavaOne LAD 2015",
+      "slug": "javaone-lad-2015"
+    }
+  ],
+  "date": "2015-07-03 16:16:09",
+  "excerpt": "Interview with Pedro Carrijo, a 13 year old self taught Java developer from Brazil.  Meet the future generation of Java developers.",
+  "id": 1492,
+  "original_urls": [
+    "http://nighthacking.tv/pedro-carrijo-and-bruno-souza/",
+    "http://nighthacking.com/pedro-carrijo-and-bruno-souza/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "f8e3f8717cb3fa1b824072d8b4d80c920ca852a48bcf3759d9c990dd48eac8fe",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=JQOLg-KsEbY"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/pedro-carrijo-and-bruno-souza/",
+    "post_id": 1492,
+    "rejected_urls": [],
+    "source_content_sha256": "71fe4a856c184f30c8cba280e13740ea3a4cee69e3adb0be5b6e780797672323",
+    "source_date_sha256": "e3bac69239af423b4710ea5e9d8cc6f6d0a2c8d8b1a598a6413817f1f4530885",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "ad5ef4b29e148afd784de5373b210eb00879dfbf08922c96dc6ce4fc1e064fd9",
+      "_video_thumbnail": "97627629e66fbbfe6a8b03c230492e99773ecaa6ddfe878dc1448917758b4e10",
+      "focus_video": "d8ef30a6621a0c9485c16d7d038852fe843bed9219813f67d928a028f8a05d33"
+    },
+    "source_slug_sha256": "4b3432631ee5cb2ee40347ced60f9f232d1d5f1fba04e84750c8e48224cc24de",
+    "source_title_sha256": "9470e27f1070e49f3430342660691fdddf983a19c694011faed000365de651e3",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "pedro-carrijo-and-bruno-souza",
+  "thumbnail": "/wp-content/uploads/2015/07/pedro-carrijo-and-bruno-souza1.jpg",
+  "title": "Pedro Carrijo and Bruno Souza",
+  "type": "post",
+  "video_id": "JQOLg-KsEbY",
+  "warnings": [
+    "A UTF-8 nonbreaking space was normalized to a space."
+  ]
+}

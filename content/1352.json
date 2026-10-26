@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2015",
+      "slug": "javaland-2015"
+    }
+  ],
+  "date": "2015-03-24 09:18:20",
+  "excerpt": "Interview at the JavaLand conference with Michael Hoffer on 3D Printing in Java.",
+  "id": 1352,
+  "original_urls": [
+    "http://nighthacking.tv/michael-hoffer-on-3d-printing-in-java/",
+    "http://nighthacking.com/michael-hoffer-on-3d-printing-in-java/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "47c505bf3876af9c80e12ed479e21bf2f9048e3b3345c96835ce81d3d51976ac",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/EPZUvbK4NgA"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/michael-hoffer-on-3d-printing-in-java/",
+    "post_id": 1352,
+    "rejected_urls": [],
+    "source_content_sha256": "4e274a360e9b18534568185e096eac68f51accac67b5f036e61c2a98eb18e551",
+    "source_date_sha256": "4f99921f8915ffa4b40cdfb29569b5a9df01b5e2e14b8cf0ae0a7e00f051f558",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "d5b148567313dccf2ecad36152900c51a967603c18fda39cc3c3771b76df0325",
+      "_video_thumbnail": "724a35687ac3317771fb2d05c9cc7a4bdc89da58d15b73ed3f4efd857302e999",
+      "focus_video": "586f068dc01ccd70352c63608801e1266c9ba06e71a83ea24d9b8f7ff12849d9"
+    },
+    "source_slug_sha256": "a45da29c0d2b4c51fcdba361291c37e154d209fd3828f7c77e95deafbda485c9",
+    "source_title_sha256": "2e77191d919780642d65549ee3f354b3d57014cf019b9952ba918f3babc498d2",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "michael-hoffer-on-3d-printing-in-java",
+  "thumbnail": "/wp-content/uploads/2015/03/michael-hoffer-on-3d-printing-in.jpg",
+  "title": "Michael Hoffer on 3D Printing in Java",
+  "type": "post",
+  "video_id": "EPZUvbK4NgA",
+  "warnings": []
+}

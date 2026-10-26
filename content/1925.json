@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "QCon NYC 2016",
+      "slug": "qcon-nyc-2016"
+    }
+  ],
+  "date": "2016-06-15 15:25:08",
+  "excerpt": "Interview with Daniel Bryant (@danielbryantuk) at QCon NYC on his presentation, 7 (More) Deadly Sins of Microservices covering some of the best practices he has for adopting microservice architectures at large corporations.",
+  "id": 1925,
+  "original_urls": [
+    "http://nighthacking.tv/daniel-bryant-on-deadly-sins-of-microservices/",
+    "http://nighthacking.com/daniel-bryant-on-deadly-sins-of-microservices/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "6a834fb678f6b9cd6b9efbb001adf7cf2da0c5f88514a0440252c333c459b3cc",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/F_oziOdwYDE"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/daniel-bryant-on-deadly-sins-of-microservices/",
+    "post_id": 1925,
+    "rejected_urls": [],
+    "source_content_sha256": "613ec08afc3f1b48a015d3ab5b3eb3384d1048c6b1fe79f9fda4287f0da47af6",
+    "source_date_sha256": "021c8df34752c90481e90a37860a0ad5d49dc9744e01229ee59541eeb5d10971",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "3d5d2c29712a98874d8142d229c4bce09158a144ad376c2b68411f240878a9c1",
+      "_video_thumbnail": "821e2d6d6155fd605ddf8584431f9f2fca2053c1deacdcd0c3b8b83486d35383",
+      "focus_video": "2cb09951f9173a00abc28ebda320f77db9688b104c202ced025dbdff727f7843"
+    },
+    "source_slug_sha256": "d65184f098f0cb96d84082fa4fb460ac45711c7540f50baceafa78a5e47b755f",
+    "source_title_sha256": "e750e2dd6e12be6b35c8c46bdb03d2c9d9883390cf805ca77fbc98d059b79461",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "daniel-bryant-on-deadly-sins-of-microservices",
+  "thumbnail": "/wp-content/uploads/2016/06/daniel-bryant-on-deadly-sins-of.jpg",
+  "title": "Daniel Bryant on Deadly Sins of Microservices",
+  "type": "post",
+  "video_id": "F_oziOdwYDE",
+  "warnings": []
+}

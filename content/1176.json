@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2014",
+      "slug": "oredev"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-11-08 06:11:17",
+  "excerpt": "Interview with Chris Chedgey on improving code organization and reducing complexity.",
+  "id": 1176,
+  "original_urls": [
+    "http://nighthacking.tv/chris-chedgey-on-code-organization/",
+    "http://nighthacking.com/chris-chedgey-on-code-organization/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "4c14d3a52cd46395aa9bd1bc21216cf457770c77a2e054dde557820cc1e07e58",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=gBG4xwQp5J0"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/chris-chedgey-on-code-organization/",
+    "post_id": 1176,
+    "rejected_urls": [],
+    "source_content_sha256": "1ba0a7613b27d5c935915fc9db8c89b0845357866a05bd8ff8a9eb9c5a8c6404",
+    "source_date_sha256": "8e1f65c5af79b5a83fcfa5e2ef6b211b54775f49ed3b3e377307f3a61ed30634",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "59a6d3288187dfcd54bb45d3ab2d4f073617978a981f2e5e07f6d4cfee470114",
+      "_video_thumbnail": "9c8aec5245d129005b33fcc51f30e5d6fc1fcde1343d0862e26f0a61bd6ddeb4",
+      "focus_video": "6e3c61f7d9498e17ff08c2e2d8bd5cd69d6a30385950b91289869e4a261d0b9f"
+    },
+    "source_slug_sha256": "87d888f5ac2a49a5d552ae06626b7d193aa47db5a5940fb05a26cb83c363a7b4",
+    "source_title_sha256": "0d3358b95c1e3a89dba18456502a5fc9ea9d0cc1e67a89d641f02aaa9c3381ca",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "chris-chedgey-on-code-organization",
+  "thumbnail": "/wp-content/uploads/2014/11/chris-chedgey-on-code-organizati.jpg",
+  "title": "Chris Chedgey on Code Organization",
+  "type": "post",
+  "video_id": "gBG4xwQp5J0",
+  "warnings": []
+}

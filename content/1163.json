@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2014",
+      "slug": "oredev"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-11-08 06:00:17",
+  "excerpt": "Interview at the \u00d8redev conference with Glenn Block on Splunk and Hunk.",
+  "id": 1163,
+  "original_urls": [
+    "http://nighthacking.tv/glenn-block-on-splunk/",
+    "http://nighthacking.com/glenn-block-on-splunk/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "39e117addbb7f379be6033122cc1bfad6e12fea2645aceae7d55f4aa238bc1c2",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=v9DpMFC7zVQ"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/glenn-block-on-splunk/",
+    "post_id": 1163,
+    "rejected_urls": [],
+    "source_content_sha256": "3c2270f31965c378ca329825773bda6b230853318a80e37817bc033733447fc4",
+    "source_date_sha256": "f45453ab8e4b2c07b0dec81fd433605fc2cffc270f6054ec335575d3044af27e",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "28dbec0e0501d3cc564103ed9c269ef959e7c697218c4aecc9eec6cbfbf27e97",
+      "_video_thumbnail": "0f603f641837b8730d306314df569dc4e701ac6fe10327a24dc8a0700d07ea10",
+      "focus_video": "0ebf4b24a6cbe7d3502693a6ba6bef336265508c09500ca6a73e7f99fcf5790a"
+    },
+    "source_slug_sha256": "7a91ed4a154745340aa328195c4f2e0819c26253f4f73eba7cc0f39bd4097fd8",
+    "source_title_sha256": "5a0ef7de9a97ba08613f635378c667d2a42ee7e66f9448be55bf0d1c9f804b70",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "glenn-block-on-splunk",
+  "thumbnail": "/wp-content/uploads/2014/11/glenn-block-on-splunk.jpg",
+  "title": "Glenn Block on Splunk",
+  "type": "post",
+  "video_id": "v9DpMFC7zVQ",
+  "warnings": []
+}

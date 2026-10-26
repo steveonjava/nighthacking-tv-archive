@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    }
+  ],
+  "date": "2016-03-15 15:28:48",
+  "excerpt": "David Blevins presenting to JUG Darmstadt on CDI Scopes, EJB & CDI under the covers, and Java EE 8.",
+  "id": 1769,
+  "original_urls": [
+    "http://nighthacking.tv/david-blevins-presenting-to-jug-darmstadt/",
+    "http://nighthacking.com/david-blevins-presenting-to-jug-darmstadt/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "d1e2c80007e803ea10a91b3fae791fb07ae431ad6376a1c9bc6bbd22c02f8a59",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/5wX8RmBHMVY"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/david-blevins-presenting-to-jug-darmstadt/",
+    "post_id": 1769,
+    "rejected_urls": [],
+    "source_content_sha256": "1a89add9e08c86b5e424f1fe5f7aeaa1bc9cddd90ca5d778afe7dab14e758dc8",
+    "source_date_sha256": "49e4dfa4c3524db9c67a1b93e6f42750fadcbcf9c8778ee86c4d6b4cfa9a1fdf",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "678fdf60f09b909c910d95cc43d81a4660221760f463ffa63e2e51be41bc78b8",
+      "_video_thumbnail": "543283cce8ced39e6abe4432956e1974ffabed74b28cc0068f88e44b06ac1877",
+      "focus_video": "b34766900d195c574ec00d85c06b397ca527be96df8330fec8e64a13417559b9"
+    },
+    "source_slug_sha256": "e064fd9f9e354b493c2c12916694575e8f3b6159f877c2df6bd3a9d752725fcd",
+    "source_title_sha256": "24beca94ec23a8643bad3ba87c4c0e12f034b7b64656c601d31af41890fd4f29",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "david-blevins-presenting-to-jug-darmstadt",
+  "thumbnail": "/wp-content/uploads/2016/03/david-blevins-presenting-to-jug.jpg",
+  "title": "David Blevins Presenting to JUG Darmstadt",
+  "type": "post",
+  "video_id": "5wX8RmBHMVY",
+  "warnings": []
+}

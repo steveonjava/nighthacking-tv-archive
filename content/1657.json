@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "DevNexus 2016",
+      "slug": "devnexus2016"
+    }
+  ],
+  "date": "2016-02-17 10:36:12",
+  "excerpt": "Interview with Sven Peters on Sven Peters on Development Automation and Coding Culture at the DevNexus conference in Atlanta, Georgia.",
+  "id": 1657,
+  "original_urls": [
+    "http://nighthacking.tv/sven-peters-on-development-automation-and-coding-culture/",
+    "http://nighthacking.com/sven-peters-on-development-automation-and-coding-culture/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "71f676c4dd2ae47adece140df2235025b7c40faba4a72c6624987de03c400bc5",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/rbt9UpQNEkY"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/sven-peters-on-development-automation-and-coding-culture/",
+    "post_id": 1657,
+    "rejected_urls": [],
+    "source_content_sha256": "664237d8ed3cc40615996354e93aabd3ddf56fb4976423f74343d7d61a86ff71",
+    "source_date_sha256": "e3ac1b2472056660908c4f1a740cbfe2546947d8e064930a788c5a09485484b7",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "aed8be046f04a89cfa707bb5c1c52e6f374393507edfb090fbd409810b325bee",
+      "_video_thumbnail": "20bb1844b41269bc510cfbc7017246ace630a76f1ef43b286bacc924af31d758",
+      "focus_video": "5b3da54ca1ac3cdd334cb422190d5d36242f3561cba55bd2c6f57409f78ac3bf"
+    },
+    "source_slug_sha256": "185a5763229ac4d032d177f6f2462b75e5a34205eb48515d9ae1e88e68d3c161",
+    "source_title_sha256": "cddd42f01f436d13c5ab0026b3fb7071c6be79f038ff776cdcf6589ff5815ede",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "sven-peters-on-development-automation-and-coding-culture",
+  "thumbnail": "/wp-content/uploads/2016/02/sven-peters-on-development-autom.jpg",
+  "title": "Sven Peters on Development Automation and Coding Culture",
+  "type": "post",
+  "video_id": "rbt9UpQNEkY",
+  "warnings": []
+}

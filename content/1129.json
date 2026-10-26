@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaOne",
+      "slug": "javaone"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-11-05 22:56:40",
+  "excerpt": "Interview with Niklas Therning on his work with RoboVM for running Java on iOS.",
+  "id": 1129,
+  "original_urls": [
+    "http://nighthacking.tv/niklas-therning-on-robovm/",
+    "http://nighthacking.com/niklas-therning-on-robovm/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "7220e596f16509e2a9f4154c1b48a374b1156914acff84c0f1708e571f9b5dac",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=rQ6b0uJFuro"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/niklas-therning-on-robovm/",
+    "post_id": 1129,
+    "rejected_urls": [],
+    "source_content_sha256": "b10360327475f1fa455e790b6f989eb469441785ca7edf6e4586c48e0465a241",
+    "source_date_sha256": "2bf519c116128508c5dddc01ab9621850cfe3a82fce3a9f39e8a86a61f29a4a0",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "af6b495dd2d7c1174d63ec26b36a86cf4bebe478260becafd815b81cdce71b0f",
+      "_video_thumbnail": "ea6aad472673898cd8386c0dd8ae2f411fc408e0066ca8632fd36d6bf801d3f8",
+      "focus_video": "91b43810e5323a526fbfd7a767426b6ae43015aec8fad506b7cf6c7c1ab0dcde"
+    },
+    "source_slug_sha256": "1884efa2b5dcc7bc4feb9547ebebaf71e95d7365737a985634337b1b3e891f98",
+    "source_title_sha256": "8ffd234154c2cda795c66880a18b02c831c4a953233f44cc11795b56a6d42c05",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "niklas-therning-on-robovm",
+  "thumbnail": "/wp-content/uploads/2014/11/niklas-therning-on-robovm.jpg",
+  "title": "Niklas Therning on RoboVM",
+  "type": "post",
+  "video_id": "rQ6b0uJFuro",
+  "warnings": []
+}

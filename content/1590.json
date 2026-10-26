@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2016",
+      "slug": "jfokus-2016"
+    }
+  ],
+  "date": "2016-02-08 05:08:30",
+  "excerpt": "Presentation from Charlie Grace during the VM Tech Summit at Jfokus on polyglot runtimes with the IBM Java compiler/vm.",
+  "id": 1590,
+  "original_urls": [
+    "http://nighthacking.tv/charlie-gracie-on-polyglot-runtimes/",
+    "http://nighthacking.com/charlie-gracie-on-polyglot-runtimes/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "862e7cb2e43c363d57d4eac5af3bd83a6fab828c25756f23b62e7980bf48ea80",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/C7TIFYL8wzQ"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/charlie-gracie-on-polyglot-runtimes/",
+    "post_id": 1590,
+    "rejected_urls": [],
+    "source_content_sha256": "79230cd6999d8a2a29d797e9e7d35e30381b58e9d13da8713c0c9cd85131566b",
+    "source_date_sha256": "66db5c5790fc185b27f0c1d1f215ee1bf0e22b6dd8d57f783f2416893b363760",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "8cca04ee02b8915f60a6b72c1faf19923aa12aafb5af89bc4bfd403dc60a836b",
+      "_video_thumbnail": "00cb46b8506f2d1a24e93ff188cb7cc4e28314f2d0cd166ffedbfe87c2349282",
+      "focus_video": "09910ff9d8e4d319533796ba9dbe928df7387b2b1304fb3377db7aff1276f280"
+    },
+    "source_slug_sha256": "8b738fcd918d910efd7dd8e42a9662fd238caef883fa2887c480b3b50739e9a7",
+    "source_title_sha256": "80eb18ceac7d5f1a81a4f4e6e51a05f5c7673a7ce31cb788098079e0b737cb35",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "charlie-gracie-on-polyglot-runtimes",
+  "thumbnail": "/wp-content/uploads/2016/02/charlie-gracie-on-polyglot-runti.jpg",
+  "title": "Charlie Gracie on Polyglot Runtimes",
+  "type": "post",
+  "video_id": "C7TIFYL8wzQ",
+  "warnings": []
+}

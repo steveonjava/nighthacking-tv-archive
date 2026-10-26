@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2016",
+      "slug": "jcrete-2016"
+    }
+  ],
+  "date": "2016-08-05 04:39:59",
+  "excerpt": "JCrete 2016, Day 2\nWhat to expect from Java 9?\nIvan Krylov",
+  "id": 1951,
+  "original_urls": [
+    "http://nighthacking.tv/what-to-expect-from-java-9/",
+    "http://nighthacking.com/what-to-expect-from-java-9/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "34894b8c864aa7054df414c987d037483919a67d3a50c3c74addac03644ca7cf",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=oq7nTwtN3js"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/what-to-expect-from-java-9/",
+    "post_id": 1951,
+    "rejected_urls": [],
+    "source_content_sha256": "dbcab13258db3d0cf95db88a5067255f917d7bebf2af809653e4ba1c4d88df26",
+    "source_date_sha256": "85753b2f7d2c6ddc72c7fe4e39036eb314cf8d9afffd84d6c7f1f7d6a4007b85",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "592fbed6f4ef4a643b0c5dec00a9a32f69a4027aedb972265cd9237b7b31d564",
+      "_video_thumbnail": "f8be78ff430b1507cb31c378d50c9c36e8debbb8170c1eaac978dd52d715d843",
+      "focus_video": "3ca1af499dddb964182ce8f57aecffc50200d7399b151bdb7011a062d4ed9da8"
+    },
+    "source_slug_sha256": "8737c47cc8a92fc3678ae9dfb976c1fde25c9e761d1ad9bddce3d3699e9141db",
+    "source_title_sha256": "d63aea77d7dac5bd9bf5d357340a29a0b8d371caeaf61ef5e59eb76f6b58c76f",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "what-to-expect-from-java-9",
+  "thumbnail": "/wp-content/uploads/2016/08/what-to-expect-from-java-9.jpg",
+  "title": "What to Expect from Java 9?",
+  "type": "post",
+  "video_id": "oq7nTwtN3js",
+  "warnings": []
+}

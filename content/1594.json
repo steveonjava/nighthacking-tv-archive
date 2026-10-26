@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2016",
+      "slug": "jfokus-2016"
+    }
+  ],
+  "date": "2016-02-08 06:06:44",
+  "excerpt": "A presentation from Aleksey Shipil\u00ebv on his journey working through the compact string implementation in the JVM.",
+  "id": 1594,
+  "original_urls": [
+    "http://nighthacking.tv/aleksey-shipilev-on-compact-strings/",
+    "http://nighthacking.com/aleksey-shipilev-on-compact-strings/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "51a88a208abe6ebf21c428bcf47488f94b273d5492c807ff3a2eef7e58ba6ff4",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/wIyeOaitmWM"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/aleksey-shipilev-on-compact-strings/",
+    "post_id": 1594,
+    "rejected_urls": [],
+    "source_content_sha256": "39d3b00e9b3b9aca2df17f060139f285b7e9c4a79f2303423b071b77f83f8133",
+    "source_date_sha256": "30f3a6e2a01e501d0d7f1972ab469ea33ff23f9c87c74000a34ee04e97cb37ad",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "a19fbf8bf0530ca46179b803a8234f56276f21c0e7dc2f84c682924b95de5801",
+      "_video_thumbnail": "570fbc85ba96de1986872e1e69ccb79e281e31a4c01cf4898c57d415ba7fd563",
+      "focus_video": "8a35159c31f573afd028c8a4bb0f640b6461e6102d03746a55052a799b488ec1"
+    },
+    "source_slug_sha256": "8cf7bc769648c31b4315b6e501b099c91fd2eb45548ed9ee2d0d6c0a0ad1e1ef",
+    "source_title_sha256": "a7bb665aa67f8fa8be6b719b7bfdbcb05b5e89922fbc0fef186fd7bf15e59ec5",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "aleksey-shipilev-on-compact-strings",
+  "thumbnail": "/wp-content/uploads/2016/02/aleksey-shipilev-on-compact-stri.jpg",
+  "title": "Aleksey Shipil\u00ebv on Compact Strings",
+  "type": "post",
+  "video_id": "wIyeOaitmWM",
+  "warnings": []
+}

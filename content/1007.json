@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2014",
+      "slug": "jcrete2014"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-08-27 00:57:40",
+  "excerpt": "NightHacking interview with Ignasi Marimon-Clos at the JCrete conference on AsciiDoctor, Scala, and other geek topics.",
+  "id": 1007,
+  "original_urls": [
+    "http://nighthacking.tv/jcrete-interview-with-ignasi-marimon-clos/",
+    "http://nighthacking.com/jcrete-interview-with-ignasi-marimon-clos/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "5fb47e2d07d853fe1ef2a9b6cae219bb58e3b7bc03a70cdd7381c941cba66cbc",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/P8OsV-ZSvJo"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jcrete-interview-with-ignasi-marimon-clos/",
+    "post_id": 1007,
+    "rejected_urls": [],
+    "source_content_sha256": "1be91fdb9cb2d59832c93ab469cad22ccdd7a58c4fec416da78556f3b77adbaf",
+    "source_date_sha256": "5b3165296a20e7f1f086352272fc02eacc1efe9fb07a7113c83f48bae5e1c43d",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "6ad4a6b1e5ea5569795e516d71909e0ce4809d9dc983d2c219144f684f816e12",
+      "_video_thumbnail": "b5863f7f65d0c29dc649d9aff2cba5cb7cd7b8456fe7d6dc64357a7091052328",
+      "focus_video": "41054f4a0e936c433ab09f97ab4542cedf7ecb1dcd45ee5e6b91db3a87a7caa3"
+    },
+    "source_slug_sha256": "225069fc6aebea78268caa5a60a06657c1edca16f267beaaad653caffaed4c69",
+    "source_title_sha256": "7630422b4628381acaaf5a43077423fafc274eb786e34819a71f66f8037ee883",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jcrete-interview-with-ignasi-marimon-clos",
+  "thumbnail": "/wp-content/uploads/2014/08/jcrete-interview-with-ignasi-mar.jpg",
+  "title": "JCrete interview with Ignasi Marimon-Clos",
+  "type": "post",
+  "video_id": "P8OsV-ZSvJo",
+  "warnings": []
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2016",
+      "slug": "jfokus-2016"
+    }
+  ],
+  "date": "2016-02-10 08:23:31",
+  "excerpt": "NightHacking interview at the Jfokus conference with Lars Albertsson on Data pipelines.",
+  "id": 1641,
+  "original_urls": [
+    "http://nighthacking.tv/lars-albertsson-data-pipelines/",
+    "http://nighthacking.com/lars-albertsson-data-pipelines/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "c4c8a7051181fbd04c3e7abc2ed1a1c3c2ddc5cad73eb132ed0406701a95bae7",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/888ApSPzuxo"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/lars-albertsson-data-pipelines/",
+    "post_id": 1641,
+    "rejected_urls": [],
+    "source_content_sha256": "b6fd11353b42aff96c4c54bade5c0c5fb259669d86ff68a6fe50408dd387781d",
+    "source_date_sha256": "e780d1c2dc5c19441340b53a57ffcf41920f8af897bf3d0c1561e236b1bc881c",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "1b9fc6751bc015632376866fc870c6fbe6ceaee88b4a7107e4018567a7c0a77f",
+      "_video_thumbnail": "a702b4b2eb2a6d0f2a7f22401c8db681c39b7a786d299dc5d4f85bd71892bccc",
+      "focus_video": "4a89478fb7f3cf408cc6978002b13a34d55ab80825279234b6116f27811fa7c0"
+    },
+    "source_slug_sha256": "b33f4e1cc8e555824463ef0184b0326955496ce3dba9f1421f7f237fca36498b",
+    "source_title_sha256": "82dcba3e7549bf78ffc0a7ac9a76969883ba30c1eb46be0f584e88dab7f29645",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "lars-albertsson-data-pipelines",
+  "thumbnail": "/wp-content/uploads/2016/02/lars-albertsson-data-pipelines.jpg",
+  "title": "Lars Albertsson - Data pipelines",
+  "type": "post",
+  "video_id": "888ApSPzuxo",
+  "warnings": []
+}

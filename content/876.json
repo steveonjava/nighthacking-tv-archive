@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-04-26 04:11:07",
+  "excerpt": "NightHacking presentation at the Chennai Summit by Balaji Srinivasaraghavan on Hadoop and Big Data.",
+  "id": 876,
+  "original_urls": [
+    "http://nighthacking.tv/hadoop-java/",
+    "http://nighthacking.com/hadoop-java/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "a019b4fd3edc4aa233858cf05b7002034bb772fd02be584c34c9d7d52f1ba9e0",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=2iv6DrqO_dk"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/hadoop-java/",
+    "post_id": 876,
+    "rejected_urls": [],
+    "source_content_sha256": "0bc65ce5e7b540552672c4c82d409ea7098e28af85c8c8d464d7bcc665933755",
+    "source_date_sha256": "5601833215638fe42d6b65d26da4098aa4a2efee7f7f2911ae12b447db966ae0",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "f1916530dae6514fd8ba7c17eadab5ba6739cbd9190b7f967adbe8744748c539",
+      "_video_thumbnail": "b0eb7ab165634c3d088a54cedd70c655a9141526e590248b95c7c63ce4a26133",
+      "focus_video": "70a6758c68c5cea1ee7323d09f03f70516e913204801bafa09f60f891c7d15aa"
+    },
+    "source_slug_sha256": "ccda56df66026817d0ba68aa612176c59fb5fb5cd65f0b9d211210c0714bbc5a",
+    "source_title_sha256": "35b67abf3a6ad740dcebe8f2f64e217a2f7a3dc1555b5b088e10ed4a8f21be6b",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "hadoop-java",
+  "thumbnail": "/wp-content/uploads/2014/04/hadoop-java.jpg",
+  "title": "Hadoop & Java",
+  "type": "post",
+  "video_id": "2iv6DrqO_dk",
+  "warnings": []
+}

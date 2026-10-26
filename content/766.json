@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-26 07:22:54",
+  "excerpt": "ParrotsOnJava Live Demonstration of the AR.Drone 2.0 controlled by the Leap Motion, new Kinect, and other motion controllers at the JavaLand Conference.",
+  "id": 766,
+  "original_urls": [
+    "http://nighthacking.tv/parrotsonjava-live-demonstration-at-javaland/",
+    "http://nighthacking.com/parrotsonjava-live-demonstration-at-javaland/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "0f1b188d9c68e81cbb7bf1b58bf9860f016f26f9f60946667d0aed56039e39d8",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/M7F2Rro4ma0"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/parrotsonjava-live-demonstration-at-javaland/",
+    "post_id": 766,
+    "rejected_urls": [],
+    "source_content_sha256": "336591319825bcc4c194efa40555841196e637c0155443cd0ce6c18341f63cef",
+    "source_date_sha256": "f7e5a248300b7b481ec5bec9f27c330939ca3da0b113b6186b829e200bd24887",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "f7b856c054de7ccced087ad4f9413380ec494e40abc818b840aaad990ca3c5bc",
+      "_video_thumbnail": "69fe2ee98bab3512d2a87d915be04d2a848c458dbaa11120814844f9679f052e",
+      "focus_video": "d05e494dc221bb7f554616f9315091711e40c62b6537c939b8ae3edb46fc2bf8"
+    },
+    "source_slug_sha256": "8f1e58168ca4aea8feac1814fa31f37a928409a654d721567d57e1acf3c5e8fe",
+    "source_title_sha256": "930a31ace6fa88a6a6846b318864b0e35a851d276d7a098a7bffc06dcbe570af",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "parrotsonjava-live-demonstration-at-javaland",
+  "thumbnail": "/wp-content/uploads/2014/03/parrotsonjava-live-demonstration.jpg",
+  "title": "ParrotsOnJava Live Demonstration at JavaLand",
+  "type": "post",
+  "video_id": "M7F2Rro4ma0",
+  "warnings": []
+}

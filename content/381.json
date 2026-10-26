@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-02-05 10:12:31",
+  "excerpt": "Panel on the Internet of Things (IoT) at lunch during the Jfokus conference in Stockholm, Sweden.  Do you believe all the hype surrounding IoT and the billions of devices projected by analysts? We will cut through the 3 letter acronyms and get to the bottom of this with an expert panel of embedded Java gurus.",
+  "id": 381,
+  "original_urls": [
+    "http://nighthacking.tv/381/",
+    "http://nighthacking.com/381/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "66aaea7b5c81ac1b09969035c4d08b6c3294feaa25d495aee0e1c1cdc712ca53",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=sIjv7PvXkjQ"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/381/",
+    "post_id": 381,
+    "rejected_urls": [],
+    "source_content_sha256": "e915d394b1dfbdf1c2fa557f5bf046aa1c35a436f3c0d80e0d8c2ea2423bbbc6",
+    "source_date_sha256": "cd3b43e89b193c2725e032e217d3526ff6a6850a76bb02a1cd31870e8f5de470",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "ab5e292db6495899871d889aaab28308f7da8dfc3693a477ee73de9ad894ce44",
+      "_video_thumbnail": "56b07efde3cc96add57a1cc71ecfd68619634f3e935f29b85960a6db28839c11",
+      "focus_video": "c3c4934ed3199d8b4d1671c3d23ebbeac2ab927e444022d0bf0f551e008d782f"
+    },
+    "source_slug_sha256": "392a52e4f77c40bf3321dc2feac356fac2a906a80c961748170af4ce2bce1e6a",
+    "source_title_sha256": "450281b6b0e0fd4866b00d754702dd7f334ad51103e5b581b2951eb6178e7c17",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "381",
+  "thumbnail": "/wp-content/uploads/2014/02/internet-of-things-hype-or-ripe.jpg",
+  "title": "Internet of Things - Hype or Ripe?",
+  "type": "post",
+  "video_id": "sIjv7PvXkjQ",
+  "warnings": [
+    "A UTF-8 nonbreaking space was normalized to a space."
+  ]
+}

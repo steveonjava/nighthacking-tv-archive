@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2014",
+      "slug": "jcrete2014"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-08-27 00:27:42",
+  "excerpt": "Interview with the \"dis\"organizer of JCrete, Dmitry Vyazelenko.  Also includes some heckling from Kirk Pepperdine.  :)",
+  "id": 999,
+  "original_urls": [
+    "http://nighthacking.tv/jcrete-interview-with-dmitry-vyazelenko/",
+    "http://nighthacking.com/jcrete-interview-with-dmitry-vyazelenko/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "8345742222b5f00eb420d99c411d476433b13a18d51b30e94eed9ac9e09f3efa",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/XYg4qN6GJPI"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jcrete-interview-with-dmitry-vyazelenko/",
+    "post_id": 999,
+    "rejected_urls": [],
+    "source_content_sha256": "b2d888e1380a835ed8cbb4384e7976cbb6d8147e783e83d38b78beef45deef7d",
+    "source_date_sha256": "3b1c4c8cd7b9ae13925c21b6bc3c9e3fe052369cdb516e155ed38a57e906a318",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "fe675fe7aaee830b6fed09b64e034f84dcbdaeb429d9cccd4ebb90e15af8dd71",
+      "_video_thumbnail": "10fb5eec023bdb6e4bf11f1a8e1770975d8030ad0c9d82060eb4d6dddde13d2a",
+      "focus_video": "3eeddbe15657977666f5f302b7e1897c00262224d7dfc3729b198576aad02493"
+    },
+    "source_slug_sha256": "74cf2f39c6685567d0dedcc32d9990bab32910cd079956b4b302bd5916a9fb38",
+    "source_title_sha256": "ad27c668fa49cbed55a48c4de8b494074642828a8f1fff5a77e35de12aaca5bc",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jcrete-interview-with-dmitry-vyazelenko",
+  "thumbnail": "/wp-content/uploads/2014/08/jcrete-interview-with-dmitry-vya.jpg",
+  "title": "JCrete interview with Dmitry Vyazelenko",
+  "type": "post",
+  "video_id": "XYg4qN6GJPI",
+  "warnings": []
+}

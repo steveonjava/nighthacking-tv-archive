@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2016",
+      "slug": "jcrete-2016"
+    }
+  ],
+  "date": "2016-08-05 04:51:18",
+  "excerpt": "JCrete 2016, Day 4\nSelling Dreams - Java 10 and beyond\nChristoph Engelbert",
+  "id": 1968,
+  "original_urls": [
+    "http://nighthacking.tv/selling-dreams-java-10-and-beyond/",
+    "http://nighthacking.com/selling-dreams-java-10-and-beyond/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "babd1a75867d50c8a448b8af4a57a763e8a2e020333f76df0798f9ecbeba8f72",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=Pel8YZlTtc8"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/selling-dreams-java-10-and-beyond/",
+    "post_id": 1968,
+    "rejected_urls": [],
+    "source_content_sha256": "bf274e646da956273a5b66b549d879e3ba521eba49c0b435451bce17a8e4f32b",
+    "source_date_sha256": "34175654cd91726373a2aeb4b56ffc13686dbcb8e02f643b51ab246f190b745f",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "ad1f3889d0032e7c2791053060e4c044837353325fbd42cdeeef65638ed31c2a",
+      "_video_thumbnail": "bdad6bacf6196e1080bf248f0eb676d46e38028c1a32c25468b9a5f9bb3ee133",
+      "focus_video": "a4d07129b16c2512047eb74a61d569ce2082fadf6b81a8f5916c229f01eda3e0"
+    },
+    "source_slug_sha256": "ed5a6345ddf07544b541e1853532d1d5bceb20f35bf4d211a10c24f732c17b8c",
+    "source_title_sha256": "4f48720990fb060694f6a492aba1b9a2c76db5582ecf1d43c973d045467e7335",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "selling-dreams-java-10-and-beyond",
+  "thumbnail": "/wp-content/uploads/2016/08/selling-dreams-java-10-and-beyon.jpg",
+  "title": "Selling Dreams - Java 10 and beyond",
+  "type": "post",
+  "video_id": "Pel8YZlTtc8",
+  "warnings": []
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-01-24 11:36:04",
+  "excerpt": "The HTML5 juggernaut is radically changing client-side development on mobile devices as well as the desktop. Given the pervasiveness of HTML5, where does JavaFX fit in the picture? This presentation examines both HTML5 and JavaFX, covering the technical strengths and weaknesses of each. This is a code-intensive session with comparison code and examines the differences between JavaFX and HTML5 animation support, rendering capabilities, and performance. In addition, it covers how JavaFX can leverage HTML5 to get the best of both worlds.",
+  "id": 344,
+  "original_urls": [
+    "http://nighthacking.tv/html5-and-javafx-with-ryan-cuprak/",
+    "http://nighthacking.com/html5-and-javafx-with-ryan-cuprak/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "df4fc0b699133f7fcce7d2320d9fa476385fa099d02b93e76c40e0c27067cc2e",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=xdgD7EBX4fw"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/html5-and-javafx-with-ryan-cuprak/",
+    "post_id": 344,
+    "rejected_urls": [],
+    "source_content_sha256": "48d86efc599d47d0fb77680e0aafd7f0f4d1df3f5e2215e023c0d9eb395cbc79",
+    "source_date_sha256": "b83d5b8bd11ccf3a6e8f143222c9b8c8fe19fae31e47e21556a0724da3cbcc1a",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "6aac0cf87a32e631536122c3f2f9a2df215f56f28792a43a8658b0593f2e5255",
+      "_video_thumbnail": "c8e96af14c71bcc04555641df02ec9f10369e55265758785d9deba409a5cb6b0",
+      "focus_video": "23607871846035566da89f225e33f1d262fbba1985034a649ece5aad6b27260a"
+    },
+    "source_slug_sha256": "5b9c747babd0b182b2375fb923e8b14d299b6b7151ac22ed379306e04e50276b",
+    "source_title_sha256": "9ecc841e9cf854f18f551dbdb854fce60e09a50c4cb309cee3e0bed331ca75cd",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "html5-and-javafx-with-ryan-cuprak",
+  "thumbnail": "/wp-content/uploads/2014/01/html5-and-javafx-with-ryan-cuprak.jpg",
+  "title": "HTML5 and JavaFX with Ryan Cuprak",
+  "type": "post",
+  "video_id": "xdgD7EBX4fw",
+  "warnings": []
+}

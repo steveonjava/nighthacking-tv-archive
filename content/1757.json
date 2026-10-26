@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2016",
+      "slug": "javaland-2016"
+    },
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    }
+  ],
+  "date": "2016-03-13 16:13:05",
+  "excerpt": "Combined NightHacking and vJUG broadcast with Martin F\u00f6rtsch and Thomas Endres who built an augmented reality system with the Oculus Rift and Intel RealSense that gives you terminator-like vision.",
+  "id": 1757,
+  "original_urls": [
+    "http://nighthacking.tv/live-from-javaland-terminator-meets-minority-report-augmented-reality/",
+    "http://nighthacking.com/live-from-javaland-terminator-meets-minority-report-augmented-reality/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "e2fdebce517922bb8f20ff99274e5a13421de9675dd2269a9f5f2f59066b585b",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/61X_hRvJLMo"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/live-from-javaland-terminator-meets-minority-report-augmented-reality/",
+    "post_id": 1757,
+    "rejected_urls": [],
+    "source_content_sha256": "85c0ff5090eceb125824f664dcb465c129cfaccc698dde931dbcee2b8faf95a1",
+    "source_date_sha256": "4aab4144abb9df4e7a63ec5949bd5da9671b059803f287995c255bd3079b7156",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "314e9ad1bb068ed152ce11d5afe810468471752f8b7bed2594ff3b5c5b471cd9",
+      "_video_thumbnail": "e4076ccc1fe1794ad69f30c7ea0bbb351be7c0dc6d2d367c4a6349f4e2d90733",
+      "focus_video": "dda8920f6753b6d5b37c1b4149d8d6c89ddb27987f338532866f733c9e49adbf"
+    },
+    "source_slug_sha256": "4f0471fa60a6d87b447c7c51542e548f4c541e7736cf390f067102dbeb373e54",
+    "source_title_sha256": "1378f2fa42277f5b05e61c683d8aadba80284d83ebf31e2bc7ff508e5e80d1b0",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "live-from-javaland-terminator-meets-minority-report-augmented-reality",
+  "thumbnail": "/wp-content/uploads/2016/03/live-from-javaland-terminator-me.jpg",
+  "title": "Live from JavaLand - Terminator meets Minority Report (Augmented Reality)",
+  "type": "post",
+  "video_id": "61X_hRvJLMo",
+  "warnings": []
+}

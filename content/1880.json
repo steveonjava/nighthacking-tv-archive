@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "name": "JAX Mainz 2016",
+      "slug": "jax-mainz-2016"
+    }
+  ],
+  "date": "2016-04-29 08:14:05",
+  "excerpt": "JDK 9 und die Platformmodularisierung Article:\nhttp://www.slideshare.net/wolfgangweigend/javamagazin-12016-jdk9eab83jigsaw",
+  "id": 1880,
+  "original_urls": [
+    "http://nighthacking.tv/java-9-with-wolfgang-weigend-in-german/",
+    "http://nighthacking.com/java-9-with-wolfgang-weigend-in-german/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "363dff6a7dc6f678ea65008be5b034e933cb2d25c8f1a4c7263e9196ba31d5c3",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "www.slideshare.net",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.slideshare.net/wolfgangweigend/javamagazin-12016-jdk9eab83jigsaw"
+      },
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=f_CkNI6-Rmk"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/java-9-with-wolfgang-weigend-in-german/",
+    "post_id": 1880,
+    "rejected_urls": [],
+    "source_content_sha256": "308404a1f2b6e040c5d3eab7d023fbc5585acd4d696c7f85c25d60b75ecff53d",
+    "source_date_sha256": "1ef25abdf88737e0208f79e30f58ceb36763c00b92109236ae4a18f2d623314d",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "8e93e440f571a4dac32666ef784bf1f995b3ae865d4a9aa0ef981a44442ad39e",
+      "_video_thumbnail": "3eb055bbcf8eacb7f49080f7c466fdbdab8be255e29a638a86419bdbafb70260",
+      "focus_video": "19c96124c46e30f93c8b3adb346c2f4fddd70dd25c461af5571e8d943b6207bd"
+    },
+    "source_slug_sha256": "a2649b8ce8025a0529af60ea4868f7cb91bfe1ee0a54359f9f5c2825b8f09d72",
+    "source_title_sha256": "4e7103172c656968d1ecebf96d095004eb72e723f4f64257d961be0bead81560",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "java-9-with-wolfgang-weigend-in-german",
+  "thumbnail": "/wp-content/uploads/2016/04/java-9-with-wolfgang-weigend-in-3.jpg",
+  "title": "Java 9 with Wolfgang Weigend (in German)",
+  "type": "post",
+  "video_id": "f_CkNI6-Rmk",
+  "warnings": []
+}

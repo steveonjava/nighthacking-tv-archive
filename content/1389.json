@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2015",
+      "slug": "javaland-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-03-25 04:10:28",
+  "excerpt": "Voxxed Interview with Lucy Carey, Mani Sarkar, and Daniel Bryant on pushing forward Java with OpenJDK.",
+  "id": 1389,
+  "original_urls": [
+    "http://nighthacking.tv/voxxed-interview-with-lucy-mani-and-daniel-on-openjdk/",
+    "http://nighthacking.com/voxxed-interview-with-lucy-mani-and-daniel-on-openjdk/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "618aa8adfe71b825d4c01af55d2a0255b9a3c8f0867062e4373eb975c4de0f1d",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/bM0ADpcjQFw"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/voxxed-interview-with-lucy-mani-and-daniel-on-openjdk/",
+    "post_id": 1389,
+    "rejected_urls": [],
+    "source_content_sha256": "d913f3eff276c4bb68c426354d6eaf486621db4e10d26b66f0c21981a49fea8c",
+    "source_date_sha256": "7da795bee236617c4c9459355c87eb37ff8ac18f4abea6c37df65206624a4059",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "01d77b0b1bd2fecc8ddd43210d4d10934aa31db043675f53eb46907a031d10d2",
+      "_video_thumbnail": "861e8b734c9eeedd62ae34647681acf3696f5b4ede3bba408f5fdc6430b641a0",
+      "focus_video": "81c01b32cbd5cd8f2ccdbcd49204d965db199a20cf83f0845ef6f7fb89d06824"
+    },
+    "source_slug_sha256": "0fc9cc1f366bdd24e329f84d3205450fa36a5f76df9ac9ff27eb1803a38babd4",
+    "source_title_sha256": "20f457a51267a2ed69dabeb8e034f67af1c5157cca432675b67c94cb8c9a7a09",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "voxxed-interview-with-lucy-mani-and-daniel-on-openjdk",
+  "thumbnail": "/wp-content/uploads/2015/03/voxxed-interview-with-lucy-mani.jpg",
+  "title": "Voxxed Interview with Lucy, Mani, and Daniel on OpenJDK",
+  "type": "post",
+  "video_id": "bM0ADpcjQFw",
+  "warnings": []
+}

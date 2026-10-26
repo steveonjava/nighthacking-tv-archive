@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "QCon NYC 2016",
+      "slug": "qcon-nyc-2016"
+    }
+  ],
+  "date": "2016-06-13 14:47:23",
+  "excerpt": "Interview with Chris Richardson (@crichardson) on Microservices at the QCon NYC conference.",
+  "id": 1907,
+  "original_urls": [
+    "http://nighthacking.tv/chris-richardson-on-microservices/",
+    "http://nighthacking.com/chris-richardson-on-microservices/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "0e24d012e5a1dbab93f0a4d133bc9db54788a4cea13a6ea58db53f16bf42447b",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/7BHFRH8DoI0"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/chris-richardson-on-microservices/",
+    "post_id": 1907,
+    "rejected_urls": [],
+    "source_content_sha256": "2960d3409d2732ffcdcf13960adfc3faf8a52843355e9dd72ef853863e5490cd",
+    "source_date_sha256": "718b7c1af242bb22d8e5bb544786253809b71382bb5b694f691585e4fedf4031",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "8e614d39a1f1279958da1c9f7e8df51db4aabca8cc3a3e84f8c3dc5f88e1fcfb",
+      "_video_thumbnail": "9a8f15f70bf760679af19ee3982277a67d175d0ae722c48467e6eab8b93d85e8",
+      "focus_video": "96d6c548fa3647add17d7352e73bbe14906060c190e2f13b267731903fe2729e"
+    },
+    "source_slug_sha256": "49ac47ac32639cc7e23b2953a53adc447fcb94a8b01af1d3a52628fb189bd907",
+    "source_title_sha256": "bba2f1b7f6999216fe33c10453c9127babd1ab05cb0357752f029464480d3322",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "chris-richardson-on-microservices",
+  "thumbnail": "/wp-content/uploads/2016/06/chris-richardson-on-microservice.jpg",
+  "title": "Chris Richardson on Microservices",
+  "type": "post",
+  "video_id": "7BHFRH8DoI0",
+  "warnings": []
+}

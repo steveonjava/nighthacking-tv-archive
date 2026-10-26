@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-06-22 01:41:08",
+  "excerpt": "NightHacking interview with Tracy during the JCP 15th Year Anniversary Party.",
+  "id": 936,
+  "original_urls": [
+    "http://nighthacking.tv/jcp-interview-with-tracy/",
+    "http://nighthacking.com/jcp-interview-with-tracy/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "bea21e3c008b0d074f6ecdb892cc153c512dcff13f0db913237d57f1c3d7199a",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=mRfXhcOXcIk"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jcp-interview-with-tracy/",
+    "post_id": 936,
+    "rejected_urls": [],
+    "source_content_sha256": "87e4a6240caf1d0713ded3dcb8b5e5e49e31aa7ed4cdb8206b23978775e3c5c4",
+    "source_date_sha256": "2f2f47afe5432eabcb3fa65f17a8c0a99212048c5068384205385c9405fc620e",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "21eb478c997305f06e5e0d043d3ec5acc63a85938da69e14f239f34a8348fc54",
+      "_video_thumbnail": "19049414437bf9a436a794a5eef7c7e1fc2fc9bed53d9c2bf90f889a7de9c01f",
+      "focus_video": "f26f4771665bb5c986ce7c97ae269e2159fbcd109242962d1d25de16027a19c0"
+    },
+    "source_slug_sha256": "54f6ded37745216ab63474a8c8f31a6e969172fd750b6ac9e0ee711307cfae41",
+    "source_title_sha256": "490e1ee6f557d967dd0dc0e6db24255a9010ba45e3366dfe6c929acce14c5930",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jcp-interview-with-tracy",
+  "thumbnail": "/wp-content/uploads/2014/06/jcp-interview-with-tracy.jpg",
+  "title": "JCP Interview with Tracy ",
+  "type": "post",
+  "video_id": "mRfXhcOXcIk",
+  "warnings": []
+}

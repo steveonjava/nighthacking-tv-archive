@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2016",
+      "slug": "javaland-2016"
+    },
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    }
+  ],
+  "date": "2016-03-13 16:18:56",
+  "excerpt": "Combined NightHacking and vJUG session covering 10 Asciidoc Tips (and a lot more) from Andres Almiray at JavaLand.",
+  "id": 1761,
+  "original_urls": [
+    "http://nighthacking.tv/10-asciidoc-tips-from-andres-almiray/",
+    "http://nighthacking.com/10-asciidoc-tips-from-andres-almiray/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "2e02820e7687ffbcb3809daa1b8d4999e1a60233c7b3c7b095039f8002b95bc3",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/dEE09B4lj3k"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/10-asciidoc-tips-from-andres-almiray/",
+    "post_id": 1761,
+    "rejected_urls": [],
+    "source_content_sha256": "39d40f92d99402c0ef0d3700cf614ba50c623e48499594568b978fbe0329db5b",
+    "source_date_sha256": "7c1fc2bf955eae4a7a7ef872e1b49af46af5a31d68d6351577d8f59f72df7e9b",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "9a0d49266d4f5e24ff7841a16012f3edab7668657ccaee858e0d55b97d5b8f9a",
+      "_video_thumbnail": "b18207d65e9c9b528581e9ec62bfd7c4c15a35eab446f26062be1d2897b72f79",
+      "focus_video": "ed4b816312b90423ecf45fd7090ba75e001fbb28e1174247cdc02aa5e4b6d743"
+    },
+    "source_slug_sha256": "1885c788ca230a2375bb0cb5eccb8af31bcdf881288677f38ee7e16729964c5c",
+    "source_title_sha256": "15d3cafa9f03e388318a3bfe76a52b1cc5552a7b486e0f2dbfb0f84581fa3d97",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "10-asciidoc-tips-from-andres-almiray",
+  "thumbnail": "/wp-content/uploads/2016/03/10-asciidoc-tips-from-andres-alm.jpg",
+  "title": "10 Asciidoc Tips from Andres Almiray",
+  "type": "post",
+  "video_id": "dEE09B4lj3k",
+  "warnings": []
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2015",
+      "slug": "jcrete-2015"
+    }
+  ],
+  "date": "2015-07-22 01:52:28",
+  "excerpt": "Overview of the history of Java from a JVM perspective by Marcus Lagergren (@lagergren) and Attila Szegedi (@asz).",
+  "id": 1512,
+  "original_urls": [
+    "http://nighthacking.tv/15-years-of-jvms-with-marcus-and-attila-at-jcrete/",
+    "http://nighthacking.com/15-years-of-jvms-with-marcus-and-attila-at-jcrete/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "98ed9e28900a1a0e934eb8bbeade538c07f73f8eb01722e013988782cf4903e1",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/RDRNCERJuYs"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/15-years-of-jvms-with-marcus-and-attila-at-jcrete/",
+    "post_id": 1512,
+    "rejected_urls": [],
+    "source_content_sha256": "ce9381c5d16d7d99e41d222ad79b6c17d46117a3b058a236197770c6736ef60d",
+    "source_date_sha256": "5a95481f1019afc56deded2e73ea4a5fad963c8cfb28a16554a9531d0af95b58",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "c8f5600f3eb7d801a067e02c477719d37f560491c4dca56eacc11ca755eb1ac6",
+      "_video_thumbnail": "31cd5059683b6b7c08de8125b5a0d37e90538d07e703ace0d615bc00a07cfbe6",
+      "focus_video": "88021bb1d3de74a8276386a0c765a1c415329bb122fa5ddca3011d5a6c44705b"
+    },
+    "source_slug_sha256": "c18bf15dc469258f6836902545b30432acad64b9ea83a81ce934648e93e33a77",
+    "source_title_sha256": "243db4fd9d22b8b99cbfbc926a29eb4736c32757d29de39739536bc4814ea7b6",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "15-years-of-jvms-with-marcus-and-attila-at-jcrete",
+  "thumbnail": "/wp-content/uploads/2015/07/15-years-of-jvms-with-marcus-and.jpg",
+  "title": "15 Years of JVMs with Marcus and Attila at JCrete",
+  "type": "post",
+  "video_id": "RDRNCERJuYs",
+  "warnings": []
+}

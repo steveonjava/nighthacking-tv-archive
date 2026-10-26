@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "DevNexus 2016",
+      "slug": "devnexus2016"
+    }
+  ],
+  "date": "2016-02-17 10:49:02",
+  "excerpt": "Interview with Baruch Sadogursky on Software Module Hell at the DevNexus conference in Atlanta, Georgia.",
+  "id": 1665,
+  "original_urls": [
+    "http://nighthacking.tv/baruch-sadogursky-on-software-module-hell/",
+    "http://nighthacking.com/baruch-sadogursky-on-software-module-hell/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "b5e6bc1b9dbf86a16d1478d2465017b15bf5fd3f3e8c208d86ad0dcc1014b3c3",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/sK_AO1P99Gs"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/baruch-sadogursky-on-software-module-hell/",
+    "post_id": 1665,
+    "rejected_urls": [],
+    "source_content_sha256": "3072c2cee8f999034769898083ea1072e86888477ad25a7652abb0531146fdd7",
+    "source_date_sha256": "d3cc44698c0cb4a6afa1c84d5e2a60cb0fc382834c6ee6c78fc10b32c63c3348",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "d253d7b7ace4e06589dd90003f047380ddfdcfb29007b4e815caf48ff09b498b",
+      "_video_thumbnail": "02c16835ce16c5617f8a9dbb21712f57da5e18af2e5a476eba7e2eaf286d757e",
+      "focus_video": "dd4c7a50c96fa9432954a3b9229c10a558cd881f0c91cc24f72e668c24e3d7a8"
+    },
+    "source_slug_sha256": "78ae89526418bc28fb0a9d152b0fb3789120361618c9555537711c9f6ff8e6ac",
+    "source_title_sha256": "1018dbd51a9e3a866a60d1317df519ff1e1bfc0c3994a6680b62aa12f1e0e131",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "baruch-sadogursky-on-software-module-hell",
+  "thumbnail": "/wp-content/uploads/2016/02/baruch-sadogursky-on-software-mo.jpg",
+  "title": "Baruch Sadogursky on Software Module Hell",
+  "type": "post",
+  "video_id": "sK_AO1P99Gs",
+  "warnings": []
+}

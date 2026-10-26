@@ -1,0 +1,61 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2016",
+      "slug": "javaland-2016"
+    },
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    }
+  ],
+  "date": "2016-03-08 08:22:31",
+  "excerpt": "Interview with Toni Epple on DukeScript at the JavaLand Conference.",
+  "id": 1735,
+  "original_urls": [
+    "http://nighthacking.tv/toni-epple-on-dukescript/",
+    "http://nighthacking.com/toni-epple-on-dukescript/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "3260d5a1b82e1a9df09fe8e9366cd58c74748489eb3cb911fc5847925495656a",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video",
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/KnJt2LUPv68"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/toni-epple-on-dukescript/",
+    "post_id": 1735,
+    "rejected_urls": [],
+    "source_content_sha256": "c86de2234ae9b184f65bb9d9898a3713cda042bd7fc473bceb0202a08d6d38ca",
+    "source_date_sha256": "fcaabe0af354771416316dacd471851251ce6e9cde57b463c9d75be0ccbcc121",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "03d0925ac4f53b4b02d68e21baf79305bf3f65ee4c01d3111a6aa04f704efaeb",
+      "_video_thumbnail": "d7b1e651fbde47b96451f09e599e17840ecf485f9992daa421de2c280134b34f",
+      "focus_video": "5e030cc42a6693aa3f35cba85dd1171adfbb0771c888170735efc81a8e5f2448"
+    },
+    "source_slug_sha256": "c6ddcecb69aa3d13bf79d4185eb1c1f95bf5dcc1bbaab22e34a64bb92c7357b7",
+    "source_title_sha256": "1bf793a11bea689b2c36fdd78599fe61a4e10d643ae4b02fa72515462b37dab3",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "toni-epple-on-dukescript",
+  "thumbnail": "/wp-content/uploads/2016/03/toni-epple-on-dukescript-3.jpg",
+  "title": "Toni Epple on DukeScript",
+  "type": "post",
+  "video_id": "KnJt2LUPv68",
+  "warnings": []
+}

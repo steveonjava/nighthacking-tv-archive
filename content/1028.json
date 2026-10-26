@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2014",
+      "slug": "jcrete2014"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-08-31 23:21:36",
+  "excerpt": "Interview with Yakov Fain on his new book to teach programming to kids at the JCrete unconference.",
+  "id": 1028,
+  "original_urls": [
+    "http://nighthacking.tv/jcrete-interview-with-yakov-fain/",
+    "http://nighthacking.com/jcrete-interview-with-yakov-fain/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "ea9855a3b5de1fe7023ad7c7d1f6be16203e50263a9120b30bf59af4267ec3dc",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/kMiI3_FCDM0"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jcrete-interview-with-yakov-fain/",
+    "post_id": 1028,
+    "rejected_urls": [],
+    "source_content_sha256": "4b62826256ff2d14cd795072e075fb34a321c005bdfa76021953acb45af3c467",
+    "source_date_sha256": "95b0f3bed6f53d4b1e1609d0b0e36ce8876f826fc5625d9052c9727bbd729658",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "2f1987bf98c09d2f5d2a23a6ae29fa53b9aec8f07ed1330bd439122f5a1a2c2c",
+      "_video_thumbnail": "942c4b731c586e1320fbda70e529d6dccb923c2891d8ae51489462b9a146c15c",
+      "focus_video": "86f4b2c39d03aeebd8c6417ce49d82cbb248f45f00c940193464785efc9865b0"
+    },
+    "source_slug_sha256": "5c55408ddb7b9942afab46297ce45d5a3b97a6da3944cce362747befe9b29c0d",
+    "source_title_sha256": "9c0ea1cd26f576a7e302844f8979c7c70409b4fb8889db93d2e7f69ffeb4336e",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jcrete-interview-with-yakov-fain",
+  "thumbnail": "/wp-content/uploads/2014/08/jcrete-interview-with-yakov-fain.jpg",
+  "title": "JCrete Interview with Yakov Fain",
+  "type": "post",
+  "video_id": "kMiI3_FCDM0",
+  "warnings": []
+}

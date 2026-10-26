@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2016",
+      "slug": "jfokus-2016"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2016-02-10 08:22:14",
+  "excerpt": "NightHacking interview at the Jfokus conference with Mark Heckler on Renewable Energy in the Cloud.",
+  "id": 1637,
+  "original_urls": [
+    "http://nighthacking.tv/mark-heckler-renewable-energy-in-the-cloud/",
+    "http://nighthacking.com/mark-heckler-renewable-energy-in-the-cloud/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "cda9fb06eabe51cf9a00adb8d12d1fa2ddbcaed3409bbceddc32ec13e51e19a0",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/Nz-WfKG2ny8"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/mark-heckler-renewable-energy-in-the-cloud/",
+    "post_id": 1637,
+    "rejected_urls": [],
+    "source_content_sha256": "e5e05aaa9ad996f424f59214e9429e81c8b41e745d8c998186671d5a09c13c3e",
+    "source_date_sha256": "f24ee1dd66d80f3f564af88663a28696dfa8c437af3d0f6f210a9ee50283d3e8",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "5549c0d54cb3bce4019f7f4b0f9ebad217bf9f417e8e14d547bdb467ccb0dc4c",
+      "_video_thumbnail": "4b7560a37f597611fe23dd186da47304d34395a70aff1df8a4b4973f21318dfc",
+      "focus_video": "ca285b6aa25379774a2550982a28c8f7f75afc82ebf09c67be5324de1e9d765e"
+    },
+    "source_slug_sha256": "b39478d237fad7b647b167eeeeadb68601dc80d0731b8027758c20380e73b92f",
+    "source_title_sha256": "34558a0457b54171b1d4a559881d1288cd53c3ee94eafac91e4eda54d281e986",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "mark-heckler-renewable-energy-in-the-cloud",
+  "thumbnail": "/wp-content/uploads/2016/02/mark-heckler-renewable-energy-in.jpg",
+  "title": "Mark Heckler - Renewable Energy in the Cloud",
+  "type": "post",
+  "video_id": "Nz-WfKG2ny8",
+  "warnings": []
+}

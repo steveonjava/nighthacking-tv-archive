@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2015",
+      "slug": "jfokus2015"
+    }
+  ],
+  "date": "2015-02-05 14:04:22",
+  "excerpt": "Interview with Matthias Gr\u00fcter (@mattgruter) on Docker and the JVM at Jfokus.",
+  "id": 1267,
+  "original_urls": [
+    "http://nighthacking.tv/matthias-gruter-docker-and-the-jvm/",
+    "http://nighthacking.com/matthias-gruter-docker-and-the-jvm/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "07ea91350e86f3544cf53f5d6e793efcd273a2a9149915bf00d94aa8fcdcced0",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=esPzTv5xMEU"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/matthias-gruter-docker-and-the-jvm/",
+    "post_id": 1267,
+    "rejected_urls": [],
+    "source_content_sha256": "0cd0f3bd4913af87104af5e8c3645d3f32666aaa57df4ea7a50c845548d0ef8f",
+    "source_date_sha256": "ce4865d0ac80671d5ad7791b1e3be054329979a38acefcbe51a1d570188b1dea",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "6028e2a87c5080933ca436888c9d26630d7f34146c814e5d9b16c8dc21c5e223",
+      "_video_thumbnail": "3e0e23798138e2e8ac4e5d0cd6a78f2e5d65d98dbe04e06fc57cf4fb7cf0eb75",
+      "focus_video": "a057a4790694a8225bc6f40850d6eb639edb56a76fa6914252a99cbe016b4a89"
+    },
+    "source_slug_sha256": "8d34a23eb3257fc74d7c2142758bb650d6d205af8dcf251c1c0b70e780a0c7d1",
+    "source_title_sha256": "279f38d6d8d07ef94841635540450457edcdbf2f76a17bc9720f5ca75a7c9f2b",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "matthias-gruter-docker-and-the-jvm",
+  "thumbnail": "/wp-content/uploads/2015/02/matthias-gruter-docker-and-the-j.jpg",
+  "title": "Matthias Gr\u00fcter - Docker and the JVM",
+  "type": "post",
+  "video_id": "esPzTv5xMEU",
+  "warnings": []
+}

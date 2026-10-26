@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2013-11-13 09:22:38",
+  "excerpt": "",
+  "id": 280,
+  "original_urls": [
+    "http://nighthacking.tv/interview-with-brian-goetz-and-stuart-marks-on-lambdas/",
+    "http://nighthacking.com/interview-with-brian-goetz-and-stuart-marks-on-lambdas/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=uK0G-VxoVOI"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/interview-with-brian-goetz-and-stuart-marks-on-lambdas/",
+    "post_id": 280,
+    "rejected_urls": [],
+    "source_content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source_date_sha256": "c336131803f25793b286f06fb3ece6efd193048e188967eb0845650ae4ac62dc",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "e0850a775c17a87060c0cf6efad1020e0cbef5a44ba942bef6add5776598de53",
+      "_video_thumbnail": "19b11ce121debcb63a776d1a1a10dc9e47d7271363b7ada3c24b90a32b9ebc3d",
+      "focus_video": "f52a4e930981f25ad7772b35aac724b2f40e836b1f4cb7d159e91246a85d651b"
+    },
+    "source_slug_sha256": "79a2ca531fe87cc892927a5454a0136bd4e396ca364a99ddff7e057e912ec3ba",
+    "source_title_sha256": "cc946599a8a8c13cb18e27a9c68af066464a1c21d14a74f00582befc9d091932",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "interview-with-brian-goetz-and-stuart-marks-on-lambdas",
+  "thumbnail": "/wp-content/uploads/2013/11/interview-with-brian-goetz-and-stuart-marks-on-lambdas.jpg",
+  "title": "Interview with Brian Goetz and Stuart Marks on Lambdas",
+  "type": "post",
+  "video_id": "uK0G-VxoVOI",
+  "warnings": []
+}

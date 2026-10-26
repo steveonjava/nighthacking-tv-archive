@@ -1,0 +1,62 @@
+{
+  "categories": [
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2016-03-05 01:29:43",
+  "excerpt": "NightHacking presentation to Java User Group Hannover.  Includes Sebastian's JAX-RS talk and my Raspberry Pi Java Gaming talk.  Audience was very engaged and interactive.",
+  "id": 1699,
+  "original_urls": [
+    "http://nighthacking.tv/jug-hannover-nighthacking/",
+    "http://nighthacking.com/jug-hannover-nighthacking/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "22b137e51e84e6f1b075f24065857cf2ef5f14983f33da937e8a7d114879af75",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/w6xr_OE9mLc"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jug-hannover-nighthacking/",
+    "post_id": 1699,
+    "rejected_urls": [],
+    "source_content_sha256": "2b19608eb85eb68ec99ab668fcf2194391e00b4ccca2bbdcd37ab08a04357997",
+    "source_date_sha256": "4aecd69ff53bd7e02f7acc23ab5c5b6ec9ebf5b61bb7c275f665d78b7ba7e3ba",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "1b365a4dfc8a9d9d77b27e0e07614e4001bb2e0ffb38676277f9155a082913c0",
+      "_video_thumbnail": "c568974404d40466b73bb365d6ab0184773b426316115a0abc8efb14efcc5dfa",
+      "focus_video": "0d1a06f046fe402c15fe320c2a8f8bd04c6348e004792d99f2c423daa40db078"
+    },
+    "source_slug_sha256": "23de0b4cdfc4fb1c94e911f0e4ef60f2c4b3c19879b88fedbe2c983b8d1a0726",
+    "source_title_sha256": "da0caf3e008a7985f29e6bf0d592b6547b16f90156edc8e3f2c293c7a570968e",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jug-hannover-nighthacking",
+  "thumbnail": "/wp-content/uploads/2016/03/jug-hannover-nighthacking.jpg",
+  "title": "JUG Hannover NightHacking",
+  "type": "post",
+  "video_id": "w6xr_OE9mLc",
+  "warnings": [
+    "A UTF-8 nonbreaking space was normalized to a space."
+  ]
+}

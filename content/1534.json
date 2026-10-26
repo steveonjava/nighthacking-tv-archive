@@ -1,0 +1,62 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2015",
+      "slug": "oredev-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-11-06 02:48:25",
+  "excerpt": "Interview at the \u00d8redev conference in Malm\u00f6, Sweden with James Turnbull. Topics include Docker and infrastructure as well as writing and documentation.  Interviewer is Fredrik Bj\u00f6reman from the Kodsnack podcast.",
+  "id": 1534,
+  "original_urls": [
+    "http://nighthacking.tv/kodsnack-interviewing-james-turnbull/",
+    "http://nighthacking.com/kodsnack-interviewing-james-turnbull/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "c8910daffec16eff018a26bc42fecfcf343147decadc0bad1b10dcc92e591187",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/5qjPTg8wDw8"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/kodsnack-interviewing-james-turnbull/",
+    "post_id": 1534,
+    "rejected_urls": [],
+    "source_content_sha256": "75657b9f5445ea8ab7410be6193e2141e861ce0f7cbc285957dc5b7e97e39c62",
+    "source_date_sha256": "138f27599b1c6a1c6d5fdf7f3155622582e4f32c5cc6385e1b1cab37ab7953b0",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "b51e45a12fbae3d0ee2bf77f1a4f80cbf642e2b4d1c237d2c0f7053a54f6b388",
+      "_video_thumbnail": "ea934b7d6ba3f67f300be783d75d5ded97a12c56ab21b93f518b3b0345337976",
+      "focus_video": "30a676b8f09781a9a282b7ff81aeee6852e4fcc0927887475d8212c3448f2a92"
+    },
+    "source_slug_sha256": "19fddd9f86e980ab3d9cdce8a83ec5187ef9505878582b107dbe2695ad567d66",
+    "source_title_sha256": "f3a6ad4f0eb8c8bb31ee3f5ae52372438bc2474cc561758e211bcf957b25d111",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "kodsnack-interviewing-james-turnbull",
+  "thumbnail": "/wp-content/uploads/2015/11/kodsnack-interviewing-james-turn.jpg",
+  "title": "Kodsnack interviewing James Turnbull",
+  "type": "post",
+  "video_id": "5qjPTg8wDw8",
+  "warnings": [
+    "A UTF-8 nonbreaking space was normalized to a space."
+  ]
+}

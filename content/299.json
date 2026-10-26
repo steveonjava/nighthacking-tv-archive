@@ -1,0 +1,67 @@
+{
+  "categories": [],
+  "date": "2014-01-13 23:51:08",
+  "excerpt": "So...  you are a guest on NightHacking Radio and I sent you here to capture a high quality stream.  You might be wondering why I don't just use the audio from Skype or Hangout, and that is because I am a snobby audiophile!  The good news for you is that this translates to better quality audio for your published interview.  Fortunately it is pretty easy to do, so let's get to it!",
+  "id": 299,
+  "original_urls": [
+    "http://nighthacking.tv/audio-recording-guide/",
+    "http://nighthacking.com/audio-recording-guide/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "081e0faadf85f005de7dacabf57939e38119773c6d2b1b13a3d8d01c09c59c58",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "a:href",
+          "link",
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "audacity.sourceforge.net",
+        "rendered": true,
+        "status": "unverified",
+        "url": "http://audacity.sourceforge.net/"
+      },
+      {
+        "contexts": [
+          "a:href",
+          "link"
+        ],
+        "fetched": false,
+        "host": "dbinbox.com",
+        "rendered": true,
+        "status": "unverified",
+        "url": "http://dbinbox.com/steveonjava"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/audio-recording-guide/",
+    "page_ancestor_ids": [],
+    "page_parent_id": 0,
+    "post_id": 299,
+    "rejected_urls": [],
+    "source_ancestor_slug_sha256": {},
+    "source_content_sha256": "71c492d21e82fee86d25488d3fc87a5a7d4d5de29b20762a72cb5308f7d9a53d",
+    "source_date_sha256": "ef7ca1649447a4042f3102d681c5f6af2e3fa6a2bb5847e64b76525710943a8b",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {},
+    "source_slug_sha256": "a9f86836a82615795ae91e6d6b733be9caf291372f4a845603f2b1423116dbc1",
+    "source_title_sha256": "dbc5779b5f66fc20a5169a91e67425a29eaa25c2789b01e75f3f8b08f89c4c2c",
+    "table": "wp_posts",
+    "video_status": "not-applicable-static-page"
+  },
+  "review_status": "unreviewed",
+  "route": "/audio-recording-guide/",
+  "slug": "audio-recording-guide",
+  "thumbnail": null,
+  "title": "Audio Recording Guide",
+  "type": "page",
+  "video_id": null,
+  "warnings": [
+    "A UTF-8 nonbreaking space was normalized to a space.",
+    "A CMS-only form, upload or player shortcode was omitted."
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2014",
+      "slug": "oredev"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-11-06 22:53:52",
+  "excerpt": "Interview with Richard Warburton, author of Java 8 Lambdas, on Java 8 features like lambdas, streams, and date/time (JSR310).",
+  "id": 1138,
+  "original_urls": [
+    "http://nighthacking.tv/richard-warburton-on-java-8/",
+    "http://nighthacking.com/richard-warburton-on-java-8/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "6f533d7488951e54090a3c41a5d3f376ab51932538e8487760fa4e59f13f2495",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=WPYCrhsdR2o"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/richard-warburton-on-java-8/",
+    "post_id": 1138,
+    "rejected_urls": [],
+    "source_content_sha256": "aee313f189688d9a4c8be006d7dec1be5499735922243cfa030099456c530bdc",
+    "source_date_sha256": "d77d051285668459a201db7b5f1a3a80c0fde9a5e87d373df9d160d24e8798d4",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "f1de64eac803d9604ccb03ec7734b0e0eedc75ffebb091a39bf9b9397c39edf8",
+      "_video_thumbnail": "9b91dffe4f763be6f173c0c609d2c37ecf7303bd0a93da15eddad55eaf22af6a",
+      "focus_video": "97d8e827114f10850416ec74a7f96b856f9e02e8e41ad4b66b9a4f24ad02f0f0"
+    },
+    "source_slug_sha256": "7febd509f3476512efb971343bf2fdddb8f71852c24b19888b42165a67cacb32",
+    "source_title_sha256": "15a03db3005967cdb8a13c683ebcdf6c2aa32fbdba7e56bfc9c54d3f88227214",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "richard-warburton-on-java-8",
+  "thumbnail": "/wp-content/uploads/2014/11/richard-warburton-on-java-8.jpg",
+  "title": "Richard Warburton on Java 8",
+  "type": "post",
+  "video_id": "WPYCrhsdR2o",
+  "warnings": []
+}

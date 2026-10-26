@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    }
+  ],
+  "date": "2016-03-06 15:15:38",
+  "excerpt": "Intro to the JUG Dortmund session with an intro by Hendrik Ebbers and interviews with local JUG members.",
+  "id": 1704,
+  "original_urls": [
+    "http://nighthacking.tv/jug-dortmund-nighthacking-intro/",
+    "http://nighthacking.com/jug-dortmund-nighthacking-intro/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "b1523e1df60efc8505f41e93d8cd067215395d8f7cce6ba696982ee31768e547",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/OAfSGdiTEL4"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jug-dortmund-nighthacking-intro/",
+    "post_id": 1704,
+    "rejected_urls": [],
+    "source_content_sha256": "de0e44602008b1fbab686a137d503c5758308b3dca64df3d39044d0b56cf1b6c",
+    "source_date_sha256": "62456328218722e81d7bad29c9a4298f8b4b58934b65dbf7025c6e085c4d5f7a",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "c08ee2a296e9cc80f185cf84596b17f6dc4e29df05c403f2b0fb077876289cb8",
+      "_video_thumbnail": "ce12027a49c0d5ef222fe17a95cf3e05491b79f02d8a7194df4c9b2aabc7315c",
+      "focus_video": "7eadadb3dac67c2508cc4036f00b6d7e15b67dd6006b0eb65c514a0927263571"
+    },
+    "source_slug_sha256": "7e673bef19d382ade12860f92a012e02342b3667ea810d4171eb880978827800",
+    "source_title_sha256": "c0762ee3e5191aa8a77c146a191d2f2b9924d55c89a7c7bd90328d718af33af8",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jug-dortmund-nighthacking-intro",
+  "thumbnail": "/wp-content/uploads/2016/03/jug-dortmund-nighthacking-intro.jpg",
+  "title": "JUG Dortmund NightHacking Intro",
+  "type": "post",
+  "video_id": "OAfSGdiTEL4",
+  "warnings": []
+}

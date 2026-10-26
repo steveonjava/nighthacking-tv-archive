@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2016",
+      "slug": "jfokus-2016"
+    }
+  ],
+  "date": "2016-02-08 06:57:38",
+  "excerpt": "Presentation by Simon Ritter on getting the performance benefits of C-Structs using the ObjectLayout OpenJDK changes for the Java compiler.",
+  "id": 1602,
+  "original_urls": [
+    "http://nighthacking.tv/simon-ritter-on-struct-like-performance-in-java/",
+    "http://nighthacking.com/simon-ritter-on-struct-like-performance-in-java/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "929116f64399d62b5bafea657f1cc1ef6c32c7539113f407b67e8eb485bad76f",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/ju2xsbJ07ug"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/simon-ritter-on-struct-like-performance-in-java/",
+    "post_id": 1602,
+    "rejected_urls": [],
+    "source_content_sha256": "c6f40fd6f583042609a310b4682306292e16e033b8b023b993b948e6fb1e03e4",
+    "source_date_sha256": "f1b7330974cbbbc5da67888eac6e01c8dd1e7b11d66c6af94c59d64ef2f1b08c",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "361603c11612df16fcb9d48b4c22430535c8e53fe3b3c5a6a39bdf7e0543f65c",
+      "_video_thumbnail": "180b0cec494277900da558fea3786e9acb86c58061307f5affd36f486726bf06",
+      "focus_video": "009166c0e8c65b99ed2df153ff06996f2b179dd8271cd60d17fb533983af28a9"
+    },
+    "source_slug_sha256": "72e0eb7b5464ef3cec2ad1f95311a9427ae1a09fa9689abca55da547b8e2dd76",
+    "source_title_sha256": "5531a83ad6dbcbc79a1e82a4288b78ae015df8ef39a2036daee4be5cfa555e6f",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "simon-ritter-on-struct-like-performance-in-java",
+  "thumbnail": "/wp-content/uploads/2016/02/simon-ritter-on-struct-like-perf.jpg",
+  "title": "Simon Ritter on Struct-Like Performance in Java",
+  "type": "post",
+  "video_id": "ju2xsbJ07ug",
+  "warnings": []
+}

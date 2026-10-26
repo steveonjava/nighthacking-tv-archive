@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2015",
+      "slug": "javaland-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-03-24 09:41:47",
+  "excerpt": "Combined NightHacking/vJUG session at JavaLand on Java/JVM internals and the Adopt OpenJDK project with Simon Maples, Mani Sarkar, and Daniel Bryant.",
+  "id": 1376,
+  "original_urls": [
+    "http://nighthacking.tv/nighthackingvjug-session-on-adopt-openjdk/",
+    "http://nighthacking.com/nighthackingvjug-session-on-adopt-openjdk/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "d5d19c8e4bfc974c0a912602c13fa961a8a3d45ee76cbffb910da1b896ea330f",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/6lw1QX1dLWQ"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nighthackingvjug-session-on-adopt-openjdk/",
+    "post_id": 1376,
+    "rejected_urls": [],
+    "source_content_sha256": "621b67acb42a7e29f3756a17905b6b4e3d0e7be670ef1bb2fcbf171236b01dad",
+    "source_date_sha256": "6e5f5716794f27def8e832eef5377add05a627b1d179cf36143d0f86bf9c6337",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "8cfecd937a9328ecb71d3c08e5dd312058ca7d75171e7ba6e3af7573e210cd6c",
+      "_video_thumbnail": "8e0d27a1da57ba1aab15bd54fcae32c46740951957f286983629bb8a2da06364",
+      "focus_video": "1b6e43b58bd388a2fd97f7822bf11efa0e455f73d668a957e511331d07982723"
+    },
+    "source_slug_sha256": "7381ce58e10f8e94ac836bb12b3a9b3d8a142ca6aa794a526d074776aecc6327",
+    "source_title_sha256": "124272a2db067a36c9306064583a59ea87be7d4c8d8b5b82ce8f60e8a306b623",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nighthackingvjug-session-on-adopt-openjdk",
+  "thumbnail": "/wp-content/uploads/2015/03/nighthackingvjug-session-on-adop.jpg",
+  "title": "NightHacking/vJUG session on Adopt OpenJDK",
+  "type": "post",
+  "video_id": "6lw1QX1dLWQ",
+  "warnings": []
+}

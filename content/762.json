@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-26 07:20:46",
+  "excerpt": "NightHacking Interview with Bernd M\u00fcller on Bytecode Class Loaders and Transformers at the JavaLand Conference.",
+  "id": 762,
+  "original_urls": [
+    "http://nighthacking.tv/bernd-muller-on-bytecode-class-loaders-and-transformers/",
+    "http://nighthacking.com/bernd-muller-on-bytecode-class-loaders-and-transformers/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "2d9dfba908e4c90ef493652669e16ead02d5b6486005cfcebe9a935f638da061",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/rHQnZHLuoIM"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/bernd-muller-on-bytecode-class-loaders-and-transformers/",
+    "post_id": 762,
+    "rejected_urls": [],
+    "source_content_sha256": "22a9b7ad2ff375237688f20f07a339e7e976622f07382ffae9a358467840450f",
+    "source_date_sha256": "99513f58e1ca9f68aeec1503fa800a86c69cd08eb8c846b1fc16dd31f2594375",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "aaee0ce51abf0849e68b257ab97d83a36d9d082916b939cd1012f27d7f6bb873",
+      "_video_thumbnail": "8ef214182aa6edda7963d749cfa102dece463fe4d2fb9f795bcdad757ca11036",
+      "focus_video": "301fe92eb4f9f75a7813bb04c570b22d39564789bdfcc240add4c055a0f5f0af"
+    },
+    "source_slug_sha256": "3d823224665d6c0e97966f18ac6eea899fa4dba0fb89677acc46002ea09fa260",
+    "source_title_sha256": "37c0c72e227b22ecb42e8f364065b1ca38541e0779eb43d2ee14d4aa67a6338b",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "bernd-muller-on-bytecode-class-loaders-and-transformers",
+  "thumbnail": "/wp-content/uploads/2014/03/bernd-muller-on-bytecode-class-l.jpg",
+  "title": "Bernd M\u00fcller on Bytecode Class Loaders and Transformers",
+  "type": "post",
+  "video_id": "rHQnZHLuoIM",
+  "warnings": []
+}

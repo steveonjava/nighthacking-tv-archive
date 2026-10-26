@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2016-03-07 01:39:01",
+  "excerpt": "Presentation at JUG Dortmund on JAX-RS by Sebastian Daschner.  Shows best practices for building proper rest services, different frameworks that accelerate your development, and skillful live coding.",
+  "id": 1712,
+  "original_urls": [
+    "http://nighthacking.tv/jug-dortmund-nighthacking-jax-rs/",
+    "http://nighthacking.com/jug-dortmund-nighthacking-jax-rs/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "bb42be1f01836cc6e016faf57383bc2abd0eb8e53212916edee822e9f0148bdb",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=igrGLREO_cQ&edit=vd"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jug-dortmund-nighthacking-jax-rs/",
+    "post_id": 1712,
+    "rejected_urls": [],
+    "source_content_sha256": "ac732886935d1bbb05e9e09656bec3909a67adaabb3149dd748f246ddd693299",
+    "source_date_sha256": "83f532ba28de84bfe6a76289f4e5a0ee7af9789b0543f6c3d2b6d1369846be9e",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "10f15d8a9d76da2d65de8b9fa59150f6591ae53813e3789272a344edec36a04d",
+      "_video_thumbnail": "125d7ebcf142de5c187c9f9da2e1ed0521fab3070f7f78068b6572fcee517148",
+      "focus_video": "3d8b450a2e80b0624d4f7199dfe2e234342696b811b12bc969fb4ce9000d4b9e"
+    },
+    "source_slug_sha256": "17c8044d7c9cac5ed96316a5271bd6a6768fe3313287840b8a37ee18a3818f18",
+    "source_title_sha256": "e1b752edaf3ee70363bee04dd057c3cbb114ca0f2b964efe2b5594a6af2b0232",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jug-dortmund-nighthacking-jax-rs",
+  "thumbnail": "/wp-content/uploads/2016/03/jug-dortmund-nighthacking-jax-rs.jpg",
+  "title": "JUG Dortmund NightHacking - JAX-RS",
+  "type": "post",
+  "video_id": "igrGLREO_cQ",
+  "warnings": []
+}

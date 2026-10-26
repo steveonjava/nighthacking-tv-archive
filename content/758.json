@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-26 07:19:04",
+  "excerpt": "NightHacking Interview with Christoph Engelbert on Off Heap Memory at the JavaLand Conference.",
+  "id": 758,
+  "original_urls": [
+    "http://nighthacking.tv/christoph-engelbert-on-off-heap-memory/",
+    "http://nighthacking.com/christoph-engelbert-on-off-heap-memory/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "2181d97e42f7aa4d4abd79fe90e483b4504681d9aa1c85d6d6223d304ba7eacb",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/VwQmWSKWBsU"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/christoph-engelbert-on-off-heap-memory/",
+    "post_id": 758,
+    "rejected_urls": [],
+    "source_content_sha256": "3a3a8e72ecedfb78a55396fc60b0ffbb3e310922d3395a12553295fd49f6dc4d",
+    "source_date_sha256": "373d56d93b3a366a1bc1c90de8a43942b206e732488e1baa8443140b5070f1aa",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "afccd937e6ac2d1b6d6e9f318bc5e8a179c977c7413b33b3e4d902ff8cec501e",
+      "_video_thumbnail": "362f3bef0cf5ca22ad92af5d4902e834f649c48d929a476508e5cee2a115bea9",
+      "focus_video": "338b811e0557b3cb9c40f5ff9a6d36949d9562b7ab8eb7cc246a203f89b55325"
+    },
+    "source_slug_sha256": "7712bf4e62981291ed8888aa3eb8fd4da38f0ca1e1a9eedb2790ded69fcdbe76",
+    "source_title_sha256": "88c336fc7be5468cb078e987a834b83721dfc908c56ffe07755c3ceddec6afa7",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "christoph-engelbert-on-off-heap-memory",
+  "thumbnail": "/wp-content/uploads/2014/03/christoph-engelbert-on-off-heap.jpg",
+  "title": "Christoph Engelbert on Off Heap Memory",
+  "type": "post",
+  "video_id": "VwQmWSKWBsU",
+  "warnings": []
+}

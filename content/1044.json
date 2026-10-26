@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2014",
+      "slug": "jcrete2014"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-08-31 23:40:06",
+  "excerpt": "SQL vs. NoSQL Session at JCrete lead by Alvaro Hernandez.",
+  "id": 1044,
+  "original_urls": [
+    "http://nighthacking.tv/sql-vs-nosql-session-at-jcrete/",
+    "http://nighthacking.com/sql-vs-nosql-session-at-jcrete/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "64d014b5adfe85fdd61bcdf590774f5a401322e59ab39dae383763b03170cc55",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/40_Ik_DwozI"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/sql-vs-nosql-session-at-jcrete/",
+    "post_id": 1044,
+    "rejected_urls": [],
+    "source_content_sha256": "89860833449db725feeecae229b660a6d131e96e60d604c202a6a9491a49dcb4",
+    "source_date_sha256": "39268938360b58881f6aed6c46daacc2302c3a7092f1d380e98b8ea3a5eed506",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "6db44caad5c968a5ec334024daa615d29998fa79f82797cc12141871d0ffbd7b",
+      "_video_thumbnail": "eda2eedda71d7a1752c926ed284bc4022330768aa1c633a8f203aa4a6bd5149e",
+      "focus_video": "8908dc7bb259217d44684c4f00e61f085c3aeb0585f76faa0f8970bd604341e7"
+    },
+    "source_slug_sha256": "7927792ef790b237e9b2d9ee9145b6ab34352583a34ac39db33ef93592376546",
+    "source_title_sha256": "fadfc98e9a3ea15c29ba077565d02250888af5841aaad500836a0b1f9c3dfc2a",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "sql-vs-nosql-session-at-jcrete",
+  "thumbnail": "/wp-content/uploads/2014/08/sql-vs-nosql-session-at-jcrete.jpg",
+  "title": "SQL vs. NoSQL Session at JCrete",
+  "type": "post",
+  "video_id": "40_Ik_DwozI",
+  "warnings": []
+}

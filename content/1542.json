@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2015",
+      "slug": "oredev-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-11-06 02:53:28",
+  "excerpt": "Tim and Torill discuss various aspects of AI and biology.",
+  "id": 1542,
+  "original_urls": [
+    "http://nighthacking.tv/kodsnack-discussion-with-tim-urban-and-torill-kornfeldt/",
+    "http://nighthacking.com/kodsnack-discussion-with-tim-urban-and-torill-kornfeldt/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "42e76759923c86e482230e634acee6a6b65c6d1881a025cf16842d939f47d1de",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=xDu4-o4uFRQ"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/kodsnack-discussion-with-tim-urban-and-torill-kornfeldt/",
+    "post_id": 1542,
+    "rejected_urls": [],
+    "source_content_sha256": "dbf1177a5ffacdb61eaabad474539d321bbb5f8832a9600c5f5cd8e42b9aa0e8",
+    "source_date_sha256": "7fcfef8341e3a15076fcdea9b08be16fe108b783330bfabf843a635aec876057",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "194af3b3d7b007443c26af23c035430b0afb9abebf8c89432884147fc41af759",
+      "_video_thumbnail": "e423955d5b2d43665633147a0e7f77a7917f0b016f15de898f2b58e70868ad36",
+      "focus_video": "7f366ad7d695d27ac8cb9822a85ab83e27d8b43d2f4d5f6b8c19541e617d0638"
+    },
+    "source_slug_sha256": "f3f139046f3f6f7bb0cf9099358d50e60b62f40695ddd9495acfbfcd392f440c",
+    "source_title_sha256": "7fcab9cb3e41dc0b9690265febd5856bcf50c5b30e95086ac4834578a5324ed2",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "kodsnack-discussion-with-tim-urban-and-torill-kornfeldt",
+  "thumbnail": "/wp-content/uploads/2015/11/kodsnack-discussion-with-tim-urb.jpg",
+  "title": "Kodsnack discussion with Tim Urban and Torill Kornfeldt",
+  "type": "post",
+  "video_id": "xDu4-o4uFRQ",
+  "warnings": []
+}

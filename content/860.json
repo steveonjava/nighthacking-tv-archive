@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-04-25 02:56:19",
+  "excerpt": "NightHacking presentation on Java 8 running on Legos and Raspberry Pi at the Great India Developer Summit (GIDS) in Bangalore.",
+  "id": 860,
+  "original_urls": [
+    "http://nighthacking.tv/nighthacking-at-gids/",
+    "http://nighthacking.com/nighthacking-at-gids/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "ed3e38cb327182d6c9ebfbee7b25617dafd35add69dd60681f1ebb9936d3b8dd",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=j6LE57IydOY"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nighthacking-at-gids/",
+    "post_id": 860,
+    "rejected_urls": [],
+    "source_content_sha256": "9f1e770c0d8c26e37568426b53981cb21a6c773622b738d59be388a070cb9e3a",
+    "source_date_sha256": "d7fb6423baf7ff6f11eccb56bfac79e8f4ede5827857e2b86e7bd40274b19906",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "ee9d527a0a6108477fc5c98cf2a00f65d38c8e8508c4d17c1c11b2441c78a2ec",
+      "_video_thumbnail": "d7ba872d6b554f5d2bed751cd19a11beb1efed7f87989915166014d3850d7d98",
+      "focus_video": "8b04afce58d1528b1ee6d1e630d1dbb81fbc3eb92b7ec4d765a5180253c6b73b"
+    },
+    "source_slug_sha256": "5ed5ac5576528f0bab9777604c520c102e8c34d7d48a49178f1e8a63e1712e82",
+    "source_title_sha256": "e2bffcf5873160766f633b335d74f083bb3bcaef85d2b0362d60e6c2b8dd5192",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nighthacking-at-gids",
+  "thumbnail": "/wp-content/uploads/2014/04/nighthacking-at-gids.jpg",
+  "title": "NightHacking at GIDS",
+  "type": "post",
+  "video_id": "j6LE57IydOY",
+  "warnings": []
+}

@@ -1,0 +1,70 @@
+{
+  "categories": [
+    {
+      "name": "Silicon Valley JavaFX User Group",
+      "slug": "silicon-valley-javafx-user-group"
+    }
+  ],
+  "date": "2015-08-12 23:53:27",
+  "excerpt": "When JavaFX Script was released, the mobile component was an important part. It was also one of the reasons many people and analysts believed in JavaFX as a real cross-platform client-side framework.  For a number of reasons, JavaFX on mobile disappeared from the official Java roadmap.  Fortunately, the OpenJFX team at Oracle made all the required sources available, and the JavaFXPorts initiative worked on providing JavaFX SDK's for the mobile platforms.  In this session, we will show the current state of JavaFX on Mobile.  We will show how to create a real cross-platform JavaFX Application using an IDE, and how easy it actually is to deploy that application on Android and iOS devices.  We will show some of the features and limitations, and talk about the eco-system that is starting to take shape.",
+  "id": 1525,
+  "original_urls": [
+    "http://nighthacking.tv/javafx-on-mobile-by-johan-vos/",
+    "http://nighthacking.com/javafx-on-mobile-by-johan-vos/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "a4d7ceb1977c87547a9003b57d9a4147582f108c58bae29f9c7e710f17bd6122",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "a:href",
+          "link",
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "www.meetup.com",
+        "rendered": true,
+        "status": "unverified",
+        "url": "http://www.meetup.com/svjugfx/events/221806020/"
+      },
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/qukopcMA-9M"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/javafx-on-mobile-by-johan-vos/",
+    "post_id": 1525,
+    "rejected_urls": [],
+    "source_content_sha256": "64ac0e93f0d08fc6bd00763bd33b6f7fa07d0635b4e4b2784771a88beb9ab2ad",
+    "source_date_sha256": "3be0e69d9c6a61cb9864a7b60aec83688ae0695b3e7ffd773151e0fb02c15d3d",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "46ff18131a6daf2839e263b69aeeee331620af74e08511fc80ab243ece1b407a",
+      "_video_thumbnail": "d84d306a681ef55b88c85ea2ab38628cdc99ace2f8fbf042b9132142491f7d45",
+      "focus_video": "371a9e4c7373523827b53135462f648de46b1df465499af2bd09964934e0d307"
+    },
+    "source_slug_sha256": "e93c71563a3f63e176a07ff68a7f76c310733a49b1eba3f4a9f442e61fef65be",
+    "source_title_sha256": "1f8d6e3c6de4b4cd2d950486e7ccdd93f31fc3a42b01bbb6dfe6fbd05e9fadf8",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "javafx-on-mobile-by-johan-vos",
+  "thumbnail": "/wp-content/uploads/2015/08/javafx-on-mobile-by-johan-vos.jpg",
+  "title": "JavaFX on Mobile by Johan Vos",
+  "type": "post",
+  "video_id": "qukopcMA-9M",
+  "warnings": [
+    "A UTF-8 nonbreaking space was normalized to a space."
+  ]
+}

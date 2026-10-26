@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-06-12 21:34:23",
+  "excerpt": "Ever wonder how those cool demos are created for JavaOne and other major confernences?  Well its your luck day because at this meetup Alexander Kouznetzov will show how JavaFX samples and demos are created by Oracle's engineers.  Featuring:  Cool 2D and 3D graphics with JavaFX in MandelbrotSet sample, 3D Chessboard and 3D chess robot animated demos.",
+  "id": 908,
+  "original_urls": [
+    "http://nighthacking.tv/cool-2d-and-3d-graphics-with-javafx/",
+    "http://nighthacking.com/cool-2d-and-3d-graphics-with-javafx/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "ca1030139a2fcf72103e9a9ad0bc79edea156ebbc9ab1e036a979fb1894db13f",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=M1GAeGAMMQg"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/cool-2d-and-3d-graphics-with-javafx/",
+    "post_id": 908,
+    "rejected_urls": [],
+    "source_content_sha256": "9a32cee3261bc49a938e754a114ff01909246cc30a396b622d6553c5b6993dcb",
+    "source_date_sha256": "9a3eed032d93eb24b4e419ccac61bfa8218b6cb6b569df1b006b18b2c722f6ea",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "39e18a493b913441c12fac89a09f24958e5da0ff6f3300c80c5359f36e3223aa",
+      "_video_thumbnail": "9e269920704a5107a7fecb3d636610878508bf0497dbe45116b50c108a12eac8",
+      "focus_video": "07a63dc96e3d92ec7ccb18006b922894492a58215439391401237c0b0cb2ff44"
+    },
+    "source_slug_sha256": "64a949a7e6dab0f5dc316afd9a25b4f97802fc0ee0c4389c6a9246bb49d53ede",
+    "source_title_sha256": "12a4f67faefc9210d46f62abd1cc5ec07ab48a2deaa6a1c4b057ba031395fc1f",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "cool-2d-and-3d-graphics-with-javafx",
+  "thumbnail": "/wp-content/uploads/2014/06/cool-2d-and-3d-graphics-with-jav.jpg",
+  "title": "Cool 2D and 3D graphics with JavaFX",
+  "type": "post",
+  "video_id": "M1GAeGAMMQg",
+  "warnings": []
+}

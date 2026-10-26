@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2015",
+      "slug": "jfokus2015"
+    }
+  ],
+  "date": "2015-02-05 14:11:02",
+  "excerpt": "Interview with Attila Szegedi (@asz) on Nashorn and JVM Performance at Jfokus.",
+  "id": 1279,
+  "original_urls": [
+    "http://nighthacking.tv/attila-szegedi-nashorn-and-jvm-performance/",
+    "http://nighthacking.com/attila-szegedi-nashorn-and-jvm-performance/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "301ad7d1c91ff7d67c124c5bc687b2116838a8ca19f67fbf2ebd57820558c30c",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=YAFK5X3s4tA"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/attila-szegedi-nashorn-and-jvm-performance/",
+    "post_id": 1279,
+    "rejected_urls": [],
+    "source_content_sha256": "6aa06e51c2eaeb5535185934346cb74b5fdf7c3975008e2c2520c1cdab3bb7fe",
+    "source_date_sha256": "b1456fbce0b146b5f46d66fba6fb1a4b393f64f58dd5e3b4462774a9ca99e69f",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "c2a824544a0afd72c9bfe30643efd67fa7b92401d1468625235b3b7cce716a8b",
+      "_video_thumbnail": "290712283496c70678a4238302850b186b8241e2b6ba68543371cf71a4bb63e2",
+      "focus_video": "f6b8e5e40b1a39a52c909740674db223ed8676a92d6baf6f474a5c68214476b0"
+    },
+    "source_slug_sha256": "83200662aebba2b9ba02514c9550405ba9c46ce31351a74c328f3fcb6a49463e",
+    "source_title_sha256": "0475711a0f3911bd16d70ebba5a7e256f537c0c8e2ccf3d22e6f6835226f409a",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "attila-szegedi-nashorn-and-jvm-performance",
+  "thumbnail": "/wp-content/uploads/2015/02/attila-szegedi-nashorn-and-jvm-p.jpg",
+  "title": "Attila Szegedi - Nashorn and JVM Performance",
+  "type": "post",
+  "video_id": "YAFK5X3s4tA",
+  "warnings": []
+}

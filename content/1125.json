@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2014",
+      "slug": "oredev"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-11-05 22:42:39",
+  "excerpt": "Live podcast recording by Kodsnack with Agile guru Fred George.",
+  "id": 1125,
+  "original_urls": [
+    "http://nighthacking.tv/kodsnack-interviewing-fred-george/",
+    "http://nighthacking.com/kodsnack-interviewing-fred-george/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "808db184d6c440250a6ab1b965ea0b77a02150dc7519b4f97725c2518a770c48",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=9NELjCaWtXA"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/kodsnack-interviewing-fred-george/",
+    "post_id": 1125,
+    "rejected_urls": [],
+    "source_content_sha256": "8818a1aa8e016947607f8ea183b2de08579c42df77998cef498c71f83161c322",
+    "source_date_sha256": "3bfd9162f08f344f71dbb41b851df282e6ea6823349a752411a3ba686db04bf9",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "7377a71607a8dabc029ab10e7a6a895b92e87762538b10ce8b10c4c9ddc74448",
+      "_video_thumbnail": "cd33c02615a1ef6708f340ab705f2995126bdf2325fe2b3b077deccfd6158969",
+      "focus_video": "9de4cd37495016b9222f07ece532d6b44265d454a31d50fbf94286287aa7b39b"
+    },
+    "source_slug_sha256": "9c0f50307c08702d5f840893f2900a9b0e599908161ba84cf79c7de760231c80",
+    "source_title_sha256": "d66564b9c467a48c9b0dd56481ab297b9ad12492e492e23d2d47625a687b0622",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "kodsnack-interviewing-fred-george",
+  "thumbnail": "/wp-content/uploads/2014/11/kodsnack-interviewing-fred-georg.jpg",
+  "title": "Kodsnack interviewing Fred George ",
+  "type": "post",
+  "video_id": "9NELjCaWtXA",
+  "warnings": []
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "DevNexus 2015",
+      "slug": "devnexus-2015"
+    }
+  ],
+  "date": "2015-03-12 13:34:39",
+  "excerpt": "Interview with Michael Minella on the Connected Car where he demonstrates using Spring XD to do data aggregation and predictive analysis based on IoT sensors in the car.",
+  "id": 1313,
+  "original_urls": [
+    "http://nighthacking.tv/michael-minella-on-the-connected-car/",
+    "http://nighthacking.com/michael-minella-on-the-connected-car/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "0fed63381a2dc41a377cdf3e026bbcb5c320fedc14457883558c724aea3c2220",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/_kPjtx9iOa8"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/michael-minella-on-the-connected-car/",
+    "post_id": 1313,
+    "rejected_urls": [],
+    "source_content_sha256": "306b1607ac451051e826d301d42a85b10ad8d3c7b602832596237f0f05fc4e20",
+    "source_date_sha256": "02d559ba70a69be6ca17e82dcf40f57b65327582b7f890cacc28180b305871d4",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "b24e3e21870645af14da826d4cb300c0f4f877c308efa30ff084f976f191aafb",
+      "_video_thumbnail": "979383aab8fba27d3cdb2903f848293b32935b76db7f5385fbbc54cb76dd004e",
+      "focus_video": "e0c6165f74205ec7fc427aeb142055ec0402dc7bfa3b08b09166bb49b46bfac1"
+    },
+    "source_slug_sha256": "57818de5c53a1b7fb625e3510b8517bd640fccfbf436761482cb25e77350cdd5",
+    "source_title_sha256": "65444e462cb0ac85a7aac76c47009b8252171d30debcaf98ecb967e59609d4de",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "michael-minella-on-the-connected-car",
+  "thumbnail": "/wp-content/uploads/2015/03/michael-minella-on-the-connected.jpg",
+  "title": "Michael Minella on the Connected Car",
+  "type": "post",
+  "video_id": "_kPjtx9iOa8",
+  "warnings": []
+}

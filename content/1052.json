@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2014",
+      "slug": "jcrete2014"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-08-31 23:46:43",
+  "excerpt": "Session on Reactive Programming at the JCrete Unconference lead by Kirk Pepperdine.",
+  "id": 1052,
+  "original_urls": [
+    "http://nighthacking.tv/reactive-programming-session-at-jcrete/",
+    "http://nighthacking.com/reactive-programming-session-at-jcrete/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "4f3a0eee8f9af282a31f9d7f750f78ba9b1b665035cd78ce23495372677e2f7e",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/3h53mc7OJMo"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/reactive-programming-session-at-jcrete/",
+    "post_id": 1052,
+    "rejected_urls": [],
+    "source_content_sha256": "c0b212495ff4248c7c15f7df492adc4e725fbb77de982c8164ee525dc499171c",
+    "source_date_sha256": "0aec2aae95ac4197fed88b7903417f4e982807db8600ac1a85794b6b46d3be4e",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "7d7179c146d0d6af4ebd304ab799a718fe949a8dcd660cd6d12fb97915f9ab0a",
+      "_video_thumbnail": "2b120958b2abbcf3ce4c2a5b08fcce01df7001e75b62fe1200cfed34993a15c2",
+      "focus_video": "da5f4bb3896e5cca132a364b83bfed78f1090366c4cb2684d11d4f7e4bd44ab3"
+    },
+    "source_slug_sha256": "0cd4447f7c365742f8cf7d91d6ffe67a10e0c5f126b2afe4fe12dd1717315af4",
+    "source_title_sha256": "2385f8f972e8addf3ecb56b35e354809945eea86b1d4f48f3f99d352d4ae5f83",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "reactive-programming-session-at-jcrete",
+  "thumbnail": "/wp-content/uploads/2014/08/reactive-programming-session-at.jpg",
+  "title": "Reactive Programming Session at JCrete",
+  "type": "post",
+  "video_id": "3h53mc7OJMo",
+  "warnings": []
+}

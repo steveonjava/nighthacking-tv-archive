@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "JAX Mainz 2016",
+      "slug": "jax-mainz-2016"
+    }
+  ],
+  "date": "2016-04-29 08:09:31",
+  "excerpt": "This interview is about advantages and pitfalls of microservices infrastructures, and on how to decide on the right infrastructure.",
+  "id": 1875,
+  "original_urls": [
+    "http://nighthacking.tv/microservices-with-eberhard-wolff/",
+    "http://nighthacking.com/microservices-with-eberhard-wolff/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "5d6b57c2dd1ae3ff7f0310d75a66dda1eb29b7702cb2f136d0fee69cfe616400",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=_D1ixK59yCk"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/microservices-with-eberhard-wolff/",
+    "post_id": 1875,
+    "rejected_urls": [],
+    "source_content_sha256": "21dd7604c35daab0ba950fe2918df85fb5b00c4de6b83c1c238c3bee6e4c1cff",
+    "source_date_sha256": "d94f9b068d5a0f39f09cc0e6d75df1bf7fb07c1c9d5c5d8048bac5f196d318b1",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "5325302e6a26d6e63f0988d276af9e618e78b9997c4893665618fce15af0fff3",
+      "_video_thumbnail": "5a57318c888f956bb8ba7a9a745a2847f60a29163e517f3d8f37204b482f0e67",
+      "focus_video": "6eec4b6e1d8acc1f28161e6a8d5bebcf7d3ec3f6f0b41458c766332d51d6d499"
+    },
+    "source_slug_sha256": "819038349c6c86e6dab07eaf34f1059f894fcbee52186fbe733e232b41066cb2",
+    "source_title_sha256": "8276d4487487a2a1acdff9ac9d1beb42935f52c035caa5fc5c44c8fdf3c8ea50",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "microservices-with-eberhard-wolff",
+  "thumbnail": "/wp-content/uploads/2016/04/microservices-with-eberhard-wolf-1.jpg",
+  "title": "Microservices with Eberhard Wolff",
+  "type": "post",
+  "video_id": "_D1ixK59yCk",
+  "warnings": []
+}

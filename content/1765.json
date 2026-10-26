@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2016",
+      "slug": "javaland-2016"
+    },
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    }
+  ],
+  "date": "2016-03-13 16:21:24",
+  "excerpt": "Interview with Eberhard Wolff on Microservices at the JavaLand Conference.",
+  "id": 1765,
+  "original_urls": [
+    "http://nighthacking.tv/eberhard-wolff-on-microservices/",
+    "http://nighthacking.com/eberhard-wolff-on-microservices/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "2e4a639985a4e1fc54cd27a3414fd79ffe8d78efc8628710606a2716117be7b6",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/bKWqdhEAdCA"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/eberhard-wolff-on-microservices/",
+    "post_id": 1765,
+    "rejected_urls": [],
+    "source_content_sha256": "ac632f979a2f1cbcea031365e397cc0f6342f1c49706310c5899c428fd4f3134",
+    "source_date_sha256": "bfa41d98f32984afa5098f6c91470398fae587642c6751aa269945f7ad7e2676",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "eb25198438a00b734ec6328be8da0b1bd787595b91d391f8ee1cfbd79b45d9dc",
+      "_video_thumbnail": "131bb747a21cb34f0b4857e22d91e6e6acdd41faea3e710587146ef277dc3b17",
+      "focus_video": "745960111e4e39324885fedc4cc204a0ac71bf60068a172f64def4ef202aab89"
+    },
+    "source_slug_sha256": "360e4fdcf646178d95445bfb3e395a92dd8187936e4c306fb5b25d71684f5d5b",
+    "source_title_sha256": "ca6e03fc0655773cd05d8cbd20f72c5b5b9952f2afad13e3b411bfad04350872",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "eberhard-wolff-on-microservices",
+  "thumbnail": "/wp-content/uploads/2016/03/eberhard-wolff-on-microservices.jpg",
+  "title": "Eberhard Wolff on Microservices",
+  "type": "post",
+  "video_id": "bKWqdhEAdCA",
+  "warnings": []
+}

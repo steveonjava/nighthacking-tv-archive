@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-25 08:22:00",
+  "excerpt": "Talk by Olivier Gaudin on continuous inspection of code with the SonarQube platform. In this presentation we discuss the objectives of managing technical debt, the benefits and the challenges. We look at how to success in setting up a quality gate with a demo of the platform.",
+  "id": 714,
+  "original_urls": [
+    "http://nighthacking.tv/continuous-inspection-with-sonarqube/",
+    "http://nighthacking.com/continuous-inspection-with-sonarqube/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "268c8f0a589bb4456ffab3b72123f3ca2c4652319106194b217f8bf9f7ffb186",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=LfcgnHTBa7o"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/continuous-inspection-with-sonarqube/",
+    "post_id": 714,
+    "rejected_urls": [],
+    "source_content_sha256": "8f843f64010dc682beecf61f23e0a68db8d1147b874e824e5e3275157979a06c",
+    "source_date_sha256": "060a78f2684c6fe410de05107cbfd9a0a19999e908e295682bab509c0ca3c457",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "2e00b312b0a9681bef09f9085a4e918b8fceb0c0b1c043dc17c90beef5fa446c",
+      "_video_thumbnail": "af0e28ff2b5f9db5ba8ca4cc0b3a518d0c56e50206b1e518cc2046ee19494bba",
+      "focus_video": "b872b793692e5abd80fdc5790df5b5e74d9703320ae16a144a520d8e84a53e17"
+    },
+    "source_slug_sha256": "10b5d6b555e81b51130234f5c975459e35bc7078a789dd6fc7f5bf308b470a7f",
+    "source_title_sha256": "4093c159dc85b3a8579b6f98f3e51b0909cd675fe4e50cee4dbeb63bc766e423",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "continuous-inspection-with-sonarqube",
+  "thumbnail": "/wp-content/uploads/2014/03/continuous-inspection-with-sonar.jpg",
+  "title": "Continuous Inspection with SonarQube ",
+  "type": "post",
+  "video_id": "LfcgnHTBa7o",
+  "warnings": []
+}

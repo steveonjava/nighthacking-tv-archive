@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-25 08:32:27",
+  "excerpt": "Interview with Mani Sarkar and Daniel Bryant on Adopt OpenJDK at the JavaLand Conference.  They did a great job explaining how to get started with hacking the JDK, and also how to get involved in the community.  For more info check out the getting started kit at http://bit.ly/17ovGUB.",
+  "id": 730,
+  "original_urls": [
+    "http://nighthacking.tv/nighthacking-with-mani-and-daniel-on-adopt-openjdk/",
+    "http://nighthacking.com/nighthacking-with-mani-and-daniel-on-adopt-openjdk/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "38922286f2d8b865a677ae403bb8e7c5a9aa4208d76d697780f5e519134efb03",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "bit.ly",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://bit.ly/17ovGUB"
+      },
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=NkcNmPpTm7M"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nighthacking-with-mani-and-daniel-on-adopt-openjdk/",
+    "post_id": 730,
+    "rejected_urls": [],
+    "source_content_sha256": "40cd8ee4e3f2881ac96e4be5abe0083f640c5cef9379839c2d26183ecbbcea5a",
+    "source_date_sha256": "625ca55d80e4c9053ab8ede98340971fc4d4f59d6fb9632ab48ed648ed7eebd9",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "81defd9e2e8f85c7f09874bbe5b8d9a9a5503c6d915a3afe4b65758f28d71fb7",
+      "_video_thumbnail": "ab117f1dd154dd24efe38d4e49d1528317e8da8a3305ebacf629fb9b6297441c",
+      "focus_video": "5ba1841a6956a2efbe3e0a33d6fca270a9305fe9e166dba959b75e65eb6add09"
+    },
+    "source_slug_sha256": "8ccd8d0c13287b88107b1c0f7342731077dd89c3a6ce413a3b361ad695b2e572",
+    "source_title_sha256": "593b02cb5f8511b515d1d6d6f060a8442dcf8649b81ff0176f12396eb9f19d9c",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nighthacking-with-mani-and-daniel-on-adopt-openjdk",
+  "thumbnail": "/wp-content/uploads/2014/03/nighthacking-with-mani-and-danie.jpg",
+  "title": "NightHacking with Mani and Daniel on Adopt OpenJDK ",
+  "type": "post",
+  "video_id": "NkcNmPpTm7M",
+  "warnings": []
+}

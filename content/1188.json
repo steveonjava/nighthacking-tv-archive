@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2014",
+      "slug": "oredev"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-11-09 01:24:14",
+  "excerpt": "Interview with Stefan Karpinski by Kodsnack on the Julia programming language.",
+  "id": 1188,
+  "original_urls": [
+    "http://nighthacking.tv/kodsnack-interviewing-stefan-karpinski/",
+    "http://nighthacking.com/kodsnack-interviewing-stefan-karpinski/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "95911d9e3a0e122b7e51b15374650f1f816d2e71270013ccc7be55a2beb392b2",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/NQWyfpvFL4g"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/kodsnack-interviewing-stefan-karpinski/",
+    "post_id": 1188,
+    "rejected_urls": [],
+    "source_content_sha256": "ba13971cfc0266543750ce40a77e0d8e046a5b592a62cabc79aa267bb15a0891",
+    "source_date_sha256": "f29cbdec0d813bda2e705f18c7276cfa4136e1e5d325852e3597cd58166eae5c",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "58eb0dd988df36c54ae88fcf58afcd0a69944c335d82dfbe68094063f54f4363",
+      "_video_thumbnail": "72bf95cd2d6f4a93f18817387f0fbb2eaec98876c2e181d4a098489a5f1af273",
+      "focus_video": "67dc98577a189ca222728b2bb91e7d1fb2a93f1e74604cd833a9201d9883eac6"
+    },
+    "source_slug_sha256": "3ee29134de3623f60f76f493c0373ae0bd0a951568df648e92a6d1bc09a9aa9b",
+    "source_title_sha256": "e91579dea32f4e726b94dd858c3099d9d966ffe783c2499e1fcab35368af3416",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "kodsnack-interviewing-stefan-karpinski",
+  "thumbnail": "/wp-content/uploads/2014/11/kodsnack-interviewing-stefan-kar.jpg",
+  "title": "Kodsnack interviewing Stefan Karpinski",
+  "type": "post",
+  "video_id": "NQWyfpvFL4g",
+  "warnings": []
+}

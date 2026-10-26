@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "DevNexus 2016",
+      "slug": "devnexus2016"
+    }
+  ],
+  "date": "2016-02-17 10:45:53",
+  "excerpt": "Heather VanCura interviewing Koffi Sessi on Developer Training at the DevNexus conference in Atlanta, Georgia.",
+  "id": 1661,
+  "original_urls": [
+    "http://nighthacking.tv/koffi-sessi-on-developer-training/",
+    "http://nighthacking.com/koffi-sessi-on-developer-training/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "af3002a4f81fbaa47daf80a6138493907f5e17354005315bc81ec760cfa64b23",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/q9nkm2Z1oKw"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/koffi-sessi-on-developer-training/",
+    "post_id": 1661,
+    "rejected_urls": [],
+    "source_content_sha256": "6ee12460310f1f304d0f496a4d079f0d2233f5fa26ca961dd6b09aa1c6353e2b",
+    "source_date_sha256": "073b5d9fe4a2e85b25669a95eb4aca3eb5d1da70e34d0e5ca71d3f9f0880c0fc",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "9eb2d543a0a36152b0077db398e71d3e0f03d3ef9e0a739f0d257042a4c7efb2",
+      "_video_thumbnail": "6695fcc0d2cb4d1dd1239f5354174e1f6ccedb4a9130b6c1516aad98b3d988b1",
+      "focus_video": "1418c1bca27155b0046c85f8cb059194b04a8ea9e439aa20ebdf4d03f1a15e1e"
+    },
+    "source_slug_sha256": "1f31609ecbbca366e5518f6aa305f08fd9ddd07a0b6cd32f36052e9ae52aafcd",
+    "source_title_sha256": "6dfe0b6bef1d7d07b642ef0888720f285d77f455ce21ac074abef7b4301d6bab",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "koffi-sessi-on-developer-training",
+  "thumbnail": "/wp-content/uploads/2016/02/koffi-sessi-on-developer-trainin.jpg",
+  "title": "Koffi Sessi on Developer Training",
+  "type": "post",
+  "video_id": "q9nkm2Z1oKw",
+  "warnings": []
+}

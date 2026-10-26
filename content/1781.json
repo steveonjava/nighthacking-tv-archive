@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    }
+  ],
+  "date": "2016-03-16 01:18:35",
+  "excerpt": "Presentation at JUG Bodensee by Stephen Chin about building a handheld Retro gaming console using a Raspberry Pi and Java NES emulator with a 3D printed case.",
+  "id": 1781,
+  "original_urls": [
+    "http://nighthacking.tv/jug-bodensee-retropi-handheld-java-gaming/",
+    "http://nighthacking.com/jug-bodensee-retropi-handheld-java-gaming/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "6efcfaef40bf29b8dc8e5927c2a0ccf1734045de5603933a49b859f7d731c07d",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/KlcPtXCgzkI"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jug-bodensee-retropi-handheld-java-gaming/",
+    "post_id": 1781,
+    "rejected_urls": [],
+    "source_content_sha256": "ceb6d57814737bbbb05ed6601f9f8f2bd1e526ebf6ff24487dc1bde0ecc70f0c",
+    "source_date_sha256": "11eff22e3fbaa364f61af3b03097750a4e49af215469af26d63f02ab187f723c",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "c1fcf0cd023db10f29d0b27e7f7b649185b04e8ba26f7a6061751add2126a4e6",
+      "_video_thumbnail": "ef835a3215164a3ff64908a47c648c5ce9dfea4299d051021d97b0944906abc1",
+      "focus_video": "05836c6c5fa1ba75c84186a794edb2f37ac50e312a0c4880b6dd531bdfe324e9"
+    },
+    "source_slug_sha256": "6aa68ac552102f685babfdb1b35e05f911a21a4c19f1f17cf975b70d0c9ab78d",
+    "source_title_sha256": "df414e88b94618a5c83730525a0b4369b29e1f29cdc883e463b4ff203aef8e7c",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jug-bodensee-retropi-handheld-java-gaming",
+  "thumbnail": "/wp-content/uploads/2016/03/jug-bodensee-retropi-handheld-ja-1.jpg",
+  "title": "JUG Bodensee - RetroPi Handheld Java Gaming",
+  "type": "post",
+  "video_id": "KlcPtXCgzkI",
+  "warnings": []
+}

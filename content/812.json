@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-04-06 09:07:01",
+  "excerpt": "NightHacking tour stop at the Geneva JUG.  Was a great turnout (~150 people), and they got to see the internals of Duke thanks to a little slip-up by my audience volunteer [no legos were harmed in the making of this movie].",
+  "id": 812,
+  "original_urls": [
+    "http://nighthacking.tv/geneva-jug-nighthacking/",
+    "http://nighthacking.com/geneva-jug-nighthacking/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "92f8051beb3de832d7be3ceaa365fc588703167e05f59629f22825dab27bce2c",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=kLI1S5ulSGg"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/geneva-jug-nighthacking/",
+    "post_id": 812,
+    "rejected_urls": [],
+    "source_content_sha256": "47eb1b5eaa179c7b4112729efff3a35b5f307a5cedbdf3c7c00c449e77edadfc",
+    "source_date_sha256": "c532b2922e2cd19e26745624c602cb33c24c733b4180de8f3c93f831f840b7fa",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "76ba652cbd2ef1931d0546ac1c9d8f12d21c81fad272b754975a0b1561dda275",
+      "_video_thumbnail": "7faf4427d7981b306f2c4fc848164703b363174c22592eb3f1e3df9055c33c51",
+      "focus_video": "2ef9c085fcddd4eedad2f1d029c298143feb5bf9ba1215903cd6d566dfe00353"
+    },
+    "source_slug_sha256": "934939db5cff8539f9eb22a63e258f08e83f286bd386e7dbffa6aac3c852dea1",
+    "source_title_sha256": "cbe39c6faba9bdc688aac30a1dfbe279031b6bb6b019d852e7904c2a029bf8b7",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "geneva-jug-nighthacking",
+  "thumbnail": "/wp-content/uploads/2014/04/geneva-jug-nighthacking.jpg",
+  "title": "Geneva JUG NightHacking ",
+  "type": "post",
+  "video_id": "kLI1S5ulSGg",
+  "warnings": []
+}

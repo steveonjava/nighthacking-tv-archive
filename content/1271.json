@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2015",
+      "slug": "jfokus2015"
+    }
+  ],
+  "date": "2015-02-05 14:07:16",
+  "excerpt": "Interview with Geert Bevin (@gbevin) on IoT and Music at Jfokus.",
+  "id": 1271,
+  "original_urls": [
+    "http://nighthacking.tv/geert-bevin-iot-and-music/",
+    "http://nighthacking.com/geert-bevin-iot-and-music/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "95ef92dead9a0fb71887f37b37114aa6582f6a750f1da5ad659591f3a2c2bbf9",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=rXBerQQQvDk"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/geert-bevin-iot-and-music/",
+    "post_id": 1271,
+    "rejected_urls": [],
+    "source_content_sha256": "7443f8bbf04a17b90724b4d08903e5298bb9b4927f1f538d49e45fdce14b02f0",
+    "source_date_sha256": "7639dcb12ca1e4ba5534aac34023f90119c44976e49225647822207a2d4397ec",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "7deef068fe937f6dcc2098c04bfea863983b6799a91010cde91a2d19eaa63ed1",
+      "_video_thumbnail": "8c2aa1ba4e382362d15288162d269ea4f3eb0a6b3f10f191065fb7216c0f7078",
+      "focus_video": "9b77ce9c36fc300549f4eb8dd2dc83d7f2eb4630c00153c12110c25660c064d5"
+    },
+    "source_slug_sha256": "028a6a119826a6482fff2d156174b9b643fc6d9ccce51cbc665f2edc35c1c5e6",
+    "source_title_sha256": "6e83d75c21aa45bb28a7edf75d7cdf1b415b3204a91a680ce65723a906e76ce8",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "geert-bevin-iot-and-music",
+  "thumbnail": "/wp-content/uploads/2015/02/geert-bevin-iot-and-music.jpg",
+  "title": "Geert Bevin - IoT and Music",
+  "type": "post",
+  "video_id": "rXBerQQQvDk",
+  "warnings": []
+}

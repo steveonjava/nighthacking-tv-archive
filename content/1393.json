@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2015",
+      "slug": "javaland-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-03-25 04:13:20",
+  "excerpt": "Interview with Peter Lawrey at JavaLand on some patterns he learned to migrate lambda code written in .NET to Java and get good performance.",
+  "id": 1393,
+  "original_urls": [
+    "http://nighthacking.tv/peter-lawrey-on-legacy-lambda-code-in-java/",
+    "http://nighthacking.com/peter-lawrey-on-legacy-lambda-code-in-java/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "58031a8667e17a4443471ca5dadf4c52ab36c0d6b5f3ede6f19d09790b321afd",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/v1CXEXvFj4w"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/peter-lawrey-on-legacy-lambda-code-in-java/",
+    "post_id": 1393,
+    "rejected_urls": [],
+    "source_content_sha256": "166ad8248c7eb42e82440c344f86f869a314037fb63195d8fdd83ac1e2d4d132",
+    "source_date_sha256": "ee6bbb050da2070df10520a8725e36326f259b3b7beb693d0394cc217a3840a1",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "b41f1aff4d998f2ee49db0454b48ed69cb5c0e499e9bd1608b5d2c0b4f6cccfe",
+      "_video_thumbnail": "6d77fb1e99f3bff3be99024e737c578229855adf545d59c7ec33b88584ccca7e",
+      "focus_video": "e6179f8c743c00aa7051ef725cbae1f503c6bb161b80f45689221abf32e2d61a"
+    },
+    "source_slug_sha256": "6526abda0e3e3542f57f7178a9046bf2f71060e55e61835e516da1552fd09475",
+    "source_title_sha256": "48444576830a4cce254b23ddba1af071c760848e3d3c60b4927b19e64834e7f4",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "peter-lawrey-on-legacy-lambda-code-in-java",
+  "thumbnail": "/wp-content/uploads/2015/03/peter-lawrey-on-legacy-lambda-co1.jpg",
+  "title": "Peter Lawrey on Legacy Lambda Code in Java",
+  "type": "post",
+  "video_id": "v1CXEXvFj4w",
+  "warnings": []
+}

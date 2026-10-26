@@ -1,29 +1,56 @@
 {
-  "id": 1586,
-  "type": "post",
-  "title": "Brian Goetz on Generic Specialization",
-  "slug": "brian-goetz-on-generic-specialization",
-  "date": "2016-02-08 05:05:26",
   "categories": [
     {
-      "slug": "jfokus-2016",
-      "name": "Jfokus 2016"
+      "name": "Jfokus 2016",
+      "slug": "jfokus-2016"
     }
   ],
+  "date": "2016-02-08 05:05:26",
   "excerpt": "Presentation from Brian Goetz during the VM Tech Summit at Jfokus on the compiler/vm details of generic specialization.",
+  "id": 1586,
   "original_urls": [
     "http://nighthacking.tv/brian-goetz-on-generic-specialization/",
     "http://nighthacking.com/brian-goetz-on-generic-specialization/"
   ],
-  "video_id": "TkpcuL1t1lY",
-  "thumbnail": "/wp-content/uploads/2016/02/brian-goetz-on-generic-specializ.jpg",
-  "review_status": "unreviewed",
   "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
     "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "42efa3b9f1334d04ef43fabb086cf750130b3faf38543ddbf3dfd7431620befe",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/TkpcuL1t1lY"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/brian-goetz-on-generic-specialization/",
     "post_id": 1586,
+    "rejected_urls": [],
     "source_content_sha256": "37a791e7504a26d9807b21c9ea477c4ffb8de1af8483eb5eb02cfd85df59457f",
-    "exporter_version": "prototype-export-1",
-    "authorship": "Original published text, not newly generated first-person prose"
+    "source_date_sha256": "ab82c34282b8a02d0bd2fe53c7af702574dffe5cb9bbd660b0bf84be710668cc",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "d24eac45e69be063cc0053eb02650954eec62c314c405e564a4d11e951392e75",
+      "_video_thumbnail": "7429dda01460c6ee48dbb971e71174cca9911e492093311163da6a2de7c86171",
+      "focus_video": "86f76101e0f193bc0fcaea1bd038d609d29c5a45232275d2dd96dc9a40a5f494"
+    },
+    "source_slug_sha256": "f7a1b03d0e11a5e76c63a94ccfd2048ed6c63ba7e1bc5719ec6063bdd83bb72b",
+    "source_title_sha256": "08987acebd7a7ce1160355fb37752ed35e834aa6e19efc993407e3fbafd007b3",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
   },
+  "review_status": "unreviewed",
+  "slug": "brian-goetz-on-generic-specialization",
+  "thumbnail": "/wp-content/uploads/2016/02/brian-goetz-on-generic-specializ.jpg",
+  "title": "Brian Goetz on Generic Specialization",
+  "type": "post",
+  "video_id": "TkpcuL1t1lY",
   "warnings": []
 }

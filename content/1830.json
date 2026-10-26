@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Madras JUG Developer Day 2016",
+      "slug": "madras-jug-developer-day-2016"
+    }
+  ],
+  "date": "2016-04-02 21:26:11",
+  "excerpt": "JSP Expression Language presented by Manigandan\n- Expression language overview\n- Create custom EL grammer",
+  "id": 1830,
+  "original_urls": [
+    "http://nighthacking.tv/jsp-expression-language/",
+    "http://nighthacking.com/jsp-expression-language/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "128c60ffe0dbe8c0f51c67d5907a475b3f8731fe81318b2584f07e35c52b2ba3",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/rf0y6Xl8BnI"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jsp-expression-language/",
+    "post_id": 1830,
+    "rejected_urls": [],
+    "source_content_sha256": "5de0c35d333253067a75bf98bfd4db1b9c4060de956e28fcde771ed627c2252c",
+    "source_date_sha256": "8e49d98444600053a0c2e7043f1b70780453555ba551ec83c8e38f3e4e3b9599",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "777abbc10ddf9551bf53465886aa3735ae687df3c3bacf08fa300736422cc21b",
+      "_video_thumbnail": "0f74803099334a51f963c207b4166361ac9648de5f02fa1fd1f2d29fb54cc138",
+      "focus_video": "36261b7b550f0dc4f6eebddd83b725d98a7bb0293389cc7adb25e3634318ab53"
+    },
+    "source_slug_sha256": "add93cac306972ec61b1d14e9b3a0b4657bc0eaa63652d1b000a4e04758b0845",
+    "source_title_sha256": "e5487a6c94add2c1e9601531cfdf453e987bbdd4f2f66560b3aa26be70e9d536",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jsp-expression-language",
+  "thumbnail": "/wp-content/uploads/2016/04/jsp-expression-language-2.jpg",
+  "title": "JSP Expression Language",
+  "type": "post",
+  "video_id": "rf0y6Xl8BnI",
+  "warnings": []
+}

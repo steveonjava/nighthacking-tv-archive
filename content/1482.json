@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "GeekOUT 2015",
+      "slug": "geekout-2015"
+    }
+  ],
+  "date": "2015-06-12 07:50:10",
+  "excerpt": "Interview with Tomasz Nurkiewicz on a variety of asynchronous processing topics including CompletableFuture, parallelStream(), actors, agents, software transactional memory, Groovy GPars, shared distributed memory, RPC leaky abstraction, and debugging and monitoring asynchronous code.",
+  "id": 1482,
+  "original_urls": [
+    "http://nighthacking.tv/tomasz-nurkiewicz-on-asynchronous-processing/",
+    "http://nighthacking.com/tomasz-nurkiewicz-on-asynchronous-processing/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "3fb0b77a72df44650acfefc0dceff87729958e59d582861458d44d4e3254f96e",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/596RKKhvZG8"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/tomasz-nurkiewicz-on-asynchronous-processing/",
+    "post_id": 1482,
+    "rejected_urls": [],
+    "source_content_sha256": "79b74245573173a977999a30c73567fed620023cfc5527221d34efb9899f52f7",
+    "source_date_sha256": "730de37bab2a053413b85728da20d5728932f379efa332e7285d1ec61d68296a",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "47f6c8c4b34d11e58a4b8643ea77722600f0f2a2134c6b5558de0b704a6ec9fb",
+      "_video_thumbnail": "b312a9e1b0f3a4beaf85d9e55150f3b6daf86ed80b018fe4827876c4fa3715f5",
+      "focus_video": "684a3ab3d301f13478f2622077db1b900975eb163ae037944be1480d280aad1a"
+    },
+    "source_slug_sha256": "2ac01a914c71d80c3c0a80c8a382ef2a3ab1a97baf4a0fc299e9a24448a504f1",
+    "source_title_sha256": "f5e8f2e7802bb4ec4109472e559e7def61fbd0646632e963b79e22e0267483f9",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "tomasz-nurkiewicz-on-asynchronous-processing",
+  "thumbnail": "/wp-content/uploads/2015/06/tomasz-nurkiewicz-on-asynchronou.jpg",
+  "title": "Tomasz Nurkiewicz on Asynchronous Processing",
+  "type": "post",
+  "video_id": "596RKKhvZG8",
+  "warnings": []
+}

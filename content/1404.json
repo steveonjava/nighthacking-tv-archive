@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2015",
+      "slug": "javaland-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-03-25 09:23:35",
+  "excerpt": "Interview with Wolf Nkole Helzle on the My-Matrix collage of 2000 photos as an artistic piece capturing the spirit of the JavaLand conference.",
+  "id": 1404,
+  "original_urls": [
+    "http://nighthacking.tv/javaland-my-matrix-project/",
+    "http://nighthacking.com/javaland-my-matrix-project/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "354d368aba91dffb61601d62e784c946ee718c2f28dbeea227d92943a3c800ea",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/Gv2ZyKASxBM"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/javaland-my-matrix-project/",
+    "post_id": 1404,
+    "rejected_urls": [],
+    "source_content_sha256": "6bd3ce6cc2e03b12323fa806314eaf940b0a9910122bcfce8c0fe469146582ab",
+    "source_date_sha256": "ce208052c5b0b269353212f5961f1d9e2cf40f2a0b4ccb72f1a4a288d1b488c6",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "1326c6c44cc5e89cc510c9d2a17dd02c9105a377df60cf64d953c1eb4b06b00d",
+      "_video_thumbnail": "18e421c75ac5a5960213d55645fa5ea6e5328223182989d5d0e3390d5d194616",
+      "focus_video": "3629139861aaf12be66ecb728972e7bf347cac0d4b3f37141f01283d8d964b0a"
+    },
+    "source_slug_sha256": "4c7a66bf6ddb6699e53acad3794d0ee27242e6626286f49a1765c9e3f4ebd292",
+    "source_title_sha256": "cb3cfe7e5bdc76ee4351b5612041010000b77e235619dc057038d4da2a6ca241",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "javaland-my-matrix-project",
+  "thumbnail": "/wp-content/uploads/2015/03/javaland-my-matrix-project.jpg",
+  "title": "JavaLand My-Matrix Project",
+  "type": "post",
+  "video_id": "Gv2ZyKASxBM",
+  "warnings": []
+}

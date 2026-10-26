@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2016",
+      "slug": "javaland-2016"
+    },
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    }
+  ],
+  "date": "2016-03-08 08:01:02",
+  "excerpt": "Interview with Ivar Grimstad on JMS 2.1 at the JavaLand conference.",
+  "id": 1718,
+  "original_urls": [
+    "http://nighthacking.tv/ivar-grimstad-on-jms-2-1/",
+    "http://nighthacking.com/ivar-grimstad-on-jms-2-1/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "713bc68af1dedd41346a8892959fb9b468aecd51388718353b82a1d7ee9ed96c",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/D61EGZbwNnc"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/ivar-grimstad-on-jms-2-1/",
+    "post_id": 1718,
+    "rejected_urls": [],
+    "source_content_sha256": "1cbe00c5a242d895867d4008421c4d8ab5b3a569da04683703f0b89e250d9837",
+    "source_date_sha256": "355c868e8afa0a3c16c2e2e03f0b9b95d6ae7384d4d03884f2413871fe6dcca7",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "451b01cbb6bdda2450c47423173e5655a3760dd6b130d95005d3b14600f21173",
+      "_video_thumbnail": "cc584457b2347b29d92a79767322f0f1e5de4ce8f9382d12020ff1864145f1ac",
+      "focus_video": "f43a5525ded3c4d3f1d47a0f182eb0ac0a814a80e549534f96f9604ccc5e379f"
+    },
+    "source_slug_sha256": "a97ef4070bc43129dc4f95c10e72aaec6d38e4d061450afe6fc45a3e7ddc0dba",
+    "source_title_sha256": "f7a0cac07c35a1f09e6bf542e692fe17a374946d0e8ac9cc79310207712c7a66",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "ivar-grimstad-on-jms-2-1",
+  "thumbnail": "/wp-content/uploads/2016/03/ivar-grimstad-on-jms-2-1.jpg",
+  "title": "Ivar Grimstad on JMS 2.1",
+  "type": "post",
+  "video_id": "D61EGZbwNnc",
+  "warnings": []
+}

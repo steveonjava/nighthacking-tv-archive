@@ -1,0 +1,62 @@
+{
+  "categories": [
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2016-03-04 02:43:16",
+  "excerpt": "NightHacking session at JUG Berlin-Brandenburg.  Starts with an interview with some JUG members followed by two presentations (first on JAX-RS and second on Raspberry Pi with Java).  Apologies for the audio at the beginning of the second one, but someone on the live stream pointed it out and we fixed it a minute or two in.",
+  "id": 1695,
+  "original_urls": [
+    "http://nighthacking.tv/jug-berlin-brandenburg-nighthacking/",
+    "http://nighthacking.com/jug-berlin-brandenburg-nighthacking/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "91f34dd6795d7841ff9893dc5fa1c8a56aa197a570007c0d52feec5878ca52fb",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=T3AnECbXoow"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jug-berlin-brandenburg-nighthacking/",
+    "post_id": 1695,
+    "rejected_urls": [],
+    "source_content_sha256": "ed6c14e405cbd8ea574823fd8351d462b80e7176705366062fb5df05664101ad",
+    "source_date_sha256": "112f1cb01389763ccaf7339e014bbdc7f1c83ff381444d56dcf2f1af83d7a7d2",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "d464f7141af4a42f6579fe8e7b5d3623b9742b2b0bc48536ca1a33a32944d57a",
+      "_video_thumbnail": "7cf976cc7df547db0af9c21faaa9ceec07404608d891097895bc9a8cd7ebb02a",
+      "focus_video": "0008f74792a171f9e877d0d5b9f0fba5d35346bf448476a5d83d6865374425c5"
+    },
+    "source_slug_sha256": "2f35beaf65713c626f36ea9e1206ec9c5d02dae3858cfb5ff912f6199bbbfd07",
+    "source_title_sha256": "6b8e52f12414f3a8bbe76313c2faad4e39d4c77efa59e86e73bbdb2df518c0d5",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jug-berlin-brandenburg-nighthacking",
+  "thumbnail": "/wp-content/uploads/2016/03/jug-berlin-brandenburg-nighthack.jpg",
+  "title": "JUG Berlin-Brandenburg NightHacking",
+  "type": "post",
+  "video_id": "T3AnECbXoow",
+  "warnings": [
+    "A UTF-8 nonbreaking space was normalized to a space."
+  ]
+}

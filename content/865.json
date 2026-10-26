@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-04-25 03:20:25",
+  "excerpt": "Short video clip of a ride through Bangalore, India on the back of my friend's motorcycle.  This was taken in the afternoon when the roads should have been pretty empty (but in India they never are).  Enjoy!",
+  "id": 865,
+  "original_urls": [
+    "http://nighthacking.tv/nighthacking-ride-in-india/",
+    "http://nighthacking.com/nighthacking-ride-in-india/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "5df6d1a5040f359bc97940f26e807ec259aa72346d0c3b35513961c926e189dc",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/hgHsNGErZFg"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nighthacking-ride-in-india/",
+    "post_id": 865,
+    "rejected_urls": [],
+    "source_content_sha256": "6045345f3f5b0f8063b612deee9b65d3245540c08c3cd7ee52d4c8067d5eed82",
+    "source_date_sha256": "6ab577572c7e903b219fd44e548c5421b9279cb9337799c95eb67cc00d1481a8",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "8a9a02d73aeefd97306a08c30969a9e8d5ef03960978a1c5db4447558d40f689",
+      "_video_thumbnail": "652f559684fc8900a08ed93c95fd7d27d68d47cff1ea0061a539f82e85b5edf2",
+      "focus_video": "d25d471132994daef1fa268bde88faf05b9e19be0328008a91d307a920665225"
+    },
+    "source_slug_sha256": "80269cfb09088f21764fcebed48c724a02e6f77d56a614b7f044a6f99518d58f",
+    "source_title_sha256": "aa9b514f2d975ce8e836b8c67a7bd8da028ed6a87f8146096c4cde9613c17bce",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nighthacking-ride-in-india",
+  "thumbnail": "/wp-content/uploads/2014/04/nighthacking-ride-in-india1.jpg",
+  "title": "NightHacking Ride in India ",
+  "type": "post",
+  "video_id": "hgHsNGErZFg",
+  "warnings": []
+}

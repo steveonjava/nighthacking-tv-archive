@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "GeekOUT 2015",
+      "slug": "geekout-2015"
+    }
+  ],
+  "date": "2015-06-12 03:01:47",
+  "excerpt": "Panel on 20 Years of Java at the GeekOUT (@GeekOutEE) conference with Sven Peters (@svenpet) Markus Eisele (@myfear) Andres Almiray (@aalmiray) Konrad Malawski (@ktosopl) and Ed Burns (@edburns).",
+  "id": 1470,
+  "original_urls": [
+    "http://nighthacking.tv/20-years-of-java-panel/",
+    "http://nighthacking.com/20-years-of-java-panel/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "249287cebfce76bdbd0a7735dea018f83414f4f1fe60ec104a345423799f3132",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/Iu_zkGNUfWM"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/20-years-of-java-panel/",
+    "post_id": 1470,
+    "rejected_urls": [],
+    "source_content_sha256": "16e62102d179b6196730e14557d90957aafe3b2e117d55327e1ac1d0b69fa18d",
+    "source_date_sha256": "4bd526473cb8a829cc6e43e7bd901126322a4527b945f90e6abc0eed079df784",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "e56ae9ee21661d3febabe8d1e03ee82d02466a5d405e89f2acf449cd6a6240b8",
+      "_video_thumbnail": "6763b3a330ddc31fae3038286c8172eb2f3675c1c9129a072ffdafb323cbb5cb",
+      "focus_video": "215ce8624fd033557f5c1a2761aa2906ea0e0ba4de2fde3e6583a6abd0a503ba"
+    },
+    "source_slug_sha256": "7986f3c87b54904d202a996b3899b7f5aed7b7756c44aa1f5898060e9ad2d224",
+    "source_title_sha256": "8bd95f8a9fa94b3b1a8db487f0f5b93e25ebffafba34d6e4b159ac192612549d",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "20-years-of-java-panel",
+  "thumbnail": "/wp-content/uploads/2015/06/20-years-of-java-panel.jpg",
+  "title": "20 Years of Java Panel",
+  "type": "post",
+  "video_id": "Iu_zkGNUfWM",
+  "warnings": []
+}

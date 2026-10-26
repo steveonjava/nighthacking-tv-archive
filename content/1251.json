@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2015",
+      "slug": "jfokus2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-02-05 13:55:24",
+  "excerpt": "Interview with Lauren Schaefer (@Lauren_Schaefer) on Cloud DevOps and Growth Hacking at the Jfokus conference.",
+  "id": 1251,
+  "original_urls": [
+    "http://nighthacking.tv/lauren-schaefer-cloud-devops-and-growth-hacking/",
+    "http://nighthacking.com/lauren-schaefer-cloud-devops-and-growth-hacking/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "ed82346685dd984793fb25c9f821b64fc4d1294574670ed90b61758849695a26",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=7AWIaCsQsEE"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/lauren-schaefer-cloud-devops-and-growth-hacking/",
+    "post_id": 1251,
+    "rejected_urls": [],
+    "source_content_sha256": "c95a3d33b142ecc47d6190a1f8cbbe1744e49b3448c33e13a419001d2fb16663",
+    "source_date_sha256": "caff5090ca0d8f38b94ea5cd5cf98ce867f5fa027343f99e203e2452762b1658",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "f2adeac9190ca809f50201695117e73b723ddab809b7508f72a8a57c667767ea",
+      "_video_thumbnail": "21b2392623d2475288191338110399fdaffba452ba1fe5bbfdcf929141dc8411",
+      "focus_video": "b5447a46a0c4e98c2838714f5ec17bcf9151587f0e5389fb95a05bd543f42bc5"
+    },
+    "source_slug_sha256": "69372bb1b988f0e8ebac83242cc550d5a411302210b59d86b9cd51acfbb65d02",
+    "source_title_sha256": "e45f45c3ef6da7c38d13a15cfa3ab9bff5293eb84a535a38a5b08f2d52fc7d6a",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "lauren-schaefer-cloud-devops-and-growth-hacking",
+  "thumbnail": "/wp-content/uploads/2015/02/lauren-schaefer-cloud-devops-and.jpg",
+  "title": "Lauren Schaefer - Cloud DevOps and Growth Hacking",
+  "type": "post",
+  "video_id": "7AWIaCsQsEE",
+  "warnings": []
+}

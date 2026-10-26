@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2013-11-06 07:53:33",
+  "excerpt": "",
+  "id": 233,
+  "original_urls": [
+    "http://nighthacking.tv/nighthacking-with-gerrit-on-pi-xbee-and-sensor-networks/",
+    "http://nighthacking.com/nighthacking-with-gerrit-on-pi-xbee-and-sensor-networks/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=GTr0CtrlNGY&feature=c4-overview-vl&list=PLX8CzqL3ArzW7T-75n9-8g8dlPcTlMv__"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nighthacking-with-gerrit-on-pi-xbee-and-sensor-networks/",
+    "post_id": 233,
+    "rejected_urls": [],
+    "source_content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source_date_sha256": "89681d13c08e6e7db72d2334358284c7d10d8a57a0ca9286c2904e6971679d57",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "a30f4ef42176d28f0e2293533c5f532e9c9c5696c68813b35315d17edc44f6b1",
+      "_video_thumbnail": "c3b95172f05434c9378c1c0311ff7235ccbf3e072d6dca2a8e20b97c1b47734b",
+      "focus_video": "1a1af098c82d70bfd2002f15b4ab430b5c58cf411e4bb17ab4f8401e710679c9"
+    },
+    "source_slug_sha256": "6828c9b5665a0ee6870a46d70b53edafd57ea55473e424fe12229e544d17561a",
+    "source_title_sha256": "3a5ebc7d832ce4e05acf7a469e07657eb2ff4f03a359eb9b3528f2b495bcb860",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nighthacking-with-gerrit-on-pi-xbee-and-sensor-networks",
+  "thumbnail": "/wp-content/uploads/2013/11/nighthacking-with-gerrit-on-pi-xbee-and-sensor-networks5.jpg",
+  "title": "NightHacking with Gerrit on Pi, XBee, and Sensor Networks ",
+  "type": "post",
+  "video_id": "GTr0CtrlNGY",
+  "warnings": []
+}

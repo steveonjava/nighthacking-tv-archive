@@ -1,0 +1,62 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2015",
+      "slug": "oredev-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-11-07 10:39:15",
+  "excerpt": "Interview with Markus Eisele on Microservices, Java EE, and Apache Camel at the \u00d8redev conference.",
+  "id": 1557,
+  "original_urls": [
+    "http://nighthacking.tv/markus-eisele-on-microservices/",
+    "http://nighthacking.com/markus-eisele-on-microservices/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "c0777d5fa84134f0539bd21b84e9647e807467a1fb08d3cade7e2ce4b0c55ed1",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/5fPQEFZYSUg"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/markus-eisele-on-microservices/",
+    "post_id": 1557,
+    "rejected_urls": [],
+    "source_content_sha256": "8938a35a08486275ffa9bc73622a538f768077d2902ec0f92e46dc2448cf92da",
+    "source_date_sha256": "7340ea1928a460415d421be1a1823fbfa6fb51145e30e5a4b1da65e190a461e9",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "3a481e728390d89c6843c180dc18ca8d693de5f5421e6240711c5dad483c72b3",
+      "_video_thumbnail": "153effdbabeda1593b43125a9d67f4daa1767850068911c84d63b6e4fe770f8d",
+      "focus_video": "78b318c54be3fa5957f8bb8432d7fac391fefa0f69eafee6785258fbcbc06ed0"
+    },
+    "source_slug_sha256": "c2d3a400bedc5d7c73a094dc7fe81db62fcab24fa8d29caa49c3c355d5e531fa",
+    "source_title_sha256": "1ffd91c3ac9b20e7106fa3b85ec72a8d1b246ea561883ad993f5de7c2bd6ea28",
+    "table": "wp_posts",
+    "video_status": "unknown"
+  },
+  "review_status": "unreviewed",
+  "slug": "markus-eisele-on-microservices",
+  "thumbnail": "/wp-content/uploads/2015/11/markus-eisele-on-microservices.jpg",
+  "title": "Markus Eisele on Microservices",
+  "type": "post",
+  "video_id": null,
+  "warnings": [
+    "focus_video has no unique validated YouTube ID in a known field or URL."
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2016",
+      "slug": "javaland-2016"
+    },
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    }
+  ],
+  "date": "2016-03-08 08:26:23",
+  "excerpt": "Learn what is new with Java EE from Java Community Process (JCP) expert group members.",
+  "id": 1739,
+  "original_urls": [
+    "http://nighthacking.tv/heather-vancura-interviewing-java-ee-experts/",
+    "http://nighthacking.com/heather-vancura-interviewing-java-ee-experts/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "338d1bee6fb120640837235c97c38a8f0e4a22f2cdb9847c347313701d107f4b",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/iEdyjG49zNk"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/heather-vancura-interviewing-java-ee-experts/",
+    "post_id": 1739,
+    "rejected_urls": [],
+    "source_content_sha256": "cc5b84e0fb84d4f703261708f0724a8fee777e75aa093d2ecd2c1019095561a6",
+    "source_date_sha256": "8af8fdab37919437486181474d8f0f0cf21673c0c02d07ca80c1856f72ce6056",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "1828526428f17576e6581a0b9c893ecf79c1fdc20f495f0bdc98b559b25b92a6",
+      "_video_thumbnail": "912b2ebbe21e171ba06d28467d812a40f944077f4f5670abdfbedb8399632208",
+      "focus_video": "7bcd41ddc16d3a9e94a355a9b1b462b893175e749d3b20cf1d7e9a6dae17cbc3"
+    },
+    "source_slug_sha256": "05554a8f3bfb76088f1ca2870aea2319c1601dee52fa7a097e4c881c7d695acb",
+    "source_title_sha256": "0e19714c65988cf1dd05c0569ef31c98df18fbd058f7ab022f3d49843c6a9b28",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "heather-vancura-interviewing-java-ee-experts",
+  "thumbnail": "/wp-content/uploads/2016/03/heather-vancura-interviewing-jav.jpg",
+  "title": "Heather VanCura interviewing Java EE Experts",
+  "type": "post",
+  "video_id": "iEdyjG49zNk",
+  "warnings": []
+}

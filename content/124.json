@@ -1,0 +1,92 @@
+{
+  "categories": [],
+  "date": "2013-09-16 11:02:56",
+  "excerpt": "NightHacking I/O Things Tour- Oct 18 to Nov 19 2013",
+  "id": 124,
+  "original_urls": [
+    "http://nighthacking.tv/tour/",
+    "http://nighthacking.com/tour/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "42ebd17bf3c0de9f5c7fb5519e4983aa9dd1abe3dd7846d9c7a8c86a59877e09",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "a:href",
+          "link"
+        ],
+        "fetched": false,
+        "host": "devoxx.be",
+        "rendered": true,
+        "status": "unverified",
+        "url": "http://devoxx.be/"
+      },
+      {
+        "contexts": [
+          "a:href",
+          "link"
+        ],
+        "fetched": false,
+        "host": "steveonjava.com",
+        "rendered": true,
+        "status": "unverified",
+        "url": "http://steveonjava.com/travel-map/lets-meetup/"
+      },
+      {
+        "contexts": [
+          "a:href",
+          "link"
+        ],
+        "fetched": false,
+        "host": "twitter.com",
+        "rendered": true,
+        "status": "unverified",
+        "url": "http://twitter.com/nighthackingtv"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/tour/",
+    "page_ancestor_ids": [],
+    "page_parent_id": 0,
+    "post_id": 124,
+    "rejected_urls": [
+      {
+        "context": "a:href",
+        "reason": "unsafe-or-unsupported-url",
+        "value_sha256": "5aa10ffe36aca0329321dd89ca4312284eed7cdebf709ed36a545c11743b73b9"
+      },
+      {
+        "context": "link",
+        "reason": "unsafe-or-unsupported-url",
+        "value_sha256": "5aa10ffe36aca0329321dd89ca4312284eed7cdebf709ed36a545c11743b73b9"
+      },
+      {
+        "context": "link",
+        "reason": "unsafe-or-unsupported-url",
+        "value_sha256": "5aa10ffe36aca0329321dd89ca4312284eed7cdebf709ed36a545c11743b73b9"
+      }
+    ],
+    "source_ancestor_slug_sha256": {},
+    "source_content_sha256": "be264d28a6a94e1ddf043271a532e0f7391e9dbfb3ef6f30e7c2194231e5901e",
+    "source_date_sha256": "ad9356c9902ce8540160ad0b1e74d2a0e4fbd2ec995f0b17b89bbabc5e4c4680",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {},
+    "source_slug_sha256": "d7b44809a0359169b755a7030186df928be6b79eff65dc6534e17aacbca31c49",
+    "source_title_sha256": "fd695ea986df9ebe99ee351e706dc1adc4c38f00d670919c265375470f7d7783",
+    "table": "wp_posts",
+    "video_status": "not-applicable-static-page"
+  },
+  "review_status": "unreviewed",
+  "route": "/tour/",
+  "slug": "tour",
+  "thumbnail": null,
+  "title": "NightHacking Internet of Things Tour",
+  "type": "page",
+  "video_id": null,
+  "warnings": [
+    "A CMS-only form, upload or player shortcode was omitted."
+  ]
+}

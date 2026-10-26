@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2016",
+      "slug": "jcrete-2016"
+    }
+  ],
+  "date": "2016-08-05 04:49:10",
+  "excerpt": "JCrete 2016, Day 1\nProject Valhalla / What are the biggest issues to be improved in Java\nSven Reimers & Richard Warburton",
+  "id": 1964,
+  "original_urls": [
+    "http://nighthacking.tv/project-valhalla-issues-to-improve-in-java/",
+    "http://nighthacking.com/project-valhalla-issues-to-improve-in-java/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "af56cfba88ae879c244b3557c64312159f4f9e01f0ce774cf5846323a00f3dff",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=wnqjYla62VU"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/project-valhalla-issues-to-improve-in-java/",
+    "post_id": 1964,
+    "rejected_urls": [],
+    "source_content_sha256": "efd7b6dfed0a1f5cb4312f1fb2ec4d898de2c5a4b5a6dc9dac5b29178873b25b",
+    "source_date_sha256": "04f0fc6c23fadc41c9462b9b12f8c6328ce8a3e76afba88d9067fc90331bba79",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "c00cf031587d12c309358e85de8876b2738d3ef2cadd88db6b07318ea0ba8973",
+      "_video_thumbnail": "4d356bcc2e170ea03aaa5c9d6e907b38446ad581c873f31ed1c154b93105cad9",
+      "focus_video": "b0f5d1ab22215679e736b2535da991f727d23057bef8a858538e606b37f4dff2"
+    },
+    "source_slug_sha256": "830ecb5ecf978de1a3e5afbbb3047a42680012a28f1392b570e4aae03840655f",
+    "source_title_sha256": "9867b77eb7bb71a4c53e9955b986f4ba8894903a9a3d04e2c2f461a62ffb61f6",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "project-valhalla-issues-to-improve-in-java",
+  "thumbnail": "/wp-content/uploads/2016/08/project-valhalla-issues-to-impro.jpg",
+  "title": "Project Valhalla / Issues to improve in Java",
+  "type": "post",
+  "video_id": "wnqjYla62VU",
+  "warnings": []
+}

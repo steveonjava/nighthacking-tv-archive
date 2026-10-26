@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "JavaOne LAD 2015",
+      "slug": "javaone-lad-2015"
+    }
+  ],
+  "date": "2015-06-30 16:15:37",
+  "excerpt": "Interview with Bruno Souza (@brjavaman) and Edson Yanaga (@yanaga) on DevOps and Java at the JavaOne LAD conference in Sao Paulo, Brazil.",
+  "id": 1488,
+  "original_urls": [
+    "http://nighthacking.tv/bruno-souza-and-edson-yanaga-on-devops-and-java/",
+    "http://nighthacking.com/bruno-souza-and-edson-yanaga-on-devops-and-java/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "14dc64de0f6c9bf2f9ea1a9d56643796081dfc5beff5fd927444fed064fc6b46",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/UqToaBSFXG8"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/bruno-souza-and-edson-yanaga-on-devops-and-java/",
+    "post_id": 1488,
+    "rejected_urls": [],
+    "source_content_sha256": "c8c9a20371cef72adfe16216b7e0fef0d96a21940c567d7ffa4e6bf2a0958f69",
+    "source_date_sha256": "378238c7dd05690f76766949d681f7373013137aaf68f00c295b9681360dc09b",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "a1271642c26ded1a08fc67a7791aa368ec32e76940cf6f15e779d091f31439fb",
+      "_video_thumbnail": "e84b689a8cadfa691f8aeccaf1c351d1c7a33eb78ab845a77970b3e48d4678b1",
+      "focus_video": "7cc62a59e3eea4e002929f9192d506ce4bde4ad69ab2baf628b7986e30be1f09"
+    },
+    "source_slug_sha256": "6ccd29bef642db0edbbbba0f31ee162f83cce9143fc6d924600a64144c82d147",
+    "source_title_sha256": "50063b047836195ddd45f89b59b48433fd8f5d226f8e87549caa53ec7a6823ce",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "bruno-souza-and-edson-yanaga-on-devops-and-java",
+  "thumbnail": "/wp-content/uploads/2015/06/bruno-souza-and-edson-yanaga-on.jpg",
+  "title": "Bruno Souza and Edson Yanaga on DevOps and Java",
+  "type": "post",
+  "video_id": "UqToaBSFXG8",
+  "warnings": []
+}

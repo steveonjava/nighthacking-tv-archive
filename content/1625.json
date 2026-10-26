@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2016",
+      "slug": "jfokus-2016"
+    }
+  ],
+  "date": "2016-02-10 08:16:29",
+  "excerpt": "NightHacking interview at the Jfokus conference with Aleksey Shipilev on String Enhancements in JDK 9.",
+  "id": 1625,
+  "original_urls": [
+    "http://nighthacking.tv/aleksey-shipilev-string-enhancements-in-jdk-9/",
+    "http://nighthacking.com/aleksey-shipilev-string-enhancements-in-jdk-9/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "dedc55212995423e0b323d14a7b524ca769894a75d6ca22756512af2a31f5a34",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/_evzaAkd594"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/aleksey-shipilev-string-enhancements-in-jdk-9/",
+    "post_id": 1625,
+    "rejected_urls": [],
+    "source_content_sha256": "1e931f8de6433530785b64f49b9e65a6d4f40e91ef2f5b3813332584cf21d465",
+    "source_date_sha256": "1383ca01c76f22a2330bb28dc79f4dbac206d6a603cf783609a7f97aad0bba75",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "8ec5f9f24992404000f7060d95c087f773f0dd3eeed7c616ee3d89e052ac2ecb",
+      "_video_thumbnail": "0aca13d8551a7a7dd32bc65e2dc70a06999c78cef65774f365f610b4c2c366e3",
+      "focus_video": "29bcf801c073570d593880d507e200f9dcc40831ae0cf63b98d677563d557fee"
+    },
+    "source_slug_sha256": "898552a56bf614ed8d433b00be27fada8af44716aa1ec819f6a9ebc2df7b7dc4",
+    "source_title_sha256": "5f58fb729284093bd93d72ff0ef62df1d1be80a68ce9e362391209eaef2d161c",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "aleksey-shipilev-string-enhancements-in-jdk-9",
+  "thumbnail": "/wp-content/uploads/2016/02/aleksey-shipilev-string-enhancem.jpg",
+  "title": "Aleksey Shipilev - String Enhancements in JDK 9",
+  "type": "post",
+  "video_id": "_evzaAkd594",
+  "warnings": []
+}

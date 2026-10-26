@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Devoxx 2014",
+      "slug": "devoxx-2014"
+    }
+  ],
+  "date": "2014-11-15 09:24:12",
+  "excerpt": "Interview with Richard Warburton on his new open source project for reliable messaging transport over unicast and multicast called Aeron.",
+  "id": 1207,
+  "original_urls": [
+    "http://nighthacking.tv/richard-warburton-on-aeron/",
+    "http://nighthacking.com/richard-warburton-on-aeron/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "7ec4a526bc31da289ec97fc1f5b3c30caa940d890d5448beefe76251b02456ce",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/-7WJhqoSg7Y"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/richard-warburton-on-aeron/",
+    "post_id": 1207,
+    "rejected_urls": [],
+    "source_content_sha256": "48df96e98d3cd134c00ae60565ffcfe787d71869be986ca3b6eb19d8380f2550",
+    "source_date_sha256": "1c43ea6f00b35828a4bece7d2c03cb79b00571006f373fbb919b4066bb018ed9",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "fd68fcf88c30b4df82ec214bb6b559ede1a5d47f3b1f751524177b998bb6bbdd",
+      "_video_thumbnail": "611b9b3626540e787512893ed38994ca80a4a4e3de966bcffd99caf5ab654f12",
+      "focus_video": "a77c761a4e027e3bd73ab91ac3be8d31ea735c515c4f88107b1bc09c26489259"
+    },
+    "source_slug_sha256": "492479728bc50d62315119aaf0366b509c0113406814f0a35089bbae6a4bc7a5",
+    "source_title_sha256": "13d124e7983b5800ada38e3b8d136f2d24c3417ce3124e846a62ba42abd7645c",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "richard-warburton-on-aeron",
+  "thumbnail": "/wp-content/uploads/2014/11/richard-warburton-on-aeron.jpg",
+  "title": "Richard Warburton on Aeron",
+  "type": "post",
+  "video_id": "-7WJhqoSg7Y",
+  "warnings": []
+}

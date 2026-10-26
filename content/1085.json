@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaOne 2014",
+      "slug": "javaone2014"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-09-29 16:37:40",
+  "excerpt": "Jim Laskey on JVM Languages",
+  "id": 1085,
+  "original_urls": [
+    "http://nighthacking.tv/jim-laskey-on-jvm-languages/",
+    "http://nighthacking.com/jim-laskey-on-jvm-languages/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "97be5e145488506a76c8e13ec4894dfd3c523886ef92553afa326a2113cf322a",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/htBUJ5UTdFI"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jim-laskey-on-jvm-languages/",
+    "post_id": 1085,
+    "rejected_urls": [],
+    "source_content_sha256": "8b6f0477d2c30990ac996de80a6450e3a8e0123c5a2ba26db2aa7a134a89ba25",
+    "source_date_sha256": "03924e2d30f2a5a7a25d220c301a33e60b1d83ed51b4a8832f1f51f9eb7608a6",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "9dacbde326501c9f63debf4311ae5e2bc047636edc4ee9d9ce828bcdf4a7f25d",
+      "_video_thumbnail": "a937423547832d945e2e238a3b05f436c604b22e2b4fec84654bb739730ef2e7",
+      "focus_video": "40436e2c93c3176d6d96097f23221dc597ee82198bff11236e16d26bed30b5bd"
+    },
+    "source_slug_sha256": "cf7bb1b85b414a2e6d862ab7facffa7cb53a60aa833e05229bc72a333c16086f",
+    "source_title_sha256": "8b6f0477d2c30990ac996de80a6450e3a8e0123c5a2ba26db2aa7a134a89ba25",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jim-laskey-on-jvm-languages",
+  "thumbnail": "/wp-content/uploads/2014/09/jim-laskey-on-jvm-languages.jpg",
+  "title": "Jim Laskey on JVM Languages",
+  "type": "post",
+  "video_id": "htBUJ5UTdFI",
+  "warnings": []
+}

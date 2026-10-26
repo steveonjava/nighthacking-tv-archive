@@ -1,0 +1,92 @@
+{
+  "categories": [
+    {
+      "name": "GeekOUT 2015",
+      "slug": "geekout-2015"
+    }
+  ],
+  "date": "2015-06-11 03:35:36",
+  "excerpt": "Interview with Charles Nutter (@headius) at the GeekOUT conference (@GeekOutEE) on coding as fast as C in Java.  He did a demonstration of JIT output on the command line and a cool GUI tool for doing JIT log analysis called jitwatch (https://github.com/AdoptOpenJDK/jitwatch).",
+  "id": 1460,
+  "original_urls": [
+    "http://nighthacking.tv/charles-nutter-on-coding-fast-as-c/",
+    "http://nighthacking.com/charles-nutter-on-coding-fast-as-c/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "7435f0fa2e1d7a004ff0b420c2938e8c18bda7f2269b95d49b22b94501bf5a82",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "a:href",
+          "link"
+        ],
+        "fetched": false,
+        "host": "twitter.com",
+        "rendered": true,
+        "status": "unverified",
+        "url": "http://twitter.com/GeekOUTEE"
+      },
+      {
+        "contexts": [
+          "a:href",
+          "link"
+        ],
+        "fetched": false,
+        "host": "twitter.com",
+        "rendered": true,
+        "status": "unverified",
+        "url": "http://twitter.com/headius"
+      },
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/-VGoaZiaNfQ"
+      },
+      {
+        "contexts": [
+          "a:href",
+          "link",
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "github.com",
+        "rendered": true,
+        "status": "unverified",
+        "url": "https://github.com/AdoptOpenJDK/jitwatch"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/charles-nutter-on-coding-fast-as-c/",
+    "post_id": 1460,
+    "rejected_urls": [],
+    "source_content_sha256": "975883bab0e119b54f6e54f880740c91bf86ff2bd4ef508766ebe3e4032f0989",
+    "source_date_sha256": "2993d978b0ef80d17b4421138b70b5009750af2566097cace06e338b29c2ab0b",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "6b6803d3f23f64d048b7d5e5d1b828c90aac1b68bec5c590100122902a400876",
+      "_video_thumbnail": "54e1f7354d5f4f6c182d31d5877ef69994e210a81ee1d667e290e253c4af9758",
+      "focus_video": "70127ec1a6041a5a117e06ba4202b9da480bee64292248072edd245f5dbf769c"
+    },
+    "source_slug_sha256": "302c70a27d34da544e138e2a06c1c503c15f266b423343287f065a2e5b94fe0d",
+    "source_title_sha256": "31467523f26eab3e635fe3e83446a45002f63408e7f8233ac18f64fcc35ee8c8",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "charles-nutter-on-coding-fast-as-c",
+  "thumbnail": "/wp-content/uploads/2015/06/charles-nutter-on-coding-fast-as3.jpg",
+  "title": "Charles Nutter on Coding Fast as C",
+  "type": "post",
+  "video_id": "-VGoaZiaNfQ",
+  "warnings": [
+    "A UTF-8 nonbreaking space was normalized to a space."
+  ]
+}

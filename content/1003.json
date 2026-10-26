@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2014",
+      "slug": "jcrete2014"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-08-27 00:52:07",
+  "excerpt": "Interview with Alvaro Hernandez, JCrete attendee, about SQL vs. No-SQL, ORM, and database performance.  (With plenty of heckling from Kirk Pepperdine)",
+  "id": 1003,
+  "original_urls": [
+    "http://nighthacking.tv/jcrete-interview-with-alvaro-hernandez/",
+    "http://nighthacking.com/jcrete-interview-with-alvaro-hernandez/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "4dabea54c58e92aeafaad390c1c2ea169ec79bc11807b57c5dec77144bd424f0",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/5Yn6C-XiD7Q"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jcrete-interview-with-alvaro-hernandez/",
+    "post_id": 1003,
+    "rejected_urls": [],
+    "source_content_sha256": "754f6fec1e7193d9e7c8cff0dcbe7a3a04a5605fe46f46ee9c7ab45bc80bb463",
+    "source_date_sha256": "7e44800c58e11f16953c6887c1d34fa665999297ceb703415edd5a57607389fc",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "7f861bcee185de001377d79e08af62e94b1e7718e2470e08520c917f8d953602",
+      "_video_thumbnail": "62eb4f82036179a76a373a9d3727f013bab5532ca53d569c88ec9c5a60e47eed",
+      "focus_video": "35e7e49daf7d12d5476d5a81d5d7edba3299a19048f7fe098f34d055b2d033ec"
+    },
+    "source_slug_sha256": "1f04e443cb40f82cb3bed5763765083bce51175fc669689c2d6e741792c951fc",
+    "source_title_sha256": "50a6ec6968481ab055123bb066685429b40088f40bd39178aa41dc7585954012",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jcrete-interview-with-alvaro-hernandez",
+  "thumbnail": "/wp-content/uploads/2014/08/jcrete-interview-with-alvaro-her.jpg",
+  "title": "JCrete interview with Alvaro Hernandez",
+  "type": "post",
+  "video_id": "5Yn6C-XiD7Q",
+  "warnings": []
+}

@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaOne",
+      "slug": "javaone"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2013-09-16 11:35:39",
+  "excerpt": "",
+  "id": 142,
+  "original_urls": [
+    "http://nighthacking.tv/javaone-interview-with-stephan-janssen/",
+    "http://nighthacking.com/javaone-interview-with-stephan-janssen/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=sO3t_pWN1TM&list=PLX8CzqL3ArzXMvt5y8VHXKmr8gDC-xOH_&index=9"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/javaone-interview-with-stephan-janssen/",
+    "post_id": 142,
+    "rejected_urls": [],
+    "source_content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source_date_sha256": "02db9b026e3ed1ffcb0088a5992064dcb404d9712d06cc6799b4c7d1eb134fb7",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "7ed8f0f3b707956d9fb1e889e11153e0aa0a854983081d262fbe5eede32da7ca",
+      "_video_thumbnail": "03e9d1e87aaa13bce10e9aea65e30521752f46d81edfcfd0841ac589ce1d555e",
+      "focus_video": "f775111e66d15d0e6b3d8072a229bcdde1b136e322dc9ae71b8684c4e7de3e44"
+    },
+    "source_slug_sha256": "f33d7822e5a9680bd302681b84b191b4b36d860d6893febc62bd46d2f88fa5b9",
+    "source_title_sha256": "08b42b57fb010338c85cf43810886a95b9d5d97c8c4d5efcf53645527cfcd0a9",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "javaone-interview-with-stephan-janssen",
+  "thumbnail": "/wp-content/uploads/2013/09/p142.jpg",
+  "title": "JavaOne Interview with Stephan Janssen",
+  "type": "post",
+  "video_id": "sO3t_pWN1TM",
+  "warnings": []
+}

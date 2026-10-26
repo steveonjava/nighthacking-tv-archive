@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-04-20 18:16:02",
+  "excerpt": "Session at Devoxx France covering Java Embedded technologies including demos on Lego Mindstorms EV3, Raspberry Pi, DukePad, a Chess Table, and the NAO.",
+  "id": 856,
+  "original_urls": [
+    "http://nighthacking.tv/devoxx-france-lego-raspberry-pi-dukepad-chess-table-nao-session/",
+    "http://nighthacking.com/devoxx-france-lego-raspberry-pi-dukepad-chess-table-nao-session/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "43a2c67456b046ffe3c4cd5c299f3f2b21dbb4a2e7ea0684aee81d27f5f642ab",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=vFiYkzIdchI"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/devoxx-france-lego-raspberry-pi-dukepad-chess-table-nao-session/",
+    "post_id": 856,
+    "rejected_urls": [],
+    "source_content_sha256": "604b7740ea5c26224603241e572f5725f93beac83c50fe6ea7b446f23077d9b9",
+    "source_date_sha256": "1e91948822b10bca5994da1601144d17ca3cfa5a2cbbc273a972a9ad340184a6",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "8e46760943785a93c7bbfd1b0e733299b05f4d9fe575cf23087da310db486f7a",
+      "_video_thumbnail": "4a335a06c4e0a1a68ec5afa16ccbf8b2fdbe37d50faed0a3515737712c1902aa",
+      "focus_video": "6cee73a46e8d3f2efd4faf7b778376183d6038b455d0d79cdf28639a33d51cce"
+    },
+    "source_slug_sha256": "da9ef0e9e97c287f273d9784185f9486f9a285c1b0917b351fe7dd76095ebb9b",
+    "source_title_sha256": "eacda2aab7209b1f3c9cb85a4adceb78ee5103e3aa2229d947eda220bc9a707b",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "devoxx-france-lego-raspberry-pi-dukepad-chess-table-nao-session",
+  "thumbnail": "/wp-content/uploads/2014/04/devoxx-france-lego-raspberry-pi.jpg",
+  "title": "Devoxx France Lego, Raspberry Pi, DukePad, Chess Table, NAO Session",
+  "type": "post",
+  "video_id": "vFiYkzIdchI",
+  "warnings": []
+}

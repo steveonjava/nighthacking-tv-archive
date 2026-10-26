@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-08-15 12:34:15",
+  "excerpt": "NightHacking lab on JMS 2 with Reza Rahman.  Lab materials available on Github here: https://github.com/m-reza-rahman/jms2-lab",
+  "id": 988,
+  "original_urls": [
+    "http://nighthacking.tv/jms-2-nighthacking-lab/",
+    "http://nighthacking.com/jms-2-nighthacking-lab/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "e4cb5ae30d2c2a51cd76ea913f1b089c0042e8cef00df0bbb85192b000664660",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "github.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://github.com/m-reza-rahman/jms2-lab"
+      },
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=w8cdHkf_iKc"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jms-2-nighthacking-lab/",
+    "post_id": 988,
+    "rejected_urls": [],
+    "source_content_sha256": "43eded074dc1c5f2c6a3317c77210f3665a3d493128092638599b8bf12bceb95",
+    "source_date_sha256": "027150b194a1a513cfffa8f7991c420c75691aa617103bc214a60d9748ccd9c3",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "fe50b64954720ccb97ff36a6bd105b6c6018565eea17352a8e1c095204ff4e62",
+      "_video_thumbnail": "f30f7e21f548717a8e6926f130f1cb19aa3b37cb31df7a2cbf4dca465bbe688c",
+      "focus_video": "48ce274f91c06768d3dc0503c4c0548505fdec96a179354524e8f7da257ccd7f"
+    },
+    "source_slug_sha256": "814d2c7df73e677598cbc42bebf991cca4b14ef6cb086bd62e9980b7e960319e",
+    "source_title_sha256": "a3e4393ea9ba43cf2d4b0654534222f58b31fb2db3f37c7e449430f4ad1d4ebd",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jms-2-nighthacking-lab",
+  "thumbnail": "/wp-content/uploads/2014/08/jms-2-nighthacking-lab.jpg",
+  "title": "JMS 2 NightHacking Lab",
+  "type": "post",
+  "video_id": "w8cdHkf_iKc",
+  "warnings": []
+}

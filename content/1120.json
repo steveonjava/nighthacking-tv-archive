@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2014",
+      "slug": "oredev"
+    }
+  ],
+  "date": "2014-11-05 07:01:38",
+  "excerpt": "\u00d8redev interview with Hannes Sj\u00f6blad on personal augmentation with biotechnology.",
+  "id": 1120,
+  "original_urls": [
+    "http://nighthacking.tv/interview-with-hannes-sjoblad/",
+    "http://nighthacking.com/interview-with-hannes-sjoblad/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "9012d70c4bc5a47b1ee6ac0e93e239f77d02c889b75f14918d133b1ae345c831",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=gsqs_Uku87M"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/interview-with-hannes-sjoblad/",
+    "post_id": 1120,
+    "rejected_urls": [],
+    "source_content_sha256": "3fdd9ec91ddf6fb1ed4f7d08183fc0ec19dc0a99e5ed37fe8738ace45cae987c",
+    "source_date_sha256": "bd170bb87b7e23f19c289009d5ee8e547875d59adf2a4b8816c12927f6f1e773",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "b3282a2f2a28757b3a18ab833de16a9c54518c0b0cf493e3f0a7cf09386f326a",
+      "_video_thumbnail": "96038861fb9693cf04fd34be1084ba248abfde47ba519e4197dd6b91cd072ad0",
+      "focus_video": "038f35117e5bb1ae150d9d64c9ee0ee9234eab26ca8255017c53f6d48c607d73"
+    },
+    "source_slug_sha256": "482dce6fbe6b47c1712f61820a2ced4406740af6f151043f83836c989bbcec10",
+    "source_title_sha256": "8b688f8845816d9835a2272f9fa51497632491c58015c82d0cefd5124e1410b1",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "interview-with-hannes-sjoblad",
+  "thumbnail": "/wp-content/uploads/2014/11/interview-with-hannes-sjoblad.jpg",
+  "title": "Interview with Hannes Sj\u00f6blad",
+  "type": "post",
+  "video_id": "gsqs_Uku87M",
+  "warnings": []
+}

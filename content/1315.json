@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "DevNexus 2015",
+      "slug": "devnexus-2015"
+    }
+  ],
+  "date": "2015-03-12 13:37:44",
+  "excerpt": "Interview with Aysylu Greenberg on Benchmarking, Art, Music at the DevNexus conference.",
+  "id": 1315,
+  "original_urls": [
+    "http://nighthacking.tv/aysylu-greenberg-on-benchmarking-art-music/",
+    "http://nighthacking.com/aysylu-greenberg-on-benchmarking-art-music/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "8197ce92c9d7a6d7308814bd22b26ff57001382a68ddab8d65e65b3f994dabc1",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=Dke4MO2DC7I"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/aysylu-greenberg-on-benchmarking-art-music/",
+    "post_id": 1315,
+    "rejected_urls": [],
+    "source_content_sha256": "93f2acb43467d8c3ae52bf8bfba4ee9611fea2cfa6e314a83743d55ec48d62bd",
+    "source_date_sha256": "07805b836c1749974bf11b35a6a3b4ae3425f815bf3c27e08f9cded8da8634b4",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "5f0fbfc126a9876e177921aeb69a9705447e5b4f29fc96631ab4ac6d31c62717",
+      "_video_thumbnail": "642e2b56bca77cd9250fa896ac85e4f98b80eed242bf6c03ae97283afa18ef38",
+      "focus_video": "55a6ad7ecbce4ddc461d39954d948f44ca989b444f4bc7e8779a7c53a2edc637"
+    },
+    "source_slug_sha256": "9eecaac0a79c91281a989d6d144e5bddadda92e64c2e5ef63577a881b20d0293",
+    "source_title_sha256": "c6212911bb8c4437c07d3e33ffe8231ca9c596cf08eb8a4f36742da0f76a44eb",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "aysylu-greenberg-on-benchmarking-art-music",
+  "thumbnail": "/wp-content/uploads/2015/03/aysylu-greenberg-on-benchmarking1.jpg",
+  "title": "Aysylu Greenberg on Benchmarking, Art, Music",
+  "type": "post",
+  "video_id": "Dke4MO2DC7I",
+  "warnings": []
+}

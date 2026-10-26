@@ -1,0 +1,62 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2015",
+      "slug": "oredev-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-11-07 08:33:51",
+  "excerpt": "Interview with Anton Arhipov at \u00d8redev on Java agents, debugging APIs, and plans for GeekOUT.",
+  "id": 1555,
+  "original_urls": [
+    "http://nighthacking.tv/anton-arhipov-on-java-agents/",
+    "http://nighthacking.com/anton-arhipov-on-java-agents/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "cfc62ddf28ca75a6cd2db0ce3e1793f9ace91688b02b42e57e9cbf85caeb8e89",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/XcLVJhIZuZM"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/anton-arhipov-on-java-agents/",
+    "post_id": 1555,
+    "rejected_urls": [],
+    "source_content_sha256": "e07206c89d1936c47737660cb0439cb923bbd55d07934b87347e2ea5b2ec539a",
+    "source_date_sha256": "7ad4cab0e2445b37cf37bf7321e0c883582b6fbbe9b8ce05e6569c77d240beb6",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "c98c37cbc0242b2cd603d4ad823a1c29e7314df3ad8f1810cab0fb98c84fc2c4",
+      "_video_thumbnail": "85946ec3380709a7fbb2bf0415f76022f3d4f6a050ca02c375e02ec421755dcd",
+      "focus_video": "78b318c54be3fa5957f8bb8432d7fac391fefa0f69eafee6785258fbcbc06ed0"
+    },
+    "source_slug_sha256": "fc7f186bb13dd3e5e4279104dc0be0a5bd9aad7ecce28ca1e4dfd74d7218bd75",
+    "source_title_sha256": "a9974c3b78f64a6de94386e0ba5c89d11d69e96fdc4f6688a05c42bc9ccc54b6",
+    "table": "wp_posts",
+    "video_status": "unknown"
+  },
+  "review_status": "unreviewed",
+  "slug": "anton-arhipov-on-java-agents",
+  "thumbnail": "/wp-content/uploads/2015/11/anton-arhipov-on-java-agents.jpg",
+  "title": "Anton Arhipov on Java Agents",
+  "type": "post",
+  "video_id": null,
+  "warnings": [
+    "focus_video has no unique validated YouTube ID in a known field or URL."
+  ]
+}

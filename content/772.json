@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-26 08:55:26",
+  "excerpt": "Live footage on the Black Mamba Roller Coaster at the JavaLand Conference (in PhantasiaLand) taken by Max and Heinz Kabutz.",
+  "id": 772,
+  "original_urls": [
+    "http://nighthacking.tv/java-8-javaland-roller-coaster/",
+    "http://nighthacking.com/java-8-javaland-roller-coaster/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "84d582d04c96d97bdb479534a03e4f7e0254bb9ab9e4dbe7b0055b9446e73f0e",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/IHIHhstqiBs"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/java-8-javaland-roller-coaster/",
+    "post_id": 772,
+    "rejected_urls": [],
+    "source_content_sha256": "c36518b8589e3b326cae65e512d97e1fd3d794c25614c9a920a35dd29a45d0a3",
+    "source_date_sha256": "6ac01a145acb155f7a87eafeabf3656aa199754542cca9c819b946454820cace",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "089ee14b926fabea6dd95890032d1a37e69c1011c710977af774ec3a7b5b39a6",
+      "_video_thumbnail": "aca1a57bd88837c032b33450486d391e1c598c57aad5433f601a4b1be0c18ebd",
+      "focus_video": "e68eb59bcd45088d82705f2572d0aa349596c59107b5cc184308e325897e1637"
+    },
+    "source_slug_sha256": "50b3d5fa8395738b4ae92ea0b5350b0f348e26c3051de569c95cbb2a23181589",
+    "source_title_sha256": "fd8b5fd9ea36de8efba331186f4af984ecd3a190141266bf97e93cca3e3e3e70",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "java-8-javaland-roller-coaster",
+  "thumbnail": "/wp-content/uploads/2014/03/java-8-javaland-roller-coaster.jpg",
+  "title": "Java 8 JavaLand Roller Coaster ",
+  "type": "post",
+  "video_id": "IHIHhstqiBs",
+  "warnings": []
+}

@@ -1,0 +1,70 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2015",
+      "slug": "javaland-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-03-25 09:37:58",
+  "excerpt": "Interview with Ixchel Ruiz at the JavaLand conference on running Hackergartens, how to participate, expert mentors, and socializing with project leads.  http://hackergarten.net/",
+  "id": 1416,
+  "original_urls": [
+    "http://nighthacking.tv/ixchel-ruiz-on-running-hackergartens/",
+    "http://nighthacking.com/ixchel-ruiz-on-running-hackergartens/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "db5e8ff97bb6ff372360fb26ef6fec9a2abdf6f62dc148980f50a8640e1b3a7a",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "hackergarten.net",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://hackergarten.net/"
+      },
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=T8ZU9PEOERg"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/ixchel-ruiz-on-running-hackergartens/",
+    "post_id": 1416,
+    "rejected_urls": [],
+    "source_content_sha256": "1df5822446569a79b8fd15043c5c7827c212525bd933ff4db27f3da6d3fa852c",
+    "source_date_sha256": "db1768535fe95f18e7736d3a4fca641dfef6fb5f32cd50e1a7b8231680d90b19",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "58fba35ac3591d27507b733ea4a6dc1c8b1c2cf04ddbbd6b3d4a4da3a3c8fd3c",
+      "_video_thumbnail": "e0f9020f0828dfc772422f91a9736e3a405ab288b4305740ec59d4ac2401d747",
+      "focus_video": "8a0390c4dd472014e85ecbc732df9c212108184e4ca0264a8bb5df86e7aa6166"
+    },
+    "source_slug_sha256": "17b629fad7e95dbe05b483ab4d95518cba3b99b207695e49d26b2d1cb78e85be",
+    "source_title_sha256": "9e7caa9173087410d904e62919ce8440e30eaf78e7b26acf822963667d4d7a0d",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "ixchel-ruiz-on-running-hackergartens",
+  "thumbnail": "/wp-content/uploads/2015/03/ixchel-ruiz-on-running-hackergar1.jpg",
+  "title": "Ixchel Ruiz on running Hackergartens",
+  "type": "post",
+  "video_id": "T8ZU9PEOERg",
+  "warnings": []
+}

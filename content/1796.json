@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    }
+  ],
+  "date": "2016-03-16 01:28:50",
+  "excerpt": "Interview on the RetroPi Java handheld console that lets you play NES games using a Java emulator running on a Raspberry Pi with a 3D printed enclosure.",
+  "id": 1796,
+  "original_urls": [
+    "http://nighthacking.tv/retropi-java-console-interview/",
+    "http://nighthacking.com/retropi-java-console-interview/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "3e0bb1f5f5bf0989b8c88026967fa784b8937fb34262f2eba9afe56fc31946b1",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/vOx2D5llkDs"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/retropi-java-console-interview/",
+    "post_id": 1796,
+    "rejected_urls": [],
+    "source_content_sha256": "7d10a249a75e07469f5777cd8637a1c1d2a891ad098e53aa62070d053e0a5c1f",
+    "source_date_sha256": "0d9f845cf4b3752452e028089c2883898d8e3378d57a0d3f0bb65f30d6b0ac0f",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "79b50932dd998d253b85c9f6c57c6b64dac3e58c252c38720af0ee7a249860eb",
+      "_video_thumbnail": "4faecdba9374315d6a31766ce3211d233feac216bbf2b78eb024dca401f2c468",
+      "focus_video": "57ff6c4863fffb27418fe416f7ae7ce23197d1f84492753f3b6ea92f3b361659"
+    },
+    "source_slug_sha256": "53b36b19cbee91afef890550f4b2a3b559a57c3e6539ade063dcae02870c8a10",
+    "source_title_sha256": "3654e83e26d188beba6fd9718af3db4068b525fb307fdfb9f1cc9466f578fdec",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "retropi-java-console-interview",
+  "thumbnail": "/wp-content/uploads/2016/03/retropi-java-console-interview.jpg",
+  "title": "RetroPi Java Console Interview",
+  "type": "post",
+  "video_id": "vOx2D5llkDs",
+  "warnings": []
+}

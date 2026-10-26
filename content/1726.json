@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2016",
+      "slug": "javaland-2016"
+    },
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    }
+  ],
+  "date": "2016-03-08 08:15:07",
+  "excerpt": "Interview with Carola Lilienthal on Technical Debt at the JavaLand conference.",
+  "id": 1726,
+  "original_urls": [
+    "http://nighthacking.tv/carola-lilienthal-on-technical-debt/",
+    "http://nighthacking.com/carola-lilienthal-on-technical-debt/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "16977e89f75444cbd0fc2b41fd45603837d98f836ddf81e5dc11f0b942b19cf9",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/ogh1Q3ydbGo"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/carola-lilienthal-on-technical-debt/",
+    "post_id": 1726,
+    "rejected_urls": [],
+    "source_content_sha256": "9d1ff336207d434c3c7fb9a8a8f4386cee7bb95ffa5222d4257f6590e2cf569d",
+    "source_date_sha256": "92adac3ae3ffa025bf1a6f319418c5b0ac7d8594de96d9cd4bc54e17ca6000b9",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "a0bd94956b9f42cde97b95b10ad65bbaf2a8d87142caf819e4c099ed75126d72",
+      "_video_thumbnail": "36713100465c8d81c3f05fd4a76909acfd73400f28f5d4aee31be6287b227ca3",
+      "focus_video": "12cf8425931b5419ce7ee9b4737c21474646ed48e011f0fc1fb9aec5ae9d9597"
+    },
+    "source_slug_sha256": "4db06b817d99321a297bcec0669b9926aae1efb968c4f9fd193a76a493bb119f",
+    "source_title_sha256": "d91a9249ea3ae9dfc24a2d9bebb6cd307f2877d99fba003588f8adea6c6a73f3",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "carola-lilienthal-on-technical-debt",
+  "thumbnail": "/wp-content/uploads/2016/03/carola-lilienthal-on-technical-d.jpg",
+  "title": "Carola Lilienthal on Technical Debt",
+  "type": "post",
+  "video_id": "ogh1Q3ydbGo",
+  "warnings": []
+}

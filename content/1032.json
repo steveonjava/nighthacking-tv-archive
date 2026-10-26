@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2014",
+      "slug": "jcrete2014"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-08-31 23:27:32",
+  "excerpt": "Interview with Peter Lawrey on Off Heap Memory Allocation at the JCrete Unconference.",
+  "id": 1032,
+  "original_urls": [
+    "http://nighthacking.tv/jcrete-interview-with-peter-lawrey/",
+    "http://nighthacking.com/jcrete-interview-with-peter-lawrey/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "23dae8aa9614ea2e7c19657439e5ac495d5c6f9f3b8b493d433f6753d5ee40e3",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/nQExN45ZfJk"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jcrete-interview-with-peter-lawrey/",
+    "post_id": 1032,
+    "rejected_urls": [],
+    "source_content_sha256": "5c9ddfd67a69ff430b34b0a97da65440649ae29cc5466ac24e408f081dc53843",
+    "source_date_sha256": "a1a98204edb0479dc23801778de05eebcd937afcc0c9ef64a6bc35fd0502c2a0",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "6719009a76851c4bed2fcdea10b635c1bd58bf12af0c1fea3a470a87d3ee6995",
+      "_video_thumbnail": "ad809196473e024658e32e6b2507505096153bbb1501323ddf88b2723cd0e114",
+      "focus_video": "33bc4d0b429bcc198ddcd4a9871693ae3046bc3af8c197ad709df82cd6e0f040"
+    },
+    "source_slug_sha256": "49d1056a1298785d89974981ebfc7621bfb59fba0eda827638969fbb183bb995",
+    "source_title_sha256": "348d170d7dacd211f2236f1f966ec947b558b1d33a3c4b94f21bbd1d24587671",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jcrete-interview-with-peter-lawrey",
+  "thumbnail": "/wp-content/uploads/2014/08/jcrete-interview-with-peter-lawr.jpg",
+  "title": "JCrete Interview with Peter Lawrey",
+  "type": "post",
+  "video_id": "nQExN45ZfJk",
+  "warnings": []
+}

@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2014",
+      "slug": "oredev"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-11-07 05:46:32",
+  "excerpt": "Interview with Jimmy Wilhelmsson on his book \"Generation 64\", highlighting the Commodore 64 Generation in Sweden.",
+  "id": 1152,
+  "original_urls": [
+    "http://nighthacking.tv/jimmy-wilhelmsson-on-the-commodore-64-generation/",
+    "http://nighthacking.com/jimmy-wilhelmsson-on-the-commodore-64-generation/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "6bbb9bd312a85b3661e1bb47c42095c31c7e599d1b27cc0dd4e8db4102dbd72e",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/JHtrlI3Wh4g"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jimmy-wilhelmsson-on-the-commodore-64-generation/",
+    "post_id": 1152,
+    "rejected_urls": [],
+    "source_content_sha256": "795cab8acaee591a9c6718962211f37d0674e2b8f4b35434ad06c26507ff25d7",
+    "source_date_sha256": "53b0c637b3eba84c1c72e5eba0e107b12b68a18a13304a5a5ea6a34d9b7a8c36",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "06ec44ccee3b23b9e067e96afb796d3b8d75ac7701185f649c61e405c282bdf8",
+      "_video_thumbnail": "43cd219f91e575189b9ad83f532e3857a7597a24dd5b4e44b22bf8ed31880e60",
+      "focus_video": "7ff0b3a14673d83080b5a4244d96a837008533619c0cc5cdf4af245a9a524402"
+    },
+    "source_slug_sha256": "01028fb32b319915a6b491240539bba6fd3a78c391cb094eeeba283d8763b969",
+    "source_title_sha256": "d4bd30111ebd90df5af8a421929180ba40fdb9814d7bcbaf3c4febc104052540",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jimmy-wilhelmsson-on-the-commodore-64-generation",
+  "thumbnail": "/wp-content/uploads/2014/11/jimmy-wilhelmsson-on-the-commodo.jpg",
+  "title": "Jimmy Wilhelmsson on the Commodore 64 Generation",
+  "type": "post",
+  "video_id": "JHtrlI3Wh4g",
+  "warnings": []
+}

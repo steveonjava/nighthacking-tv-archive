@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2015",
+      "slug": "javaland-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-03-25 02:38:38",
+  "excerpt": "Interview with Rabea Gransberger at the JavaLand conference on code review tips for developers and teams.",
+  "id": 1381,
+  "original_urls": [
+    "http://nighthacking.tv/rabea-gransberger-with-code-review-tips/",
+    "http://nighthacking.com/rabea-gransberger-with-code-review-tips/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "e03f65b7a0e1e7c76d37f6c8f44d4e99a2b147ee291dea636b647c946a8fdd5f",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/_vmEPhqzg5I"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/rabea-gransberger-with-code-review-tips/",
+    "post_id": 1381,
+    "rejected_urls": [],
+    "source_content_sha256": "6096b23c6e0cc37abb699cf64e6b2b71711672231974ddb04a95a3d97b124bc6",
+    "source_date_sha256": "f8470069b2d031f3d42e73fdc8bd824186a429ae9de9294d780672a6889e8394",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "6495da527bb644b403ca922424bd8976d85699d392f975c7d84cff45db3fd96e",
+      "_video_thumbnail": "ba22d23614a54351f8f544d3deb9975012ba5bc592d09b9ecf5901963c6b24cc",
+      "focus_video": "dfd1906dffd28b16b3e0b88d6b5e8f15197ac1928319fe8f19bac1cb642989c4"
+    },
+    "source_slug_sha256": "bd8679cb837ab160840a13c507f8ec9be4484f848b82c90770001acc95566bfa",
+    "source_title_sha256": "5c54a44f3d9a867deb24d98b652c3a68367d1f8443d62a3d8343a9cadb58e0f4",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "rabea-gransberger-with-code-review-tips",
+  "thumbnail": "/wp-content/uploads/2015/03/rabea-gransberger-with-code-revi.jpg",
+  "title": "Rabea Gransberger with Code Review Tips",
+  "type": "post",
+  "video_id": "_vmEPhqzg5I",
+  "warnings": []
+}

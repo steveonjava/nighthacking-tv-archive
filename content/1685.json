@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "DevNexus 2016",
+      "slug": "devnexus2016"
+    }
+  ],
+  "date": "2016-02-17 11:29:09",
+  "excerpt": "Interview with Jennifer Tong on Open Data sources and Google BigQuery at the DevNexus conference in Atlanta, Georgia.",
+  "id": 1685,
+  "original_urls": [
+    "http://nighthacking.tv/jennifer-tong-on-open-data-and-bigquery/",
+    "http://nighthacking.com/jennifer-tong-on-open-data-and-bigquery/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "afde2046febf48f5812d02d63a0bab0bf1811dc779ab5b741132321e4c0ee232",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/8DJ6cg7ik5Q"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jennifer-tong-on-open-data-and-bigquery/",
+    "post_id": 1685,
+    "rejected_urls": [],
+    "source_content_sha256": "7fb06a44157a6c2e60a49a18412db7be305c94f12f0480ab72ab1b01465dd638",
+    "source_date_sha256": "fd376bad650a3e10654344ac89fbf128602551eccb9966d2ff655c9f7ee1dd25",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "42d9972e972e40956658f1b4f3bd676512837741de686d03f447d8015feb6a6c",
+      "_video_thumbnail": "3b676534351ab2a474968321c0827f9d49998f57f7c3847a6ed0f0a83f25eb0f",
+      "focus_video": "7921fa3df4b82e1e5ed55f1ad074054f851f88bb6ee1868eb39987ea59aadb07"
+    },
+    "source_slug_sha256": "00cc0123d99df5ef1f123b19ddddba091575e8caa2f04b5b2558f67944af74ac",
+    "source_title_sha256": "2704e9ae420220b49918280812347e6938f92bb82213b1b96f310668fb2aae3c",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jennifer-tong-on-open-data-and-bigquery",
+  "thumbnail": "/wp-content/uploads/2016/02/jennifer-tong-on-open-data-and-b.jpg",
+  "title": "Jennifer Tong on Open Data and BigQuery",
+  "type": "post",
+  "video_id": "8DJ6cg7ik5Q",
+  "warnings": []
+}

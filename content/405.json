@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-02-06 00:36:36",
+  "excerpt": "Do you have an open source project with a lot of great volunteers, but can't afford Continuous Integration (CI) infrastructure? In this session, Baruch Sadogursky from JFrog will show off a new free CI cloud platform that you can take advantage of today!",
+  "id": 405,
+  "original_urls": [
+    "http://nighthacking.tv/continuous-integration-for-oss/",
+    "http://nighthacking.com/continuous-integration-for-oss/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "6719d08421c27803fb9b8308884a0d4de45f30b2c6bbc4fa6d6ff356d8dcb35e",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=8TMqCkC_0KA"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/continuous-integration-for-oss/",
+    "post_id": 405,
+    "rejected_urls": [],
+    "source_content_sha256": "9aa3a3bc52cb59c3e781dfa49f55060b2275001257dc84c0774e1a5775057bac",
+    "source_date_sha256": "f2bf7ed108c20165bcd5d1d0e8655a18c57d8b424f4e7fdf2d463cb5b2e9b7cf",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "a5abb1500bdeaef41e2edd598c015edfaa46793051b82d7da60a70efbf786da4",
+      "_video_thumbnail": "d4dded1ad6d3538603f050861042cc9574526dadb21eaeac177e61f1baa1a31f",
+      "focus_video": "4d3658d6c502fb19bb1c60ceacf197becbc4f3501b0ba2c4d4db33dd09736cc7"
+    },
+    "source_slug_sha256": "7586cf9b56b52584685ad71465e7339fc882caf5727f8646eca5dc5dd4e7d17e",
+    "source_title_sha256": "44035c50706ea985508841ebb13edf8bf3ddcb9e28b681fce72774f24a8eb2e4",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "continuous-integration-for-oss",
+  "thumbnail": "/wp-content/uploads/2014/02/continuous-integration-for-oss.jpg",
+  "title": "Continuous Integration for OSS",
+  "type": "post",
+  "video_id": "8TMqCkC_0KA",
+  "warnings": []
+}

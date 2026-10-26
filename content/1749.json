@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2016",
+      "slug": "javaland-2016"
+    },
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    }
+  ],
+  "date": "2016-03-13 15:00:01",
+  "excerpt": "Interview with David Blevins on Java EE Connectors at the JavaLand Conference in Br\u00fchl, Germany.",
+  "id": 1749,
+  "original_urls": [
+    "http://nighthacking.tv/david-blevins-on-java-ee-connectors/",
+    "http://nighthacking.com/david-blevins-on-java-ee-connectors/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "8384156eaa1ab77821efd6988cae79c869024fa68b84c3b963867ea4bc0539e0",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/KxE8N7doUwU"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/david-blevins-on-java-ee-connectors/",
+    "post_id": 1749,
+    "rejected_urls": [],
+    "source_content_sha256": "f60d2bf45cae475bb8b34ed749d2790ed083ab2b8392b88172d28a8d64e2577f",
+    "source_date_sha256": "fa2d55c595329fc25d2cb512de376543610fa7f1091d610e32639ebeee63d836",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "35fcdee9b9238f7ed41a17b8d4dfafdeb0577917191150eb43567d5163a20c72",
+      "_video_thumbnail": "98217ff8d024f92202d17485195cceca27cfe9a1c5a486af3e5eea3ea5333680",
+      "focus_video": "b3b5fd11feb19e4f264aeace3e1da933530c1f9774c8e3dbba0f4ad74402ccb4"
+    },
+    "source_slug_sha256": "af1ab7fcd7542a96ab72044eb2a2247c4580cf4a20efb6082e7fc544a07b8db7",
+    "source_title_sha256": "07d8bcce7229079af3da33cefb24e24cf364a4ce6f714fae3d314073c1860275",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "david-blevins-on-java-ee-connectors",
+  "thumbnail": "/wp-content/uploads/2016/03/david-blevins-on-java-ee-connect.jpg",
+  "title": "David Blevins on Java EE Connectors",
+  "type": "post",
+  "video_id": "KxE8N7doUwU",
+  "warnings": []
+}

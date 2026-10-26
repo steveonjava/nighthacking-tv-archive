@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2015",
+      "slug": "javaland-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-03-25 02:56:12",
+  "excerpt": "Update interview with Heather Van Cura on new JSRs for JavaEE 8, Java SE 9, and JCP.next at the JavaLand conference.",
+  "id": 1385,
+  "original_urls": [
+    "http://nighthacking.tv/heather-van-cura-giving-a-jcp-update/",
+    "http://nighthacking.com/heather-van-cura-giving-a-jcp-update/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "9ee6c476d6f8b14d2e1f8e9907ff29f2a8ab849a5ae39a1c6fbf967c31e3e5e2",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/_CDDRCGD5hE"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/heather-van-cura-giving-a-jcp-update/",
+    "post_id": 1385,
+    "rejected_urls": [],
+    "source_content_sha256": "385e3421a70659047c15852569d2f6a2c222427bc1cf1656724d05f95c075734",
+    "source_date_sha256": "0fb0813567a35209544b45e3fda63a4891cb5d465cf3085b3059027db1d23d53",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "5d6e5dacd1f15ec9e3860fbbaf3666e0a3c6717f6eba7982d43c2d2d626bbd31",
+      "_video_thumbnail": "2bf5d8955c96a65c107fa53554f559f869b6de44d44f3e72e45151170f8db674",
+      "focus_video": "178a69cf5d460d335564768ac0374e425e1fced1a126de8c51bb53c083ddd5a4"
+    },
+    "source_slug_sha256": "a60f5c7b09c4d194b85f30acd2341b21cb5c3edaa08d451aadd61c521171fde2",
+    "source_title_sha256": "484f7254ad945136d8e042d62c3c35a24e2554ec12da93ba666d5dd2c32a2147",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "heather-van-cura-giving-a-jcp-update",
+  "thumbnail": "/wp-content/uploads/2015/03/heather-van-cura-giving-a-jcp-up.jpg",
+  "title": "Heather Van Cura giving a JCP Update",
+  "type": "post",
+  "video_id": "_CDDRCGD5hE",
+  "warnings": []
+}

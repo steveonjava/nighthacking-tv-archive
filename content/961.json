@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-06-27 00:52:57",
+  "excerpt": "We had Joonas Lehtinen, found of Vaadin, give a presentation and lab on the Vaadin framework. For those of you who have no experience with Vaadin, it is a framework for building modern web applications and has a great selection of controls and widgets with expert design.",
+  "id": 961,
+  "original_urls": [
+    "http://nighthacking.tv/vaadin-worldwide-hack-day-part-1/",
+    "http://nighthacking.com/vaadin-worldwide-hack-day-part-1/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "f25da3a16400ec278f44974ecafc192de5e069b068bcab63170ba6131022a848",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "github.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://github.com/jojule/rating"
+      },
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=DVcOvdbO_Qk"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/vaadin-worldwide-hack-day-part-1/",
+    "post_id": 961,
+    "rejected_urls": [],
+    "source_content_sha256": "256064056cf635a4d266acd96b81a2c0b2fd3e518184a00fb3b554f6c82ce8df",
+    "source_date_sha256": "f24ecef0fecf7b8ae377acd815c5ce70c98b3490f0b20443e049ca0d7d6723af",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "b22eb34537f6f6753da6e0dc05713be0ccc35ef12dae0f6bf19b5206d373af33",
+      "_video_thumbnail": "9707ad2e2a67945338b116aeed0d47c303a3c6ea0ea8e4548be1f54a639fa700",
+      "focus_video": "6ebe799a7864980140e577b9585510673bbb2cac8428e930913ffa09c6c8eeb9"
+    },
+    "source_slug_sha256": "7b0b56f2ba7c36f90f622954b9c5afa76a3ec78ed32efcb6dafb45ef6a553a51",
+    "source_title_sha256": "e965a0f730e727ffefdd8078652133798d11676ed8ec127b71158e0b8cec13b5",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "vaadin-worldwide-hack-day-part-1",
+  "thumbnail": "/wp-content/uploads/2014/06/vaadin-worldwide-hack-day-part-1.jpg",
+  "title": "Vaadin Worldwide Hack Day (part 1) ",
+  "type": "post",
+  "video_id": "DVcOvdbO_Qk",
+  "warnings": []
+}

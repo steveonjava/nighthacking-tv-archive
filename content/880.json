@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-04-27 07:06:08",
+  "excerpt": "Presentation at the Chennai Java Summit on JAX-RS RESTful Services with Angular.js by Vidhyadharan.",
+  "id": 880,
+  "original_urls": [
+    "http://nighthacking.tv/jax-rs-restful-services-angular-js/",
+    "http://nighthacking.com/jax-rs-restful-services-angular-js/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "7897ab26aae025b674ba3c4200cf1a58ac8a24af6388d5ca7155d561fc251e88",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=pCnXy2Hs2Ag"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jax-rs-restful-services-angular-js/",
+    "post_id": 880,
+    "rejected_urls": [],
+    "source_content_sha256": "533bd07b97a74561c4016bba37d307a218db9a8b4d26b60b15b406c9d94cabb9",
+    "source_date_sha256": "52b13d114657c94eba65d2ce0423ac1c08472dd70142b7d69aa1b34dcadd43ad",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "1de4842b42fa3db35fc4cf058a02acb057a8df02d0d3cdc96e686551aee25a39",
+      "_video_thumbnail": "5b8e487d1ac00e44eee4727225283ed0980fea48c8c6093791932278d223326a",
+      "focus_video": "0f663b026fa866c19416584f9604f0352acb859f646731a670f832852f9e50c1"
+    },
+    "source_slug_sha256": "d585e7a76373aa514bec0790d56a1069b37d7b9f8d79f7f29479c14e001a5538",
+    "source_title_sha256": "d865eb2418f004d79d9bf0b8cb29e94947eb634b82eb10d7c9e25ed999eae540",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jax-rs-restful-services-angular-js",
+  "thumbnail": "/wp-content/uploads/2014/04/jax-rs-restful-services-angular.jpg",
+  "title": "JAX-RS RESTful Services + Angular.js",
+  "type": "post",
+  "video_id": "pCnXy2Hs2Ag",
+  "warnings": []
+}

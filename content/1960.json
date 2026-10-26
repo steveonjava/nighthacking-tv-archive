@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2016",
+      "slug": "jcrete-2016"
+    }
+  ],
+  "date": "2016-08-05 04:47:06",
+  "excerpt": "JCrete 2016, Day 2\nFastest (J)VM on the Planet!\nJaroslav Tulach",
+  "id": 1960,
+  "original_urls": [
+    "http://nighthacking.tv/fastest-jvm-on-the-planet/",
+    "http://nighthacking.com/fastest-jvm-on-the-planet/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "e183e375956364b4ab6168d2c56963b14d97f0b85ed34edd93f3c7e82d2aab9e",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=yaWq20AFN9U"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/fastest-jvm-on-the-planet/",
+    "post_id": 1960,
+    "rejected_urls": [],
+    "source_content_sha256": "376a0eb516316777fefea6363b11bb7016ced92652b13806959d96ab3ab6fbf6",
+    "source_date_sha256": "a7030b36db093b60711ddc09a5bacd5d8350a3ad2bc8c72e2dcfd2b5c59ef617",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "9aec25da37c5143655198925302a995797eeef538933800b67b87c48de7ad120",
+      "_video_thumbnail": "829fc27dd5bd5a09426c9a855c134280644e5aab7f8cc357f20f53123703f08d",
+      "focus_video": "f1141d637ed55e462123eb4660c304314d71ba62ba9bbf272aadcec58daca65d"
+    },
+    "source_slug_sha256": "e9575068cbbf2bce1d9abc466fbb40285c22bc579c5b17edcbd96397c7a78e5f",
+    "source_title_sha256": "def35b42c8c7900290056be8a2f9dd0817657b8b7a1ad7700f48cbb1bd5cf16b",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "fastest-jvm-on-the-planet",
+  "thumbnail": "/wp-content/uploads/2016/08/fastest-jvm-on-the-planet.jpg",
+  "title": "Fastest (J)VM on the Planet!",
+  "type": "post",
+  "video_id": "yaWq20AFN9U",
+  "warnings": []
+}

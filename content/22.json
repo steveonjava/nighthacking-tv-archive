@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaOne",
+      "slug": "javaone"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2013-09-15 09:48:51",
+  "excerpt": "",
+  "id": 22,
+  "original_urls": [
+    "http://nighthacking.tv/javaone-interview-with-paul-bakker/",
+    "http://nighthacking.com/javaone-interview-with-paul-bakker/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/YCW7_AcuZl4"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/javaone-interview-with-paul-bakker/",
+    "post_id": 22,
+    "rejected_urls": [],
+    "source_content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source_date_sha256": "0dca822ef4ad2e22815d55f0c58cfa52599da7627bd376b9ba80b821a2d3b588",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "b7a56873cd771f2c446d369b649430b65a756ba278ff97ec81bb6f55b2e73569",
+      "_video_thumbnail": "3727da899f880234cf2713c1878d0c86779d148b5af81e328478281cf26c56ed",
+      "focus_video": "216875772b8e11c7226894e5ca26b1c39f0e198feff52c17814ae8e29bab508a"
+    },
+    "source_slug_sha256": "90c37a8fe2ff262859add7ea23edb8338235576b44dce0211c8ec2f5c0983e7e",
+    "source_title_sha256": "3195a6fca8997c125b339dfe4834a4e6af3ca01387b32bf0d80a8dd5357048a3",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "javaone-interview-with-paul-bakker",
+  "thumbnail": "/wp-content/uploads/2013/09/p221.jpg",
+  "title": "JavaOne Interview with Paul Bakker",
+  "type": "post",
+  "video_id": "YCW7_AcuZl4",
+  "warnings": []
+}

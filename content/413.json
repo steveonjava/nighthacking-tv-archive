@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-02-06 00:50:32",
+  "excerpt": "Learn everything you need to secure your Java app in 10 minutes! Well, not quite, but hopefully by the end of this talk Jim Manico will have given you an appreciation for why you should spend more than 10 minutes on securing your next web application.",
+  "id": 413,
+  "original_urls": [
+    "http://nighthacking.tv/10-minute-java-security/",
+    "http://nighthacking.com/10-minute-java-security/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "c7589be21af7f7470e468a1d38e436f6610bf2f2bbfa243796815dd046e99890",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=_ANdXIuhbzQ"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/10-minute-java-security/",
+    "post_id": 413,
+    "rejected_urls": [],
+    "source_content_sha256": "2262237ff54235661f8b1c1bf41bf2cf8cd2a6c587ed4a4352d9fecfac61a22b",
+    "source_date_sha256": "f9a157fe5d9b7eb47001cd0eb48e337d2a09bb1b05f97eb89919a3a41651f81e",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "fc72c98a6c2916c1bbf9f39fce094f5785bb6f1d656971520b660b2e8a760fe3",
+      "_video_thumbnail": "27e97453f98fed761867248f5eec6a1fe045f96ee9fed44c2887cd3fd5dbb884",
+      "focus_video": "68e74204ccbe2f413c1283f5157bf238c3e47ded4146388c26da76d6cef11e52"
+    },
+    "source_slug_sha256": "6f60f6d233ee8143cfe9d6cfda0756082fc04672ad3cdb3ba310c82628950c32",
+    "source_title_sha256": "a05b22e10322171c98ee0461d939d4d9de007378d1df3ab64d8c18c5ce4a2fb4",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "10-minute-java-security",
+  "thumbnail": "/wp-content/uploads/2014/02/10-minute-java-security.jpg",
+  "title": "10 Minute Java Security",
+  "type": "post",
+  "video_id": "_ANdXIuhbzQ",
+  "warnings": []
+}

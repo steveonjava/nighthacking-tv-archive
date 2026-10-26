@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-02-06 00:53:04",
+  "excerpt": "Your Continuous Integration system is well oiled and kicks in after every commit. Your code is compiled. Your tests are green. You feel ready to take your project to the next level and move to Continuous Delivery. Learn how in this interview with Axel Fontaine.",
+  "id": 417,
+  "original_urls": [
+    "http://nighthacking.tv/continuous-delivery-and-zero-downtime/",
+    "http://nighthacking.com/continuous-delivery-and-zero-downtime/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "3a1d97d5067549b7027d28d272ecbc5f1713f3bfa39d7a8c500a44547bbfb8e3",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=RYV3fGnDrAE"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/continuous-delivery-and-zero-downtime/",
+    "post_id": 417,
+    "rejected_urls": [],
+    "source_content_sha256": "cb8e11ee6e400d1dfb523213726ce0db817d84524b67d3ca642a367152f65c1f",
+    "source_date_sha256": "f79192ad914acfb97b193425fd76b99291b97a00dc60ff8d3312df8d4ca521b9",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "cc6aed2709b80e146bebc151f1cf1dec5e323b58148535a433529155030e3a52",
+      "_video_thumbnail": "ca37db7bbf9335fd42c4aec2a91e4406b11733723fcbd7cb9cdcaa9ea1090597",
+      "focus_video": "b85b777e2033d5dbac27edd0bbefe4705f141e3a9f3ecfc378c630522d1c0adf"
+    },
+    "source_slug_sha256": "827f1395c93948c09fea81d557d7d84fd6a0e59316b8e72d1156476cb7e28606",
+    "source_title_sha256": "6b5f847dd714db15c0caed1dfa9618b2392a38f8b3a6589268cf4ed2d74bbae4",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "continuous-delivery-and-zero-downtime",
+  "thumbnail": "/wp-content/uploads/2014/02/continuous-delivery-and-zero-dow.jpg",
+  "title": "Continuous Delivery and Zero Downtime",
+  "type": "post",
+  "video_id": "RYV3fGnDrAE",
+  "warnings": []
+}

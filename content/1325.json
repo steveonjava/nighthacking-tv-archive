@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "DevNexus 2015",
+      "slug": "devnexus-2015"
+    }
+  ],
+  "date": "2015-03-12 13:45:30",
+  "excerpt": "Java Champion Yakov Fain discusses building commercial apps with 3rd party IoT devices. An OTN interview with Tori Wieldt from the DevNexus conference.",
+  "id": 1325,
+  "original_urls": [
+    "http://nighthacking.tv/yakov-fain-on-commercial-iot/",
+    "http://nighthacking.com/yakov-fain-on-commercial-iot/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "2859713d2b6737f4fcf8b5d3487942afd9df696c585bd817b586ebb4eb4f9770",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=AQ1mQEplvJk"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/yakov-fain-on-commercial-iot/",
+    "post_id": 1325,
+    "rejected_urls": [],
+    "source_content_sha256": "86252c86b89e3b9d14789a81a26747924df8d5dd4ad012f01e95652d0a22dc11",
+    "source_date_sha256": "48422551d5a989613e8ae6dd4b58ad0cb825d2c76d09ee82ba4c1c8c36f5f64f",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "b01672c37b296eaf3f1854d10e9c2b8a6c96f77c739f9982d03e59f3e9696521",
+      "_video_thumbnail": "d081db63d7d6ed355df29d56a2402bc7cf3c5d312494130ac8636f25bb7e9f43",
+      "focus_video": "1a3ac97dc07b5a6ee73a197ce2981692bbe65943c4a63a96a1b486e7848ecf9c"
+    },
+    "source_slug_sha256": "d3fe7325728e175876a134ef4e1aaa55a05bfbbd7eb0acb4d9ea91f2c020d272",
+    "source_title_sha256": "d27d268bdde074358a561b10a47004c6335378a960affbf924549f06aaa77fe3",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "yakov-fain-on-commercial-iot",
+  "thumbnail": "/wp-content/uploads/2015/03/yakov-fain-on-commercial-iot.jpg",
+  "title": "Yakov Fain on Commercial IoT",
+  "type": "post",
+  "video_id": "AQ1mQEplvJk",
+  "warnings": []
+}

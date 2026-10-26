@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2015",
+      "slug": "jfokus2015"
+    }
+  ],
+  "date": "2015-02-05 13:57:26",
+  "excerpt": "Interview with Zach Shelby (@zach_shelby) on IoT and Embedded on ARM at the Jfokus conference.",
+  "id": 1255,
+  "original_urls": [
+    "http://nighthacking.tv/zach-shelby-iot-and-embedded-on-arm/",
+    "http://nighthacking.com/zach-shelby-iot-and-embedded-on-arm/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "7a12b8e926fc771b5db18eef15c5743bc7ab72ee81171475b8264869a43484c1",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=JDIaGv6iQyc"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/zach-shelby-iot-and-embedded-on-arm/",
+    "post_id": 1255,
+    "rejected_urls": [],
+    "source_content_sha256": "2226123dd67a58f6081b446eb564a84300dcf29c7f610e9b38fbc55f196e069d",
+    "source_date_sha256": "c24f0e016477cdb9df077375504dba0bdce272e865822c586984e60ad7e93ce6",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "92abb80a9a9b828aeeef27efa528a247f91824f8d65773c1ac28781f931a6f40",
+      "_video_thumbnail": "f30aea77582c0378270a0215566f4c436b5345a1077c52588b76a36593f0450a",
+      "focus_video": "7e5faaa1e4bb52e64815ba82f08d542ecf0f1f24e7a25c7e2c6d41b35a03fe34"
+    },
+    "source_slug_sha256": "550903f4767cf491c2b67be2f52f0801e4c643f3c03b6f3f7621fd9eab3d477c",
+    "source_title_sha256": "86f6fee7b63c407a78293c68b47f801b929473d74b19210243dcd613c72cc849",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "zach-shelby-iot-and-embedded-on-arm",
+  "thumbnail": "/wp-content/uploads/2015/02/zach-shelby-iot-and-embedded-on.jpg",
+  "title": "Zach Shelby - IoT and Embedded on ARM",
+  "type": "post",
+  "video_id": "JDIaGv6iQyc",
+  "warnings": []
+}

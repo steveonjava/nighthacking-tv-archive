@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2015",
+      "slug": "jfokus2015"
+    }
+  ],
+  "date": "2015-02-05 14:13:59",
+  "excerpt": "Interview with Baruch Sadogursky (@jbaruch) on AQL at Jfokus.",
+  "id": 1287,
+  "original_urls": [
+    "http://nighthacking.tv/baruch-sadogursky-aql/",
+    "http://nighthacking.com/baruch-sadogursky-aql/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "80698ef1e0e8d0d1d044c9a52915759c5ea7512c7cd78ad1292cbbfcc6e98455",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=ZFbZbZ073iw"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/baruch-sadogursky-aql/",
+    "post_id": 1287,
+    "rejected_urls": [],
+    "source_content_sha256": "2f3009ecfca7c8aa07d9fe2d6f6c8254c7d50210df9ed8a241ef2b2276424122",
+    "source_date_sha256": "6a936cf3850ca0f9ac3286611917fe459101666730d7652e9d2d0507dfeef402",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "0e0c8d9c5fa46e66bd8293289e410bbc9e35da10a211a4d5c3e0b64a373db54f",
+      "_video_thumbnail": "3385741870b2e40e25c77d2f1ff9a3fa66a8c087bc1b48d4edc738fe11a948bb",
+      "focus_video": "f210467a455abd16e0cb6d072ed487763a782443693dab2f758dfec12b70140c"
+    },
+    "source_slug_sha256": "9bf6b790dd84e453d12d73fec4d50d4e23f7ae189302ac1853efc9892ad06ff2",
+    "source_title_sha256": "fc40ac87a57b25549fd33c3a44585fc89b55e6ebe9ed9bd151788ddf178d6b05",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "baruch-sadogursky-aql",
+  "thumbnail": "/wp-content/uploads/2015/02/baruch-sadogursky-aql.jpg",
+  "title": "Baruch Sadogursky - AQL",
+  "type": "post",
+  "video_id": "ZFbZbZ073iw",
+  "warnings": []
+}

@@ -1,0 +1,59 @@
+{
+  "categories": [
+    {
+      "name": "JavaOne",
+      "slug": "javaone"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2013-09-15 10:26:54",
+  "excerpt": "",
+  "id": 42,
+  "original_urls": [
+    "http://nighthacking.tv/javaone-interview-with-james-ward-2/",
+    "http://nighthacking.com/javaone-interview-with-james-ward-2/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/16HOvxwj-WA"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/javaone-interview-with-james-ward-2/",
+    "post_id": 42,
+    "rejected_urls": [],
+    "source_content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source_date_sha256": "8f42611e6dc624c7e8af0592f37baff3183752f39ea3de61c845441ac189f2ed",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_video_thumbnail": "3b10efe0fda01655dc188ae4aad6a82881a8721314c4ef0e84f36267c81cba91",
+      "focus_video": "32a94eae2753ae7aeaa2f2703ef7d587e63f47f6af4e5781791b00122bb307cc"
+    },
+    "source_slug_sha256": "be2bd8f633fca0386ea4107d0113b5ebf8fadb3b82a5965592d73d21f6fa0da0",
+    "source_title_sha256": "977c010c46ebdb029e977a8c7f91d28738308179aa14d2be552c3e763b01a6f2",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "javaone-interview-with-james-ward-2",
+  "thumbnail": "/wp-content/uploads/2013/09/p42.jpg",
+  "title": "JavaOne Interview with Hans Dockter",
+  "type": "post",
+  "video_id": "16HOvxwj-WA",
+  "warnings": []
+}

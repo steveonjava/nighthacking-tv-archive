@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-28 08:28:25",
+  "excerpt": "Recording of the JUG Darmstadt event presented together with Kai Kreuzer.  Kai started with a presentation on OpenHAB and home automation, and I followed up with lambdas and devices.",
+  "id": 779,
+  "original_urls": [
+    "http://nighthacking.tv/jug-darmstadt-nighthacking-with-kai-kreuzer/",
+    "http://nighthacking.com/jug-darmstadt-nighthacking-with-kai-kreuzer/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "7ce0a14a2325771a06e008e2bd784ea2d13fd1f69c3636cc7fed4072c18614cb",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=5l2ND1kiBn0"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jug-darmstadt-nighthacking-with-kai-kreuzer/",
+    "post_id": 779,
+    "rejected_urls": [],
+    "source_content_sha256": "b4b99f1fed307f50682bf4fdbba71d4df73320689eaacb1a853b52d0763a4dd3",
+    "source_date_sha256": "8e1bcbb643d7029dc69ded7ce867ee8167ec36b6369f090afa489c25f02dfaea",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "28955b1fb53203e2ff246fd2d4c3e148d4666a617469cdcc86060985682ab4bc",
+      "_video_thumbnail": "9f523a0465f31fc9da92e474caf39a631bd900970a42743791a2237bc1743a6a",
+      "focus_video": "b75186f4feab7e2572926e194c2f98f3d676c82c29d724863bfda71a24ed75b7"
+    },
+    "source_slug_sha256": "b2264d1651e9b4626e786587b3e8bb04b3d55e50eafcc9a3910d5bba82a3a460",
+    "source_title_sha256": "0a44d15cce52848cefd79a2f2b1d932e42f3d0d553d24ea426544ef0d5e57c21",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jug-darmstadt-nighthacking-with-kai-kreuzer",
+  "thumbnail": "/wp-content/uploads/2014/03/jug-darmstadt-nighthacking-with.jpg",
+  "title": "JUG Darmstadt NightHacking with Kai Kreuzer ",
+  "type": "post",
+  "video_id": "5l2ND1kiBn0",
+  "warnings": []
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "GeekOUT 2015",
+      "slug": "geekout-2015"
+    }
+  ],
+  "date": "2015-06-12 07:21:30",
+  "excerpt": "Chat with Ed Burns on the latest news and announcements surrounding the EE 8 release, JSF 2.3, Servlet 4.0, and HTTP 2.0",
+  "id": 1474,
+  "original_urls": [
+    "http://nighthacking.tv/ed-burns-on-jsf-2-3-and-servlet-4-0/",
+    "http://nighthacking.com/ed-burns-on-jsf-2-3-and-servlet-4-0/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "f557881298daa5a5ccf7d43f91508f39f9aab7fa1dbce8269abd2a65349186d8",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/LftuYJ848E4"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/ed-burns-on-jsf-2-3-and-servlet-4-0/",
+    "post_id": 1474,
+    "rejected_urls": [],
+    "source_content_sha256": "871119caed8189d841ae6764e66086f04de451329d2474e119ead8479e9900e7",
+    "source_date_sha256": "82149b5100bb5a170b8d341c7d6831c73ccbfa3d8c75c904da371284fab1a156",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "826958d9ae5a8605475285cc32d4dddaee9b1638abb90d6a55cc2345414aa6c3",
+      "_video_thumbnail": "ca81db42f7cec1e887d15d236c5fec9fbce066b621f3266d187081e6ed88f31c",
+      "focus_video": "68bd7bc6c1bb6eef1fc10ad743768788429b664c5a3fc1b4caec4c3a785e975c"
+    },
+    "source_slug_sha256": "96c121ffe78537605b765a9deaf49b91c903f198a10f62e7d1cb2c919bfbc4a2",
+    "source_title_sha256": "ccfb6a30fbfd277aa12e0198910a7bd10b1e83701487c3da82a847d3f327231e",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "ed-burns-on-jsf-2-3-and-servlet-4-0",
+  "thumbnail": "/wp-content/uploads/2015/06/ed-burns-on-jsf-2-3-and-servlet.jpg",
+  "title": "Ed Burns on JSF 2.3 and Servlet 4.0",
+  "type": "post",
+  "video_id": "LftuYJ848E4",
+  "warnings": []
+}

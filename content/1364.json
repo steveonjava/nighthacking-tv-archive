@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2015",
+      "slug": "javaland-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-03-24 09:28:55",
+  "excerpt": "Interview at JavaLand with Roland Huss on Docker.",
+  "id": 1364,
+  "original_urls": [
+    "http://nighthacking.tv/roland-huss-on-docker/",
+    "http://nighthacking.com/roland-huss-on-docker/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "45a413461c03939ebb57c683b9bac4228dbeefe5701592a6b4bfa54395b551eb",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/Jm66LKa3gLs"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/roland-huss-on-docker/",
+    "post_id": 1364,
+    "rejected_urls": [],
+    "source_content_sha256": "8987371ba9cbfaf0778d63ebc52157d778e787408cece345c0471b6d338eb464",
+    "source_date_sha256": "cb3ad99d0312d01ab7da04f4c3622d3df48e9bcb266044bce4d106c0643d80a5",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "a6f988d30328bd706c66f8ac0d92aac21dd732149cdd69cb31f459dca20c5abe",
+      "_video_thumbnail": "a07cc967f6963278e07073336a15c874f4bc80909b0ba885570c580808ce5285",
+      "focus_video": "8784041c07037e2c8496a3de3a862c7ba17b93d1d6e664e282423400e72883de"
+    },
+    "source_slug_sha256": "6f04df6d8edfeb7a1e24001f4898a5c42d9b1c47fb856ca538c2aa01208939db",
+    "source_title_sha256": "c86c76834f636ef197c2adfe1e08ac4dfd99042c434c6a9021554ce27215369b",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "roland-huss-on-docker",
+  "thumbnail": "/wp-content/uploads/2015/03/roland-huss-on-docker.jpg",
+  "title": "Roland Huss on Docker",
+  "type": "post",
+  "video_id": "Jm66LKa3gLs",
+  "warnings": []
+}

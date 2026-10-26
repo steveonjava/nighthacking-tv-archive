@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2015",
+      "slug": "jfokus2015"
+    }
+  ],
+  "date": "2015-02-05 14:12:30",
+  "excerpt": "Interview with Kirk Pepperdine (@kcpeppe) on Parallel Lambda Performance at Jfokus.",
+  "id": 1283,
+  "original_urls": [
+    "http://nighthacking.tv/kirk-pepperdine-parallel-lambda-performance/",
+    "http://nighthacking.com/kirk-pepperdine-parallel-lambda-performance/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "cc0f3264bbf6793dc4c3dd888e066a15f1adbc9142bafdf8af3bdcb5bf2dae62",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=Y4vGiCR1hUg"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/kirk-pepperdine-parallel-lambda-performance/",
+    "post_id": 1283,
+    "rejected_urls": [],
+    "source_content_sha256": "f64d70ed4a6f867389322b6641d90aeb3dc249af9f648b8643af49af0cc0991c",
+    "source_date_sha256": "301e148d7f2d942b7e722e5fa0c188b9610efc66e36b545ea9cfeb61e84e2ad5",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "6fa0b9010de4170dbe2153884069668def7b78919fab3284c90d7b591b1f54a5",
+      "_video_thumbnail": "2764283008a3e7b925709ebacbe1aae7fe571c8590264bb7ba1b03281e13fea1",
+      "focus_video": "65bad7e380a18b4cd11fda6b161ee7c718a6919f72cb8a9678e3e009c3e935b2"
+    },
+    "source_slug_sha256": "b0c0c8017ac000d733cc959634cf691ad1d4ae2cf51a97b243b33d16e94bbe26",
+    "source_title_sha256": "1f634311a70c0a184777a0a99e1b3724f8780e24cce931ef9e99cf10c5f178c9",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "kirk-pepperdine-parallel-lambda-performance",
+  "thumbnail": "/wp-content/uploads/2015/02/kirk-pepperdine-parallel-lambda.jpg",
+  "title": "Kirk Pepperdine - Parallel Lambda Performance",
+  "type": "post",
+  "video_id": "Y4vGiCR1hUg",
+  "warnings": []
+}

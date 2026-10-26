@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    }
+  ],
+  "date": "2016-03-06 15:17:46",
+  "excerpt": "Presentation at JUG Dortmund on building a Raspberry Pi gaming device running a Java NES emulator called the RetroPi.  Learn about embedded hardware, Java performance tuning, and 3D printing.",
+  "id": 1708,
+  "original_urls": [
+    "http://nighthacking.tv/jug-dortmund-nighthacking-retropi/",
+    "http://nighthacking.com/jug-dortmund-nighthacking-retropi/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "145b42beda80f1a5e926ae4c2cae188dd36544e96c26e1adb3b864818e4f9dfc",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/Ca3-_D2bau0"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jug-dortmund-nighthacking-retropi/",
+    "post_id": 1708,
+    "rejected_urls": [],
+    "source_content_sha256": "8089b222dacb5dabbaf14ccb0c4cb568dff42c0a3c59b730442594bfe4ee9e61",
+    "source_date_sha256": "2fa7a1e59511356c65f67bdd10cb8d22e828edcf87753f13148f8b03af3a68f2",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "1aa3e4f8f4a38d99994d6af04b69455db781c6932257873a272c928820d77484",
+      "_video_thumbnail": "1c9ab8c6a3e6dd4cf19f90b77b3b3bc94f048547e1a3b51052b2b0391ce6b496",
+      "focus_video": "6063012004987ea1629c48d62512eee9ad012c056040a9ec28953cbec7068e1f"
+    },
+    "source_slug_sha256": "09ec5beafa3f8e1bd6842913f0cefa95694c3191d261d326c6229afec3c1276f",
+    "source_title_sha256": "934a837e8423bad6282ef9a1b8c1276723e1e4768cae47131ee6694d1e785754",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jug-dortmund-nighthacking-retropi",
+  "thumbnail": "/wp-content/uploads/2016/03/jug-dortmund-nighthacking-retrop.jpg",
+  "title": "JUG Dortmund NightHacking - RetroPi",
+  "type": "post",
+  "video_id": "Ca3-_D2bau0",
+  "warnings": []
+}

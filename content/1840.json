@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Madras JUG Developer Day 2016",
+      "slug": "madras-jug-developer-day-2016"
+    }
+  ],
+  "date": "2016-04-02 21:30:55",
+  "excerpt": "Playing Ionic with Java REST Service presented by Vidhyadharan\n- Develop REST service with Java\n- Deploy REST service into OpenShift Cloud\n- Develop a UI application with Ionic framework by consuming the REST service",
+  "id": 1840,
+  "original_urls": [
+    "http://nighthacking.tv/playing-ionic-with-java-rest-service/",
+    "http://nighthacking.com/playing-ionic-with-java-rest-service/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "49cef8be494f77eda0132447e338543e9ddf096d39654f81f17412af378ddcf4",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/J-istvBIacY"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/playing-ionic-with-java-rest-service/",
+    "post_id": 1840,
+    "rejected_urls": [],
+    "source_content_sha256": "e07347be2efa8fda4d9f679420d9969bef88ee8a94c8378d92fa06b2f42d1d99",
+    "source_date_sha256": "5d6723a7c2a30c22b83837ff846a7b6bb2cc4c5d033292a5e58582bb4ef51cfd",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "3ab57220f1f10003766dcc4180152b17dfdd7cc9f4e5ccdecf5b48df25ae861c",
+      "_video_thumbnail": "b87dabae70633c9fa2bd825f2303ba31ef99042342450230b641a551c66ee42f",
+      "focus_video": "15583da8a0f8455acd95904ecb9f06c352bdf73949b997b72a014c6c0fd8c5ba"
+    },
+    "source_slug_sha256": "c05e7bcece15356a93298f2471cfc0cb7be90b4bf6aae9908206223b93ca5f33",
+    "source_title_sha256": "6490bc65d84d6ccbec41f95a77350c0b1168b37aab999f35a0c326ac2eae6436",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "playing-ionic-with-java-rest-service",
+  "thumbnail": "/wp-content/uploads/2016/04/playing-ionic-with-java-rest-ser.jpg",
+  "title": "Playing Ionic with Java REST Service",
+  "type": "post",
+  "video_id": "J-istvBIacY",
+  "warnings": []
+}

@@ -1,0 +1,70 @@
+{
+  "categories": [
+    {
+      "name": "Madras JUG Developer Day 2016",
+      "slug": "madras-jug-developer-day-2016"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2016-04-02 19:29:12",
+  "excerpt": "Madras JUG Developer Day Intro by Thamizharasu S.",
+  "id": 1813,
+  "original_urls": [
+    "http://nighthacking.tv/madras-jug-developer-day-intro/",
+    "http://nighthacking.com/madras-jug-developer-day-intro/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "d5195eb1eaa085034b3db971e545a56b31eed227f02134f5a6f0773431562ea6",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "www.meetup.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.meetup.com/MadrasJUG/events/229438735/"
+      },
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/JRvVP5b1yr0"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/madras-jug-developer-day-intro/",
+    "post_id": 1813,
+    "rejected_urls": [],
+    "source_content_sha256": "7d7b01ad2f7e51ea2a80a5da3660930df28713c38099403bf885fad711873af7",
+    "source_date_sha256": "f482b3ad922dece9b4b4f8a4ac970a2d8e71387f81bf4df8e1b1dc9d585b5c90",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "934aa7be7deafc0053e92ce49a029603af8bc0b3891322a10b7ab730dfaa5d63",
+      "_video_thumbnail": "b9c88389c56066c3d4a0fdfe75364c041776c075854e5ccd5fe59ad473f9b59d",
+      "focus_video": "f6bc3aae5cbc3f453a42d77003e098eeb07dd502a447a3cf9fdec1aeb64dd119"
+    },
+    "source_slug_sha256": "8f46351e83ab5eb0c3935230a71bc9879f5dc5b9735018dc25d7ed1f28214aae",
+    "source_title_sha256": "73579a27db005d76cf1807120d206e90a65a9b07f74e7b616f18394de398bbef",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "madras-jug-developer-day-intro",
+  "thumbnail": "/wp-content/uploads/2016/04/madras-jug-developer-day-intro.jpg",
+  "title": "Madras JUG Developer Day Intro",
+  "type": "post",
+  "video_id": "JRvVP5b1yr0",
+  "warnings": []
+}
