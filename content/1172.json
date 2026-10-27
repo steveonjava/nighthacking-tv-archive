@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2014",
+      "slug": "oredev"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-11-08 06:06:42",
+  "excerpt": "Interview with Bj\u00f6rn Antonsson on Akka, Akka Streams, and Reactive Programming at \u00d8redev.",
+  "id": 1172,
+  "original_urls": [
+    "http://nighthacking.tv/bjorn-antonsson-on-akka/",
+    "http://nighthacking.com/bjorn-antonsson-on-akka/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "26aa9539994a0c853f8c0aca2a0b63f88371f2247c5c9e61dff1456591d9f63a",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=N1vLvGs0a28"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/bjorn-antonsson-on-akka/",
+    "post_id": 1172,
+    "rejected_urls": [],
+    "source_content_sha256": "de58f64173d3cb76bd9036ae6af30af180b994c55be7bab3d8104726aced6f70",
+    "source_date_sha256": "8218616ea2027e91e6bd8461a98c1811d5d6ff448e2d9478585a610b534a3c59",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "973d94870ea2543da0aed1ebb95f8224c63bacbdf218b0e3793b24bc4d405d2c",
+      "_video_thumbnail": "528df74d83ae394a44d39bf7d6b9c2cf1a66ac83a18473450092c36ba89b90c9",
+      "focus_video": "7d26445613d3e453ab7e3565ca7d8dadd0b3113816e6b49323958e65fed67f92"
+    },
+    "source_slug_sha256": "0096ecf6c9a22a1d7e2ffaf68e7e637c7a419bbcc6a2019e457f0aef90faf8d6",
+    "source_title_sha256": "d3a19925f816e9b21238560aa44cd90a8d54a4d6d230076b89fc9aad144cdd22",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "bjorn-antonsson-on-akka",
+  "thumbnail": "/wp-content/uploads/2014/11/bjorn-antonsson-on-akka.jpg",
+  "title": "Bj\u00f6rn Antonsson on Akka",
+  "type": "post",
+  "video_id": "N1vLvGs0a28",
+  "warnings": []
+}

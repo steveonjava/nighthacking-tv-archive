@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaOne",
+      "slug": "javaone"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2013-09-15 09:49:38",
+  "excerpt": "",
+  "id": 26,
+  "original_urls": [
+    "http://nighthacking.tv/javaone-interview-with-trisha-gee/",
+    "http://nighthacking.com/javaone-interview-with-trisha-gee/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/MdOHjGtITjo"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/javaone-interview-with-trisha-gee/",
+    "post_id": 26,
+    "rejected_urls": [],
+    "source_content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source_date_sha256": "2db8b4d3c3ae0d7313870ebe8d85ef24916310fc8f5adef54cb70b4269fbdbbb",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "35135aaa6cc23891b40cb3f378c53a17a1127210ce60e125ccf03efcfdaec458",
+      "_video_thumbnail": "10bed95c088dcade8bb399c3ac5b5ffcd0325eaa7d56224c3c09ee108efc5f19",
+      "focus_video": "8d23e6ae8a8899c3b03f033e4d46dff73c545492dfd2c74f2bfaf308ca5e8ae0"
+    },
+    "source_slug_sha256": "d7c91cf1473358bdb09b1343fb50e531a7c8a7bb1e843efebab0bcf0983d13c0",
+    "source_title_sha256": "1b9a1b430636e7fa1de06b44749cc27d1671d20a0951e6dfc6a48995a61dba84",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "javaone-interview-with-trisha-gee",
+  "thumbnail": "/wp-content/uploads/2013/09/p261.jpg",
+  "title": "JavaOne Interview with Trisha Gee",
+  "type": "post",
+  "video_id": "MdOHjGtITjo",
+  "warnings": []
+}

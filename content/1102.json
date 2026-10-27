@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaOne 2014",
+      "slug": "javaone2014"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-09-29 16:49:51",
+  "excerpt": "Interview with Arun Gupta on Devoxx4Kids and Java EE.",
+  "id": 1102,
+  "original_urls": [
+    "http://nighthacking.tv/arun-gupta-interview/",
+    "http://nighthacking.com/arun-gupta-interview/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "b052c22295606d9024b02d7752be862e19d68f1952ad672b9c55c4050877ef6d",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/N3kBNbOeLGc"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/arun-gupta-interview/",
+    "post_id": 1102,
+    "rejected_urls": [],
+    "source_content_sha256": "31dc1b2261ca6f555654a339915a05ff7d0031728aaccca1aef9c634e3b2c4a9",
+    "source_date_sha256": "c33427d7e0b636d28e5abfa12545cde3c8225450a39ce99493c463be7e14a5f9",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "d74fe97872d8a425b5263add13d51a1066bf0b2cdd5e368d316dfe31048b2104",
+      "_video_thumbnail": "7e27ff2970e3d3304edcdfca44c9091fbfaed12d27f6786728977595586deeb2",
+      "focus_video": "595523c89f3c4481c567cf27de64089d6d476777b0f118cbea273bf31064feaf"
+    },
+    "source_slug_sha256": "c3511c51bc26d9499123a053b1481df157d04ca93ac4fe28f3bcdd8f8b00b428",
+    "source_title_sha256": "4e897f4c793de61a070fa38bb9a50701bd66d6c60ebb0bda4e43784b88e2dadb",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "arun-gupta-interview",
+  "thumbnail": "/wp-content/uploads/2014/09/arun-gupta-interview.jpg",
+  "title": "Arun Gupta Interview",
+  "type": "post",
+  "video_id": "N3kBNbOeLGc",
+  "warnings": []
+}

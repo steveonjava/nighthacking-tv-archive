@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-14 10:20:09",
+  "excerpt": "Presentation on Java 8 Lambdas and Internet of Things for the Brno JUG.",
+  "id": 637,
+  "original_urls": [
+    "http://nighthacking.tv/nighthacking-at-the-brno-jug/",
+    "http://nighthacking.com/nighthacking-at-the-brno-jug/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "c4affaceb759475e0e16ee77b4077799fae6f1536519684b56b474a8f1b4ee6f",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=FLeJaji2IV4"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nighthacking-at-the-brno-jug/",
+    "post_id": 637,
+    "rejected_urls": [],
+    "source_content_sha256": "af093b170ede8f54d8bb5bb69344c80277fba235c11876c0177bbb8dfbe4585f",
+    "source_date_sha256": "b1a28104b3328f00581531a628ea473f1874db8f8f885576269ce5c411e38721",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "2cfd4b162e427e8e59a2fedf7d5d138eb696d08b98ad9765da0af1690c77b280",
+      "_video_thumbnail": "c2745aed9d36944ef4d1db0c8e9979d74f090aa3f18c71207b17d64e35722051",
+      "focus_video": "1a121f4f4037a517452166eecaa0cc0e8da17473eb0cac5ac8b40a33cdea9775"
+    },
+    "source_slug_sha256": "720b00e467d2597215e19743ab7db66f302e9756b62e43df4730455692150c70",
+    "source_title_sha256": "3e9b7e91b6d625bfd88cf3057d4d641fb7a48072b13ab0b9f348791b81913c36",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nighthacking-at-the-brno-jug",
+  "thumbnail": "/wp-content/uploads/2014/03/nighthacking-at-the-brno-jug.jpg",
+  "title": "NightHacking at the Brno JUG",
+  "type": "post",
+  "video_id": "FLeJaji2IV4",
+  "warnings": []
+}

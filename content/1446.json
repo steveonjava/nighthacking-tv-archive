@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Java Day Tokyo 2015",
+      "slug": "java-day-tokyo-2015"
+    }
+  ],
+  "date": "2015-04-08 01:42:22",
+  "excerpt": "Interview with \u672b\u6c38\u3000\u606d\u6b63 (Yasumasa Suenaga) \u6c0f on OpenJDK and HeapStats at Java Day Tokyo.",
+  "id": 1446,
+  "original_urls": [
+    "http://nighthacking.tv/%e6%9c%ab%e6%b0%b8%e3%80%80%e6%81%ad%e6%ad%a3-yasumasa-suenaga-%e6%b0%8f-on-openjdk-and-heapstats/",
+    "http://nighthacking.com/%e6%9c%ab%e6%b0%b8%e3%80%80%e6%81%ad%e6%ad%a3-yasumasa-suenaga-%e6%b0%8f-on-openjdk-and-heapstats/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "461ab8f09732242149379e728d2994f8da11d35ba1b840dec521f7cbccd88dfe",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/4cj7brOtYqg"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/%e6%9c%ab%e6%b0%b8%e3%80%80%e6%81%ad%e6%ad%a3-yasumasa-suenaga-%e6%b0%8f-on-openjdk-and-heapstats/",
+    "post_id": 1446,
+    "rejected_urls": [],
+    "source_content_sha256": "24f9c30a04513eb5fe79b45d229a21e6163d9694db273f002c61ebe5783aafa4",
+    "source_date_sha256": "8a0bbb10cb74527bc8458772cc364b6cc55976ba0a0ac84a3d9f37405726bc84",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "57c03210be824f7a26151a1000ae617d5f31a8bdee6001fc05284de407d93e7b",
+      "_video_thumbnail": "8812b7b3cfa24628733f24d0330214cb009d6d26352cdaa306cc4258dc947c65",
+      "focus_video": "21c41053ffee2321a519fd9576983ca59246e5b631d1f8daff0dbf90bf771c3d"
+    },
+    "source_slug_sha256": "db7a1ee64996e13d2c126fbacb269ea030a9975e0e2f75d245a1340c1e173875",
+    "source_title_sha256": "9e64ebbaf4d53170621d7fa23d4333f1199479afeb91fdb4aa9cdd9f5896e97e",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "%e6%9c%ab%e6%b0%b8%e3%80%80%e6%81%ad%e6%ad%a3-yasumasa-suenaga-%e6%b0%8f-on-openjdk-and-heapstats",
+  "thumbnail": "/wp-content/uploads/2015/04/yasumasa-suenaga-on-openjdk-an.jpg",
+  "title": "\u672b\u6c38\u3000\u606d\u6b63 (Yasumasa Suenaga) \u6c0f on OpenJDK and HeapStats",
+  "type": "post",
+  "video_id": "4cj7brOtYqg",
+  "warnings": []
+}

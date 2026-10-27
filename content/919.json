@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-06-17 13:58:15",
+  "excerpt": "Presentation on lambdas and devices given at the NY Java SIG.",
+  "id": 919,
+  "original_urls": [
+    "http://nighthacking.tv/lambdas-and-devices-at-the-ny-java-sig/",
+    "http://nighthacking.com/lambdas-and-devices-at-the-ny-java-sig/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "4de451679631cfe18252d8c4ee2758b8d953588079556f5aa1e62e268854130a",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=mZMjD1J3rLY"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/lambdas-and-devices-at-the-ny-java-sig/",
+    "post_id": 919,
+    "rejected_urls": [],
+    "source_content_sha256": "61c4a24c2662acb41dadb3c48281b7fa5e32f5641d9648721e74aca47b07b4cb",
+    "source_date_sha256": "8ec573454bd4935552981a3853975b433f3255694bb327065cf19cee9793645b",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "7e07ae1a0cd3da38f7e619aacacec577992e62944683b47726c201890e98d2a3",
+      "_video_thumbnail": "a1f3871435406be170e6b6fd19b2939fa638f6bd14637c7a60d74986b7658b61",
+      "focus_video": "606b9958a51cf850236a01cfd991bb88722675c08d754e0e33a75763ef8f6087"
+    },
+    "source_slug_sha256": "59917dada08165ad5ecc63cef6af6a8ac1b4181157a9d73f0f4fd24be35e261a",
+    "source_title_sha256": "5f07e2f5bd20058ff3e703c3c6306e738e6c1c959462f0140bb9339ff95129e5",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "lambdas-and-devices-at-the-ny-java-sig",
+  "thumbnail": "/wp-content/uploads/2014/06/lambdas-and-devices-at-the-ny-ja.jpg",
+  "title": "Lambdas and Devices at the NY Java SIG",
+  "type": "post",
+  "video_id": "mZMjD1J3rLY",
+  "warnings": []
+}

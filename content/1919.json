@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "name": "QCon NYC 2016",
+      "slug": "qcon-nyc-2016"
+    }
+  ],
+  "date": "2016-06-15 08:32:58",
+  "excerpt": "First ever interview with a baby (and mom) on Java 8 migration patterns.  Trisha Gee (@trisha_gee) recommends best practices for adopting lambdas and streams patterns while keeping an eye to performance. #QCon",
+  "id": 1919,
+  "original_urls": [
+    "http://nighthacking.tv/trisha-gee-and-eva-on-java-8-patterns/",
+    "http://nighthacking.com/trisha-gee-and-eva-on-java-8-patterns/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "b930162b77a5577e8df8236ebc3fda6b6f8eca720665d360c108ffbf569c1bd3",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/h56YSsmhCtM"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/trisha-gee-and-eva-on-java-8-patterns/",
+    "post_id": 1919,
+    "rejected_urls": [],
+    "source_content_sha256": "d74a77d3ca7491bac17a0b35011202dc43a6f9c049158a9a91edbd956f939e2e",
+    "source_date_sha256": "f9bd38bdf024cc70fd79855c009367517b4580256874c515146bdf35978f0ae3",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "d982309a461bcc3abc15489201522c8df291aa650eabafda45f1583b03992cc9",
+      "_video_thumbnail": "b84ae784680c69eb262e1b640f94e3fc84fd3609b298c4008ca7a9fed38554e5",
+      "focus_video": "b20fe486c63e06665844c2b961384535720a6e65f3524fce8c18ade3ec877d76"
+    },
+    "source_slug_sha256": "68dcd3d02864130087830fe5dcdb815441d5a168ce8191c7b70b2e662375a690",
+    "source_title_sha256": "d23697cdfb8a473840fbd46ac061e9885362fa9f7564894f72e2b3f8beadf506",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "trisha-gee-and-eva-on-java-8-patterns",
+  "thumbnail": "/wp-content/uploads/2016/06/trisha-gee-and-eva-on-java-8-pat.jpg",
+  "title": "Trisha Gee and Eva on Java 8 Patterns",
+  "type": "post",
+  "video_id": "h56YSsmhCtM",
+  "warnings": [
+    "A UTF-8 nonbreaking space was normalized to a space."
+  ]
+}

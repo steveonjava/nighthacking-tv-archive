@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2014",
+      "slug": "oredev"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-11-07 05:36:17",
+  "excerpt": "Micheal Heinrichs shows a demo of CoffeeScript running in Nashorn on the JVM.",
+  "id": 1142,
+  "original_urls": [
+    "http://nighthacking.tv/michael-heinrichs-on-coffeescript-in-the-jvm/",
+    "http://nighthacking.com/michael-heinrichs-on-coffeescript-in-the-jvm/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "f2517f333367f03015730518e730036cf1e6a9e489bb92a779a356115e55ca6a",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/yCAn9sCTisM"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/michael-heinrichs-on-coffeescript-in-the-jvm/",
+    "post_id": 1142,
+    "rejected_urls": [],
+    "source_content_sha256": "c581f8474f9d0532db782ea2d296f6eefefefad71b35adde6d7f04f894479c61",
+    "source_date_sha256": "86c16aa73bb77af3b4dc7a5e07f83c8a3bcab578b501aa2661d87ecf60f52704",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "28fdc24c9abb066ea7343dc47c79a7cce15a581bcb30002a96903450bbe641a5",
+      "_video_thumbnail": "4031f43d5d9e6ddada0d33b6d1a90822a51a65745c02e620da0db6428eeda5c1",
+      "focus_video": "c689161d9a045910a8e38caf2fef941fae75b3c22ce6ba0232c58259d462c6ac"
+    },
+    "source_slug_sha256": "c1b3b0658829fec6bbabf90084d3bba29a6e53ad9aa4ed295cf2d4068b7d19c3",
+    "source_title_sha256": "772bb9f1f6c7a7f20d0e25802448d4224f0bc806ffc1fa39a6d2f37cb8e168ac",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "michael-heinrichs-on-coffeescript-in-the-jvm",
+  "thumbnail": "/wp-content/uploads/2014/11/michael-heinrichs-on-coffeescrip.jpg",
+  "title": "Michael Heinrichs on CoffeeScript in the JVM",
+  "type": "post",
+  "video_id": "yCAn9sCTisM",
+  "warnings": []
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2013-10-23 18:48:55",
+  "excerpt": "",
+  "id": 210,
+  "original_urls": [
+    "http://nighthacking.tv/nighthacking-with-james-gosling/",
+    "http://nighthacking.com/nighthacking-with-james-gosling/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=_XMapmMl7EU"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nighthacking-with-james-gosling/",
+    "post_id": 210,
+    "rejected_urls": [],
+    "source_content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source_date_sha256": "1cc21dc62f6055c0a46547e90546b19d76a3875972c792379332494baaeedd60",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "56f4da26ed956730309fa1488611ee0f13b0ac95ebb1bc9b5d210e31ff70e79c",
+      "_video_thumbnail": "26c5cec2a121f1dcaeac2deeaf26441f17109756979d45d0fb05f3e8cab5bdd4",
+      "focus_video": "ff9fbef4607d9091d8df151b5b7daa7f32cf448f3b3917726a1ca5c3e1c35160"
+    },
+    "source_slug_sha256": "731d689198d653f7c4e66752fdec8df9352be809cc206adc51251713347da67d",
+    "source_title_sha256": "541413a1cd7ec629b70c2b6f897422d3d28c2c0184c11e04ad00c1836b76b77e",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nighthacking-with-james-gosling",
+  "thumbnail": "/wp-content/uploads/2013/10/nighthacking-with-james-gosling4.jpg",
+  "title": "NightHacking with James Gosling on the Big Island",
+  "type": "post",
+  "video_id": "_XMapmMl7EU",
+  "warnings": []
+}

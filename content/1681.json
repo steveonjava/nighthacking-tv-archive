@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "name": "DevNexus 2016",
+      "slug": "devnexus2016"
+    }
+  ],
+  "date": "2016-02-17 11:23:15",
+  "excerpt": "Interview with Katharina Probst on the Netflix API backed by microservices at the DevNexus conference in Atlanta, Georgia.",
+  "id": 1681,
+  "original_urls": [
+    "http://nighthacking.tv/katharina-probst-on-the-netflix-api/",
+    "http://nighthacking.com/katharina-probst-on-the-netflix-api/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "67ec68b65a860e3a9ce86aa3166036358011e52d561ff749ef6cec5c27ff2210",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/33BEV9MW9-0"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/katharina-probst-on-the-netflix-api/",
+    "post_id": 1681,
+    "rejected_urls": [],
+    "source_content_sha256": "dbb3841eaede634fe29bb7ee46ea8dc2b39f4bde2392f42f3e7bba715e99573a",
+    "source_date_sha256": "945f6831032a7600aaf3c6f0fcd973fdb72fa67971b34e9480e57b4b3dab7886",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "7db67cf8f985b40952938e7402a645eba1d6eecc98fc3166d0be0b47e76dd56c",
+      "_video_thumbnail": "7ea389528e6d73ff8943366b1d655ef87cd0591f7029a4c89065ec2c180b0d84",
+      "focus_video": "16baa1d0f61207f8fda8a417f767f17845514928308ea7babdfe6c4629eed31f"
+    },
+    "source_slug_sha256": "7c09badc6b4b5ce55509b10381ab18f105e0c9e03862d975615da6e9eaeb031c",
+    "source_title_sha256": "e83c81e53e38819c20dd53636623bc17bb09a1337a9f52b6421a8ab01d2ec113",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "katharina-probst-on-the-netflix-api",
+  "thumbnail": "/wp-content/uploads/2016/02/katharina-probst-on-the-netflix.jpg",
+  "title": "Katharina Probst on the Netflix API",
+  "type": "post",
+  "video_id": "33BEV9MW9-0",
+  "warnings": [
+    "A UTF-8 nonbreaking space was normalized to a space."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "CloudWorld Developer Mumbai",
+      "slug": "cloudworld-developer-mumbai"
+    }
+  ],
+  "date": "2016-04-09 04:42:00",
+  "excerpt": "Interview with Javed Beg on Mobile Cloud at Cloud World Developer in Mumbai, India.",
+  "id": 1862,
+  "original_urls": [
+    "http://nighthacking.tv/javed-beg-on-mobile-cloud/",
+    "http://nighthacking.com/javed-beg-on-mobile-cloud/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "2ca0d60c476c9c47314fabb3f034e4a329c76d6239cf7a335a55cb0ba504e41b",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/B-XxBoMoFWc"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/javed-beg-on-mobile-cloud/",
+    "post_id": 1862,
+    "rejected_urls": [],
+    "source_content_sha256": "ab663c651a9809252fbe84ca800a3609e4ec19e25dff310206c7b55167d28fbc",
+    "source_date_sha256": "ab806b9fad3b004b72830969018beb8b1258edc99bfd6d19751353deaf542c9d",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "d9521266ec778d833335b0e9d88bd2886bcebb34855da505d02a9db68083c315",
+      "_video_thumbnail": "f07bf0e9ac06b833ad8e77c0e3b6faa67d90671bc6dabaadcefa39c12d582a92",
+      "focus_video": "2f715dd83372e2064b903dfa61e0c935021d3ff5d1a2912ed576cf612e80f371"
+    },
+    "source_slug_sha256": "67fb4ea0feaff5c1b87c764e328853858465f99bcd9dab5b5c6ffdbd620dcf76",
+    "source_title_sha256": "517804752e29ac6ad2eb93e8562a8e526496964b9b3c3fef8b0dc127d2b5151f",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "javed-beg-on-mobile-cloud",
+  "thumbnail": "/wp-content/uploads/2016/04/javed-beg-on-mobile-cloud.jpg",
+  "title": "Javed Beg on Mobile Cloud",
+  "type": "post",
+  "video_id": "B-XxBoMoFWc",
+  "warnings": []
+}

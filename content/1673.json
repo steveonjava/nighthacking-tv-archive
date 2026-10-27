@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "DevNexus 2016",
+      "slug": "devnexus2016"
+    }
+  ],
+  "date": "2016-02-17 10:57:19",
+  "excerpt": "DevNexus interview buy Heather Van Cura with Erica Stanley about the Women Who Code organization in Atlanta, Georgia.",
+  "id": 1673,
+  "original_urls": [
+    "http://nighthacking.tv/erica-stanley-about-women-who-code/",
+    "http://nighthacking.com/erica-stanley-about-women-who-code/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "2650b668f327b449218eebca183d87eeacf37ab910cf4678fa337920515649f0",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/kmLbmK_QXjE"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/erica-stanley-about-women-who-code/",
+    "post_id": 1673,
+    "rejected_urls": [],
+    "source_content_sha256": "d07a31f7f6ec6b2c0d22fb4b1cb2a2d769b96bcd4748fb88575f1db054cd98a5",
+    "source_date_sha256": "0d7b714d66910a87541e2102b6e5f0739d816a9b9e52ee16b42fface958398ef",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "38f13ba4550b60ae975cb2a6efd68b795f4c026ea25b162d316a9d00182cd92d",
+      "_video_thumbnail": "c37c462c61e3ee5ba8fcaa482a138a7187d2b9c40f35359718fbac2e9876e6a2",
+      "focus_video": "6df8f737a3d6225f34cb041419086cad8168a513d5639d99d0a5ecb5adf96928"
+    },
+    "source_slug_sha256": "aee6ce132ea0e552fb9be4ef62b95180c81fac8ff2d5e23fea6efaad4e480ce8",
+    "source_title_sha256": "e2a587d31ab3c084d24c9bfea52dae12ddf5abc77b307ba70e7a03d9e4e705ee",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "erica-stanley-about-women-who-code",
+  "thumbnail": "/wp-content/uploads/2016/02/erica-stanley-about-women-who-co.jpg",
+  "title": "Erica Stanley about Women Who Code",
+  "type": "post",
+  "video_id": "kmLbmK_QXjE",
+  "warnings": []
+}

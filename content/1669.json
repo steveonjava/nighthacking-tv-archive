@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "DevNexus 2016",
+      "slug": "devnexus2016"
+    }
+  ],
+  "date": "2016-02-17 10:52:37",
+  "excerpt": "Interview with Michael Minella & Glenn Renfro about On Demand Processing at the DevNexus conference in Atlanta, Georgia.",
+  "id": 1669,
+  "original_urls": [
+    "http://nighthacking.tv/michael-minella-glenn-renfro-discussing-on-demand-processing/",
+    "http://nighthacking.com/michael-minella-glenn-renfro-discussing-on-demand-processing/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "15b6577cc240c6104fe88de14b96f004eec9ac1c10d7873fe3b18fc3d951b6b4",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/ANdazNGY0nk"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/michael-minella-glenn-renfro-discussing-on-demand-processing/",
+    "post_id": 1669,
+    "rejected_urls": [],
+    "source_content_sha256": "07db1245ed201eaa0d4c6bd1b37c7780eab5c57a496901b25e3483061b36d4d8",
+    "source_date_sha256": "251761155950eed1ccf7422bd378dc66c810440acb94b412353d5473ad648c84",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "15d45f2509126484f295a467baa497716a95742d401311586e75d5db3f88be9c",
+      "_video_thumbnail": "8d6fe2c9a92cab557e3e4b97de4e04af1a75d6baf56eda514a18c234fe70b4a2",
+      "focus_video": "6e857567beb13ef1fdb5d20526912c730b1c28924c3c2747bf2cdf3c6ca68567"
+    },
+    "source_slug_sha256": "eb6dd674a1d326a53356d419e593b4d119d680ec5a0ce58044991c1737bb44b6",
+    "source_title_sha256": "77a3fade7e0622c11125d43be437e8f4f1694fca6ca6bbafd0452516b4518401",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "michael-minella-glenn-renfro-discussing-on-demand-processing",
+  "thumbnail": "/wp-content/uploads/2016/02/michael-minella-glenn-renfro-dis.jpg",
+  "title": "Michael Minella & Glenn Renfro Discussing On Demand Processing",
+  "type": "post",
+  "video_id": "ANdazNGY0nk",
+  "warnings": []
+}

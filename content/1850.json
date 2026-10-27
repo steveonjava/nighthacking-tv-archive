@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "CloudWorld Developer Mumbai",
+      "slug": "cloudworld-developer-mumbai"
+    }
+  ],
+  "date": "2016-04-09 04:19:09",
+  "excerpt": "Interview with Satyendra Kumar on Oracle Cloud in Industry at CloudWorld Developer Mumbai.",
+  "id": 1850,
+  "original_urls": [
+    "http://nighthacking.tv/satyendra-kumar-on-oracle-cloud-in-industry/",
+    "http://nighthacking.com/satyendra-kumar-on-oracle-cloud-in-industry/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "64b6468792b9531aeae4e08c825302b4e3ca120062d26e56bec61c6d3596ccd0",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/dSxtI6ZDSUc"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/satyendra-kumar-on-oracle-cloud-in-industry/",
+    "post_id": 1850,
+    "rejected_urls": [],
+    "source_content_sha256": "4b7a9af426bf304d43f1357c7950279086675c0ddb23da4a472365c5cbbe7b5e",
+    "source_date_sha256": "6ce7e2951e445da90f992c437e622b24398580e9d713e72955a6f80ec3331154",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "501883ce12ba20f1a0de68f06b8c84d3d148124f66ab52a38359317c78ab82b1",
+      "_video_thumbnail": "b1947f503464922dc993578417e952be61265a2233d97396bd1c3b9a46aab850",
+      "focus_video": "3ab62a44f473d6bb1a907dfa0877db9673ca18e6e51c984d849554b55b3e7c8a"
+    },
+    "source_slug_sha256": "f8db20d8478f5c93519c2f9c6a9477357ca6e78af14af15d884f05f00a420dd3",
+    "source_title_sha256": "042d5f35b9916aa73e79cfd2bf0ec88a7cf895ae9494798d4bc41e60b36b16ad",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "satyendra-kumar-on-oracle-cloud-in-industry",
+  "thumbnail": "/wp-content/uploads/2016/04/satyendra-kumar-on-oracle-cloud.jpg",
+  "title": "Satyendra Kumar on Oracle Cloud in Industry",
+  "type": "post",
+  "video_id": "dSxtI6ZDSUc",
+  "warnings": []
+}

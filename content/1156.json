@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2014",
+      "slug": "oredev"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-11-07 05:51:35",
+  "excerpt": "Behind the scenes interview with Richard Bair and Jasper Potts on their IoT Automotive Demo shown at JavaOne and \u00d8redev.",
+  "id": 1156,
+  "original_urls": [
+    "http://nighthacking.tv/richard-bair-and-jasper-potts-on-their-iot-automotive-demo/",
+    "http://nighthacking.com/richard-bair-and-jasper-potts-on-their-iot-automotive-demo/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "e127f0a1615f38f63f3e3a18621423f1ad7f06b185772d4e4b60b68fd4998876",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/-ZhZcDaouPM"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/richard-bair-and-jasper-potts-on-their-iot-automotive-demo/",
+    "post_id": 1156,
+    "rejected_urls": [],
+    "source_content_sha256": "ed2cda7ac03f2b8b51c30d1295fbc9e039760c85e5c95153b26be57869d948c3",
+    "source_date_sha256": "58a86d7cb1efa18a97756d379c1f5584d33922bdf30bb0d3f0f93ff946bbfbd7",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "589302a339e5059513c12b404e3dd270ffef4c8651619c2d3a07787ea6fc0577",
+      "_video_thumbnail": "adb4848e670da9d4c779ff2a6f177d71ebae46f6d37cc6ea6d77fdf9ae7f8da1",
+      "focus_video": "877ddd5fe5d0349f42a45434c0b19ad6f7e89e9dc7a6d50a35f23daa3f945ebf"
+    },
+    "source_slug_sha256": "64e0957ca5cbcb945a7b9bbf464549cc288174303ace919a514ae625ce87dbdb",
+    "source_title_sha256": "9045a3ab5aba2cfac9587853f67556ae0867eb54312de1b679e463a5fe133037",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "richard-bair-and-jasper-potts-on-their-iot-automotive-demo",
+  "thumbnail": "/wp-content/uploads/2014/11/richard-bair-and-jasper-potts-on.jpg",
+  "title": "Richard Bair and Jasper Potts on their IoT Automotive Demo",
+  "type": "post",
+  "video_id": "-ZhZcDaouPM",
+  "warnings": []
+}

@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2014",
+      "slug": "jcrete2014"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-08-31 23:49:48",
+  "excerpt": "Interview with JCrete founders, Heinz and Maxi Kabutz, about the popular unconference on the island of Crete.",
+  "id": 1056,
+  "original_urls": [
+    "http://nighthacking.tv/jcrete-interview-with-heinz-and-maxi-kabutz/",
+    "http://nighthacking.com/jcrete-interview-with-heinz-and-maxi-kabutz/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "409e4c97272fdf34987a79a3ebbfedc1309d40a5eb6017716d24d3967cf8219c",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/s2a7_4haxo0"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jcrete-interview-with-heinz-and-maxi-kabutz/",
+    "post_id": 1056,
+    "rejected_urls": [],
+    "source_content_sha256": "3fa1e7cd809fabed0dc3a1739769b24ebff5e44aa2f48466866faf0115da85ba",
+    "source_date_sha256": "04531c423659d36fd2a2b878221f40f07e4dd04adcb369fb4630bb0b4c9c08c8",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "fb5316204aa75301303e70a2e9555cf9cbb1457356a041dd58a88e003aca9142",
+      "_video_thumbnail": "ce969be8f873481813d45a377e3b1f2792404690fc47dc0c0bdfed4b3ab9483f",
+      "focus_video": "bfa1abf5e9e9cc27e614f2975ecfe50995d431f2bac19df586776ea1561d623e"
+    },
+    "source_slug_sha256": "221cc16a067ffcefc1890a634957b7ee2ed85519ea9f860b55c45488d1730585",
+    "source_title_sha256": "e3781916fec18c4c67b3e87360ac8324c199c67a6dce033bdd723aa80fd3627c",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jcrete-interview-with-heinz-and-maxi-kabutz",
+  "thumbnail": "/wp-content/uploads/2014/08/jcrete-interview-with-heinz-and.jpg",
+  "title": "JCrete Interview with Heinz and Maxi Kabutz",
+  "type": "post",
+  "video_id": "s2a7_4haxo0",
+  "warnings": []
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    }
+  ],
+  "date": "2016-03-16 01:23:14",
+  "excerpt": "Interview with attendees at the NightHacking event in Munich, Germany.",
+  "id": 1788,
+  "original_urls": [
+    "http://nighthacking.tv/nighthacking-with-toni-epple-audience-intro/",
+    "http://nighthacking.com/nighthacking-with-toni-epple-audience-intro/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "4cc219e6ac55ef82ae7226a7cc9e8fe96682b7870c1c19ef1afdd34ea73bf6ec",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/xm674xvcyAE"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nighthacking-with-toni-epple-audience-intro/",
+    "post_id": 1788,
+    "rejected_urls": [],
+    "source_content_sha256": "754233b07074fbfba789ddbcce7e88fa347016d0f8ff1f460a3568c20195eb23",
+    "source_date_sha256": "6397ae54f2b9a9dd4eec5bdcfa978ac8709290d1f20bfad0bf04db154fd54293",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "61dd8cd59a50bdaed10cc8e749b8015d81ed830a990e255186f44dae78d6d20f",
+      "_video_thumbnail": "744ec00fdaedc0573fb502e0791e6e60ce921fbe1481f05829ec04089d9c8fda",
+      "focus_video": "5de9ebc0496e907639f6e5a985596c9f82992523ccca77d78b33b05694372904"
+    },
+    "source_slug_sha256": "bea0a3a73d01a1a49234746c84d1d82eda77fa4f65b6f51fbdde5ecdd0201ca3",
+    "source_title_sha256": "e352f3ca48c01ea5b4291a632e31ac3a51201355b2247fe0a132a625a2c3495d",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nighthacking-with-toni-epple-audience-intro",
+  "thumbnail": "/wp-content/uploads/2016/03/nighthacking-with-toni-epple-aud.jpg",
+  "title": "NightHacking with Toni Epple Audience Intro",
+  "type": "post",
+  "video_id": "xm674xvcyAE",
+  "warnings": []
+}

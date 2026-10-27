@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-14 10:18:02",
+  "excerpt": "Presentation on Java on Legos, Pi, and Tablets for the Prague stop on the NightHacking Java 8 Tour. Kicks off with intros from the local attendees, and plenty of technology demos.",
+  "id": 633,
+  "original_urls": [
+    "http://nighthacking.tv/nighthacking-at-the-prague-jug/",
+    "http://nighthacking.com/nighthacking-at-the-prague-jug/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "783367b4f21c49f2f52829e6c7e0e3d0448bb12391122771df44d43e984c7ce8",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=FYoFtfW63vI"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nighthacking-at-the-prague-jug/",
+    "post_id": 633,
+    "rejected_urls": [],
+    "source_content_sha256": "e382d8d8b45c45c56c104dc8f1521e9773952871806125a7657b4c42de8bb8d3",
+    "source_date_sha256": "04cadc7afce0e9efcab97a4a657986228585633342bfdd386eef33494a567b8b",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "2618182c3894875e16eeafa6c24e1fe926150ebc6403980c2cb1bbff192d296d",
+      "_video_thumbnail": "d76fbdc85723f65c60900841b99ae1eafb79c3dcfc37fd0ffd3727ed2b48c8ce",
+      "focus_video": "e6471faf2665862cc2aaccb9ecb72cb39785d52358115374788ee057346e6471"
+    },
+    "source_slug_sha256": "1c48ba4e7d1c8e2737e2e4c4df7cbd4e055c874d701e0268bd5774b8fb83974d",
+    "source_title_sha256": "22a3a6641f341527da81f60fab1ff7749170e8a640dc363e228a44a49240515b",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nighthacking-at-the-prague-jug",
+  "thumbnail": "/wp-content/uploads/2014/03/nighthacking-at-the-prague-jug.jpg",
+  "title": "NightHacking at the Prague JUG",
+  "type": "post",
+  "video_id": "FYoFtfW63vI",
+  "warnings": []
+}

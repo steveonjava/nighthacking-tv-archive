@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Oracle Code Japan Tour",
+      "slug": "oracle-code-japan-tour"
+    }
+  ],
+  "date": "2017-05-25 01:55:33",
+  "excerpt": "Introduction to the Oracle Code Japan Tour in Nagoya, Japan.",
+  "id": 2002,
+  "original_urls": [
+    "http://nighthacking.tv/nagoya-introduction/",
+    "http://nighthacking.com/nagoya-introduction/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "12a96a9f308008169a8b79bf83ff3bf85606c821320bd7615acfbf67571db6e0",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=JQJ1d5se2RE"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nagoya-introduction/",
+    "post_id": 2002,
+    "rejected_urls": [],
+    "source_content_sha256": "821b9720f3cc8f75141c712e54b80899dc9d5e82d1cfeed1e9cadb5f9117361e",
+    "source_date_sha256": "9268f34298c6104d8efbfe01bca38ed9592c965f37115aefaf632da7d15c1d4a",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "46e67c525617663b392a53c0e94ba79e62db62a851fb175ae87756d4e73c9718",
+      "_video_thumbnail": "ad2b7f42b6107e41065d29068d150b987ea12927efaa295cb97275f93c9a79c1",
+      "focus_video": "5d5f1e9824f2875c00ffe31bcf976260c42ebdf3a1b1d63b34cddaeb49054c74"
+    },
+    "source_slug_sha256": "10064d8b0c65ab51885aafcbe197a1d0eccd01af41262f82411f09f8db57b179",
+    "source_title_sha256": "65ecb777e2f7faecd55355c71dca129ff6939cd8a5e8c43ad4700c0c861dd219",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nagoya-introduction",
+  "thumbnail": "/wp-content/uploads/2017/05/nagoya-introduction-1.jpg",
+  "title": "Nagoya Introduction",
+  "type": "post",
+  "video_id": "JQJ1d5se2RE",
+  "warnings": []
+}

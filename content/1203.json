@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Devoxx 2014",
+      "slug": "devoxx-2014"
+    }
+  ],
+  "date": "2014-11-15 09:16:26",
+  "excerpt": "Interview with Jos\u00e9 Paumard Java 8 lambdas and streams, and his adventures in California.",
+  "id": 1203,
+  "original_urls": [
+    "http://nighthacking.tv/jose-paumard-on-lambdas-and-route-1/",
+    "http://nighthacking.com/jose-paumard-on-lambdas-and-route-1/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "e3bba9e7cd65c7bbccbecb44881e037e119c4ea2b97afe19acabce45580874ea",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/NGZkbVOnU70"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jose-paumard-on-lambdas-and-route-1/",
+    "post_id": 1203,
+    "rejected_urls": [],
+    "source_content_sha256": "95d34e10740a799589cb9b37cc990f69ef5fc53d2cc6846848219554588a7cf0",
+    "source_date_sha256": "b0150aa78ade89a18799b6aff028cd0017fc814b37410ea789f7f9aee37c029a",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "2cec8cf0e321c284fa0c2ebef804aac18bf1cbb85546f89e7e3d0b6aa8b9d2cf",
+      "_video_thumbnail": "a41cf3675f36ddf56120a9e28393fc6036353c883a24c7b9712d4f39b9c6d290",
+      "focus_video": "28f1798c9639a3c29b409e1c420f8d948e6ef950321988f38ad5775f5e1b0eb0"
+    },
+    "source_slug_sha256": "1fc2d031ec93f44f48d7832cc269468164e779a055008e841fc521b0db66b02f",
+    "source_title_sha256": "6a34b9a32d5890a8f43d98568669a003f0914b37be7a3080a7c95c44deb5d5c2",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jose-paumard-on-lambdas-and-route-1",
+  "thumbnail": "/wp-content/uploads/2014/11/jose-paumard-on-lambdas-and-rout.jpg",
+  "title": "Jos\u00e9 Paumard on Lambdas and Route 1",
+  "type": "post",
+  "video_id": "NGZkbVOnU70",
+  "warnings": []
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "CloudWorld Developer Mumbai",
+      "slug": "cloudworld-developer-mumbai"
+    }
+  ],
+  "date": "2016-04-09 04:37:14",
+  "excerpt": "Interview with Harshad Oak on the Java Cloud Service at CloudWorld Dev Mumbai.",
+  "id": 1858,
+  "original_urls": [
+    "http://nighthacking.tv/harshad-oak-on-the-java-cloud-service/",
+    "http://nighthacking.com/harshad-oak-on-the-java-cloud-service/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "0a344776a15a416bb07f7d55f840b3c7fa0041d1832fe449a5582948fd1b8080",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/jWXJBTWUT-I"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/harshad-oak-on-the-java-cloud-service/",
+    "post_id": 1858,
+    "rejected_urls": [],
+    "source_content_sha256": "68a623ad6da31f92c48c6017f350611f8056901021dd3eb90f39b26851739a76",
+    "source_date_sha256": "5a815e2c52f597f6d6838506fed2daea8a60046bafd1c5ed677475474025935b",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "5cd5e6e836cd713686bd2ccc7a5626db84a4c23f91d00d02eaed726d9f5b7220",
+      "_video_thumbnail": "dbaa9b44b69ac36b56b20948ff5423c55fceb5f4bbb4e74bedc239352d1e35fa",
+      "focus_video": "1d568e5593d2976f264b6179ec428a93df7439bac448a540a25560d6131fccfe"
+    },
+    "source_slug_sha256": "266ce302296a10588013add6544c960da92642d130f46393cebb19aaf0269542",
+    "source_title_sha256": "449960421aa7d593da685362e166e84ed50fa69087ba411979f5e5afea4f203c",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "harshad-oak-on-the-java-cloud-service",
+  "thumbnail": "/wp-content/uploads/2016/04/harshad-oak-on-the-java-cloud-se.jpg",
+  "title": "Harshad Oak on the Java Cloud Service",
+  "type": "post",
+  "video_id": "jWXJBTWUT-I",
+  "warnings": []
+}

@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2015",
+      "slug": "oredev-2015"
+    }
+  ],
+  "date": "2015-11-06 02:42:05",
+  "excerpt": "Interview at the \u00d8redev conference in Malm\u00f6, Sweden with Pete Hunt. Topics include Kubernetes and Docker as well as thinking picked up from Facebook around development and community.  Interviewer is Fredrik Bj\u00f6reman from the Kodsnack podcast.",
+  "id": 1530,
+  "original_urls": [
+    "http://nighthacking.tv/kodsnack-interviewing-pete-hunt/",
+    "http://nighthacking.com/kodsnack-interviewing-pete-hunt/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "6dea034a56e1906ff6f41b521d814bc57a62e8db27dcfe10fd178d19ceac7847",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/ea-q_GvGCpk"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/kodsnack-interviewing-pete-hunt/",
+    "post_id": 1530,
+    "rejected_urls": [],
+    "source_content_sha256": "2d1dacf7d2ad98c45155599fd3897d68a5f5ff1fa6335aff5e7199542af879c1",
+    "source_date_sha256": "ba3c9bb4552a0f152333d182003c5e3e68972ca2153898283d5d42cc1118e775",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "f76cb816b3f74ecf30d387c64869038ac163fe26f8aabd727c1071dd567fc3d5",
+      "_video_thumbnail": "29abf91c0d0d4722566d6e5b05b74a4e3be7ed2baa4caa9c7886c1898bda9faa",
+      "focus_video": "da6b61f9d42b1e7073fb71a3ac19b7096ab220b3bf57f27bb0f4968b4bb96cb1"
+    },
+    "source_slug_sha256": "512502200e7c7c51180a10bcaa1137a99f467375bce623eeb6b6e90da97b565f",
+    "source_title_sha256": "c3884dbf08d6d62341dda743f637ed25e304e75d0477d6fd09a9210d62cdda30",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "kodsnack-interviewing-pete-hunt",
+  "thumbnail": "/wp-content/uploads/2015/11/kodsnack-interviewing-pete-hunt.jpg",
+  "title": "Kodsnack interviewing Pete Hunt",
+  "type": "post",
+  "video_id": "ea-q_GvGCpk",
+  "warnings": [
+    "A UTF-8 nonbreaking space was normalized to a space."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-06-22 01:54:52",
+  "excerpt": "NightHacking interview with Suyash Joshi during the JCP 15th Year Anniversary Party.",
+  "id": 956,
+  "original_urls": [
+    "http://nighthacking.tv/jcp-interview-with-suyash-joshi/",
+    "http://nighthacking.com/jcp-interview-with-suyash-joshi/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "5e4275a6bc19a0cebdb108d34bb7dcda572d522ef792fda9bd0d4bc53c985399",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=ufRxGbcXiW4"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jcp-interview-with-suyash-joshi/",
+    "post_id": 956,
+    "rejected_urls": [],
+    "source_content_sha256": "95dc8a9dd7ce0265ab1a69ceeb120755e08aa63ba91df5dc17bd396dfd3f6052",
+    "source_date_sha256": "394b71aedf4a3c97db4721d55dfb7f058047a61d01ee256f2601ff5a50dafd14",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "debc96817a3523d6f3cde58b00abaf6480477744625d0b1f4e406e644ae1763b",
+      "_video_thumbnail": "2305095ab7afda09cb19cea8fdad54b64ef1996f3880655f0013b1059082f6a7",
+      "focus_video": "2cc8ac40316e0420cc9a552fb4953bcf9ad63405952838a80810e380218b0f11"
+    },
+    "source_slug_sha256": "4d72bd6d625081a25325206a0cd2d8e52598f4cb77d767b1500a9648da610ce6",
+    "source_title_sha256": "a69c8874f6bd369802892ccfc326078cd3836a126f3117658b234c510c7785e6",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jcp-interview-with-suyash-joshi",
+  "thumbnail": "/wp-content/uploads/2014/06/jcp-interview-with-suyash-joshi.jpg",
+  "title": "JCP Interview with Suyash Joshi ",
+  "type": "post",
+  "video_id": "ufRxGbcXiW4",
+  "warnings": []
+}

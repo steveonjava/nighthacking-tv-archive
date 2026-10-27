@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-02-06 00:48:15",
+  "excerpt": "Java 8 lambdas has been a long time in coming, and will dramatically change the way you code Java applications. However, it is almost out, so the obvious question is \"what next?\" In this session, we will instantiate a Java Future and attempt to divine the answer.",
+  "id": 409,
+  "original_urls": [
+    "http://nighthacking.tv/beyond-lambdas/",
+    "http://nighthacking.com/beyond-lambdas/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "f4a16aeca71f38492ed6ce957b24ae4dfb6165ae24e21dc8a45f8e3968846587",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=04OrkhLpVqA"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/beyond-lambdas/",
+    "post_id": 409,
+    "rejected_urls": [],
+    "source_content_sha256": "fc6537f44b1ce18c0340462153c5e69fd0674519e3cd2d4a6d3b22709b7312ab",
+    "source_date_sha256": "869cb4a9f2eb0b78428c595cc9c0ac70601dd40861445a8e990ee0ebb01cf448",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "52f14fc33ef45dd80ac2626077948f44d8d211d5f24bf9db333c9403968e634a",
+      "_video_thumbnail": "08f746a90877d97ef9f054e037e8e9829ffa9e760318083ec4d352ba59626f77",
+      "focus_video": "0627e7394b268ff3c3f45865bcbc7f232bafb97af139d8669fbec620494839c9"
+    },
+    "source_slug_sha256": "ec4c6217677b71f9647698b57a777485468c426b9dea0b2707bbc4deb141a09a",
+    "source_title_sha256": "045947639947900fa6d21ff64cb263c6d1a01772f1c43eba41bbcae30130f4c3",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "beyond-lambdas",
+  "thumbnail": "/wp-content/uploads/2014/02/beyond-lambdas.jpg",
+  "title": "Beyond Lambdas",
+  "type": "post",
+  "video_id": "04OrkhLpVqA",
+  "warnings": []
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2015",
+      "slug": "jfokus2015"
+    }
+  ],
+  "date": "2015-02-05 14:09:11",
+  "excerpt": "Interview with Joe Armstrong (@joeerl) on Erlang, Low Energy Communication, and Kids at Jfokus.",
+  "id": 1275,
+  "original_urls": [
+    "http://nighthacking.tv/joe-armstrong-erlang-low-energy-communication-and-kids/",
+    "http://nighthacking.com/joe-armstrong-erlang-low-energy-communication-and-kids/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "81739f5bb3debcede32a5046656acb88d80ee6dba7d4a84db4d35ae109eabb25",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=R7oTvABvsYw"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/joe-armstrong-erlang-low-energy-communication-and-kids/",
+    "post_id": 1275,
+    "rejected_urls": [],
+    "source_content_sha256": "aec63c93182126a62bdf9c4a57c7798e7baba8b04deee6c07abf2c0cb275d664",
+    "source_date_sha256": "2d4922e0f5bba612079487e95fa7faee848c7599bcda0e7576298a3c533959ed",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "7cbc1f697e71f94e5e4871b5d4e89420f2823dc219d95a58b79482c206f5cbb1",
+      "_video_thumbnail": "5ea44a79d97611e24e4aa0a7df967d7ece86282cff253401b52790445bf8c8b1",
+      "focus_video": "d6b29c5ccc0f2a13175a94b8567204ef6ad373d42d6b2bee62b0c3dbe66d2fed"
+    },
+    "source_slug_sha256": "bfb6034e7389f665196faa7a301e9eb59a5f230845c1fb64a5246dad6e2a30e5",
+    "source_title_sha256": "8c78c3bb4564af7a9e22ea18eece9d7d508465c4f59c2a68de2f6fbfac947dac",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "joe-armstrong-erlang-low-energy-communication-and-kids",
+  "thumbnail": "/wp-content/uploads/2015/02/joe-armstrong-erlang-low-energy.jpg",
+  "title": "Joe Armstrong - Erlang, Low Energy Communication, and Kids",
+  "type": "post",
+  "video_id": "R7oTvABvsYw",
+  "warnings": []
+}

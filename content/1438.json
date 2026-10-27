@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Java Day Tokyo 2015",
+      "slug": "java-day-tokyo-2015"
+    }
+  ],
+  "date": "2015-04-08 01:35:36",
+  "excerpt": "Interview with \u9234\u6728\u3000\u96c4\u4ecb (Yusuke Suzuki)\u6c0f on his IT Service Management Model at Java Day Tokyo.",
+  "id": 1438,
+  "original_urls": [
+    "http://nighthacking.tv/%e9%88%b4%e6%9c%a8%e3%80%80%e9%9b%84%e4%bb%8b-yusuke-suzuki%e6%b0%8f-on-his-it-service-management-model/",
+    "http://nighthacking.com/%e9%88%b4%e6%9c%a8%e3%80%80%e9%9b%84%e4%bb%8b-yusuke-suzuki%e6%b0%8f-on-his-it-service-management-model/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "5c205b38fbb22a05d5e4a919883eb773adbf5af4dcd975788108bd209bab5ded",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/1o_-wInf2zI"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/%e9%88%b4%e6%9c%a8%e3%80%80%e9%9b%84%e4%bb%8b-yusuke-suzuki%e6%b0%8f-on-his-it-service-management-model/",
+    "post_id": 1438,
+    "rejected_urls": [],
+    "source_content_sha256": "25f96481c90ee29287e57b2feb8f3e2be5ee90f25018b199b1825620bbaf2769",
+    "source_date_sha256": "72698b364c13d40e02dbf709d70bfab8b3d72d2fb51544e1505d892b1b12dbd4",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "a4ff3ad278c7b0575a8e32ae08eebfb327e37762cb1a2caa793c431b9b2ca2c6",
+      "_video_thumbnail": "80aac6b0196ddf8626d0a259bd063ac8564ab3a7a4507428e703a9f2427bf8de",
+      "focus_video": "6c62febe0901ce47e4ad56d4abe944544eb635a96e67339357406b929d5f37c3"
+    },
+    "source_slug_sha256": "0b0a58c38ae725a0cb7052094f629e8590835a4cfefcab62475c36e8592aa67d",
+    "source_title_sha256": "4b79a48e93e52969129e5019defd2cb7c6fedfcb51eeef4e0d5921464d574a15",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "%e9%88%b4%e6%9c%a8%e3%80%80%e9%9b%84%e4%bb%8b-yusuke-suzuki%e6%b0%8f-on-his-it-service-management-model",
+  "thumbnail": "/wp-content/uploads/2015/04/yusuke-suzuki-on-his-it-service.jpg",
+  "title": "\u9234\u6728\u3000\u96c4\u4ecb (Yusuke Suzuki)\u6c0f on his IT Service Management Model",
+  "type": "post",
+  "video_id": "1o_-wInf2zI",
+  "warnings": []
+}

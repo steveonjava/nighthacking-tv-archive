@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2015",
+      "slug": "javaland-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-03-24 09:11:32",
+  "excerpt": "Interview at the JavaLand conference with Rafael Winterhalter on his bytecode manipulation framework called Byte Buddy.",
+  "id": 1348,
+  "original_urls": [
+    "http://nighthacking.tv/rafael-winterhalter-on-byte-buddy/",
+    "http://nighthacking.com/rafael-winterhalter-on-byte-buddy/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "17b1972a861f7006941e391c5de0bf1960eab2e5ca2bcaa3af04b8aad7ee1691",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/oqTruAvFm7g"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/rafael-winterhalter-on-byte-buddy/",
+    "post_id": 1348,
+    "rejected_urls": [],
+    "source_content_sha256": "42295ca1f0a41bf7abc1713539886b2e84d1f2aadbbeb131cf2c02f40933e70e",
+    "source_date_sha256": "7b4e5cf09b890909b4a08ab3972b2bec8129424c97a01d2198da4a1b321fc06b",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "cba8d3a39041d4164e60270c6281f81be92d29656bec527211d87de66571f403",
+      "_video_thumbnail": "012fc4e43176881dba9f36512b24b1e52d407d97759d05075e21ec46f519642f",
+      "focus_video": "7031ea95959506b96823c4c3eada521f6bd3ed4972ee1080ebfff0100e1ad9ee"
+    },
+    "source_slug_sha256": "ebc001a979022d89e07e542dbf6cf1ffff1ac4f657595256bb7ab7640c7bb749",
+    "source_title_sha256": "4897cb3bf4e103ebfff4f50e82c77eb59f26840cfb0bb12fcc53b4b90a168989",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "rafael-winterhalter-on-byte-buddy",
+  "thumbnail": "/wp-content/uploads/2015/03/rafael-winterhalter-on-byte-budd.jpg",
+  "title": "Rafael Winterhalter on Byte Buddy",
+  "type": "post",
+  "video_id": "oqTruAvFm7g",
+  "warnings": []
+}

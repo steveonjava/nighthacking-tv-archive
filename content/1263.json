@@ -1,0 +1,68 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2015",
+      "slug": "jfokus2015"
+    }
+  ],
+  "date": "2015-02-05 14:02:24",
+  "excerpt": "Panel at the Jfokus conference for the Java 20th Anniversary about all of the \"Forgotten Bytes\" in the history of Java.  Panel members included Arun Gupta, Gerrit Grunwald, Kirk Pepperdine, Toni Epple, and James Weaver.",
+  "id": 1263,
+  "original_urls": [
+    "http://nighthacking.tv/java-20th-anniversary-panel-the-forgotten-bytes/",
+    "http://nighthacking.com/java-20th-anniversary-panel-the-forgotten-bytes/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "658a1cd53cb5e5e731bc48d7742ee01878224152348ed60ff784d04dc163f563",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "a:href",
+          "link",
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "community.oracle.com",
+        "rendered": true,
+        "status": "unverified",
+        "url": "https://community.oracle.com/community/java/javas-20th-anniversary"
+      },
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=w3qZUcxMsBE"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/java-20th-anniversary-panel-the-forgotten-bytes/",
+    "post_id": 1263,
+    "rejected_urls": [],
+    "source_content_sha256": "88690da18ead21434ee1ae00b4fa9f8ceaf6d7940054ef09011d3462a965490b",
+    "source_date_sha256": "35cf6231c341444e931930f8d70bd4bddcd5497fc68dbac0fc29533dfb584c32",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "23b0cc711cca646227414df7e7acb15e878b93723280f388f33f24b5dab92b0b",
+      "_video_thumbnail": "97ac102b3ff98fe9fcd9c38f026854c383723db3e8d04383572877b5269f4b66",
+      "focus_video": "529c460a60c6abcd513851f279cc90d8c164268c4cb69e3a3c183a811e70a50b"
+    },
+    "source_slug_sha256": "bdb40d7ff8af9be18304f241d5bc488f7e1f9c2604187af9b818f16468713f28",
+    "source_title_sha256": "767932afc3a83821055330d48976d82b7e9621dc642a6f4fee6c7876e0431f1e",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "java-20th-anniversary-panel-the-forgotten-bytes",
+  "thumbnail": "/wp-content/uploads/2015/02/java-20th-anniversary-panel-the.jpg",
+  "title": "Java 20th Anniversary Panel - The Forgotten Bytes",
+  "type": "post",
+  "video_id": "w3qZUcxMsBE",
+  "warnings": []
+}

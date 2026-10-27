@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2013-11-13 09:20:56",
+  "excerpt": "",
+  "id": 275,
+  "original_urls": [
+    "http://nighthacking.tv/interview-with-james-ward-on-scala-and-play/",
+    "http://nighthacking.com/interview-with-james-ward-on-scala-and-play/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=UqQ0MXFZEv0"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/interview-with-james-ward-on-scala-and-play/",
+    "post_id": 275,
+    "rejected_urls": [],
+    "source_content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source_date_sha256": "8437a1bf984b08b6f892c5dbdbcff2dcb4d09197ace2fbe0c50b4061c05974af",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "ee62de25ccc2b55d3a0495244b246fb97055b6f1c2697d837b8e94976c03756f",
+      "_video_thumbnail": "c27cbb066dde2864fb46c3ad4a17cc0f1fac3e9429341a745c1f2c956f4136dc",
+      "focus_video": "62b8ad9854efd59b637c223de02eeb0c53e107fc861cf2f695b549325f4ed1b6"
+    },
+    "source_slug_sha256": "f5b4fc4e2c4b6c8dc37f7492ec922b14a311fb11f2af446beaf30baed6fb93d2",
+    "source_title_sha256": "7c10c342d9d873281cc51aef8d054444c75d707846cde7f0d10487c5c05f3c7d",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "interview-with-james-ward-on-scala-and-play",
+  "thumbnail": "/wp-content/uploads/2013/11/interview-with-james-ward-on-scala-and-play.jpg",
+  "title": "Interview with James Ward on Scala and Play",
+  "type": "post",
+  "video_id": "UqQ0MXFZEv0",
+  "warnings": []
+}

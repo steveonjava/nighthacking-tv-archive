@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2014",
+      "slug": "jcrete2014"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-08-31 23:31:53",
+  "excerpt": "Interview with Ivan Krylov on GC Analysis and JVMs at the JCrete unconference.",
+  "id": 1036,
+  "original_urls": [
+    "http://nighthacking.tv/jcrete-interview-with-ivan-krylov/",
+    "http://nighthacking.com/jcrete-interview-with-ivan-krylov/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "af32db2b098e3ffaa442ee6aee79a9f5a632e1cb9f3b6d353d54e81d0df7bbf7",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/OCAQvBzp7fc"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jcrete-interview-with-ivan-krylov/",
+    "post_id": 1036,
+    "rejected_urls": [],
+    "source_content_sha256": "4e053157acf8319341b2ff6b929c55a7ca4417c8d7b3353804f085215d536af2",
+    "source_date_sha256": "ebe5c18cf4c91e1e0468926a0640334a5b84d985bb6c831747ab0a3e4c2021d4",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "0c1c43111448b131d65b3b380041de26f2edd6264ee1c371184f54d26ab53365",
+      "_video_thumbnail": "166f4f3eff68b2437b85edd64bbe027a35e1562acf82530d052ce79496ae1a49",
+      "focus_video": "7f3c11dd7b5a59379d0aff27aa65333425040818b774121611579d0ba97cd3cd"
+    },
+    "source_slug_sha256": "4e6f1ac046144c44c596407e1797a2dc18a68c7799b76a3380af74168749132b",
+    "source_title_sha256": "43236030a520b9f09b15064f0188a0a7e1da92dea4209327ef4b55f3a65f56da",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jcrete-interview-with-ivan-krylov",
+  "thumbnail": "/wp-content/uploads/2014/08/jcrete-interview-with-ivan-krylo.jpg",
+  "title": "JCrete Interview with Ivan Krylov",
+  "type": "post",
+  "video_id": "OCAQvBzp7fc",
+  "warnings": []
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2015",
+      "slug": "jcrete-2015"
+    }
+  ],
+  "date": "2015-07-22 01:47:25",
+  "excerpt": "Demonstration of using the Ultimaker II for 3D printing by Stephen Chin (@steveonjava) utilizing the JFXScad and JCSG libraries created by Michael Hoffer (@mihosoft).",
+  "id": 1504,
+  "original_urls": [
+    "http://nighthacking.tv/3d-printing-at-jcrete/",
+    "http://nighthacking.com/3d-printing-at-jcrete/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "3ebc4c9a2d2317df1e9d0a66243cc51580bea760eea95393b8a858a369c906d1",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/OPApMGFZ7gs"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/3d-printing-at-jcrete/",
+    "post_id": 1504,
+    "rejected_urls": [],
+    "source_content_sha256": "8504e6087d361d4b4020939349e6d57a4745c0e7a09f6b306c7c5347e35579a7",
+    "source_date_sha256": "bc0867c1fe0b3297afb7ae034b1d2388434b9f622966615f698dbbf5bed283ca",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "e97776493f213d50b346f81e3f93a78aad1fd0f19c051a38bd8f88b43e46e5b5",
+      "_video_thumbnail": "247670fdc7def154a02252ed3c13547f6cce1d063e5e4323a327fb8869591455",
+      "focus_video": "e96e944961003bd3397781fcfc93007fa1138a377e5450f09e3ae940a1c9399f"
+    },
+    "source_slug_sha256": "580bbee3a2b73b941ccced8e6e9de087f63a6a9293268ba99ce955106967e2fb",
+    "source_title_sha256": "55f9320bdd2996554e6acf33281fdb5ecf9a660f8b7723d67805797e1cff653b",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "3d-printing-at-jcrete",
+  "thumbnail": "/wp-content/uploads/2015/07/3d-printing-at-jcrete.jpg",
+  "title": "3D Printing at JCrete",
+  "type": "post",
+  "video_id": "OPApMGFZ7gs",
+  "warnings": []
+}

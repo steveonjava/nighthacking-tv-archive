@@ -1,0 +1,73 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2015",
+      "slug": "oredev-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-11-07 00:55:11",
+  "excerpt": "Discussion with Chris Noessel on agentive technologies, crowd funding, and science fiction at the \u00d8redev conference in Malm\u00f6, Sweden.",
+  "id": 1546,
+  "original_urls": [
+    "http://nighthacking.tv/chris-noessel-on-agentive-technologies/",
+    "http://nighthacking.com/chris-noessel-on-agentive-technologies/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "ce90af046a3bd6acf71f4338b27c96dfd1a1b6a0c2381a0bd99d44707a9dadc4",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/ukRZr3qBzjk"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/chris-noessel-on-agentive-technologies/",
+    "post_id": 1546,
+    "rejected_urls": [],
+    "source_content_sha256": "d5feade53dcf064928267af02d62069f93a50edc62db56532e29eaa96449bc0d",
+    "source_date_sha256": "fbb39cac27c5552b39e777ec55d8ba47f9e8967b80dd0f074744c9efddb5b993",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "956b130106fbc0890b7a304b19113843e5cdc69b084ae1b95d56225650c180a0",
+      "_video_thumbnail": "893595c80a7236a8adc29378173856452e46999a2ad70f9312e5d25551e1422e",
+      "focus_video": "78b318c54be3fa5957f8bb8432d7fac391fefa0f69eafee6785258fbcbc06ed0"
+    },
+    "source_slug_sha256": "38fb7abeb7ff4321b69cdbb2dac1eb42608c4b140135a724366c6b94d873d316",
+    "source_title_sha256": "881fd2aa17066c1c6fb2059398aafe378988a4c6b43ab7125d77567917271bcd",
+    "table": "wp_posts",
+    "video_status": "identified-unverified",
+    "body_video_identity_resolution": {
+      "record_id": 1546,
+      "video_id": "ukRZr3qBzjk",
+      "source_url": "https://youtu.be/ukRZr3qBzjk",
+      "method": "Unique explicit URL in the exported public author body and its source-text URL inventory",
+      "source_markdown_sha256": "ce90af046a3bd6acf71f4338b27c96dfd1a1b6a0c2381a0bd99d44707a9dadc4",
+      "lab_export_json_sha256": "7b337adcb1bddd29134da8b0c281d281c3bcf2270714e7d8b23a2fc0f9ceb51d",
+      "availability": "unverified",
+      "fetched": false
+    }
+  },
+  "review_status": "unreviewed",
+  "slug": "chris-noessel-on-agentive-technologies",
+  "thumbnail": "/wp-content/uploads/2015/11/chris-noessel-on-agentive-techno.jpg",
+  "title": "Chris Noessel on Agentive Technologies",
+  "type": "post",
+  "video_id": "ukRZr3qBzjk",
+  "warnings": [
+    "focus_video has no unique validated YouTube ID in a known field or URL.",
+    "The recording ID was recovered offline from the explicit unique author-body URL. Provider availability was not checked."
+  ]
+}

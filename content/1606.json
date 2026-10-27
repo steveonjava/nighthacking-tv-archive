@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2016",
+      "slug": "jfokus-2016"
+    }
+  ],
+  "date": "2016-02-09 02:26:17",
+  "excerpt": "Presentation by Martin Thompson on the quest for predictable latency, presented at the Jfokus VM Tech Summit.",
+  "id": 1606,
+  "original_urls": [
+    "http://nighthacking.tv/martin-thompson-on-predictable-latency/",
+    "http://nighthacking.com/martin-thompson-on-predictable-latency/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "5adc202a79a519a0edfc5993d9d5fa3c9a1b24437a6640f352a71c2854ac1230",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=5q5Zd8v9SEI"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/martin-thompson-on-predictable-latency/",
+    "post_id": 1606,
+    "rejected_urls": [],
+    "source_content_sha256": "cb46fde24a910603a3ca311c0a645523b4bb5f0034198dbe08fd72ae4bf43471",
+    "source_date_sha256": "58954720058690f8c261051a80788edfa7d6acaebb78415e97c2b2b5e3016bf1",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "e84909d7fba7798e68cbb865e5a577137b5d979e7527eb80ebf4aae1707496eb",
+      "_video_thumbnail": "fd160f46172c1fbf0576b7c13feb667d14ed78eee432966c0f89d673b430bdcd",
+      "focus_video": "22a49d6301d23176b219733a45000355185332c7a2c5878bb337023d1c464b4b"
+    },
+    "source_slug_sha256": "6859292ddb5c9f0a5b872098c26b7f1a8a1032ed3101c994226e00fd38dda083",
+    "source_title_sha256": "1883a41c100e6fd65af151f27bbdf4b1a777177b26ef179b65c992508bdbb5a5",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "martin-thompson-on-predictable-latency",
+  "thumbnail": "/wp-content/uploads/2016/02/martin-thompson-on-predictable-l-6.jpg",
+  "title": "Martin Thompson on Predictable Latency",
+  "type": "post",
+  "video_id": "5q5Zd8v9SEI",
+  "warnings": []
+}

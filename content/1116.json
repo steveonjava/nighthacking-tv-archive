@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2014",
+      "slug": "oredev"
+    }
+  ],
+  "date": "2014-11-05 06:55:49",
+  "excerpt": "Interview at the \u00d8redev conference in Malm\u00f6, Sweden with Joel Borggr\u00e9n-Franck and Klara Ward on Java 8, 9, 10, and beyond!",
+  "id": 1116,
+  "original_urls": [
+    "http://nighthacking.tv/interview-with-joel-borggren-franck-and-klara-ward/",
+    "http://nighthacking.com/interview-with-joel-borggren-franck-and-klara-ward/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "dcf2a9d7f527e5cda0b8db23962cb8a3ac2315feb83415bab0ba344f7bf2c7dd",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=IxHjEy4tkys"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/interview-with-joel-borggren-franck-and-klara-ward/",
+    "post_id": 1116,
+    "rejected_urls": [],
+    "source_content_sha256": "c503ff2867cd898f348def0da93778cc2454f485e78b76178cfa6c51d3a7c84c",
+    "source_date_sha256": "1733b0d02a838036df789faf193ab33bd9161ebbd26115d80f22a35c1e1b7a0a",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "63ecbfa3a1ad34a1fdd5e3dd3aeaec31456d1d676552c654d5ecf7dab0b2f4f8",
+      "_video_thumbnail": "c3cb6ae1c9807f239a8bb5e3df72db7269a22ab56b70f5f809a68c4d94d72f49",
+      "focus_video": "fc3673920fe7b765265395148ea9b7361692a53cf768d9b98f6a9587377f1004"
+    },
+    "source_slug_sha256": "dc7acc7008c58efea456b817fa6bd39629e54fb3c1f7fa37c07e50235585a90d",
+    "source_title_sha256": "4a556e9a3d7058c1950f5bb904639594389c2203d1d00625500abc5fdc15001c",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "interview-with-joel-borggren-franck-and-klara-ward",
+  "thumbnail": "/wp-content/uploads/2014/11/interview-with-joel-borggren-fra.jpg",
+  "title": "Interview with Joel Borggr\u00e9n-Franck and Klara Ward",
+  "type": "post",
+  "video_id": "IxHjEy4tkys",
+  "warnings": []
+}

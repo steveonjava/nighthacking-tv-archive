@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-25 08:19:38",
+  "excerpt": "Learn from Sven how to do kick-ass development and improve the way you and your teams approach your hacking with some common sense and Australian humor.  Presented at JUG Cologne as part of the NightHacking Java 8 Tour.",
+  "id": 710,
+  "original_urls": [
+    "http://nighthacking.tv/kick-ass-software-development-with-sven-peters/",
+    "http://nighthacking.com/kick-ass-software-development-with-sven-peters/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "e552ae88f1a69c58bd96dea9d368b5ff75efb043e4b0aeb07e54cbc97b391395",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=YijPgk_NkeA"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/kick-ass-software-development-with-sven-peters/",
+    "post_id": 710,
+    "rejected_urls": [],
+    "source_content_sha256": "34072e6bc6a31aaafb09a4e9a22843a624e3bdba9dd7c03e138850b4289604be",
+    "source_date_sha256": "1d0cca3a6aa468b5ddfaa5a08d25493f29ea06f20fa8dbd5ba120a02a415efac",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "9b09d7f65345fc85aaa8814b69f3c933ce5eda41786f0c1df1b1ab2b1fdd2ecc",
+      "_video_thumbnail": "644956d79dd333a0027608a3bdbf8625a55de34bdc5dd769deb9075f957b5f06",
+      "focus_video": "e4be96fcdbedd2419dd33884efa477a0442e08f63c6907d6f5d5d1ed3022a02c"
+    },
+    "source_slug_sha256": "1b162ec80d4967470edf3a8d50d20f83aed62f9b6d7bd92a2730028f2b0f11d5",
+    "source_title_sha256": "0117f9183ac38319cca317b843c98c33ca89f5f986dc40e52d835ac1283a5fe5",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "kick-ass-software-development-with-sven-peters",
+  "thumbnail": "/wp-content/uploads/2014/03/kick-ass-software-development-wi.jpg",
+  "title": "Kick Ass Software Development with Sven Peters",
+  "type": "post",
+  "video_id": "YijPgk_NkeA",
+  "warnings": []
+}

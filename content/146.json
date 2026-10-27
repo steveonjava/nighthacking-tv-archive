@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaOne",
+      "slug": "javaone"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2013-09-16 11:37:07",
+  "excerpt": "",
+  "id": 146,
+  "original_urls": [
+    "http://nighthacking.tv/javaone-interview-with-robert-savage/",
+    "http://nighthacking.com/javaone-interview-with-robert-savage/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=Z_eI7DfDMjI&list=PLX8CzqL3ArzXMvt5y8VHXKmr8gDC-xOH_&index=12"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/javaone-interview-with-robert-savage/",
+    "post_id": 146,
+    "rejected_urls": [],
+    "source_content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source_date_sha256": "faf33582f48d12f3bbad8e25cb75290d80737f6e4effc586b83974044a1f0e12",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "043066daf2109523a7490d4bfad4766da5719950a2b5f96d192fc0537e84f32a",
+      "_video_thumbnail": "725ed2bd01e4e53795546485bf0faac69267f116bd0dc3cfd7bd30a03be054fc",
+      "focus_video": "c21780eaca4c98688f9e7405294739ffe18844ac39f84c636be2ea31ec07109e"
+    },
+    "source_slug_sha256": "9dfcdd4fca12db3a8ce1f642d3280cb4c3c6edb037ca722a662485273eda47da",
+    "source_title_sha256": "7ed2c1d6fd35641822e960840a476fd192969668c07192be522485b4847d2952",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "javaone-interview-with-robert-savage",
+  "thumbnail": "/wp-content/uploads/2013/09/p146.jpg",
+  "title": "JavaOne Interview with Robert Savage",
+  "type": "post",
+  "video_id": "Z_eI7DfDMjI",
+  "warnings": []
+}

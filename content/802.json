@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-30 08:02:10",
+  "excerpt": "NightHacking session with JUG Bodensee in Germany on developing apps for the NAO Humanoid robot.  This second part is the presentation of demos and award of prize.",
+  "id": 802,
+  "original_urls": [
+    "http://nighthacking.tv/jug-bodensee-nao-hacking-demos/",
+    "http://nighthacking.com/jug-bodensee-nao-hacking-demos/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "2bbb0f679e2584b4b7ac545303d92f44f048ae721e675f62c6d64824419f3c3f",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=ZZroewdmjKk"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jug-bodensee-nao-hacking-demos/",
+    "post_id": 802,
+    "rejected_urls": [],
+    "source_content_sha256": "dabc6954dab2aca4bcbfb2c698ca0115054ab1bd525fcca3fe759952d03f363f",
+    "source_date_sha256": "9ca42f94a40f56914b42f5b201e907d32a5a64d0dd15be352c108610b2bf62de",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "dccb3c52e7c79f7033e1ea06eadf92fd90bfd7b0b5737dc0c2511a0e163872f5",
+      "_video_thumbnail": "669ac1885405e08ab1d99ccba9951943906afcd7d05578dd35af29118c2346d8",
+      "focus_video": "29c9dcc83c5af42b9527f33ab95009ed5d9ec55287d4f7c3c25dafd5dc09c821"
+    },
+    "source_slug_sha256": "8a624ae82f844f0d00f921a4721b597ee990643f1e7336b81d7cbd9e1b4a79f5",
+    "source_title_sha256": "4fbed3ee79fa335d73fd4ca068647923f2f68718304e2e47b1db04f883930d92",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jug-bodensee-nao-hacking-demos",
+  "thumbnail": "/wp-content/uploads/2014/03/jug-bodensee-nao-hacking-demos.jpg",
+  "title": "JUG Bodensee NAO Hacking Demos",
+  "type": "post",
+  "video_id": "ZZroewdmjKk",
+  "warnings": []
+}

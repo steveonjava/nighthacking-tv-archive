@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Java Day Tokyo 2015",
+      "slug": "java-day-tokyo-2015"
+    }
+  ],
+  "date": "2015-04-08 01:38:45",
+  "excerpt": "Interview with \u8c37\u672c\u3000\u5fc3 (Shin Tanimoto) \u6c0f on JVM troubleshooting with ENdoSnipe at Java Day Tokyo.",
+  "id": 1442,
+  "original_urls": [
+    "http://nighthacking.tv/%e8%b0%b7%e6%9c%ac%e3%80%80%e5%bf%83-shin-tanimoto-%e6%b0%8f-on-jvm-troubleshooting-with-endosnipe/",
+    "http://nighthacking.com/%e8%b0%b7%e6%9c%ac%e3%80%80%e5%bf%83-shin-tanimoto-%e6%b0%8f-on-jvm-troubleshooting-with-endosnipe/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "7d0e891f988bb173dafacaa7bac6459b688e713b8b645f1069d59453695e47cc",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/1HxHqVHuggg"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/%e8%b0%b7%e6%9c%ac%e3%80%80%e5%bf%83-shin-tanimoto-%e6%b0%8f-on-jvm-troubleshooting-with-endosnipe/",
+    "post_id": 1442,
+    "rejected_urls": [],
+    "source_content_sha256": "5280f2d4720e6b63ef147c2293493e1e82bd1256474305bc5d87cae109fbe9e8",
+    "source_date_sha256": "4cf26623375b6238f1458d497360fb618aaeffb2a651defc59dca571f9a0c482",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "2315bd64e75a346541681575e5b227059bc726907f5a5b893505b648a3062e77",
+      "_video_thumbnail": "9a53b0d64d6c4532d6d4249f5809ee190da6d166d9233c2454ad359d3f267daf",
+      "focus_video": "3998dc51a19ddc3923feb1b68090fac03e11056dc4a56e9f31cf00b66684dc09"
+    },
+    "source_slug_sha256": "6acd00f20fd06c96d2b5423b3a94e75d6b810ef904463d02a4f579ed22afd52e",
+    "source_title_sha256": "5458a64230f66ed2ce1637423ddd04428f053910db0019128e364d34a148d6b8",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "%e8%b0%b7%e6%9c%ac%e3%80%80%e5%bf%83-shin-tanimoto-%e6%b0%8f-on-jvm-troubleshooting-with-endosnipe",
+  "thumbnail": "/wp-content/uploads/2015/04/shin-tanimoto-on-jvm-troublesh.jpg",
+  "title": "\u8c37\u672c\u3000\u5fc3 (Shin Tanimoto) \u6c0f on JVM troubleshooting with ENdoSnipe",
+  "type": "post",
+  "video_id": "1HxHqVHuggg",
+  "warnings": []
+}

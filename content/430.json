@@ -1,0 +1,78 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-02-21 02:08:03",
+  "excerpt": "Live, interactive session on programming the NAO humanoid robot with the team who created it. Presenter is Laurent Lec from Aldebaran Robotics.",
+  "id": 430,
+  "original_urls": [
+    "http://nighthacking.tv/nao-robot-nighthacking-part-1/",
+    "http://nighthacking.com/nao-robot-nighthacking-part-1/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "d09d2688fbeed9029335cfe51949e72391769313262a2a57d21e23e364cade98",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=FygLN5pINSA"
+      },
+      {
+        "contexts": [
+          "a:href",
+          "link"
+        ],
+        "fetched": false,
+        "host": "community.aldebaran-robotics.com",
+        "rendered": true,
+        "status": "unverified",
+        "url": "https://community.aldebaran-robotics.com/"
+      },
+      {
+        "contexts": [
+          "a:href",
+          "link",
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "github.com",
+        "rendered": true,
+        "status": "unverified",
+        "url": "https://github.com/NightHacking/NaoHacking\u00ad"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nao-robot-nighthacking-part-1/",
+    "post_id": 430,
+    "rejected_urls": [],
+    "source_content_sha256": "76564ad85ce68a287db1851598b04cb6dc58ade2f7704bbbcf82d60d86835f9f",
+    "source_date_sha256": "af5d6188373e4b7a535a12e3bd9d7cd932fc56b41c696f4b76a7e0c32997d796",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "98f1f17f9a73ccfe3e25940add8d9ce9bf05513104cacb84f2f1185bf5886a84",
+      "focus_video": "8961619c57153fb5a822c034410a3d0ed30707b64a67142ec8857482e0791cd9"
+    },
+    "source_slug_sha256": "99356834c05e6812980160984bc3a2f31d432b9752af0f3f5e6b291cf9d2f36e",
+    "source_title_sha256": "19d1269a103983c75638ed67d2418737f57936946057540a94974c4fb2053237",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nao-robot-nighthacking-part-1",
+  "thumbnail": "/wp-content/uploads/2014/02/thumb1.jpg",
+  "title": "Nao Robot NightHacking (part 1) ",
+  "type": "post",
+  "video_id": "FygLN5pINSA",
+  "warnings": []
+}

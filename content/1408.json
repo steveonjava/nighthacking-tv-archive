@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2015",
+      "slug": "javaland-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-03-25 09:30:29",
+  "excerpt": "Interview with Sarah White about the importance of documentation for open-source development projects.",
+  "id": 1408,
+  "original_urls": [
+    "http://nighthacking.tv/sarah-white-on-documentation/",
+    "http://nighthacking.com/sarah-white-on-documentation/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "0b5e9ce6da7d30bbce1aaa355f2bce865f5d389b4d63c5c1edb87710707a0864",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/q88qG94h5D8"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/sarah-white-on-documentation/",
+    "post_id": 1408,
+    "rejected_urls": [],
+    "source_content_sha256": "8aa10de2323ebc8bca6759aa254077100cf2eeb11bcd0f3ff663832b02ac626d",
+    "source_date_sha256": "34e57207746125f54b0948b2d48db108842d9c68ed1be30751f26295128dbcd6",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "4103f0a4e707b1c7bebbc42809ab0ace8dd3f56d844d7903bfe9f95a2ccc6972",
+      "_video_thumbnail": "940be1e8c4b1ebc1fda307f1b48be652dd21b763148189c6a9bf9fcfd7b95161",
+      "focus_video": "a6f8bc66950bf6691323a3168c39f4696e2354a4e25466e9d2f1f13619d6d71d"
+    },
+    "source_slug_sha256": "dfbec8b5586930129f0a775bee8d35b6f8ba6d967e2f2d53566042fab55315d3",
+    "source_title_sha256": "8f2edbba8772be2867258bc49b0ab3202e2c2136af4ae231b28a53bf369041d8",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "sarah-white-on-documentation",
+  "thumbnail": "/wp-content/uploads/2015/03/sarah-white-on-documentation.jpg",
+  "title": "Sarah White on Documentation",
+  "type": "post",
+  "video_id": "q88qG94h5D8",
+  "warnings": []
+}

@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "DevNexus 2015",
+      "slug": "devnexus-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-03-11 14:39:58",
+  "excerpt": "Interview with Jeff Prestes on some of the work he has been doing with the Device Access API to access GPIO on embedded platforms like the Raspberry Pi.",
+  "id": 1301,
+  "original_urls": [
+    "http://nighthacking.tv/jeff-prestes-on-the-device-access-api/",
+    "http://nighthacking.com/jeff-prestes-on-the-device-access-api/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "04003544cda173c9724e19156370ec234fac6014ce392ad53647c83701cb14b3",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/g9-8TDiX9pY"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jeff-prestes-on-the-device-access-api/",
+    "post_id": 1301,
+    "rejected_urls": [],
+    "source_content_sha256": "f20ba8337ea578388a1d7eb487595aa505caece32288fa16072bf510808538e9",
+    "source_date_sha256": "97c21dd7c6219859b20b7c916a8e4c3f572883cd6b750614b011d92505fce143",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "2c17079b4da72e80c1875f7d2feefe79322a71544c5de1c838ee0230f3598312",
+      "_video_thumbnail": "eb848066b74e6b2964227bdf5b667084c0c8da63c7b6bf50fc8002b0306422d5",
+      "focus_video": "d3e79b6f7c2bcdc2246defe3608a6e2a052945b284b7d5dc9c2a97fa22892b2b"
+    },
+    "source_slug_sha256": "a3009726b7e58b3d0eff5b962eb0909a178fc4df975ea02701a8114e09be46f1",
+    "source_title_sha256": "ae449c645b11c9192fcf5e50b73863a5402307ed675c92ed86f213542752f8eb",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jeff-prestes-on-the-device-access-api",
+  "thumbnail": "/wp-content/uploads/2015/03/jeff-prestes-on-the-device-acces1.jpg",
+  "title": "Jeff Prestes on the Device Access API",
+  "type": "post",
+  "video_id": "g9-8TDiX9pY",
+  "warnings": []
+}

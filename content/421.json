@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-02-06 00:55:52",
+  "excerpt": "You wear safety helmet when you ride your bike (and hopefully your motorbike) for personal safety. You use a compiler when you code in Java for type safety.  But why would you code in JavaScript without wearing a helmet using a compiler? Benjamin Pasero will show you a better way to code JavaScript that scales and saves lives!",
+  "id": 421,
+  "original_urls": [
+    "http://nighthacking.tv/type-safe-javascript-typescript/",
+    "http://nighthacking.com/type-safe-javascript-typescript/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "554b413fbff29625741eb1a19658e199d4c02bf849aab335d5619067524a0f63",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=T3WFDqsRw1c"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/type-safe-javascript-typescript/",
+    "post_id": 421,
+    "rejected_urls": [],
+    "source_content_sha256": "bf739a6a3469575571dd6a5f7d70730ee835f9a8ad66375ff0df40d164b05921",
+    "source_date_sha256": "f2b0ca32183876879447bbdadd757b2d8c2b2c03f49055a5d544012fbf9b76ec",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "814bb6b8dc12188a44b71e378dc20a4292e01979aa9ab95b09b8a681391dfc9d",
+      "_video_thumbnail": "fe47b30ad779d80011cb9a7da7386e0b18c570728116b5426ce8e0617362ce6c",
+      "focus_video": "26bf823ebf7c1fce300a7b8f97093aa57bbf08569808959a95aaec0c4b4b30fe"
+    },
+    "source_slug_sha256": "8a64ace39e412581bf6efaadb182dd1e6e7540326aed29cecd4c6175523f9847",
+    "source_title_sha256": "4c1fdb7ea35070e816dc1690f638396a940fd68bbd0f84bdd11fbf943f8f6d13",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "type-safe-javascript-typescript",
+  "thumbnail": "/wp-content/uploads/2014/02/type-safe-javascript-typescript.jpg",
+  "title": "Type-Safe JavaScript (TypeScript)",
+  "type": "post",
+  "video_id": "T3WFDqsRw1c",
+  "warnings": [
+    "A UTF-8 nonbreaking space was normalized to a space."
+  ]
+}

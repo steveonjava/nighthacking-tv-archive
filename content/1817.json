@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Madras JUG Developer Day 2016",
+      "slug": "madras-jug-developer-day-2016"
+    }
+  ],
+  "date": "2016-04-02 19:54:43",
+  "excerpt": "Retro Gaming with Java, JavaFX, and Raspberry Pi presented by Stephen Chin:\n- How to build your own retro handheld console that runs on Raspberry Pi\n- Hacking Java on Raspberry Pi\n- Rigging input devices with Pi4j",
+  "id": 1817,
+  "original_urls": [
+    "http://nighthacking.tv/keynote-retro-gaming-with-java-javafx-and-raspberry-pi/",
+    "http://nighthacking.com/keynote-retro-gaming-with-java-javafx-and-raspberry-pi/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "7899460896b22c09d53efa8b413c524ebfa16a8bb5fe0826912e3a1c8d96a5fc",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/EhUGQZV-G-c"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/keynote-retro-gaming-with-java-javafx-and-raspberry-pi/",
+    "post_id": 1817,
+    "rejected_urls": [],
+    "source_content_sha256": "95d2316ca69b71c0af43e6fea6c039d60dc55611dd07ae3b76130661e2f6da78",
+    "source_date_sha256": "1fcadcb492e06e7a1472d44f730214ba822db1b5afd00e5f9aeb1b42499e7c7c",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "6a7a1382f96c6e92e5ae50aedcbf77cc1e51c0750c363cb9bbcd4d558421b2c4",
+      "_video_thumbnail": "40b7190fdabe5ebd16a96ac092ff59104bbd87fbfee2a741d87d006043cb784c",
+      "focus_video": "9771433fff9ac6fabc10118d0b3ba914a2a6a96ec26da4eb2f8f76e517057740"
+    },
+    "source_slug_sha256": "06c534cdb9074e00fb73a02702548381ef1362c51deff32853a9e9ad3fe0bb80",
+    "source_title_sha256": "5c9c504ed37fbff02528c8a732e50ea418987db7d38daa90a2c32fbe60cc160c",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "keynote-retro-gaming-with-java-javafx-and-raspberry-pi",
+  "thumbnail": "/wp-content/uploads/2016/04/keynote-retro-gaming-with-java-j-1.jpg",
+  "title": "Keynote - Retro Gaming with Java, JavaFX, and Raspberry Pi",
+  "type": "post",
+  "video_id": "EhUGQZV-G-c",
+  "warnings": []
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-08-15 12:30:26",
+  "excerpt": "Recording of the Silicon Valley JavaFX User Group meeting with Felipe Heidrich on JavaFX Text Rendering.",
+  "id": 984,
+  "original_urls": [
+    "http://nighthacking.tv/javafx-text-rendering/",
+    "http://nighthacking.com/javafx-text-rendering/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "3b48ce26b31d1f15663e3bae32bee9a92b72bfef269cd6b65c6d4f9d6730e7a1",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=LCrCni6EVek"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/javafx-text-rendering/",
+    "post_id": 984,
+    "rejected_urls": [],
+    "source_content_sha256": "e6ed3139f90ff4a7db0e727aa216a2ce98ad6259f325f9a88a707b4a6dab7f3f",
+    "source_date_sha256": "ad0505f892aecbf044c292f99d505949274b3c618e301eafd6e780c91b8caa05",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "2c3f699f4b5f7734ed802c0b52f27f670772ddff9d4b875c6d1b7c2f09f728a0",
+      "_video_thumbnail": "22e8efe90a915c9c508439f40d695318c9536aaeae497382de7807ec6dd904ed",
+      "focus_video": "447a904a4b63a03d6a9b5512f2c6cbe7c383350a8e6bad8d72b99a1fe174d600"
+    },
+    "source_slug_sha256": "50a92dbc7b902be0d35f401c85a58882dd6345d435cb7bb0e5b80aced56a8b17",
+    "source_title_sha256": "88741b210f5ed2f76d012ed6438cddae63acf34b51eb99a5f288caf7b3ffa9af",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "javafx-text-rendering",
+  "thumbnail": "/wp-content/uploads/2014/08/javafx-text-rendering.jpg",
+  "title": "JavaFX Text Rendering",
+  "type": "post",
+  "video_id": "LCrCni6EVek",
+  "warnings": []
+}

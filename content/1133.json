@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaOne",
+      "slug": "javaone"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-11-05 23:03:18",
+  "excerpt": "Baruch talks about creating in house Docker repositories using Artifactory.",
+  "id": 1133,
+  "original_urls": [
+    "http://nighthacking.tv/baruch-sadogursky-on-docker-and-artifactory/",
+    "http://nighthacking.com/baruch-sadogursky-on-docker-and-artifactory/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "65055a675ca1cc841a3c850778550875d237085c018a55eecf2a384912b2315a",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=yksFcD_MlfI"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/baruch-sadogursky-on-docker-and-artifactory/",
+    "post_id": 1133,
+    "rejected_urls": [],
+    "source_content_sha256": "42d6eb1f353a0313ad933a62437bc092374ad77ed1aee39c5a45f7a1aec5f34e",
+    "source_date_sha256": "d41d82a80ce448421dafec65fbcefe4b8c3d4b543e6e54a8ac5e838c4e3967e0",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "d7008e68b135c3c77bdf98063491d09b02f1f28337dea8bb0e0dc7c0f3084db6",
+      "_video_thumbnail": "e1ae8f1274c7d7831116c54eb685d05c87a93e968b7c92ae2aee9d3e9fbe88b5",
+      "focus_video": "546014b983c6b094c4a4a7335cbf0fea89d3d02cecb66fef28d47b4fbe22e27a"
+    },
+    "source_slug_sha256": "3fd6ec968df919f17d47a1f7a61af07cf73845304edb1284f49de8f0bf55ae74",
+    "source_title_sha256": "4f02b083e810de9e486d77e082216da68ae4f526fce9fed5674bf603c7bf6102",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "baruch-sadogursky-on-docker-and-artifactory",
+  "thumbnail": "/wp-content/uploads/2014/11/baruch-sadogursky-on-docker-and.jpg",
+  "title": "Baruch Sadogursky on Docker and Artifactory",
+  "type": "post",
+  "video_id": "yksFcD_MlfI",
+  "warnings": []
+}

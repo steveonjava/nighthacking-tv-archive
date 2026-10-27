@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    }
+  ],
+  "date": "2016-03-16 01:14:20",
+  "excerpt": "Sebastian Daschner giving a presentation on putting hypermedia back in REST using JAX-RS to JUG Bodensee as a part of the NightHacking Germany Tour.",
+  "id": 1777,
+  "original_urls": [
+    "http://nighthacking.tv/jug-bodensee-putting-hypermedia-back-in-rest/",
+    "http://nighthacking.com/jug-bodensee-putting-hypermedia-back-in-rest/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "e185600db5d32915c6ec3ab8965a28c7273ca154bf13600763b807f87c5c5d38",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/y9GmYhqV3Ds"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jug-bodensee-putting-hypermedia-back-in-rest/",
+    "post_id": 1777,
+    "rejected_urls": [],
+    "source_content_sha256": "18f5e599ed87573a38826d196fd4c2f29bf863527bf5f6989b43b45bafd59685",
+    "source_date_sha256": "e739ab851e3eb8a3cc9d27f58604768d83afd7b6dfb5f049ea4b72f5c50929de",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "457f8d7fda944376d24150aa30ed8ceee9490ca8ae4f8a7c3a413c9d524362d2",
+      "_video_thumbnail": "08a5b1a0982ad93be9b85ab3768456cb99fafed5655f33b0822813546f89dde6",
+      "focus_video": "f93abef4ebade880aa2ff4b0b3a871271ebb6a2ec1bc9a011614631c368c5be5"
+    },
+    "source_slug_sha256": "fc589c14db0aa5c40a414e2e868a72f7271a00ab2b2d224bae4621dcd1d822a7",
+    "source_title_sha256": "cdbad091ff388f4287e494cd02aa9347dbcc50b342f58ff4deda04eedc4a992f",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jug-bodensee-putting-hypermedia-back-in-rest",
+  "thumbnail": "/wp-content/uploads/2016/03/jug-bodensee-putting-hypermedia.jpg",
+  "title": "JUG Bodensee - Putting Hypermedia back in REST",
+  "type": "post",
+  "video_id": "y9GmYhqV3Ds",
+  "warnings": []
+}

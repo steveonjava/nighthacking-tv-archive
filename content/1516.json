@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2015",
+      "slug": "jcrete-2015"
+    }
+  ],
+  "date": "2015-07-22 01:54:13",
+  "excerpt": "Introduction to Java Mission Control, Java Flight Recorder, and jcmd with Marcus Hirt (@hirt).",
+  "id": 1516,
+  "original_urls": [
+    "http://nighthacking.tv/powerful-tools-in-the-oracle-jdk-at-jcrete/",
+    "http://nighthacking.com/powerful-tools-in-the-oracle-jdk-at-jcrete/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "c8354c1ad787936147b4b011c758b1b6ba1561b46f2b57a70078b3b8b67f7477",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/Kr6r0pwluOA"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/powerful-tools-in-the-oracle-jdk-at-jcrete/",
+    "post_id": 1516,
+    "rejected_urls": [],
+    "source_content_sha256": "1b36524eb1f185c477481aed7955279bcfca8377081a32fd2d38d6cbbfe44fd7",
+    "source_date_sha256": "5279aeb02d9a2e4eee353a24cf6d9a81f50438830680bb689ebc309203d653e9",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "1eb3da012cf952c58269bd949984611b7884583f20bac1322719580757161e98",
+      "_video_thumbnail": "0f6409c9761f17fa10db40e17e04c4f99d1604e5340d426b383550c9b15870ec",
+      "focus_video": "21288546dfee16bc81e8407de9159b9bf8e455f0956dda6e7bf5f42e128a1bb1"
+    },
+    "source_slug_sha256": "fe655aaba1e844b50c288b37a94219ed4865a885cb5e347c91f56b8f67b2ea6c",
+    "source_title_sha256": "5003bc1410812d27703f295f312240ebfa0efeb985bf107954ca97fb7f6b732c",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "powerful-tools-in-the-oracle-jdk-at-jcrete",
+  "thumbnail": "/wp-content/uploads/2015/07/powerful-tools-in-the-oracle-jdk.jpg",
+  "title": "Powerful Tools in the Oracle JDK at JCrete",
+  "type": "post",
+  "video_id": "Kr6r0pwluOA",
+  "warnings": []
+}

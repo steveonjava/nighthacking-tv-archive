@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2014",
+      "slug": "jcrete2014"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-08-31 23:36:44",
+  "excerpt": "Session on developer tools including a demonstration of how to extend IDEs such as NetBeans.",
+  "id": 1040,
+  "original_urls": [
+    "http://nighthacking.tv/developer-tools-session-at-jcrete/",
+    "http://nighthacking.com/developer-tools-session-at-jcrete/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "288854c9367f67d774e80e7f4bb4bee262f089ba2171d960edc09e976711888f",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/kU1g6L2vEAw"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/developer-tools-session-at-jcrete/",
+    "post_id": 1040,
+    "rejected_urls": [],
+    "source_content_sha256": "3dcff583fe6f0b01d40abd0b18b2bf817a7cf8044909d1dffefb73fc69260e31",
+    "source_date_sha256": "ea49c0af476deab50c3ecbac6dd35d0c8e5c7d8fdfc99bc592596e2194b7cecd",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "216da54b5931a6d37cca8e29953361fe02c680bbd8b482343f508e32e8e9cc3b",
+      "_video_thumbnail": "a1609b2c7a7f5eec6775496d20681562daf24595212c3387c66cfbdef7b824c1",
+      "focus_video": "62472842aed17a3fb9721f3f81121bb98d2c1012daaf827ed57d7b7df50c7416"
+    },
+    "source_slug_sha256": "b7da52fa242ba74c16cf56d5262fc859b8b63e2c204341456e1d4c4fe3b02081",
+    "source_title_sha256": "e6be7af50343e09472cb09c2b2f200fc3954c0cf3b9adfb73ffbaa3a8e810a7e",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "developer-tools-session-at-jcrete",
+  "thumbnail": "/wp-content/uploads/2014/08/developer-tools-session-at-jcret.jpg",
+  "title": "Developer Tools Session at JCrete",
+  "type": "post",
+  "video_id": "kU1g6L2vEAw",
+  "warnings": []
+}

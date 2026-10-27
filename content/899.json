@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-04-29 12:25:32",
+  "excerpt": "NightHacking session at the Hyderabad JUG on Lambdas and Devices (note, the camera ran out of battery towards the end -- skip 60 seconds and it is back up).",
+  "id": 899,
+  "original_urls": [
+    "http://nighthacking.tv/hyderabad-jug-nighthacking/",
+    "http://nighthacking.com/hyderabad-jug-nighthacking/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "ea51f108ac0138a00e52b326b12cb200761b121c6adb19a18022a80c6013ce03",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/mBBKD3goxyU"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/hyderabad-jug-nighthacking/",
+    "post_id": 899,
+    "rejected_urls": [],
+    "source_content_sha256": "e4b29f5723cfc630b34a728ad86cfd79db065683bf5575c469419842bd33a91b",
+    "source_date_sha256": "a86d0b4d35eef3d548d6b71123d72757068e7fa55ada34f36fac4e7360eaa883",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "2f84035610deb9378036cb7a5498b885486cf8e0acfde755081b3484bcff8eed",
+      "_video_thumbnail": "043352a5146837293f83f62a50d28c192cfe6d040d4aa2852b2d4edb984928a2",
+      "focus_video": "e35928b07c4157507f645078a5b1e4f5d5efbb6ab6b3033dc36a462f2287aedb"
+    },
+    "source_slug_sha256": "24b8c36c50f49dc5b776e79fdf6b2032056087041c17574c4a3f8111a21ddf88",
+    "source_title_sha256": "2a5f3dedd53048e904889c8af051a7e593c5f8c0966eee12ea5a0853eb0c6112",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "hyderabad-jug-nighthacking",
+  "thumbnail": "/wp-content/uploads/2014/06/hyderabad-jug-nighthacking.jpg",
+  "title": "Hyderabad JUG NightHacking ",
+  "type": "post",
+  "video_id": "mBBKD3goxyU",
+  "warnings": []
+}

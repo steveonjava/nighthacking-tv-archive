@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "Madras JUG Developer Day 2016",
+      "slug": "madras-jug-developer-day-2016"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2016-04-02 21:28:26",
+  "excerpt": "Concurrent Programming with Java by Ankireaddy Poly\n- What is concurrent programming\n- How to use Java language for doing concurrent programming",
+  "id": 1836,
+  "original_urls": [
+    "http://nighthacking.tv/concurrent-programming-with-java/",
+    "http://nighthacking.com/concurrent-programming-with-java/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "88ce4d4088122fa1eac33a6e61482e1218d157421660fef1556a8e0458a3059a",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/ClO49t-ctXU"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/concurrent-programming-with-java/",
+    "post_id": 1836,
+    "rejected_urls": [],
+    "source_content_sha256": "9a3f7f08447e85a30cb53393a40ff3d4a32b43c7317ba2b1dd88a59a58f4b9ae",
+    "source_date_sha256": "dcf80fe18989e1bdd44565894790340aee9186eecb3090d232683744e1948e1a",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "23765fc69c4e3c0b10f5d15471dc2245e2a19af16b513f85aa4b83bd033762a4",
+      "_video_thumbnail": "7d3a8d688a486041ec3761d3759e9e833ecd4d5b8a291560c0f078ee30667b8e",
+      "focus_video": "cd845ed43deda891f75143daa9d1cc530316c4e4026a9873fb8f3d94669694c7"
+    },
+    "source_slug_sha256": "5ba5c1fdba637778f8101db922b9fc4db7d10965c6d9395925c971e14490d062",
+    "source_title_sha256": "1b15adc09b7f7b2ff0be3b676f41b2ec99ff9c0d6fcc99cda10dc339e6ec6abd",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "concurrent-programming-with-java",
+  "thumbnail": "/wp-content/uploads/2016/04/concurrent-programming-with-java.jpg",
+  "title": "Concurrent Programming with Java",
+  "type": "post",
+  "video_id": "ClO49t-ctXU",
+  "warnings": []
+}

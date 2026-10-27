@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2016",
+      "slug": "jfokus-2016"
+    }
+  ],
+  "date": "2016-02-10 08:20:47",
+  "excerpt": "NightHacking interview at the Jfokus conference with Katherine Stanley on Testing Microservices.",
+  "id": 1633,
+  "original_urls": [
+    "http://nighthacking.tv/katherine-stanley-testing-microservices/",
+    "http://nighthacking.com/katherine-stanley-testing-microservices/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "71de65528f4c07c70e62231d670a2ce5da9c53e05b051ec44e0d660fd4ffadfb",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/gi714Hcdfj8"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/katherine-stanley-testing-microservices/",
+    "post_id": 1633,
+    "rejected_urls": [],
+    "source_content_sha256": "2987fadadf729294432c4729d8a3c15df19065412becb7308df8bb6e1c4262c6",
+    "source_date_sha256": "d82eb780467d25dfd3ff0a27decf9df660967a6af30ec7361dd8412453fab587",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "735e4a8aa7691b6d7e64836a10faa46e2246aadb16addbf59db7f7b0f45e6d19",
+      "_video_thumbnail": "0ae1da0c4f85e45ce00247dfed1e6c4b299d2c870765f9a7b897704f58f6bfd5",
+      "focus_video": "dbb3a5cfebb1bb72488fe453e15fc6bab28c27c0b33fb5d7e56bfcf5f77dcaa2"
+    },
+    "source_slug_sha256": "7aa7943b2355161a65a407f1042dc74e68ec528de71fb21c443897cec0e6906a",
+    "source_title_sha256": "9560ebeab8bd13d01edfb7232d0b61df05ffb151ad8eb09dc47098de2eeb06ed",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "katherine-stanley-testing-microservices",
+  "thumbnail": "/wp-content/uploads/2016/02/katherine-stanley-testing-micros.jpg",
+  "title": "Katherine Stanley - Testing Microservices",
+  "type": "post",
+  "video_id": "gi714Hcdfj8",
+  "warnings": []
+}

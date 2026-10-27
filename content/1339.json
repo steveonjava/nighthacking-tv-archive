@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "DevNexus 2015",
+      "slug": "devnexus-2015"
+    }
+  ],
+  "date": "2015-03-14 11:59:52",
+  "excerpt": "What do developers need to do make their apps secure? Rosalie Tolentino explains how to change your mindset and what tools to use to start on the road to better app security. Interview with Tori Wieldt at DevNexus.",
+  "id": 1339,
+  "original_urls": [
+    "http://nighthacking.tv/rosalie-tolentino-on-security/",
+    "http://nighthacking.com/rosalie-tolentino-on-security/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "7d9a534b681a52300b48cc8a2a2ff57b69b243eb8277908f4349a37625a51aa8",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=mdyrPM0T7d8"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/rosalie-tolentino-on-security/",
+    "post_id": 1339,
+    "rejected_urls": [],
+    "source_content_sha256": "90921d8b92f4f3f4889b3fb04ed7fb31da1921b4162dd931f1853c545948491b",
+    "source_date_sha256": "f76186408e43a0bb41deb5d433207379d8c758b6baa0b35dc4976bbdc59f28d6",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "866cf6ce0c5209505ff73ec603df870e4b40a94b61b751b5b26adf6428991ce4",
+      "_video_thumbnail": "25a0d4bf7b32fe57d93251f3e5abe9a67ad30da95221095dae2176a9d8ace88a",
+      "focus_video": "af7cf9ca85d3f276221e041befe4535ee9e65e6db58d0abe0b5e5bc45be335cb"
+    },
+    "source_slug_sha256": "f338c140e089d8f6cbbee5ba767f747121068493b009889595afc6b2091d63f9",
+    "source_title_sha256": "5e67b1053d4aedb087bc07da50aa5999ab55c6239700a6715696031628c31a48",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "rosalie-tolentino-on-security",
+  "thumbnail": "/wp-content/uploads/2015/03/rosalie-tolentino-on-security.jpg",
+  "title": "Rosalie Tolentino on Security",
+  "type": "post",
+  "video_id": "mdyrPM0T7d8",
+  "warnings": []
+}

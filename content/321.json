@@ -1,0 +1,115 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-01-17 02:43:35",
+  "excerpt": "Video from the NightHacking Worldwide Event with Brian Goetz and Stuart Marks on the new Java 8 Lambdas API.  This first video includes the introductory presentation by Brian Goetz.",
+  "id": 321,
+  "original_urls": [
+    "http://nighthacking.tv/nighthacking-worldwide-lambdas-2/",
+    "http://nighthacking.com/nighthacking-worldwide-lambdas-2/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "3665c46893b6ad3edad113adf560593437741cb6903ffdcb28d048857efd2402",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "object:codebase"
+        ],
+        "fetched": false,
+        "host": "download.macromedia.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"
+      },
+      {
+        "contexts": [
+          "embed:src",
+          "param:value"
+        ],
+        "fetched": false,
+        "host": "www.flickr.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.flickr.com/apps/slideshow/show.swf?v=138195"
+      },
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=vaSv3FjUIVI"
+      },
+      {
+        "contexts": [
+          "a:href",
+          "link",
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "github.com",
+        "rendered": true,
+        "status": "unverified",
+        "url": "https://github.com/NightHacking/LambdasHacking"
+      },
+      {
+        "contexts": [
+          "a:href",
+          "link",
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "jdk8.java.net",
+        "rendered": true,
+        "status": "unverified",
+        "url": "https://jdk8.java.net/download.html"
+      },
+      {
+        "contexts": [
+          "a:href",
+          "link",
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "netbeans.org",
+        "rendered": true,
+        "status": "unverified",
+        "url": "https://netbeans.org/downloads/"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nighthacking-worldwide-lambdas-2/",
+    "post_id": 321,
+    "rejected_urls": [],
+    "source_content_sha256": "4f4ce568c148514921a90f2a0f5e933adc1085ba33fc9aeff29dc209632f0e3c",
+    "source_date_sha256": "cbf03b87f9791545f6bf8b4e15be79821ba48188e45a219eccaedc44fa59b334",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "3949ac1596ec77106a709a618bf5adcb19b77537ce8bcbdf54ff830169cdd084",
+      "focus_video": "6c4fd3c2c0228b137aefde5639f6a3c3bc9a33751b1e433f8e47e41083d3eaef"
+    },
+    "source_slug_sha256": "00dc5c258d266814e1df8f2401c18451cd9392b94253e3c3081d7ea2ad70c36c",
+    "source_title_sha256": "7fdc19d2046e8f98f55a0c48aeb39ecca3aafc05b5b65179865f18fc289b22a9",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nighthacking-worldwide-lambdas-2",
+  "thumbnail": "/wp-content/uploads/2014/01/nighthacking.jpg",
+  "title": "NightHacking Worldwide Lambdas \u2013 2. Community Q&A",
+  "type": "post",
+  "video_id": "vaSv3FjUIVI",
+  "warnings": [
+    "A UTF-8 nonbreaking space was normalized to a space.",
+    "An active or embedded source element was omitted."
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2015",
+      "slug": "oredev-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-11-07 16:53:33",
+  "excerpt": "Interview with Christin Wiedemann on advice for developers related to software testing at \u00d8redev.",
+  "id": 1563,
+  "original_urls": [
+    "http://nighthacking.tv/christin-wiedemann-on-software-testing-for-developers/",
+    "http://nighthacking.com/christin-wiedemann-on-software-testing-for-developers/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "8e991a82ecbae8e24c47558c8cf773add54b652bf7bba183121f017b79bfbe65",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/5ff-KPM7Uw0"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/christin-wiedemann-on-software-testing-for-developers/",
+    "post_id": 1563,
+    "rejected_urls": [],
+    "source_content_sha256": "b7eef706cebf1ab62cd3bba6473bccf870085a3473bd86dad3db7de229ca3c47",
+    "source_date_sha256": "8fd3ba321cd3518e08ceb1af564bb4a1bd8b7c1890a8af05878c914e91027e5d",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "79e8c13e1a8c51e0ff30567fa583fd52c900d56163023cc40049d762871417ea",
+      "_video_thumbnail": "e946dad5593c0bd96b0fbd3d54135bf01bb4f6351caf470428b37983abb50a86",
+      "focus_video": "78b318c54be3fa5957f8bb8432d7fac391fefa0f69eafee6785258fbcbc06ed0"
+    },
+    "source_slug_sha256": "b3ddd8e15e8b9fdc32b20afd2882222cea5bd60c8dae460364324d0690e484db",
+    "source_title_sha256": "3098c02dad49158890dfdea2e33f1f379d0efd7cc1ce4cf73d65d975be23d815",
+    "table": "wp_posts",
+    "video_status": "identified-unverified",
+    "body_video_identity_resolution": {
+      "record_id": 1563,
+      "video_id": "5ff-KPM7Uw0",
+      "source_url": "https://youtu.be/5ff-KPM7Uw0",
+      "method": "Unique explicit URL in the exported public author body and its source-text URL inventory",
+      "source_markdown_sha256": "8e991a82ecbae8e24c47558c8cf773add54b652bf7bba183121f017b79bfbe65",
+      "lab_export_json_sha256": "82f21d947f4c0187de54203863e702dbed048a8ecdd90e7abf3d2651ff16ec6d",
+      "availability": "unverified",
+      "fetched": false
+    }
+  },
+  "review_status": "unreviewed",
+  "slug": "christin-wiedemann-on-software-testing-for-developers",
+  "thumbnail": "/wp-content/uploads/2015/11/christin-wiedemann-on-software-t.jpg",
+  "title": "Christin Wiedemann on Software Testing for Developers",
+  "type": "post",
+  "video_id": "5ff-KPM7Uw0",
+  "warnings": [
+    "focus_video has no unique validated YouTube ID in a known field or URL.",
+    "The recording ID was recovered offline from the explicit unique author-body URL. Provider availability was not checked."
+  ]
+}

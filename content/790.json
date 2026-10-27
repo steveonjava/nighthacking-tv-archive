@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-30 07:56:29",
+  "excerpt": "Presentation given to JUG Stuttgart on Java Lambdas using the Mary Had a Little Lambda game.",
+  "id": 790,
+  "original_urls": [
+    "http://nighthacking.tv/jug-stuttgart-lambdas-hacking/",
+    "http://nighthacking.com/jug-stuttgart-lambdas-hacking/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "4b568fc61df9da8dda0d192e4caeb499588d7f03fe353a9be3a1749a67d98d8c",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=BsDStSjtSRE"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jug-stuttgart-lambdas-hacking/",
+    "post_id": 790,
+    "rejected_urls": [],
+    "source_content_sha256": "c49e687fee1760540f707b97fb8bdc638cc6b286fde773bc8560ef11715205c4",
+    "source_date_sha256": "6eb0b7d4fa6d19c29ff73c801878d48e0fa558cc7fa73b4ceed6fdc066e4558f",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "74332c78b10e3ee51ac4a3c18ccc15c1b6c9807b3ca609969de5e3c361573dfa",
+      "_video_thumbnail": "fbed83b389ebb8249fd2bd0fbe0a487c8144eef19a1c738c7dd181abca05c78f",
+      "focus_video": "f6f5c4a1b4c0e586fa4823bcd90508d56c17d8136abe5cac339956132d62b733"
+    },
+    "source_slug_sha256": "3444caeae16edf418351f4359c1a5e8c24c6c7c0b7f24b6d172bc4e336089cf4",
+    "source_title_sha256": "eaaa3ff73e2bb1d66d3b62ec7738a702d2fcc1920357117e8ccd14e7cf099056",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jug-stuttgart-lambdas-hacking",
+  "thumbnail": "/wp-content/uploads/2014/03/jug-stuttgart-lambdas-hacking.jpg",
+  "title": "JUG Stuttgart Lambdas Hacking ",
+  "type": "post",
+  "video_id": "BsDStSjtSRE",
+  "warnings": []
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-06-17 14:01:49",
+  "excerpt": "Presentation on the NAO Humanoid Robot given at the NY Java SIG.",
+  "id": 923,
+  "original_urls": [
+    "http://nighthacking.tv/nao-robot-at-the-ny-java-sig/",
+    "http://nighthacking.com/nao-robot-at-the-ny-java-sig/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "9cec1c6e3677bf1c9ed3a8c657518ac87d65eb7c348392637f20c78a7aa20929",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=6IYMtOMykCQ"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nao-robot-at-the-ny-java-sig/",
+    "post_id": 923,
+    "rejected_urls": [],
+    "source_content_sha256": "009886b86bdeb80917e6f50027abd4284f76c0ad0b29f84665dac192b0e62c2d",
+    "source_date_sha256": "9b12e229c5a68795de2a993cfe321b8fcd5804773972664cf50d5e93f04e7d8d",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "51054b8a03281fd02034378a5570ae0c970fb1d5d64246e0eb981481c228c108",
+      "_video_thumbnail": "2127000d0f809134feda7612ad0949aba16ff8516c3238fa0b0b92fc8367cafe",
+      "focus_video": "2da1aea432c43897c1991ed3016a07687e7bc212f669362ec9044cbff2ac1978"
+    },
+    "source_slug_sha256": "41c6a3553be736ebb4bc1fd0de5fa1d4c1ed95c260356d0202ded5412ed30df0",
+    "source_title_sha256": "76384364be77e896c77b7b31ada985b0bfa0c61d7c69dccfcfff4184ad06973d",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nao-robot-at-the-ny-java-sig",
+  "thumbnail": "/wp-content/uploads/2014/06/nao-robot-at-the-ny-java-sig.jpg",
+  "title": "NAO Robot at the NY Java SIG",
+  "type": "post",
+  "video_id": "6IYMtOMykCQ",
+  "warnings": []
+}

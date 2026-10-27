@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-04-14 01:41:37",
+  "excerpt": "NightHacking session on lambdas, devices, and NAO at the Portuguese JUG in Lisbon.",
+  "id": 844,
+  "original_urls": [
+    "http://nighthacking.tv/portuguese-jug-nighthacking/",
+    "http://nighthacking.com/portuguese-jug-nighthacking/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "ebe824b3d2544363d31a0aa1f706e4793556a4f0758047a89c5058b5ae6871a2",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=VAtNHWm89Gs"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/portuguese-jug-nighthacking/",
+    "post_id": 844,
+    "rejected_urls": [],
+    "source_content_sha256": "afa246bf1a004e6f6befcbe5a858a0953a30e1dfa51ce423c62d9f3578e2e1a8",
+    "source_date_sha256": "b9a6a38cebd6a57e61f4b9298d3cc268836d1df284c4791aeb2e42658577253c",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "6cb6d4b2fa122bf8bd63280061e4a230565fdec3ce03268caa2f48ccd931c691",
+      "_video_thumbnail": "98657480fe7722e6c25816569535ec1ce4a597075ec013e45d5dd494c224834e",
+      "focus_video": "8a957351cfb0234af144af545a6de1c54c9bdbf4f64d2994f121d6d5e86ba018"
+    },
+    "source_slug_sha256": "4465a493fbbb874e647b2dce792ea6fcbd9336007dde3ab62d21e3b72752087d",
+    "source_title_sha256": "117ae1fb7a89a51f872ee820ee6dce56059c81be85b45ce41be609f9283fc3aa",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "portuguese-jug-nighthacking",
+  "thumbnail": "/wp-content/uploads/2014/04/portuguese-jug-nighthacking.jpg",
+  "title": "Portuguese JUG NightHacking ",
+  "type": "post",
+  "video_id": "VAtNHWm89Gs",
+  "warnings": []
+}

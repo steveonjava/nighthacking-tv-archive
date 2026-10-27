@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2015",
+      "slug": "jfokus2015"
+    }
+  ],
+  "date": "2015-02-05 13:52:10",
+  "excerpt": "Chat with Charles Nutter (@headius) about what you can do as developers to support opens source projects like JRuby and OpenJDK.",
+  "id": 1247,
+  "original_urls": [
+    "http://nighthacking.tv/charles-nutter-on-contributing-to-open-source/",
+    "http://nighthacking.com/charles-nutter-on-contributing-to-open-source/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "deabd15c4273f6642b857f355913fd7bc28d9dda07e7130cd8db44234f042f07",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=2FMtvmoNb9o"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/charles-nutter-on-contributing-to-open-source/",
+    "post_id": 1247,
+    "rejected_urls": [],
+    "source_content_sha256": "b84b87aa6f801a2221be07a8c9b38e46c9219f62fd7a31f0a13cf7561e702c66",
+    "source_date_sha256": "8d62ac7ca5dc1f47b0fe40b44e7ab40d1d6ffbb00e54f9407c3e7980211725df",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "4579e127cc265d745b89f77b7e266e9e8c46326d35a380e24761b0542d5cca7d",
+      "_video_thumbnail": "93622030163c399150483524fd18abc021d9e9f99d7fc9abc3b2bb924b836e1c",
+      "focus_video": "dc931f85dd6ea8c459095261a406595b51c699d48afd954528702c14c2469a2d"
+    },
+    "source_slug_sha256": "9132d9329dcd28ac14ea54dd2e46af4b0b5e669762a75ef82b72722acda6ef95",
+    "source_title_sha256": "ca3ce9c2d0cd1fdb6815f1eaf2c29a2deb2e2b542a5f05906a03177d2b84e9f9",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "charles-nutter-on-contributing-to-open-source",
+  "thumbnail": "/wp-content/uploads/2015/02/charles-nutter-on-contributing-t.jpg",
+  "title": "Charles Nutter on Contributing to Open Source",
+  "type": "post",
+  "video_id": "2FMtvmoNb9o",
+  "warnings": []
+}

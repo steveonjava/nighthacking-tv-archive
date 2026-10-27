@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-04-11 16:27:18",
+  "excerpt": "NightHacking session on lambdas and devices at the Bordeaux JUG.",
+  "id": 831,
+  "original_urls": [
+    "http://nighthacking.tv/bordeaux-jug-nighthacking/",
+    "http://nighthacking.com/bordeaux-jug-nighthacking/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "ac08835ba21a11926568e6f530ccafd65f528272de5cddad8c5ac5e596485648",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=URXGhqBUgSU"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/bordeaux-jug-nighthacking/",
+    "post_id": 831,
+    "rejected_urls": [],
+    "source_content_sha256": "fd54c8a05874d1b18d537aac45a5279af87cf21fd340c5aa36607620d686431c",
+    "source_date_sha256": "7604fee7ad2cacf8c238159010271003c4a2ee2f3414821d6a3f52c5590b9005",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "5c344ba7044815dd03c3448028a43e5b9c16074cb5a6a19c7ae86165c149735f",
+      "_video_thumbnail": "167c3489b0fee1b381890cd8fd36fb1f792e8ea1bd096abba38f0092cae34398",
+      "focus_video": "70e97b40e76d3e724bf82d80d8712e80338069274fbe4c2837e938848a697c79"
+    },
+    "source_slug_sha256": "8960e451b6fecf501def764da3550f580ce4d599f09dbe69e665f64ff90fc5e5",
+    "source_title_sha256": "3c3e315a721b6c576887050adb8a19a7af37b14a5b1f706ef2ce557d8669d73f",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "bordeaux-jug-nighthacking",
+  "thumbnail": "/wp-content/uploads/2014/04/bordeaux-jug-nighthacking.jpg",
+  "title": "Bordeaux JUG NightHacking",
+  "type": "post",
+  "video_id": "URXGhqBUgSU",
+  "warnings": []
+}

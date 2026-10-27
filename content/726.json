@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-25 08:29:51",
+  "excerpt": "Live demonstration of the Oculus Rift, with a fully immersive with Aron Binienda given at the JavaLand Conference.",
+  "id": 726,
+  "original_urls": [
+    "http://nighthacking.tv/nighthacking-demo-of-the-oculus-rift-with-aron-binienda/",
+    "http://nighthacking.com/nighthacking-demo-of-the-oculus-rift-with-aron-binienda/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "f4936d642685d2d51bd569063b0742cbbab2a72684405486e30ce7c4e07021d7",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=dtds_8xIgIw"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nighthacking-demo-of-the-oculus-rift-with-aron-binienda/",
+    "post_id": 726,
+    "rejected_urls": [],
+    "source_content_sha256": "8ec47e51e403e32abf339a083197e18ffb26c84537d4e2d49276cf0a0fd2f43e",
+    "source_date_sha256": "5966dad747111d6667f272fb12d72bf442faed5ccbab209f602216d050fbe26a",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "7c3d90003d7d645be0b5f3782533c198a5d5dee06870420b4d594976ed857fc3",
+      "_video_thumbnail": "e4658470f56da5115e47c79826e86096a48cef4f5fc0429b196e2b1bfe409597",
+      "focus_video": "4554677c98517fa1a38f8a2f17a07a28ce5b7dc605f1e98d9b5cb105b2105583"
+    },
+    "source_slug_sha256": "8ec064881401d8b53bae4137a549382ee25fed3cb3dabc7fdae70f498baa60d2",
+    "source_title_sha256": "f4d39dacdc5358aaefeb6d77303b67200d10269e44581cdd328dddea3b9782f6",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nighthacking-demo-of-the-oculus-rift-with-aron-binienda",
+  "thumbnail": "/wp-content/uploads/2014/03/nighthacking-demo-of-the-oculus.jpg",
+  "title": "NightHacking Demo of the Oculus Rift with Aron Binienda ",
+  "type": "post",
+  "video_id": "dtds_8xIgIw",
+  "warnings": []
+}

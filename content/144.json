@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaOne",
+      "slug": "javaone"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2013-09-16 11:35:58",
+  "excerpt": "",
+  "id": 144,
+  "original_urls": [
+    "http://nighthacking.tv/javaone-interview-with-reza-rahman/",
+    "http://nighthacking.com/javaone-interview-with-reza-rahman/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=I43g2PwWdRc&list=PLX8CzqL3ArzXMvt5y8VHXKmr8gDC-xOH_&index=10"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/javaone-interview-with-reza-rahman/",
+    "post_id": 144,
+    "rejected_urls": [],
+    "source_content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source_date_sha256": "3dac897369a151d3be8279dd2701b7bc26fcac62f2fe362ae0392abfa0e24cb0",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "210e3b160c355818509425b9d9e9fd3ea2e287f2c43a13e5be8817140db0b9e6",
+      "_video_thumbnail": "72148ca4a9db8c09eaf21d0361ab69d57deffb9fce6d706bc5b979b3296b300a",
+      "focus_video": "fe24e8a492998cf9a7fae51088f022f15c4069f74ef863b36bf282ff7a048b63"
+    },
+    "source_slug_sha256": "e95c9aaf97b7d817f1260580dd4b2c9944aa9a7773f548b73d8d271357138610",
+    "source_title_sha256": "b3d7ed1c98fd0b1dcfffdd51e55202ae713fab330dfd6593c29541180f9eec94",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "javaone-interview-with-reza-rahman",
+  "thumbnail": "/wp-content/uploads/2013/09/p144.jpg",
+  "title": "JavaOne Interview with Reza Rahman",
+  "type": "post",
+  "video_id": "I43g2PwWdRc",
+  "warnings": []
+}

@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2015",
+      "slug": "javaland-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-03-25 09:34:50",
+  "excerpt": "Interview at the JavaLand conference with Vinicius and Yara Senger on the Internet of Things showing some of their embedded development boards, robots, and discussing their upcoming kickstarter project.",
+  "id": 1412,
+  "original_urls": [
+    "http://nighthacking.tv/interview-with-vinicius-and-yara-senger-on-the-internet-of-things/",
+    "http://nighthacking.com/interview-with-vinicius-and-yara-senger-on-the-internet-of-things/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "6fc0083942922ddaa5f4e2d5aecfa555ca866ecc282555444f1499652decfe1e",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/D7YBKkCXFSY"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/interview-with-vinicius-and-yara-senger-on-the-internet-of-things/",
+    "post_id": 1412,
+    "rejected_urls": [],
+    "source_content_sha256": "fbc079ce164580337609db88e6caaf64ef9d5e9153cb2beb55e11b503b624665",
+    "source_date_sha256": "1c1f521939de9b3e2f7054e796ff7fd4e34df52f7e3eecd77c4c83428078b665",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "afbfb89027a4dae87c6033eaa07896e93f3f1ddc2214ca43658982e8aa74b4d4",
+      "_video_thumbnail": "1cea1f10322a5f2583190cba2428839f1a5f2db746fa944251603bdffd4e1638",
+      "focus_video": "3b1e0449cc15d090e9436e53fd6a60b9a56fa5af1618dc602cc9e8026460cf6b"
+    },
+    "source_slug_sha256": "8f63d22dcf5cbb91960d072f160c89293e42bc9dafe567aca63e376dd3e415f5",
+    "source_title_sha256": "9c4956134045f73e8367190d80125c2071e42d193bcd3e0f94d91f986a10d4f8",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "interview-with-vinicius-and-yara-senger-on-the-internet-of-things",
+  "thumbnail": "/wp-content/uploads/2015/03/interview-with-vinicius-and-yara.jpg",
+  "title": "Interview with Vinicius and Yara Senger on the Internet of Things",
+  "type": "post",
+  "video_id": "D7YBKkCXFSY",
+  "warnings": []
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-06-22 01:50:04",
+  "excerpt": "NightHacking interview with Van Riper and Kevin Nilson\nduring the JCP 15th Year Anniversary Party.",
+  "id": 944,
+  "original_urls": [
+    "http://nighthacking.tv/jcp-interview-with-van-riper-and-kevin-nilson/",
+    "http://nighthacking.com/jcp-interview-with-van-riper-and-kevin-nilson/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "e27fff54c58f399412f2b73bb0e07591628df782f42b48065095ae639511c062",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=m63OReWs5a8"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jcp-interview-with-van-riper-and-kevin-nilson/",
+    "post_id": 944,
+    "rejected_urls": [],
+    "source_content_sha256": "b54b55f784cf387bd3b7976dc6dfd9419bc84147d2fe102426cb2035bb1ea503",
+    "source_date_sha256": "d1eb30735fe2064a5e2bd8faa7ec5e5d39114fa9935e1ff5a8709de40c424989",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "fb335e8fd0f8aed3eb6ffedd7fca08259d3f25bb14066536c978fbc96c4f75fd",
+      "_video_thumbnail": "b869b0d392547f1df8a69413af69125916d7883ecf538fde44073952380d5a2c",
+      "focus_video": "ce4f63721a318e5f51b0fa759f403f3a570a7d15ad556f950aa7af8a6bc83bb3"
+    },
+    "source_slug_sha256": "d5ce231a1e2cf2c54bf2dbab69cd23da21246d9f757fcfda546d708a5a1a37ad",
+    "source_title_sha256": "a563591b56c3cdcc079abee2a1de8b9ff3da4b90bd46139a13f23290048aa697",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jcp-interview-with-van-riper-and-kevin-nilson",
+  "thumbnail": "/wp-content/uploads/2014/06/jcp-interview-with-van-riper-and.jpg",
+  "title": "JCP Interview with Van Riper and Kevin Nilson ",
+  "type": "post",
+  "video_id": "m63OReWs5a8",
+  "warnings": []
+}

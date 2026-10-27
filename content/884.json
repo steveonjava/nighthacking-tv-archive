@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-04-27 07:09:46",
+  "excerpt": "Presentation at the Chennai Java Summit on Android Glass and Android Gear by Jawahar.",
+  "id": 884,
+  "original_urls": [
+    "http://nighthacking.tv/android-glass-or-android-gear/",
+    "http://nighthacking.com/android-glass-or-android-gear/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "6c2215335c607d014ab3ca9545a0583d44715b4d214f12d181d48fb165845779",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=UFK50rVOOGQ"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/android-glass-or-android-gear/",
+    "post_id": 884,
+    "rejected_urls": [],
+    "source_content_sha256": "f05201ae06b5a428f62b876e20a52f0cd8292ac0d06313511853fda3f942d1dd",
+    "source_date_sha256": "7a57450ed6e7cfee33072694d4fa29143d22507712e1af387ef6f99671aaa8ff",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "000f21ac06aceb9cdd0575e82d0d85fc39bed0a7a1d71970ba1641666a44f530",
+      "_video_thumbnail": "67521095d36733e8f0aae9aab7f111f26ef2405621283bba3ac44cf44e94f575",
+      "focus_video": "0bad5af5476cb470bd33e5d14f30c8a4dd3451898664da94502142d7d46577ee"
+    },
+    "source_slug_sha256": "cca20bd6a4c6022dbdfb52a647ce91ad643e8fdb9dfbeb6cfe8ed91a8d93d293",
+    "source_title_sha256": "6aa21336b0a83d9bf0e8e3580d615626c399cb8a0be2ca67ead0755f7722ea79",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "android-glass-or-android-gear",
+  "thumbnail": "/wp-content/uploads/2014/04/android-glass-or-android-gear.jpg",
+  "title": "Android Glass or Android Gear",
+  "type": "post",
+  "video_id": "UFK50rVOOGQ",
+  "warnings": []
+}

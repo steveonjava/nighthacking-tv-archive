@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "QCon NYC 2016",
+      "slug": "qcon-nyc-2016"
+    }
+  ],
+  "date": "2016-06-15 15:26:55",
+  "excerpt": "Interview with Peter Lawrey (@PeterLawrey) at QCon NYC about what microservices and trading systems can learn from each other as well as his thoughts on best practices for exception handling.",
+  "id": 1930,
+  "original_urls": [
+    "http://nighthacking.tv/peter-lawrey-on-microservices-and-trading-systems/",
+    "http://nighthacking.com/peter-lawrey-on-microservices-and-trading-systems/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "78f6620b344c38a651c9293ee1d5a20cdc5da89b5ce12414254d55ad5fd5608e",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/7Rn6dmiTHWc"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/peter-lawrey-on-microservices-and-trading-systems/",
+    "post_id": 1930,
+    "rejected_urls": [],
+    "source_content_sha256": "0a6597b060123bc8348af11fb2849aaf3b4ce5e5b4ffe61b7a1253fd6e672492",
+    "source_date_sha256": "2f81d01b343a2895e0ddbed9af7e095ed05a1a0def1b2a89fd6b6f1496c12a07",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "01a0123885ebec5b37b52ddc058c20d052525c654b69e7b7bfd5feb291428bba",
+      "_video_thumbnail": "b719ab1ada7010995988cd463ad34c39a786cd710ab050f991998813eb4bc662",
+      "focus_video": "fc4cbbedbe75f68abef7bb4b7572e7703f2154b841cd9760211bd2bf0f824cc8"
+    },
+    "source_slug_sha256": "95f657ccd447ffe2e90c6eadfba072f30f13da82ec0b7db47c80966c868cb604",
+    "source_title_sha256": "0816201c26e3442db67c37fac32adbab8ab2277bf4f6db90b24763c6e5d3b907",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "peter-lawrey-on-microservices-and-trading-systems",
+  "thumbnail": "/wp-content/uploads/2016/06/peter-lawrey-on-microservices-an.jpg",
+  "title": "Peter Lawrey on Microservices and Trading Systems",
+  "type": "post",
+  "video_id": "7Rn6dmiTHWc",
+  "warnings": []
+}

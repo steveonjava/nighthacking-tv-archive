@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2016",
+      "slug": "jcrete-2016"
+    }
+  ],
+  "date": "2016-08-05 04:58:38",
+  "excerpt": "JCrete 2016, Day 4\nArtificial Intelligence and Java\nZoran Sevarac",
+  "id": 1982,
+  "original_urls": [
+    "http://nighthacking.tv/artificial-intelligence-and-java/",
+    "http://nighthacking.com/artificial-intelligence-and-java/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "4b3045b56278cc9e1076c3f3c0efd7b9f64e1d5d1ccdb264725977deabdc81cc",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=vZfUdSA64Nk"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/artificial-intelligence-and-java/",
+    "post_id": 1982,
+    "rejected_urls": [],
+    "source_content_sha256": "5584494d2dcfa26c774f37311bb6931c112a790ca6c616986d4b069ae95514f5",
+    "source_date_sha256": "2f3472cef719e81b23c534025365b8df6b8616be3f22ffbcc22e19e3d52a1c8f",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "4dea5c7cb70f50322ec9d734aa4aa078be9227c05251e18991c596f387552370",
+      "_video_thumbnail": "9875cc44bfb59ad302d412f8fa1dd64b25e51472897a3dfb165fc3acc66120e4",
+      "focus_video": "505a9aaea47de2f25246c3b214d6520f19147c3ecbf2bf6f67484990563f9046"
+    },
+    "source_slug_sha256": "87822e5a90b4925b78e220a1c9d37b5ba0faf3625c85a82e0aab548d9963bc4b",
+    "source_title_sha256": "8f4ddaba71391a4d91b9bd5ded46413ff2a5b2efb2b9213094864bef5046d65f",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "artificial-intelligence-and-java",
+  "thumbnail": "/wp-content/uploads/2016/08/artificial-intelligence-and-java.jpg",
+  "title": "Artificial Intelligence and Java",
+  "type": "post",
+  "video_id": "vZfUdSA64Nk",
+  "warnings": []
+}

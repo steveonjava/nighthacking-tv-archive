@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    }
+  ],
+  "date": "2016-03-16 01:11:25",
+  "excerpt": "Short interviews with members of JUG Bodensee before the main presentation started.",
+  "id": 1773,
+  "original_urls": [
+    "http://nighthacking.tv/jug-bodensee-member-interviews/",
+    "http://nighthacking.com/jug-bodensee-member-interviews/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "b38f2b2c0062fda90cad15e46b4f01ba3f801bab6a84ba26a16cf39756e41089",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/fGLUjAoou0o"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jug-bodensee-member-interviews/",
+    "post_id": 1773,
+    "rejected_urls": [],
+    "source_content_sha256": "ce9f0aa85552314bde51526cdbe17e586781b79e6aba9d3460fcddb220d34f5a",
+    "source_date_sha256": "dab5dae04c9d293d59be127a5279d84973996419227683b9d531685cdc000fd2",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "8fe1029e7f1d04f6911b35ca2c666d172ed8605550e8c55397bedd823b4e6686",
+      "_video_thumbnail": "512664c63303b30aac2f617b6aedc06c261033f4c83e5b320169e6e796d37fc7",
+      "focus_video": "a4c8f4560be174178295a2b5a7009df6a3cb24d2782b5877287e42154db08b69"
+    },
+    "source_slug_sha256": "a803e56ef25a1698fd800494b10352c86a897ec53569d9189f3ef446f9e7c6f8",
+    "source_title_sha256": "dc41119421779d12f2e9faab3a3af31ae2783c969687898f08f2613350aa4561",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jug-bodensee-member-interviews",
+  "thumbnail": "/wp-content/uploads/2016/03/jug-bodensee-member-interviews.jpg",
+  "title": "JUG Bodensee Member Interviews",
+  "type": "post",
+  "video_id": "fGLUjAoou0o",
+  "warnings": []
+}

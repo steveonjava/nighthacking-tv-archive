@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "Java Day Tokyo 2015",
+      "slug": "java-day-tokyo-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-04-08 01:32:49",
+  "excerpt": "Interview with \u5ca9\u5d0e\u3000\u6d69\u6587 (Hirofumi Iwasaki)\u6c0f on Java EE in Large Financial Systems at Java Day Tokyo.",
+  "id": 1434,
+  "original_urls": [
+    "http://nighthacking.tv/%e5%b2%a9%e5%b4%8e%e3%80%80%e6%b5%a9%e6%96%87-hirofumi-iwasaki%e6%b0%8f-on-java-ee-in-large-financial-systems/",
+    "http://nighthacking.com/%e5%b2%a9%e5%b4%8e%e3%80%80%e6%b5%a9%e6%96%87-hirofumi-iwasaki%e6%b0%8f-on-java-ee-in-large-financial-systems/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "ae995c9af88485756395650ea9e23a14ec777eed0df1ae60ac4b6b89735a10e4",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/K4w79fjuq0c"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/%e5%b2%a9%e5%b4%8e%e3%80%80%e6%b5%a9%e6%96%87-hirofumi-iwasaki%e6%b0%8f-on-java-ee-in-large-financial-systems/",
+    "post_id": 1434,
+    "rejected_urls": [],
+    "source_content_sha256": "3ed86e997b0424c9f85f48c7a1598ff9d384caa620af01d5c8d0f7a6a149c9ee",
+    "source_date_sha256": "5c4346302bc9007251de128fcc2351a12420601a95fa9310e28f191ff5329d7d",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "40dd2b010d461c24e48783a18bd6d051d7e24c8b32079bb913a27860f83295e9",
+      "_video_thumbnail": "4d1f236013bbf7e69716c963e596f99429772d945f1e5b286b6e2f9514b753d7",
+      "focus_video": "a81f451d5f18e4191729d9a559296fb143ea753cbc3302f70f935ad57cdf74db"
+    },
+    "source_slug_sha256": "ddd7bd6ff9aee9883be342612fcfe68896f239ebc8e58a47f83f099372138be8",
+    "source_title_sha256": "a9e8ed1a667a7efe3e5bfd74e33a66e224f51cefae539ae3f154232c08ce72c3",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "%e5%b2%a9%e5%b4%8e%e3%80%80%e6%b5%a9%e6%96%87-hirofumi-iwasaki%e6%b0%8f-on-java-ee-in-large-financial-systems",
+  "thumbnail": "/wp-content/uploads/2015/04/hirofumi-iwasaki-on-java-ee-in.jpg",
+  "title": "\u5ca9\u5d0e\u3000\u6d69\u6587 (Hirofumi Iwasaki)\u6c0f on Java EE in Large Financial Systems",
+  "type": "post",
+  "video_id": "K4w79fjuq0c",
+  "warnings": []
+}

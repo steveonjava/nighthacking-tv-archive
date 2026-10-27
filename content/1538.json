@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2015",
+      "slug": "oredev-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-11-06 02:50:44",
+  "excerpt": "A discussion about all things web standards, with some progressive enhancement and content blocking thrown in for good measure.",
+  "id": 1538,
+  "original_urls": [
+    "http://nighthacking.tv/kodsnack-interviewing-aaron-gustafson/",
+    "http://nighthacking.com/kodsnack-interviewing-aaron-gustafson/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "6a6aa2ed4c665d0d2f9bbd10b2357a1a83529cfc53ff49aaba18f593d65cba2a",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=XCq0wzwQF-A"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/kodsnack-interviewing-aaron-gustafson/",
+    "post_id": 1538,
+    "rejected_urls": [],
+    "source_content_sha256": "12ad634a6690b19624bec64cf5490e3adcd5e34e545aa8f8d67e486389a5175d",
+    "source_date_sha256": "d334e2cff3c038ccee563398be69fc656c9dcf5e3dfd3d3e84d9b73ede402191",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "c73c63198a1338f0d19547e3d07db9dc25babedc30ae35b80426d48afe73624c",
+      "_video_thumbnail": "be04e250dd3fff694ba2e09a1411f9360754287a2baf2ca77de02948adc3a78e",
+      "focus_video": "9b3961217c31cd96f651d98245057bad3a12c79998878fbe9e9827f7e09bba2a"
+    },
+    "source_slug_sha256": "ca579b0c6fc42a976588e9d242b303a24b88ce9772f074762c32346d87209b09",
+    "source_title_sha256": "bc66180a282186bf12bd051a7f18c0bd3c860566b60129f657f5c1d4ff4c0b49",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "kodsnack-interviewing-aaron-gustafson",
+  "thumbnail": "/wp-content/uploads/2015/11/kodsnack-interviewing-aaron-gust.jpg",
+  "title": "Kodsnack interviewing Aaron Gustafson",
+  "type": "post",
+  "video_id": "XCq0wzwQF-A",
+  "warnings": []
+}

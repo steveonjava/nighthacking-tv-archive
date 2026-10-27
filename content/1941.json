@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2016",
+      "slug": "jcrete-2016"
+    }
+  ],
+  "date": "2016-08-01 00:26:33",
+  "excerpt": "Intro presentation for the JCrete conference taking place at the Greek Orthodox Academy by Dr. Zorbas.  Also includes comments from the Kolymbari High School and Mrs. Larentzakis.",
+  "id": 1941,
+  "original_urls": [
+    "http://nighthacking.tv/oac-introduction-by-dr-zorbas/",
+    "http://nighthacking.com/oac-introduction-by-dr-zorbas/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "28d92382a63205eeb81707d1ea3dfa8fd9cce3bb61400e19a4370d246680c482",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=rshrkmuEv4M"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/oac-introduction-by-dr-zorbas/",
+    "post_id": 1941,
+    "rejected_urls": [],
+    "source_content_sha256": "7cb5db0635d634e31dae4e2c218a7ca2cce826570fe125772c4c427900dd8e36",
+    "source_date_sha256": "fbdfb419d6351ba9d2ba0971d65b5998e5bd7b03ce5f7e091efdb682123e6d9b",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "66a7a5807c3130eb2d0b55bb260a6a001b9d62095c94b753cbb215f3e4f099e1",
+      "_video_thumbnail": "91caeb1dbda2ef555c52f569f4df4fa23262a7be7ebc40dc7b9c3f57eaba1c3a",
+      "focus_video": "2ba33acf9c799117aa1acc1d1a57e0312482ffdc528f4248ff1e2907650c3179"
+    },
+    "source_slug_sha256": "087cd64778998704f0b42ae09d5c9b900197567a07045f158185c90c8f785ebb",
+    "source_title_sha256": "c658ae7a13a2f31f807081256b1c016aa99de25839949d1216fecd2ca64e3460",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "oac-introduction-by-dr-zorbas",
+  "thumbnail": "/wp-content/uploads/2016/08/oac-introduction-by-dr-zorbas.jpg",
+  "title": "OAC Introduction by Dr. Zorbas",
+  "type": "post",
+  "video_id": "rshrkmuEv4M",
+  "warnings": [
+    "A UTF-8 nonbreaking space was normalized to a space."
+  ]
+}

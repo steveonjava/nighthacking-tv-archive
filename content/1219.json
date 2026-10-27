@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Devoxx 2014",
+      "slug": "devoxx-2014"
+    }
+  ],
+  "date": "2014-11-15 09:47:09",
+  "excerpt": "Dick Wall on his new Scala course with Parleys training that was launched at Devoxx.",
+  "id": 1219,
+  "original_urls": [
+    "http://nighthacking.tv/dick-wall-on-his-scala-course/",
+    "http://nighthacking.com/dick-wall-on-his-scala-course/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "c8fe678e4ba6fe43917b051208b11a222ce785d6be70a1ca53fc2f98d9229fac",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/M8zj7aOcFTI"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/dick-wall-on-his-scala-course/",
+    "post_id": 1219,
+    "rejected_urls": [],
+    "source_content_sha256": "3e596d5c87d028dfab62823e58f0cc6d6613444b5a36ec9d58673db9fe1912b7",
+    "source_date_sha256": "5f98acb55ab916fce9469b9212320c97f5265897da4c8093fd567ccd93794a4f",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "46437ab18a6657040b4535297ff247b20c535c02263713f88b6a9e17484f1f3f",
+      "_video_thumbnail": "624be5cde8bb49738fb4b219f3c580c5f24e64c91898b96b99ef5820eb6675f3",
+      "focus_video": "77fc9c45927a8beda50a859ebd5c84cfc6be27dc6be616c19a9438436955df83"
+    },
+    "source_slug_sha256": "3b465acc931a720d874d9c6813da3e0a9bc4b7fe79274cac0dafb64b673bb781",
+    "source_title_sha256": "9d2545a26ac840694e81f473155f0e41ec9d3271f8bd05e0999443ff938063d9",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "dick-wall-on-his-scala-course",
+  "thumbnail": "/wp-content/uploads/2014/11/dick-wall-on-his-scala-course.jpg",
+  "title": "Dick Wall on his Scala Course",
+  "type": "post",
+  "video_id": "M8zj7aOcFTI",
+  "warnings": []
+}

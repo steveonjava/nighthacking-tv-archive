@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "CloudWorld Developer Mumbai",
+      "slug": "cloudworld-developer-mumbai"
+    }
+  ],
+  "date": "2016-04-09 04:30:16",
+  "excerpt": "Interview with Siva Krishna on making DevOps work at CloudWorld Developer Mumbai.",
+  "id": 1854,
+  "original_urls": [
+    "http://nighthacking.tv/siva-krishna-on-making-devops-work/",
+    "http://nighthacking.com/siva-krishna-on-making-devops-work/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "32513288ed0069a5b1b273ec4e29d0dd7771a161bdb45fb4dc55a2da507229a5",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/645uWfOpZLY"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/siva-krishna-on-making-devops-work/",
+    "post_id": 1854,
+    "rejected_urls": [],
+    "source_content_sha256": "f1ba9ce20120f4c869ce1ad183e21d7c8ed1d1fab7cdf324f2fa65021768a628",
+    "source_date_sha256": "d75463f35ac5919bffa86a840189c62f446f5f9eeaae774657c6aaccb8c6559a",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "c17ec73c802422d05391fbab496c2c62d81885e435bb313ce4446e049809c675",
+      "_video_thumbnail": "5a6cdd61f13d9080766454a7843b3c119d9a20a0f699d4cc8630a7c3ead19f60",
+      "focus_video": "0ffab886a9b74a34060f0893bf25461622fc16d1cf21cd5792a7c0dce240507e"
+    },
+    "source_slug_sha256": "8379c603371de200aca96eda7a1a8a509c831debe4abc7ffd7c9fa51a7f929b9",
+    "source_title_sha256": "e5aa124b09dd1dd368631debc2200431a9424591aaeac975fa8eb9e2afa2cfaa",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "siva-krishna-on-making-devops-work",
+  "thumbnail": "/wp-content/uploads/2016/04/siva-krishna-on-making-devops-wo.jpg",
+  "title": "Siva Krishna on Making DevOps Work",
+  "type": "post",
+  "video_id": "645uWfOpZLY",
+  "warnings": []
+}

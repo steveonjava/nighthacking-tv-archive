@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2015",
+      "slug": "jcrete-2015"
+    }
+  ],
+  "date": "2015-07-22 01:50:22",
+  "excerpt": "Discussion of the current usage and future removal of sun.misc.Unsafe with Chris Engelbert (@noctarius2k), Marcus Lagergren (@lagergren), Martin Thompson (@mjpt777), and others.",
+  "id": 1508,
+  "original_urls": [
+    "http://nighthacking.tv/unsafe-discussion-at-jcrete/",
+    "http://nighthacking.com/unsafe-discussion-at-jcrete/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "0be5bf4f5600d414c7998df7d563733b0e377d9e9f911ca8a4ed7937c74e7181",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/Np-sSsxS33Q"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/unsafe-discussion-at-jcrete/",
+    "post_id": 1508,
+    "rejected_urls": [],
+    "source_content_sha256": "2349a3decdb28fb71ae90d3a0ad1686a79ea578c7e349bdeac00f4487f9354c8",
+    "source_date_sha256": "81018c2b68b8e7dc40010a1cfcafac4c7381e9de6f6eae67fb4b50c1c1ff9669",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "431688497f68c837444127cbac14cadba2a943709304af1da765781f49e02ac8",
+      "_video_thumbnail": "9c990c7150a1cd42b4d68692bb974f7593884e368cacce071f19b255b3a70791",
+      "focus_video": "4e19434ec4ecebd5d76b09574471cf3126048b3f9ce2e9db7c405806d12021ae"
+    },
+    "source_slug_sha256": "c5b82a0da9bbcfcff84cc85b8f6105f7819a398589aaa8249391d09cce1b3a09",
+    "source_title_sha256": "0f30b70155808c8089ad221f102007b89eda8ce3ea590b2db3d55b5a2fe04d96",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "unsafe-discussion-at-jcrete",
+  "thumbnail": "/wp-content/uploads/2015/07/unsafe-discussion-at-jcrete.jpg",
+  "title": "\"Unsafe\" Discussion at JCrete",
+  "type": "post",
+  "video_id": "Np-sSsxS33Q",
+  "warnings": []
+}

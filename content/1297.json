@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "DevNexus 2015",
+      "slug": "devnexus-2015"
+    }
+  ],
+  "date": "2015-03-11 08:28:00",
+  "excerpt": "Interview with Venkat Subramaniam on a pattern for using lambdas instead of inheritance to solve a common programming problem.",
+  "id": 1297,
+  "original_urls": [
+    "http://nighthacking.tv/venkat-subramaniam-on-java-8-lambdas/",
+    "http://nighthacking.com/venkat-subramaniam-on-java-8-lambdas/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "fb490286c7d8e7f3fb67d8f2791cabae6b2854ea5e965defc5f3bfc1f3bddd8a",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/q6ntkhd2w9E"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/venkat-subramaniam-on-java-8-lambdas/",
+    "post_id": 1297,
+    "rejected_urls": [],
+    "source_content_sha256": "e5283e0eb630ed47756df09215794813b6c94298c79ec747f516f95d1810ac8c",
+    "source_date_sha256": "11cfe2db858cd21373c11e8a91d93bc17c8af8699f5adad4aba24832faf9dc8a",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "df4011e630c0cda98a2323d4a528f461abdf6e30f69029dbc6508f6897264bb4",
+      "_video_thumbnail": "c1f8a6ddf50add30fb7a2a4030559365ad0f8862517abcc382406ca9bc5ab9b1",
+      "focus_video": "0973e82e308ea5a09cbb0cce262834aba95c0ab54eefa747173d87116ff8ca3d"
+    },
+    "source_slug_sha256": "791cfa66a231bfe53651680008b6adf77a2ddacf11c714434dfb2e4dbabe23e1",
+    "source_title_sha256": "716a8df60736c4a6fba37a91d437fe515dbe313c891a3aef1b9208e9703a5802",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "venkat-subramaniam-on-java-8-lambdas",
+  "thumbnail": "/wp-content/uploads/2015/03/venkat-subramaniam-on-java-8-lam.jpg",
+  "title": "Venkat Subramaniam on Java 8 Lambdas",
+  "type": "post",
+  "video_id": "q6ntkhd2w9E",
+  "warnings": []
+}

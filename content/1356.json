@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2015",
+      "slug": "javaland-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-03-24 09:22:15",
+  "excerpt": "Interview at JavaLand with Andres Almiray on the Desktop/Embedded App JSR.",
+  "id": 1356,
+  "original_urls": [
+    "http://nighthacking.tv/andres-almiray-on-the-desktopembedded-app-jsr/",
+    "http://nighthacking.com/andres-almiray-on-the-desktopembedded-app-jsr/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "bb12db15c55e939f0e3e8b45f2d35f4cdda6b199a9bd2204f59af3a7f68e91aa",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/UcickgUFtPY"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/andres-almiray-on-the-desktopembedded-app-jsr/",
+    "post_id": 1356,
+    "rejected_urls": [],
+    "source_content_sha256": "0c5c8629759177d764c38326e5e44cef465335827791411cf89baf84a1cb17ed",
+    "source_date_sha256": "58f78123aabc51df9287a03010e73f1d6284298fa977e7b65e128d22149d416b",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "40207240ec43f8d817b96f2ee3e78aacd508dd2bea5634bb3284157eb824839a",
+      "_video_thumbnail": "79120b1173a0a14e335e91898dbd29aa0307c5a454ed7bb3420f4f8ec60d4380",
+      "focus_video": "0674d7a6cc406e0562514bf944a3e74fa20c1a806cdccd7dab0b0ca59dddbc0c"
+    },
+    "source_slug_sha256": "5b8aa82520cea520485c12af016a3f54a6da2a08aa74e7752fed7aea21be8083",
+    "source_title_sha256": "637583566f46cfbac383cec467b276290c55224b68f44d30fe57843fa9ee8588",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "andres-almiray-on-the-desktopembedded-app-jsr",
+  "thumbnail": "/wp-content/uploads/2015/03/andres-almiray-on-the-desktopemb.jpg",
+  "title": "Andres Almiray on the Desktop/Embedded App JSR",
+  "type": "post",
+  "video_id": "UcickgUFtPY",
+  "warnings": []
+}

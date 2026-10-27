@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-22 15:24:40",
+  "excerpt": "Final segment of the NightHacking session at Gerrit Grunwald's lab...  in this short segment we took a look at some JavaFX applications working on Android to access an embedded sensor network.",
+  "id": 692,
+  "original_urls": [
+    "http://nighthacking.tv/nighthacking-at-gerrits-lab-bonus/",
+    "http://nighthacking.com/nighthacking-at-gerrits-lab-bonus/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "85919d9c5bee2fae4709545b325bc7900b110097d6eab59f7f76946fec0e31a4",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/vSQB-Qnj2jM"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nighthacking-at-gerrits-lab-bonus/",
+    "post_id": 692,
+    "rejected_urls": [],
+    "source_content_sha256": "3d382eda6691341e151db18b04c62c73bad229ab9e5f0cd49d11db164d8d4358",
+    "source_date_sha256": "18da0d2e6b2c42fc71098947d298e83814fde1e63e3090b9c5b249d1a4de7101",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "a6c2a2325dfd588f202a240a06ccb2b037854e7097a303fc8991ecc15501528c",
+      "_video_thumbnail": "c4a72b9713f041acfb88f4fc45b5c97089d3d5284aa50c7c4de7c1232b9c6103",
+      "focus_video": "aa628c7aa16275ed65ac86cf657896cc94aa774209865a8f2f9aec80bfdd0f68"
+    },
+    "source_slug_sha256": "ec26c759d73f631cf31318750637deacfdb17c7936650c81177f6a568eff1db4",
+    "source_title_sha256": "dad5ec6aa5552dd742d65bbeaaad6bfd6d95ac435f11fb87eab04175e3aba354",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nighthacking-at-gerrits-lab-bonus",
+  "thumbnail": "/wp-content/uploads/2014/03/nighthacking-at-gerrits-lab-bonu.jpg",
+  "title": "NightHacking at Gerrit's Lab (bonus)",
+  "type": "post",
+  "video_id": "vSQB-Qnj2jM",
+  "warnings": []
+}

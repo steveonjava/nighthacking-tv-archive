@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "QConSF 2015",
+      "slug": "qconsf-2015"
+    }
+  ],
+  "date": "2015-11-17 15:32:28",
+  "excerpt": "Interview with Netflix engineer Brendan Gregg on the new preserve frame pointer option introduced in JDK 8 update 60 that makes it possible to use native profilers on the x86 platform.",
+  "id": 1579,
+  "original_urls": [
+    "http://nighthacking.tv/brendan-gregg-on-the-preserve-frame-pointer-option-in-jdk-8/",
+    "http://nighthacking.com/brendan-gregg-on-the-preserve-frame-pointer-option-in-jdk-8/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "6280d1ae63eb685ca5f2a1bf2ad5bc68bc4c2b76b5f4cfce08987309f7bb94b3",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/gTjPKDYroyk"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/brendan-gregg-on-the-preserve-frame-pointer-option-in-jdk-8/",
+    "post_id": 1579,
+    "rejected_urls": [],
+    "source_content_sha256": "b7358be33dbbd565005c6068e97a0a58384252298f2ddff603a7763f4bfb0ed1",
+    "source_date_sha256": "cb803ae56c74ce5e3fda8c1f933d5c9e960aa79d5c34604c2528cebfb71afbc5",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "3ef4ba73834a4409affdc4f09899d57af3f9c201946d624705e5753bd88d3e89",
+      "_video_thumbnail": "1fe42e39cdaff80e1f9fd981783e9f49b7899735617e6441a94865da487fc38d",
+      "focus_video": "7f8653472fb86d3a2990431229f3a83d91e4379d814a16922d029d9806254d33"
+    },
+    "source_slug_sha256": "261501cb719b50a42cdf48cf2e1e69adb6cff1871ea3bf48d8cd000cbd155368",
+    "source_title_sha256": "01800b42ff65a6057411c2cbb493ce89a2f06215d36e61cbaa10badd4fec7534",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "brendan-gregg-on-the-preserve-frame-pointer-option-in-jdk-8",
+  "thumbnail": "/wp-content/uploads/2015/11/brendan-gregg-on-the-preserve-fr.jpg",
+  "title": "Brendan Gregg on the Preserve Frame Pointer Option in JDK 8",
+  "type": "post",
+  "video_id": "gTjPKDYroyk",
+  "warnings": []
+}

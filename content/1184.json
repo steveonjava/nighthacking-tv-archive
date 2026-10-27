@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2014",
+      "slug": "oredev"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-11-09 01:19:05",
+  "excerpt": "Interview with Rob Ashton by Kodsnack, the popular swedish podcast.",
+  "id": 1184,
+  "original_urls": [
+    "http://nighthacking.tv/kodsnack-interviewing-rob-ashton/",
+    "http://nighthacking.com/kodsnack-interviewing-rob-ashton/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "fa6ede7f20acd3aade0225b71cf66f0c83eb9a8394147f7726b0504734d83d5e",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/e2gHbcuyNIE"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/kodsnack-interviewing-rob-ashton/",
+    "post_id": 1184,
+    "rejected_urls": [],
+    "source_content_sha256": "dfc61eea9fdd66cabefbf7adfea27e5173fa7ac47a67672e19fa155624f3c43d",
+    "source_date_sha256": "7b0bb2adff805de6865140776bc4c65309aad0427664b5ecd9e14a3916d342c3",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "274897360371d52c0d6f5e7dcc285f914c51a39bb714f51a7a547433b143c151",
+      "_video_thumbnail": "f11fc15f3dd2229b7f9dc367122cafda8e9cf7a3d6c2a161511ed975a3593178",
+      "focus_video": "588110a211d783ef15f24f6a669c9598204c8026ba1241efbc3916d90c22bd6c"
+    },
+    "source_slug_sha256": "be9b846f424758cce2dfd49a8edd255f92481cda21079f653fe2003d8ccb5328",
+    "source_title_sha256": "fb3f9642f0b2efb05b93ac10d243974894caceecc2ba4899bb50cfa62d5809fb",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "kodsnack-interviewing-rob-ashton",
+  "thumbnail": "/wp-content/uploads/2014/11/kodsnack-interviewing-rob-ashton.jpg",
+  "title": "Kodsnack interviewing Rob Ashton",
+  "type": "post",
+  "video_id": "e2gHbcuyNIE",
+  "warnings": []
+}

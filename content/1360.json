@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2015",
+      "slug": "javaland-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-03-24 09:26:17",
+  "excerpt": "Interview at JavaLand with Stefan Schlott on how to hack your website with some open source tools that help you expose security vulnerabilities.",
+  "id": 1360,
+  "original_urls": [
+    "http://nighthacking.tv/stefan-schlott-on-hacking-your-website/",
+    "http://nighthacking.com/stefan-schlott-on-hacking-your-website/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "2d720bb6cb30377e16944da221075d7dfcf667c4a5528090fe364fca3cbaa9ab",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/HtPSXMvPvJk"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/stefan-schlott-on-hacking-your-website/",
+    "post_id": 1360,
+    "rejected_urls": [],
+    "source_content_sha256": "01e2f77e774773c2abf55a4af883cd0c5f9092d92bca4312deb265dc92a1f4ea",
+    "source_date_sha256": "0d4e84ecb89a262a3eb37a641b1b5c1ff6e71f8131b307ef4469648eaf0e53db",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "a2cdc3e5a34ca7321a76d6cd14bc467796cca6638f039def04126ee004152c18",
+      "_video_thumbnail": "4728fd21df1b2b68a03f4e2305e68ed56a9c1ae51b51b309a7d6f7876554d271",
+      "focus_video": "a12a0f6b6179f8d12237b04a9aa094aee02a19489a965b98dbeff19818da274b"
+    },
+    "source_slug_sha256": "3dac28976495f31d3be70cc8fdd6facad693ecd273f0aa71d8f26ea9751cbe56",
+    "source_title_sha256": "6e5ebf3d753a5083b5844b1ec99c7a378985df2775d264ac59cbf978050c4660",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "stefan-schlott-on-hacking-your-website",
+  "thumbnail": "/wp-content/uploads/2015/03/stefan-schlott-on-hacking-your-w.jpg",
+  "title": "Stefan Schlott on Hacking Your Website",
+  "type": "post",
+  "video_id": "HtPSXMvPvJk",
+  "warnings": []
+}

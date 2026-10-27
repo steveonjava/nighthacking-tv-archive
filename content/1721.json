@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2016",
+      "slug": "javaland-2016"
+    },
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    }
+  ],
+  "date": "2016-03-08 08:06:48",
+  "excerpt": "Kirk Pepperdine on the G1 Garbage Collector and his Censum performance diagnostics tool from jClarity.",
+  "id": 1721,
+  "original_urls": [
+    "http://nighthacking.tv/kirk-pepperdine-on-the-g1-garbage-collector/",
+    "http://nighthacking.com/kirk-pepperdine-on-the-g1-garbage-collector/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "53ae413371d11304694a89637682da330e0ad7efd57daec2a9b2806c3d7891f1",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/XsySaAxP-a4"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/kirk-pepperdine-on-the-g1-garbage-collector/",
+    "post_id": 1721,
+    "rejected_urls": [],
+    "source_content_sha256": "d59e62b2b9a769ba28a5438301ebbee76e186c0886571337e5827d3f70676392",
+    "source_date_sha256": "0b121b71b857e6194a64f9f00882a94e2cdc93b9fc17fa319a60491a495dd766",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "7c1c2745ec0ebb049fcc29e39d81909f3e5a55b88dcb43d491476fe6bb92b196",
+      "_video_thumbnail": "20cb2c9515f32e8b76d70ba728091ba909b883aa6a0cfea5ae8147e5cd053f18",
+      "focus_video": "c8ca2bf95fecb90f7efd6c68840b3d9212419cab0040bfd27bc45f04702d41f2"
+    },
+    "source_slug_sha256": "a66e1068fd50478ab4542abefc23d2bfd9899ccad86be0886be1b433c90c6e9d",
+    "source_title_sha256": "39fe12ec0ef9b89ce9702d554c7a33819913a1f40ab907b25a101fefe069a8f0",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "kirk-pepperdine-on-the-g1-garbage-collector",
+  "thumbnail": "/wp-content/uploads/2016/03/kirk-pepperdine-on-the-g1-garbag.jpg",
+  "title": "Kirk Pepperdine on the G1 Garbage Collector",
+  "type": "post",
+  "video_id": "XsySaAxP-a4",
+  "warnings": []
+}

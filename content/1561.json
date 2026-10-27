@@ -1,0 +1,73 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2015",
+      "slug": "oredev-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-11-07 14:50:22",
+  "excerpt": "Interview with Niall Merrigan on computer security and hacking at the \u00d8redev conference.",
+  "id": 1561,
+  "original_urls": [
+    "http://nighthacking.tv/niall-merrigan-on-security-and-hacking/",
+    "http://nighthacking.com/niall-merrigan-on-security-and-hacking/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "466ff12eb1f29dcbe4c4da6ac4a718e50e4ed78bce385502633b12ed7831882f",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/PJnXxr-gCzM"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/niall-merrigan-on-security-and-hacking/",
+    "post_id": 1561,
+    "rejected_urls": [],
+    "source_content_sha256": "9f5443dea4e538acf0b9f84b1a860165a17f0f8158e3392203a882eed01d6583",
+    "source_date_sha256": "fa5a0d21246162d268bdfd480997321156bd65a1e19cbabfd91d4c9a704f0885",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "9c05d48bbde0b1ecdc68706e9c4a536de566f35deb45d66ad6d8261689164dfc",
+      "_video_thumbnail": "eab4525fa6fb252083e77ebe577b223a40042ed0f180ba62d61cea7d7d71b90c",
+      "focus_video": "78b318c54be3fa5957f8bb8432d7fac391fefa0f69eafee6785258fbcbc06ed0"
+    },
+    "source_slug_sha256": "a2c2ac40b74ad03af0fdcc8faecdecbca8fcfa7118270f7df26bc44748718bf1",
+    "source_title_sha256": "ad830a7993ff7b35e3df2328e5882251ce28776420872581d95d67fbe0869535",
+    "table": "wp_posts",
+    "video_status": "identified-unverified",
+    "body_video_identity_resolution": {
+      "record_id": 1561,
+      "video_id": "PJnXxr-gCzM",
+      "source_url": "https://youtu.be/PJnXxr-gCzM",
+      "method": "Unique explicit URL in the exported public author body and its source-text URL inventory",
+      "source_markdown_sha256": "466ff12eb1f29dcbe4c4da6ac4a718e50e4ed78bce385502633b12ed7831882f",
+      "lab_export_json_sha256": "597f96294456457664a300841091699f4926c9ab9d765b2751e5c74737c152bd",
+      "availability": "unverified",
+      "fetched": false
+    }
+  },
+  "review_status": "unreviewed",
+  "slug": "niall-merrigan-on-security-and-hacking",
+  "thumbnail": "/wp-content/uploads/2015/11/niall-merrigan-on-security-and-h.jpg",
+  "title": "Niall Merrigan on Security and Hacking",
+  "type": "post",
+  "video_id": "PJnXxr-gCzM",
+  "warnings": [
+    "focus_video has no unique validated YouTube ID in a known field or URL.",
+    "The recording ID was recovered offline from the explicit unique author-body URL. Provider availability was not checked."
+  ]
+}

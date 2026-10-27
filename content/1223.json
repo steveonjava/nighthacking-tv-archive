@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Devoxx 2014",
+      "slug": "devoxx-2014"
+    }
+  ],
+  "date": "2014-11-15 09:55:36",
+  "excerpt": "Interview with Mark Hazell and Lucy Carey on the new Voxxed site launched at Devoxx.",
+  "id": 1223,
+  "original_urls": [
+    "http://nighthacking.tv/mark-hazell-and-lucy-carey-on-voxxed/",
+    "http://nighthacking.com/mark-hazell-and-lucy-carey-on-voxxed/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "5186a4dbec0fd639f15346218ec3b3bdf085a6d4b75451b2e162a3878f7c1d1a",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/h4jPAEjpWd4"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/mark-hazell-and-lucy-carey-on-voxxed/",
+    "post_id": 1223,
+    "rejected_urls": [],
+    "source_content_sha256": "8604615e9ca4861e7b1c45414c5d9c84fc5356658530cd9fe61dca7e9c8f9a0a",
+    "source_date_sha256": "4f80372036368599a5037746569ab32063fe46630242367bf438ece79aad9f77",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "6ecf763ff6e7cef7b47e6611e1bf76fe2608a2e32a97b2d88b083ae1d8d02c82",
+      "_video_thumbnail": "1363c4af3df4d69c2c72a74bc01a5e10ccb2b503b7df308684d4f5dc7ee5a4d2",
+      "focus_video": "8c6a15d8bbabbe6db34204f3f372dcdc2321838546b87f40d2bdf58096b04b86"
+    },
+    "source_slug_sha256": "8a28757fa52511fc24113a3f413d9ee8734caaca1384824941f74459e1574ce5",
+    "source_title_sha256": "d096508690a5625a1bb280b1f93ff04821830ab418588282986655e9248d4735",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "mark-hazell-and-lucy-carey-on-voxxed",
+  "thumbnail": "/wp-content/uploads/2014/11/mark-hazell-and-lucy-carey-on-vo.jpg",
+  "title": "Mark Hazell and Lucy Carey on Voxxed",
+  "type": "post",
+  "video_id": "h4jPAEjpWd4",
+  "warnings": []
+}

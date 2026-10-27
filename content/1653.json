@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "DevNexus 2016",
+      "slug": "devnexus2016"
+    }
+  ],
+  "date": "2016-02-17 09:29:36",
+  "excerpt": "Tori Wieldt interviewing Markus Eisele about bridging Java EE and Microservices at the DevNexus Conference in Atlanta, Georgia.",
+  "id": 1653,
+  "original_urls": [
+    "http://nighthacking.tv/markus-eisele-on-java-ee-and-microservices/",
+    "http://nighthacking.com/markus-eisele-on-java-ee-and-microservices/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "258d68c167d6db203cedc74306577dd0fdb1dcf15d3d69d5f6919e3ab696b88c",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/uTVWweKHVyw"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/markus-eisele-on-java-ee-and-microservices/",
+    "post_id": 1653,
+    "rejected_urls": [],
+    "source_content_sha256": "5fd6ee9bf3ed3a6deddc881eeb9ccb2747ec4ccb667e43ba2f753d854fb1a803",
+    "source_date_sha256": "384863ec2ad54671d2d11877ced97c4ace7e14c04996238a2844ac4f2e73bb9a",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "b368537ed2fe65023ec2b77740725a878cbfff387e82cee58e058c55c993f548",
+      "_video_thumbnail": "c3207e1e398ef79f31cde98e26e59f441c61c13846e2eb43d853d53f8d954600",
+      "focus_video": "5f25361188f2555048498d5055295d87eebdceb96870b2af0d17c5c4a7825fa2"
+    },
+    "source_slug_sha256": "79654d1dc62fd635bea7868bfa3f0932b6df4a5d3a8c53ccb7142ecd5c104743",
+    "source_title_sha256": "768e5c1c86383310180dd9dc0113181e0599187741b65447cadac80247b5f6c2",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "markus-eisele-on-java-ee-and-microservices",
+  "thumbnail": "/wp-content/uploads/2016/02/markus-eisele-on-java-ee-and-mic.jpg",
+  "title": "Markus Eisele on Java EE and Microservices",
+  "type": "post",
+  "video_id": "uTVWweKHVyw",
+  "warnings": []
+}

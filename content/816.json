@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-04-06 09:09:06",
+  "excerpt": "NightHacking at the Geneva JUG event in the middle of the Alps.  Guest appearance by Paul Sandoz who worked on the lambdas feature for Oracle.",
+  "id": 816,
+  "original_urls": [
+    "http://nighthacking.tv/alpesjug-nighthacking/",
+    "http://nighthacking.com/alpesjug-nighthacking/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "f713acaff4d166135e962e348a7dee2a327e59a63d23084bd6f78845b61c2dc7",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=iBYH5b0V_m4"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/alpesjug-nighthacking/",
+    "post_id": 816,
+    "rejected_urls": [],
+    "source_content_sha256": "822a5f53cd0125ff816f407f92f7e9f04e19d4ee2ca4515b8c6fa1d2e265e3f8",
+    "source_date_sha256": "0bd173507019d7c52d5e71baacfc81ffc4ffffebaae807b5a5ff13f302aaf514",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "2b4da94214015b4281ac65905270bda4eefb97e08f5b4ae2f517b424ff77bfd9",
+      "_video_thumbnail": "8c950d749a1bb55004eb51162d9e75771b9467ca419c4b27c2019fcfbe1f0003",
+      "focus_video": "b18642e259ba31fc9fdd543d9e6f3d3eec1c18d4215635e4a19858acba4d8e3f"
+    },
+    "source_slug_sha256": "f2f08fd1f3be630538f4462a397af6ec80beb7c3446ff83767dbd6de3b8237ec",
+    "source_title_sha256": "3f5a792a9d980373fda9069474e6e09e7fe211feea4d7a354d4ec0b05ae94d8a",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "alpesjug-nighthacking",
+  "thumbnail": "/wp-content/uploads/2014/04/alpesjug-nighthacking.jpg",
+  "title": "AlpesJUG NightHacking ",
+  "type": "post",
+  "video_id": "iBYH5b0V_m4",
+  "warnings": []
+}

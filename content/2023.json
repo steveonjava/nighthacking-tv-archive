@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Oracle Code Japan Tour",
+      "slug": "oracle-code-japan-tour"
+    }
+  ],
+  "date": "2017-05-25 02:10:47",
+  "excerpt": "Presentation on the G1 Garbage Collector in Java 8/9 with Kirk Pepperdine as part of the Oracle Code Japan Tour.",
+  "id": 2023,
+  "original_urls": [
+    "http://nighthacking.tv/g1-gc-with-kirk-pepperdine/",
+    "http://nighthacking.com/g1-gc-with-kirk-pepperdine/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "454ecad1e9fcf346f101ac76ae8d5ec99937fd6be0505c9659a20b26a3172ee3",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=4XqU9Qax3tI"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/g1-gc-with-kirk-pepperdine/",
+    "post_id": 2023,
+    "rejected_urls": [],
+    "source_content_sha256": "eb8b74b180e5622df4b25af63c6d84a4f4de15eb9815f777b47579f327d12981",
+    "source_date_sha256": "09a3409666b04187528415e9c2bfb84f02a66bcb77ec348d348f1013c86195dc",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "b2b2f104d32c638903e151a9b20d6e27b41d8c0c84cf8458738f83ca2f1dd744",
+      "_video_thumbnail": "5acc80f8c9429147a24bad88a8b398999b968c2188bbabac57799b193c7351b8",
+      "focus_video": "1c2a0b9c0dfc95cdf8a2e52f25933714172c94c0fbdc22c5da0b780a6c6d2e0f"
+    },
+    "source_slug_sha256": "cf28d2ecf317f04587c021e11c49ebead00fc9e42d94772078f5f7de917572e1",
+    "source_title_sha256": "b3e3e30f327fd1fd88b1cdbe3675bab55cdbb7dc02f3a3c8e165ac474969fc5d",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "g1-gc-with-kirk-pepperdine",
+  "thumbnail": "/wp-content/uploads/2017/05/g1-gc-with-kirk-pepperdine.jpg",
+  "title": "G1 GC with Kirk Pepperdine",
+  "type": "post",
+  "video_id": "4XqU9Qax3tI",
+  "warnings": []
+}

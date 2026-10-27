@@ -1,0 +1,69 @@
+{
+  "categories": [
+    {
+      "name": "Java Japan Tour",
+      "slug": "java-japan-tour"
+    }
+  ],
+  "date": "2016-05-09 22:17:48",
+  "excerpt": "Promotional video for the Java Japan Tour visiting 9 JUGs plus Java Day Tokyo across Japan.  Visit the official tour page to watch the videos and events along the way and follow @_nighthacking on twitter for updates.  Tour starts 5/11 in Nagoya and concludes 5/28 in Sapporo.",
+  "id": 1894,
+  "original_urls": [
+    "http://nighthacking.tv/java-japan-tour-promo-video/",
+    "http://nighthacking.com/java-japan-tour-promo-video/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "4218e5d11a9339453c22f251a25a43b64fc4dbb7e3bd7d715b914da98acf38f0",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "a:href",
+          "link"
+        ],
+        "fetched": false,
+        "host": "twitter.com",
+        "rendered": true,
+        "status": "unverified",
+        "url": "https://twitter.com/_nighthacking"
+      },
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=raKR5Dic5ns"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/java-japan-tour-promo-video/",
+    "post_id": 1894,
+    "rejected_urls": [],
+    "source_content_sha256": "5f439d5d151fd187cac2f7aadf9f60e9d8ceaf7f447c9d2a76d37c78ff5bb88c",
+    "source_date_sha256": "5927d563209a39f2a2d307462b5ff90ebd2c4d6537d97b9ea2b2f8c9bf0be7d5",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "9ce04d52aafc9d73c0cedd9a3b5841faa7fa2f28ea1b88068c910ef66c610be1",
+      "_video_thumbnail": "5916de026104449bc5b2339d09b84d1eb750508af55aec9143953021871bd09f",
+      "focus_video": "d34126b68d0f03ed6ce321281f3e4c6696859c96e3ad84b0a2f72c7f6e7e465c"
+    },
+    "source_slug_sha256": "688b5d50bed525f2241e55af821ec5850564d95a8eade1aff9e09efd647eb9b7",
+    "source_title_sha256": "199eeec671093d1af39b6164dc0b6b294983ad8b79f7ee2532d557d740c4a948",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "java-japan-tour-promo-video",
+  "thumbnail": "/wp-content/uploads/2016/05/java-japan-tour-promo-video.jpg",
+  "title": "Java Japan Tour Promo Video",
+  "type": "post",
+  "video_id": "raKR5Dic5ns",
+  "warnings": [
+    "A UTF-8 nonbreaking space was normalized to a space."
+  ]
+}

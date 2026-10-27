@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-06-22 01:39:43",
+  "excerpt": "Intro speech to the JCP 15th Year Anniversary Party delivered by Patrick Curran.",
+  "id": 932,
+  "original_urls": [
+    "http://nighthacking.tv/jcp-speech-by-patrick-curran/",
+    "http://nighthacking.com/jcp-speech-by-patrick-curran/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "37076efd1ca777b02bdd2e90415bcb3ffbb3f1462cf19908029d1f06185412bd",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=i1djlLEpvGw"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jcp-speech-by-patrick-curran/",
+    "post_id": 932,
+    "rejected_urls": [],
+    "source_content_sha256": "816d1e7fa8a7936cd33754ef714a4d74d840b60082061bba5d19af3e62aceaa7",
+    "source_date_sha256": "548f652f0925dbd601976c26ab820ad7e56b97285880fabc12d376e0bfa61815",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "a8443b1426652157edc23a7c54fb7ad2c7643b5d8c431ceb54bc29341faf7e7c",
+      "_video_thumbnail": "7993d8894e5614be8185426bc1e0e2a809a562816d73ef908dfce93803c76e5f",
+      "focus_video": "8154e0ce83d1a2a3ccac87491d4a8215c4b827deb6b74cce7a708ea670bc2b74"
+    },
+    "source_slug_sha256": "665dfd43a8e0db7e71473a8757c19811b61f7a3270e86055368bbc73b1603dda",
+    "source_title_sha256": "17e06d75b67bfef8efb9fbe268d0eff5ca7d53c628aa6d910085485f549c7742",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jcp-speech-by-patrick-curran",
+  "thumbnail": "/wp-content/uploads/2014/06/jcp-speech-by-patrick-curran.jpg",
+  "title": "JCP Speech by Patrick Curran ",
+  "type": "post",
+  "video_id": "i1djlLEpvGw",
+  "warnings": []
+}

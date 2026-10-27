@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2016",
+      "slug": "jcrete-2016"
+    }
+  ],
+  "date": "2016-08-05 05:01:16",
+  "excerpt": "JCrete 2016, Day 3\nJava Champions Program\nAndres Almiray, Stephen Chin, & Java Champions on Crete",
+  "id": 1986,
+  "original_urls": [
+    "http://nighthacking.tv/java-champions-program/",
+    "http://nighthacking.com/java-champions-program/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "03441b3d4d59f377af544b8588bfa0da5dcf043061d0bed0c8f80c1b43e8718d",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=XeAJYe4QBog"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/java-champions-program/",
+    "post_id": 1986,
+    "rejected_urls": [],
+    "source_content_sha256": "4008398334c85243f11c3f611f247e8731b19d364f9c2601d5b9ef906addb614",
+    "source_date_sha256": "20067c8310f0603096b1d51b0bc5a32cafafb10204718bbe23bbdfc4e861b91c",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "8266498d969081c29737b8daeb5b51d60e56d008fff243a39d16c3032d42f6cf",
+      "_video_thumbnail": "6454975f536967ca1a34a205cc036e325bf9aa044029d60f99d1d8527e7e38df",
+      "focus_video": "0c696ccc634622496e4add1b7527ee4580e0e9037b415199dd70eff8d70fd906"
+    },
+    "source_slug_sha256": "1bbe9ebd4a1a2216d8da671afbeb10b0cab435c2835751fe5b924fc8455f07dd",
+    "source_title_sha256": "924d1dbd1e0571b1cd5724eccdf2ced07d27e85eda2787d79b7a7c006ff3d630",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "java-champions-program",
+  "thumbnail": "/wp-content/uploads/2016/08/java-champions-program.jpg",
+  "title": "Java Champions Program",
+  "type": "post",
+  "video_id": "XeAJYe4QBog",
+  "warnings": []
+}

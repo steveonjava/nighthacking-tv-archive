@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2015",
+      "slug": "jcrete-2015"
+    }
+  ],
+  "date": "2015-07-22 01:01:00",
+  "excerpt": "Introduction to the #JCrete unconference with disorganizers Heinz Kabutz (@heinzkabutz), Dmitry Vyazelenko (@dvyazelenko), and John Kostaras (@jkost7).",
+  "id": 1500,
+  "original_urls": [
+    "http://nighthacking.tv/jcrete-introduction/",
+    "http://nighthacking.com/jcrete-introduction/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "8aa2dcda1a6f8c22b364cc124b3c7248cb653956160bdedd00c734e5a3678e1f",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/2ZVwBGlvKs8"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jcrete-introduction/",
+    "post_id": 1500,
+    "rejected_urls": [],
+    "source_content_sha256": "53399bce6e3df2436ca7819916d95b0bbafe5930ab84d6d1613eb7541ab11323",
+    "source_date_sha256": "071b308d8b6f8bb0c945e577b26e8b59177bc36ed87020ce4f33028c65b47bd1",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "b7b99ba738afaaf923fa742a27b26940a9c5e327507b1660cc4de9d72ff19d78",
+      "_video_thumbnail": "14c0e8a05c9499e9d74d7676c57e37251eb42f8164e49a01eee3e6426ba5c30e",
+      "focus_video": "f74cf72403c990cf9c6825022e0659b2313bfe49d9585af84c21ceec144df1e1"
+    },
+    "source_slug_sha256": "13d585b40e5997348a09d9c73ae749af27cc0dd978656996f49d4fb9f18c18f9",
+    "source_title_sha256": "600a4f317c0ccf88aa95266a7583e907f651c26d243665567c078fe865503ddf",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jcrete-introduction",
+  "thumbnail": "/wp-content/uploads/2015/07/jcrete-introduction.jpg",
+  "title": "JCrete Introduction",
+  "type": "post",
+  "video_id": "2ZVwBGlvKs8",
+  "warnings": []
+}

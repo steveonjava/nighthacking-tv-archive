@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-25 08:35:00",
+  "excerpt": "Interview with Niko K\u00f6bler on deploying JavaScript and Node.js applications to the JVM using Project Avatar.  For more NightHacking Java 8 Tour videos, check out: http://nighthacking.com/",
+  "id": 734,
+  "original_urls": [
+    "http://nighthacking.tv/nighthacking-with-niko-on-javascript-and-avatar/",
+    "http://nighthacking.com/nighthacking-with-niko-on-javascript-and-avatar/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "73a9ac68c2a231a8ee99f30f5e619dd0f3934be07cfd5ced08e74f4bd20bc24b",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=kyG-oe3ptm8"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nighthacking-with-niko-on-javascript-and-avatar/",
+    "post_id": 734,
+    "rejected_urls": [],
+    "source_content_sha256": "e4ba7f003c1b07c32dbb661658c06ebb9f4a3d49e35483d4c1da1cec4b2c46d4",
+    "source_date_sha256": "da2cc5ab42140d385ff337b8022fb232f46c9a6cbe787ddb2407d4515457e59a",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "2b9449f314bf93145f8122906d8dc56c4ca1f116e6db7ad2768d6f9ade29b31e",
+      "_video_thumbnail": "781a9e4d8087adee5095b606bd096c91251e804c9f9dd8f195908b279b4097bc",
+      "focus_video": "034b3f798514a6a3343cd4fee855d52741a4aeaa6057399f231852d39c521b60"
+    },
+    "source_slug_sha256": "94fb8b38409f4ae5fca69a2d6d53c3ff7667d73c405add5c8467bca65ac0112b",
+    "source_title_sha256": "7185e3d42fd5653bb6b5ec4e44734fa0a6cb0b8a4d289480da38e9660e66bba6",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nighthacking-with-niko-on-javascript-and-avatar",
+  "thumbnail": "/wp-content/uploads/2014/03/nighthacking-with-niko-on-javasc.jpg",
+  "title": "NightHacking with Niko on JavaScript and Avatar ",
+  "type": "post",
+  "video_id": "kyG-oe3ptm8",
+  "warnings": []
+}

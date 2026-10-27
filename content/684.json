@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-22 13:59:58",
+  "excerpt": "NightHacking session at Gerrit Grunwald's lab with some of the JUG Muenster members.  We went through lots of cool hardware that everyone brought, including ODROID, cubox-i, JavaFX Watch, and other cool devices.",
+  "id": 684,
+  "original_urls": [
+    "http://nighthacking.tv/nighthacking-at-gerrits-lab-part-1/",
+    "http://nighthacking.com/nighthacking-at-gerrits-lab-part-1/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "99752ff554cd37118bd315fd18fe6e64fbe50e8ccafd793cdf23a5a71b825dbe",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/cWFW4VT8auw"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nighthacking-at-gerrits-lab-part-1/",
+    "post_id": 684,
+    "rejected_urls": [],
+    "source_content_sha256": "a2e055a1c5dd1ce5c6d511875bab072b5637006b4b12f2fbbc68cf911b2bce72",
+    "source_date_sha256": "b8283ce48865860f6816172246631b76bb4e1ce42f72c0371239bcfc110bef44",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "162753c27c8b32975a0edf5e89ab4ed8e2f06f02a182e0f181481cc050fdcc72",
+      "_video_thumbnail": "f8519213c82378992c65e31c0c4e3db0d622c30ba6574ab7955ce7fce099478e",
+      "focus_video": "650e4f2524a189d1aa50dcb55548d188b96971c84546d175968c6f4a0cef7c34"
+    },
+    "source_slug_sha256": "a494c6579ccb9706c9e4d8908e5f9d6e3bfce972eff65638710fba6ed723808a",
+    "source_title_sha256": "7309f6a22d9e15a084820a40d310f27481e9c26fcbb85185d975f62fd05afc6d",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nighthacking-at-gerrits-lab-part-1",
+  "thumbnail": "/wp-content/uploads/2014/03/nighthacking-at-gerrits-lab-part.jpg",
+  "title": "NightHacking at Gerrit's Lab (part 1) ",
+  "type": "post",
+  "video_id": "cWFW4VT8auw",
+  "warnings": []
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-17 06:45:29",
+  "excerpt": "Live presentation at the Poland JUG in Krakow on lambdas (mostly) and a few demos (NAO and Java Duke).  Was a pretty interactive session, so lots of discussion with the audience.",
+  "id": 641,
+  "original_urls": [
+    "http://nighthacking.tv/nighthacking-at-the-poland-jug/",
+    "http://nighthacking.com/nighthacking-at-the-poland-jug/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "9342c65cdffa23d768cc8754dc0b60930b5552294ab3c7c0aa0f1bd5cc943ea0",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/8AiDB9fqEa0"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nighthacking-at-the-poland-jug/",
+    "post_id": 641,
+    "rejected_urls": [],
+    "source_content_sha256": "5bf109e97ad4311448717da0798113c8d08e752eb884455f83b730eeb67debb3",
+    "source_date_sha256": "4c8255fee404db24d07f4d177685ccd0d71a606771e162ed98b65f018572b0df",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "62e66f3e9936906923febd26f9d2536edf38936998c4e5d678b925d848aaa89d",
+      "_video_thumbnail": "8d329e680c755f825b6585426945cd96df221456eb0a2e3d69c07319a3f896ab",
+      "focus_video": "23f4fbd1c30b58e8ad89190c109dccb39575324a0bbd8f702608f0d4ba642bae"
+    },
+    "source_slug_sha256": "e23b212a2ccf18e638f8b6caa1503f60b838c4e87cac5bf5da1d5c36b6f959e4",
+    "source_title_sha256": "d9e27add9494b88b39155eb5138f4c581ff1b78ac328765bf52b3b16dfe756aa",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nighthacking-at-the-poland-jug",
+  "thumbnail": "/wp-content/uploads/2014/03/nighthacking-at-the-poland-jug.jpg",
+  "title": "NightHacking at the Poland JUG",
+  "type": "post",
+  "video_id": "8AiDB9fqEa0",
+  "warnings": []
+}

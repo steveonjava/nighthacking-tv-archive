@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-06-22 01:53:33",
+  "excerpt": "NightHacking interview with Rob Gingell during the JCP 15th Year Anniversary Party.",
+  "id": 952,
+  "original_urls": [
+    "http://nighthacking.tv/jcp-interview-with-rob-gingell/",
+    "http://nighthacking.com/jcp-interview-with-rob-gingell/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "0e8160af7b8459ce2a2119e18f2fd16dfc53ee63dd9e3028ceb350dd307e76b5",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=7UUhESrPhDA"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jcp-interview-with-rob-gingell/",
+    "post_id": 952,
+    "rejected_urls": [],
+    "source_content_sha256": "cb54c587b0988f89eb6a510b1241f18d995188a6eb24f4e795abb1c22dcba71e",
+    "source_date_sha256": "a5cc471675dc90e5cd5a2855ad483adbdc27aab4aadbe51cfac7b4075b94df16",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "b471aeea26820f379ea5ca12029f2788ef4eee3f833e6633e5dd4bccda9e0d3f",
+      "_video_thumbnail": "caa985d4c4c3aa575f8a9d1a6c09c1612499e0243ca4ab941e048143af84346e",
+      "focus_video": "ddde5925d2c4fdb610e5e96c4bf42013aeaefa741c10ca86503cc06791a4657c"
+    },
+    "source_slug_sha256": "0182058db00e57d219ea2d635471dc3342773a5893cdf54fcf727ab0aac7f1aa",
+    "source_title_sha256": "5ee9483cdad7840756368718025a8aca61b0ba3520c7e54480f7f0296df6f2e8",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jcp-interview-with-rob-gingell",
+  "thumbnail": "/wp-content/uploads/2014/06/jcp-interview-with-rob-gingell.jpg",
+  "title": "JCP Interview with Rob Gingell ",
+  "type": "post",
+  "video_id": "7UUhESrPhDA",
+  "warnings": []
+}

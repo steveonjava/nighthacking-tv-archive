@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-22 03:04:40",
+  "excerpt": "NightHacking event at Hannover JUG in Germany.  Had a good chat with the folks in the audience, and showed the lambdas 8 presentation and some demos including lego duke, the dukepad, and JavaFX on Android.",
+  "id": 656,
+  "original_urls": [
+    "http://nighthacking.tv/nighthacking-at-hannover-jug/",
+    "http://nighthacking.com/nighthacking-at-hannover-jug/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "773709e8ef7cf75deb4ad9afe83e265af618c73f20f47301590601bb0f7b9722",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/niXyFD4jKqg"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nighthacking-at-hannover-jug/",
+    "post_id": 656,
+    "rejected_urls": [],
+    "source_content_sha256": "b126003f8c1bfdeddffacca84ef7d3279892b234be3fa0577e10a20813c11f7d",
+    "source_date_sha256": "dedca364b860de5d82ad93baab2a51bcf3448d83529bbdf8442695c81f165734",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "c22e1a4acbd2d996ff19a852585f9434883c30124f6b118eb9152fe4e5ee7994",
+      "_video_thumbnail": "8c7b4d2efdaedaf47efa0aaae9e3205682c5d15fc955d8bd63545509f70b851d",
+      "focus_video": "6de07593b50a7e92d8bfb27c3aee31afff42a53be008cddc430594c907bec978"
+    },
+    "source_slug_sha256": "b61a26f7e64bd88f41573f2f218819fe052f62eee8dc054b015cc66701fc3b21",
+    "source_title_sha256": "978e415a9c545b28e4054ff0b0a72308b82d22533e53c4187480e2c3e93af31f",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nighthacking-at-hannover-jug",
+  "thumbnail": "/wp-content/uploads/2014/03/nighthacking-at-hannover-jug.jpg",
+  "title": "NightHacking at Hannover JUG",
+  "type": "post",
+  "video_id": "niXyFD4jKqg",
+  "warnings": []
+}

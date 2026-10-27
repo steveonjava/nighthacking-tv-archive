@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaOne 2014",
+      "slug": "javaone2014"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-09-29 16:12:57",
+  "excerpt": "Interview on the Smart Greenhouse",
+  "id": 1078,
+  "original_urls": [
+    "http://nighthacking.tv/smart-greenhouse-interview/",
+    "http://nighthacking.com/smart-greenhouse-interview/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "bfd0f81db2e6b75970aa9e7b9077a3e7315b712338f01308be8da226e769cd06",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=hyBg5q4Rb3c"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/smart-greenhouse-interview/",
+    "post_id": 1078,
+    "rejected_urls": [],
+    "source_content_sha256": "2db3f68c904e479a33a7bc1f9f67c5e45603583e019c5f9c092ed51550393ea1",
+    "source_date_sha256": "e52a19c879eb51d43466709d6e89e7413f6028dae20d455d90471f577d30b09d",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "32eb1a8dafeb0873c8d00b0e9058c8c77ff6c6d9235b3236989c50ef63d8f9ba",
+      "_video_thumbnail": "ced644d212f69c59616850cb3ded65332c1897eb279ba15f10aae9a78ecb8fb7",
+      "focus_video": "bd7de2a9d9dfd438c374f852e808ba121873c6039a81713797937eb86337727c"
+    },
+    "source_slug_sha256": "e0516e81a1d8f0b836ba48401d8397068e3c07d3598329bc1df6d3bd516a47d6",
+    "source_title_sha256": "0298a10d17542fd1dc46a9e08ba63697356d54e655902a071c7bea913994a418",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "smart-greenhouse-interview",
+  "thumbnail": "/wp-content/uploads/2014/09/smart-greenhouse-interview.jpg",
+  "title": "Smart Greenhouse Interview",
+  "type": "post",
+  "video_id": "hyBg5q4Rb3c",
+  "warnings": []
+}

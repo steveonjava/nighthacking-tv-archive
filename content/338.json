@@ -1,0 +1,70 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-01-24 10:48:53",
+  "excerpt": "Live Coding on the Java 8 Date and Time API with Jim Gough from the London Java Community (LJC).",
+  "id": 338,
+  "original_urls": [
+    "http://nighthacking.tv/java-8-date-and-time-api-with-jim-gough/",
+    "http://nighthacking.com/java-8-date-and-time-api-with-jim-gough/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "76eb2f60b510dbc331ff74863d59022915b33db8a88f6a9186128999ddc12bde",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=OIg9lNpMJew"
+      },
+      {
+        "contexts": [
+          "a:href",
+          "link",
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "github.com",
+        "rendered": true,
+        "status": "unverified",
+        "url": "https://github.com/jpgough/JavaTimeLab"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/java-8-date-and-time-api-with-jim-gough/",
+    "post_id": 338,
+    "rejected_urls": [],
+    "source_content_sha256": "7d2d4f9e86e67d709378e15f00b4e190028f09db7b268cb113d1c73f6aab69bf",
+    "source_date_sha256": "a222a9ca605e76e143b5e3ed946e83964c5a75c7fe32b68143d7e56e9ee874e1",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "9644294ac4ffb3091eef01219b3fe4fe467f05890cc56af961dce68fddbb7704",
+      "_video_thumbnail": "5adc8af4caf81b37b95fc086bcd477e4a223e72a5f99ac8b3f3995e643ef1fa1",
+      "focus_video": "c876d1b7cf3eeb313e150e0dc777b136714528eb0cb3c17ce11327c061255578"
+    },
+    "source_slug_sha256": "abf3aaf038743b2cb534a382e685c796b2f59fd30a4ebffda4f3bc1fe1aba2b3",
+    "source_title_sha256": "0f4f528ef187f2dc7a417d881f8cdd98c1239d6b76bad6daf5fcffa5597c5071",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "java-8-date-and-time-api-with-jim-gough",
+  "thumbnail": "/wp-content/uploads/2014/01/java-8-date-and-time-api-with-jim-gough.jpg",
+  "title": "Java 8 Date and Time API with Jim Gough",
+  "type": "post",
+  "video_id": "OIg9lNpMJew",
+  "warnings": [
+    "A UTF-8 nonbreaking space was normalized to a space."
+  ]
+}

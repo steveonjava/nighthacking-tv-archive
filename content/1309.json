@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "DevNexus 2015",
+      "slug": "devnexus-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-03-11 19:57:22",
+  "excerpt": "Interview with Yoav Landman, CTO and co-founder of JFrog, at the DevNexus conference on their use of Docker, Chef, and Vagrant in the development of their Bintray application.",
+  "id": 1309,
+  "original_urls": [
+    "http://nighthacking.tv/yoav-landman-on-bintray-docker-chef-and-vagrant/",
+    "http://nighthacking.com/yoav-landman-on-bintray-docker-chef-and-vagrant/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "44113fdde95042d87754b37d006ba33354c7ec2f5ee4098796a094cff351315a",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/PCZvhnW2Sqw"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/yoav-landman-on-bintray-docker-chef-and-vagrant/",
+    "post_id": 1309,
+    "rejected_urls": [],
+    "source_content_sha256": "0d73681095eb34435a173900f42fb89e82cb8fa54f75dd9b18b1e8037def55a7",
+    "source_date_sha256": "6bc2264c115e5c913d2dd041c2aa1b77f0d23b3bb0ac718ab0733b06e9c991e7",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "7611f1a57f80b0a87b4178e2e5f16bafa30dd0d9947d99f953c091d8c96abd0e",
+      "_video_thumbnail": "865c2d9b3e7592bab990b97c3a5f6db05530603c781c696c7955d3380cff0457",
+      "focus_video": "2c54535774708c29a0d4aa16ce91fc1712eafea3887110ba046d6d5432f52ef2"
+    },
+    "source_slug_sha256": "c99f55d27c80f7c892c32dca9593c94b7990558cce9f3d296fc2bf5142dff481",
+    "source_title_sha256": "262187dd5713a3634902a3129c105f5fd26d84e07f93d3b94c642df074bcea97",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "yoav-landman-on-bintray-docker-chef-and-vagrant",
+  "thumbnail": "/wp-content/uploads/2015/03/yoav-landman-on-bintray-docker-c.jpg",
+  "title": "Yoav Landman on Bintray, Docker, Chef, and Vagrant",
+  "type": "post",
+  "video_id": "PCZvhnW2Sqw",
+  "warnings": []
+}

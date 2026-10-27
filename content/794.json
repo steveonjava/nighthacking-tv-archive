@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-30 07:58:46",
+  "excerpt": "Second half of the JUG Stuttgart talk with Werner Keil giving demos of the Unit and Measurement JSR, plus embedded demos that I had with me.",
+  "id": 794,
+  "original_urls": [
+    "http://nighthacking.tv/jug-stuttgart-werner-interview-and-demos/",
+    "http://nighthacking.com/jug-stuttgart-werner-interview-and-demos/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "c56e347e1839c05ac171a7ee25da5954646f5aaeedffa8188de64a7016f3305d",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=yv7Y_0AlQUU"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jug-stuttgart-werner-interview-and-demos/",
+    "post_id": 794,
+    "rejected_urls": [],
+    "source_content_sha256": "631e664157e698f594e895b5700221907ef2bf8eb6364b7b3c4baffa51f06b4d",
+    "source_date_sha256": "64461e8f5b1c9eb31a1cf141bebd4a73dc1a52e206e917f8171a649b404e00a0",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "724213d95916de041564e5d39c2373585dc15855743a42a5841d849b9f3716de",
+      "_video_thumbnail": "d2adc450252ead15108cfadcbc72bbe17ddada45d6baec8e4fe215118075df55",
+      "focus_video": "fc94e9d7d6597a19ab4b670f246945e488e58aabc9a81dfb89cee82d53d0e872"
+    },
+    "source_slug_sha256": "cac42fcbeb20b25b940b1cb3612d9504ae1963fd4df51e2b90482af4250a4a9c",
+    "source_title_sha256": "b7ed28cebae95fcdc9f69c22427780e7c064c7d79b8eb316f863152d4470eb98",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jug-stuttgart-werner-interview-and-demos",
+  "thumbnail": "/wp-content/uploads/2014/03/jug-stuttgart-werner-interview-a.jpg",
+  "title": "JUG Stuttgart Werner Interview and Demos ",
+  "type": "post",
+  "video_id": "yv7Y_0AlQUU",
+  "warnings": []
+}

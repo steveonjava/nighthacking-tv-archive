@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-26 04:15:00",
+  "excerpt": "Live stream from JavaLand for the Java 8 launch party.  The official live stream is running in the background, with a panel of speakers from JavaLand including Simon Ritter, Gerrit Grunwald, Simon Maple, Paul Bakker, and David Blevins.  And of course the largest launch event in the world at JavaLand with a conference audience of 800 attendees.",
+  "id": 740,
+  "original_urls": [
+    "http://nighthacking.tv/java-8-launch-party-at-javaland/",
+    "http://nighthacking.com/java-8-launch-party-at-javaland/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "db53744d08de6b9b8bc2432c3196f947f87456ee7741582009fb1f5e2ebe9e10",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/u-3pQYj6wYg"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/java-8-launch-party-at-javaland/",
+    "post_id": 740,
+    "rejected_urls": [],
+    "source_content_sha256": "00cd0c39e85ca6f735957df7e98590ad838dc7b2ad9627e402932283668221d4",
+    "source_date_sha256": "0dad1425bab837c963175257868190cdbe67c87a309b9dece98198ceca5d12c6",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "a15faf6f6c7e4c11d7956175f4a1c01edffff6e114684eee28c255a86a8888f8",
+      "_video_thumbnail": "d3c1a3bf20caafbc7fd7b82591332ea11b425c1a3dfa0a120701178e144aa79e",
+      "focus_video": "0ef2dc3cfbc04db081ea9f619677d51beadd77933cd98ff5598a6ba8a35289a4"
+    },
+    "source_slug_sha256": "8ca38cb5c7bf45d06f9740fe4ae875fa14d2ffa4f19b1e809ff35bd1d97612e6",
+    "source_title_sha256": "ed1ae3e63302a8e798c9e191698aa365961dc4ba29582a88689139b8af257369",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "java-8-launch-party-at-javaland",
+  "thumbnail": "/wp-content/uploads/2014/03/java-8-launch-party-at-javaland.jpg",
+  "title": "Java 8 Launch Party at JavaLand ",
+  "type": "post",
+  "video_id": "u-3pQYj6wYg",
+  "warnings": []
+}

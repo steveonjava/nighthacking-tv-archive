@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2015",
+      "slug": "javaland-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-03-25 09:43:54",
+  "excerpt": "Adopt-a-JSR NightHacking/vJUG Sessions at the JavaLand conference with Simon Maple, Heather Van Cura, Andres Almiray, Ed Burns, and Anatole Trench.",
+  "id": 1422,
+  "original_urls": [
+    "http://nighthacking.tv/adopt-a-jsr-nighthackingvjug-sessions/",
+    "http://nighthacking.com/adopt-a-jsr-nighthackingvjug-sessions/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "cd289a505464c306a4b1e629097a81e2c2f188aaaa90bb6be29a41f59669af82",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/Iw5C9mrv5Vg"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/adopt-a-jsr-nighthackingvjug-sessions/",
+    "post_id": 1422,
+    "rejected_urls": [],
+    "source_content_sha256": "f4f1f4172910688984298b91147dc21b695e8f0730d3ba529a82ca562e4a07a0",
+    "source_date_sha256": "25422606efebc11851648ca0d19872bba222d6c8d86c9487dd3e7fc15848c3b1",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "a478642504ac5d8393e32fc1de2d016311e38b7aa175a80a2adb8a5a0a0263fc",
+      "_video_thumbnail": "f68bc1991fc437fcfd50c639ad0f579dd975df5d7ff25adeb6f5eba4d3af8a70",
+      "focus_video": "b2191d5c64ff09f43147b36c0a0c5413f8dc5d1fb7a0bf5d41bb2b74a0ffc66b"
+    },
+    "source_slug_sha256": "7046bf8907be1fc6532c1a7b405276cbc22d9418b88b3d74fc23fe0855972a1c",
+    "source_title_sha256": "11770c2fced60aa14147151450240b7bff1b50d7d53387eb6341d58aca6c7dda",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "adopt-a-jsr-nighthackingvjug-sessions",
+  "thumbnail": "/wp-content/uploads/2015/03/adopt-a-jsr-nighthackingvjug-ses.jpg",
+  "title": "Adopt-a-JSR NightHacking/vJUG Sessions",
+  "type": "post",
+  "video_id": "Iw5C9mrv5Vg",
+  "warnings": []
+}

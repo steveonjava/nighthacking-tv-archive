@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-26 06:44:45",
+  "excerpt": "NightHacking Interview with Hendrik Ebbers on DataFX at the JavaLand Conference.",
+  "id": 750,
+  "original_urls": [
+    "http://nighthacking.tv/hendrik-ebbers-on-datafx/",
+    "http://nighthacking.com/hendrik-ebbers-on-datafx/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "78c0fd1f2141e1f9e9c1676bac6843c0d2a1ca84c3f1666e8ab9832543710d31",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/94oUnzlPUyQ"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/hendrik-ebbers-on-datafx/",
+    "post_id": 750,
+    "rejected_urls": [],
+    "source_content_sha256": "0d710e5ab5a65bc4040d438144a180aceece9ac8e066d5ee428798e91dd92491",
+    "source_date_sha256": "67d1bcf17bcb6bfa28edfd00997e2e33b22e112b375ff3f44f6cfac9b29443c4",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "8b80f49ec2822cb3cdbe97d9405e39ae40ba418b084c06604b51e2a5af11a7f8",
+      "_video_thumbnail": "c1834f342db06f555ddef783fbc5a479d4027269ee95265a6e1591d01d9e14e9",
+      "focus_video": "c7cdf6a1b9f2ab2c29798e80ffefeeca73e25e93bcacc3be8ac1acf337acb442"
+    },
+    "source_slug_sha256": "2e636e45ba9c96bc5c9fb6bb81d545701c2cf7abdf9dc96f7c1dfa3c1108af0f",
+    "source_title_sha256": "cfaf696f84233dfbe2eae07910d842605f801e62b57ab6c460268f0bc5ddd3c7",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "hendrik-ebbers-on-datafx",
+  "thumbnail": "/wp-content/uploads/2014/03/hendrik-ebbers-on-datafx.jpg",
+  "title": "Hendrik Ebbers on DataFX",
+  "type": "post",
+  "video_id": "94oUnzlPUyQ",
+  "warnings": []
+}

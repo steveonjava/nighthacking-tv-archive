@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    }
+  ],
+  "date": "2016-03-16 01:26:20",
+  "excerpt": "Interview with Toni Epple on DukeScript and demo of a Java powered sewing machine.",
+  "id": 1792,
+  "original_urls": [
+    "http://nighthacking.tv/dukescript-and-duke-sewing-with-toni-epple/",
+    "http://nighthacking.com/dukescript-and-duke-sewing-with-toni-epple/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "90ad8b0375b838172abd70e7c53502f5866049a3ad42692f5f400584b8a8c12e",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/JX4gePM0pVA"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/dukescript-and-duke-sewing-with-toni-epple/",
+    "post_id": 1792,
+    "rejected_urls": [],
+    "source_content_sha256": "cbf735df553b5f994213cf1c78f3c8d3b360e3dcbfa27d6d1fd2aef44f5f1949",
+    "source_date_sha256": "8523f24c71c786aff381f1d3b238af8906ecc3550ff9d04836b2bd6d2412545b",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "cca40327e9be88bde3e98b71aa9f73ce6b44b211460cd920b2869e82118c8510",
+      "_video_thumbnail": "e13340d85da675986d216d7eb86b619ef9a17d18737fcd9704889594e6fbbbf7",
+      "focus_video": "9bef4d09369e321978b510aa0d317eb296d79da185f52f313f6ff023fa1bc304"
+    },
+    "source_slug_sha256": "1bccff23527ff94c382ac06cf655b1139fe51600d8db0c82f9b6a57a4d741d92",
+    "source_title_sha256": "e696a837f19963d0a141d91c78a579d31204e2c79178166279d59c55c027c589",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "dukescript-and-duke-sewing-with-toni-epple",
+  "thumbnail": "/wp-content/uploads/2016/03/dukescript-and-duke-sewing-with.jpg",
+  "title": "DukeScript and Duke Sewing with Toni Epple",
+  "type": "post",
+  "video_id": "JX4gePM0pVA",
+  "warnings": []
+}

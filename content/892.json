@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-04-27 07:17:05",
+  "excerpt": "Presentation on adopting Extreme Programming presented at the Chennai Java Summit by Manigandan.",
+  "id": 892,
+  "original_urls": [
+    "http://nighthacking.tv/adopting-extreme-programming-unit-testing-tdd-and-ci/",
+    "http://nighthacking.com/adopting-extreme-programming-unit-testing-tdd-and-ci/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "5ac92a14dd14f380faefdaec472fe6c069fb89e2f1ca9a72257d3de11466218f",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=1EITD6Y2d20"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/adopting-extreme-programming-unit-testing-tdd-and-ci/",
+    "post_id": 892,
+    "rejected_urls": [],
+    "source_content_sha256": "aebdb11461ede04fc4ea74c13f6c8aa91f873c03c533ceaab167fb9c96552bd1",
+    "source_date_sha256": "5b27aae7be5d922fb9c4708b38a74825a559080b2f31f7dede9c72768a8c3c0e",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "eaa1938017b2d55e02387d0837e1b56bc124ae8a17624e10e366bae6c4b9c834",
+      "_video_thumbnail": "9167bb822d0f5f654fd846ed2895b8af72e28f16d09c654c7a7597302fd96415",
+      "focus_video": "d28dcd855ff3f7b790b176d50c98e943f0cd0ed275f1c1e509eb797a1c328407"
+    },
+    "source_slug_sha256": "8a3bdb1d2b5040d1b2bc06cf9986d5a2c5bc646442ed7cfbb294ee090b60bf95",
+    "source_title_sha256": "4341dda7676354d77d0753898c9b6926c3a57c59c030e51917d43270de3d84a9",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "adopting-extreme-programming-unit-testing-tdd-and-ci",
+  "thumbnail": "/wp-content/uploads/2014/04/adopting-extreme-programming-uni.jpg",
+  "title": "Adopting Extreme Programming - Unit Testing, TDD, and CI",
+  "type": "post",
+  "video_id": "1EITD6Y2d20",
+  "warnings": []
+}

@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2016",
+      "slug": "javaland-2016"
+    },
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    }
+  ],
+  "date": "2016-03-08 08:17:26",
+  "excerpt": "Interview with Bert Jan Schrijver on Decoding the Air at the JavaLand Conference.",
+  "id": 1731,
+  "original_urls": [
+    "http://nighthacking.tv/bert-jan-schrijver-on-decoding-the-air/",
+    "http://nighthacking.com/bert-jan-schrijver-on-decoding-the-air/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "7d1f4dc8f49f15ad197e616ad8003ffbeabb0cfd24615200332db9c320e3e23e",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/ofzjb2xoz_k"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/bert-jan-schrijver-on-decoding-the-air/",
+    "post_id": 1731,
+    "rejected_urls": [],
+    "source_content_sha256": "0856d734d5f3ae0c8bbb460e2160f81244511f2277241162c329919289600d5f",
+    "source_date_sha256": "577c0dfc622fdfc8bc1737fc3a513fbc2da93eae77a56bd568347a6bcb34eac3",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "8b0ae2d638c19a4186bd51d80e80aa645d81af9cbc68bc87048d5a5c43d48a9a",
+      "_video_thumbnail": "d07c2c09afdb350dc224195c621b0ee63e5ce13b5e8e6f2b4fc685bd9dd4a658",
+      "focus_video": "0f7e0caf9cb2c71a0a686415414c26dd1e483f96afb28c9fd59b60f799de06c6"
+    },
+    "source_slug_sha256": "764f26c6b766bb16d2c21880a97295a51e450a53d98defad4d6c7e871babcb7d",
+    "source_title_sha256": "ef1abf0ae10e5fd1ab2e5a1f19d63b468916c959e156d0da5070f357980d5ff6",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "bert-jan-schrijver-on-decoding-the-air",
+  "thumbnail": "/wp-content/uploads/2016/03/bert-jan-schrijver-on-decoding-t.jpg",
+  "title": "Bert Jan Schrijver on Decoding the Air",
+  "type": "post",
+  "video_id": "ofzjb2xoz_k",
+  "warnings": []
+}

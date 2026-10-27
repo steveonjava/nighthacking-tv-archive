@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "QCon NYC 2016",
+      "slug": "qcon-nyc-2016"
+    }
+  ],
+  "date": "2016-06-15 08:28:37",
+  "excerpt": "Interview with Gil Tene (@giltene) from Azul Systems on the benefits of using hardware transactional memory with modern Intel processors for highly concurrent workloads. #QCon",
+  "id": 1912,
+  "original_urls": [
+    "http://nighthacking.tv/gil-tene-on-hardware-transactional-memory/",
+    "http://nighthacking.com/gil-tene-on-hardware-transactional-memory/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "cf02dc99a9055c38fe21a9f0beb1c0ca1b96e5126f37f604746383d426c46212",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/Yx586xwd0dE"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/gil-tene-on-hardware-transactional-memory/",
+    "post_id": 1912,
+    "rejected_urls": [],
+    "source_content_sha256": "71eb7f8e97c87a09f3eeca132e82ad3880375207e7f374fbc8b41ca2b12968d4",
+    "source_date_sha256": "8a083737e48b70b6389f4c5730891234ed7b59bc8c66def4c72bbda7ea2e1118",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "fb4a379d44cab4220bc5596ffa1f8eb9b169ba098d2c98b20d110881c92b9299",
+      "_video_thumbnail": "d81f8b8e916770320270e6dd827ddfac004c1bcb7539748fc5eafadb8d30b7ed",
+      "focus_video": "512b2d688b9db85931577edc09a2debd6cfff887306b5675cea69cfe3c80b1d3"
+    },
+    "source_slug_sha256": "35bc8c21225f5bf732accfa85a173cee509469b16cac57871ff4abb51ae768a0",
+    "source_title_sha256": "b1098fef6850b8f0c3fb1281bf5a818ec4ea0058ef9202a6a77944ecfc48c8e0",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "gil-tene-on-hardware-transactional-memory",
+  "thumbnail": "/wp-content/uploads/2016/06/gil-tene-on-hardware-transaction.jpg",
+  "title": "Gil Tene on Hardware Transactional Memory",
+  "type": "post",
+  "video_id": "Yx586xwd0dE",
+  "warnings": []
+}

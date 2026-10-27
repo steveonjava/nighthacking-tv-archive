@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2013-11-13 09:24:22",
+  "excerpt": "",
+  "id": 285,
+  "original_urls": [
+    "http://nighthacking.tv/interview-with-josh-long-on-spring-boot/",
+    "http://nighthacking.com/interview-with-josh-long-on-spring-boot/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=s7u4lvbxbK4"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/interview-with-josh-long-on-spring-boot/",
+    "post_id": 285,
+    "rejected_urls": [],
+    "source_content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source_date_sha256": "d4cb8d851ec153871816faf1adc2bae4dd49489d763aaf6b8ab63570b975bcf1",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "33512007840ced1bb0aab68f47cb5f702abd494a15f26bcbe26a1e47af03d841",
+      "_video_thumbnail": "2235eab938d66c0d3cfc4f985e45a12476a18bf4a22a89b0320b652cbdb00c44",
+      "focus_video": "d9f9082eee4c20b2e07b838132d2f0381073f12448c71ef5455e0ea5df6b780a"
+    },
+    "source_slug_sha256": "7d0c36f5af110e3298f7a7da509ac4efa6d489b6a541cd060ee500e4c9f59b4a",
+    "source_title_sha256": "2dfb7448104362f2968576c222389544d1a428ae39fdcdcb270983991cc9c7c6",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "interview-with-josh-long-on-spring-boot",
+  "thumbnail": "/wp-content/uploads/2013/11/interview-with-josh-long-on-spring-boot1.jpg",
+  "title": "Interview with Josh Long on Spring Boot",
+  "type": "post",
+  "video_id": "s7u4lvbxbK4",
+  "warnings": []
+}

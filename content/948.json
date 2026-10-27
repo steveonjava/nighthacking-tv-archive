@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-06-22 01:51:36",
+  "excerpt": "NightHacking interview with James Gosling during the JCP 15th Year Anniversary Party.",
+  "id": 948,
+  "original_urls": [
+    "http://nighthacking.tv/jcp-interview-with-james-gosling/",
+    "http://nighthacking.com/jcp-interview-with-james-gosling/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "5ed60cfb7199a737759ae6746f35eee6a52d6dbdd7d4961c50c9427eb79c6cec",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=UWsHXY-X-7E"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jcp-interview-with-james-gosling/",
+    "post_id": 948,
+    "rejected_urls": [],
+    "source_content_sha256": "6efe999a4df3bbf101d5b961cd80fab77d319ba3036680d0f030bf573a3a02d6",
+    "source_date_sha256": "93e5e3154a396e824db09c6428530b9914537d198ea07b8e8e53a529636eb0c6",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "5538e771949ffec150f6e8260b2e3801236c7373ed62c22a3f82dc0071265cc4",
+      "_video_thumbnail": "9a8a7185db8ea902d58d108c6cf221ad2b56de016818ba8825393f268c479936",
+      "focus_video": "bbd76e21bc5bd5950f2aa1b6517cfdcafe4da75a96bbf158015b6bff02cdb255"
+    },
+    "source_slug_sha256": "4b06caa1300996d6ade6684998a30999d3fb85e143905a655994b04bb3b96d11",
+    "source_title_sha256": "e6fba44fecce039e56c9886b2c2370f2044219049cd5e10641903338b057a5ee",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jcp-interview-with-james-gosling",
+  "thumbnail": "/wp-content/uploads/2014/06/jcp-interview-with-james-gosling.jpg",
+  "title": "JCP Interview with James Gosling ",
+  "type": "post",
+  "video_id": "UWsHXY-X-7E",
+  "warnings": []
+}

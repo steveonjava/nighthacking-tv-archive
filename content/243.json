@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2013-11-06 07:59:31",
+  "excerpt": "",
+  "id": 243,
+  "original_urls": [
+    "http://nighthacking.tv/interview-with-kees-jan-koster-on-bytecode-hacking/",
+    "http://nighthacking.com/interview-with-kees-jan-koster-on-bytecode-hacking/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=2UHUnoqtZSo&feature=c4-overview-vl&list=PLX8CzqL3ArzW7T-75n9-8g8dlPcTlMv__"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/interview-with-kees-jan-koster-on-bytecode-hacking/",
+    "post_id": 243,
+    "rejected_urls": [],
+    "source_content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source_date_sha256": "732e6aedae1f8a2d43b747c871026b9853a68916ce519c24b0fe7de520e1d468",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "9512d95d00d61bdec03d2b99d6ecc455ee5644ae52d10e7c4a61c93062dc97a3",
+      "_video_thumbnail": "2495d0ca15a5a614cce80e14246df660c0db7e1b10cc9525a101bd75e2e53028",
+      "focus_video": "961ef62c92f6b9fea79cf589aecd8ee66825466397192f072b7043d708992c15"
+    },
+    "source_slug_sha256": "fe216b9999bca4af4b6a58fd7ad26302da6d0dec12db8e97ee7e4b9fd9dd56c5",
+    "source_title_sha256": "4fa15d292942eaa0e21f0bfd093b8eec9d047b9b494aa68b481d3bf1473442ad",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "interview-with-kees-jan-koster-on-bytecode-hacking",
+  "thumbnail": "/wp-content/uploads/2013/11/interview-with-kees-jan-koster-on-bytecode-hacking2.jpg",
+  "title": "Interview with Kees Jan Koster on Bytecode Hacking",
+  "type": "post",
+  "video_id": "2UHUnoqtZSo",
+  "warnings": []
+}

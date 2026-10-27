@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaOne 2014",
+      "slug": "javaone2014"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-09-29 16:42:02",
+  "excerpt": "Interview with Stuart Marks (Dr. Deprecator) on his JavaOne talk.",
+  "id": 1090,
+  "original_urls": [
+    "http://nighthacking.tv/dr-deprecator-interview/",
+    "http://nighthacking.com/dr-deprecator-interview/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "b719aaefdda2898a767ac74430a0974ae405877de46576e187ffe28b75b49158",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/gRAVOFC93bw"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/dr-deprecator-interview/",
+    "post_id": 1090,
+    "rejected_urls": [],
+    "source_content_sha256": "2b5e4148833c5da737b022ff89adc6b945d5f754676ca61523d7240ea3ddb246",
+    "source_date_sha256": "3a9c3b26beeca0c3b56a2a3a26ff53d09ff1b306a3a93efc75159bc69b69ee14",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "235aa062e6372588dbae00552abf36b8ff9c315e3da56cf02786980e764630e9",
+      "_video_thumbnail": "ed9654137cc1fb1a91f1831f79d5760354957d1c83488ab53de1f565556c0fe8",
+      "focus_video": "843a9fdff4e128b498c4f2938519beba8ced588b5a4bde6aaa7d0e56ac4dd580"
+    },
+    "source_slug_sha256": "ba599f969e189616204f41b0647a3fb286aaac564202c5ad9954f8c091aa34ab",
+    "source_title_sha256": "2d4a8c5a8756571ecf0a467f93d95ac9a706d7f7cdfc34ad645e0fb09986ebe9",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "dr-deprecator-interview",
+  "thumbnail": "/wp-content/uploads/2014/09/dr-deprecator-interview.jpg",
+  "title": "Dr. Deprecator Interview",
+  "type": "post",
+  "video_id": "gRAVOFC93bw",
+  "warnings": []
+}

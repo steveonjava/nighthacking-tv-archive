@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2014",
+      "slug": "oredev"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-11-08 06:03:26",
+  "excerpt": "Interview with James Turnbull on Docker at the \u00d8redev Conference.",
+  "id": 1168,
+  "original_urls": [
+    "http://nighthacking.tv/james-turnbull-on-docker/",
+    "http://nighthacking.com/james-turnbull-on-docker/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "1f688f629baadcb44f8d7296c44ff3d09a979c9c66b296e469e04670fa933c17",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/o0aaxEJSrGM"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/james-turnbull-on-docker/",
+    "post_id": 1168,
+    "rejected_urls": [],
+    "source_content_sha256": "a56157a5d7ccae8000f98e1b536f46d9f16cfcac8fa2f48efeb8985537c9a768",
+    "source_date_sha256": "8582ac722dbab42da656b3fe6a828cc9f03ba094b6faa6e88a2218f54a13dd78",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "19d0b0d4077454bdec0d553cc96ce822959a5707d28de909cd32395eb0b6f645",
+      "_video_thumbnail": "1f56dc58b5e771b98ad87fa46a39f5403d3810cf1fc6b2deeb31ebe76e6fb48e",
+      "focus_video": "a06139be54ca2f8b5fb76852a2dd154f2d630ef34705f04f294cf95640813fc0"
+    },
+    "source_slug_sha256": "174313776cb2bbce4f5140a33959543c31181413471f545a31909a5c55c6e7b7",
+    "source_title_sha256": "a2631af36c4eea5e89fcb9078bdba7dd8c3631b092a5791b391f842b076c1f35",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "james-turnbull-on-docker",
+  "thumbnail": "/wp-content/uploads/2014/11/james-turnbull-on-docker.jpg",
+  "title": "James Turnbull on Docker",
+  "type": "post",
+  "video_id": "o0aaxEJSrGM",
+  "warnings": []
+}

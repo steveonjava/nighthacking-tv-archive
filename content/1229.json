@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Devoxx 2014",
+      "slug": "devoxx-2014"
+    }
+  ],
+  "date": "2014-11-16 00:33:53",
+  "excerpt": "Interview with Raoul-Gabriel Urma on Java 8 language features, his lambdas book, and his language research for his doctorate.",
+  "id": 1229,
+  "original_urls": [
+    "http://nighthacking.tv/raoul-gabriel-urma-on-java-8/",
+    "http://nighthacking.com/raoul-gabriel-urma-on-java-8/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "a1ba96af4b334a806e4e995ee7da2a41d17e2cd350c20cdbb7ba1e1504457ad9",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/9w3j6GCBjRc"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/raoul-gabriel-urma-on-java-8/",
+    "post_id": 1229,
+    "rejected_urls": [],
+    "source_content_sha256": "8b14a2245e8e009a3d505ebce80e241a4d755d88a1db988e58371c2b646db66c",
+    "source_date_sha256": "1a2858307b6db304c18e10e2813e5ccfa7783415cc6671917d3842ac2e777e90",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "b6602f58690ca41488e97cd28153671356747c951c55541b6c8d8b8493eb7143",
+      "_video_thumbnail": "7ca56f0a0945567a63cf92dff8c04b16b6a6daa817ae2407da2d9605085d19da",
+      "focus_video": "6d6fee92314531a4b4914d7b422952d0f511178767e3f2d303171ca44f8d498d"
+    },
+    "source_slug_sha256": "733279bc23184dd7645857c0e7ee8a1d4e2b1e127e6141585d70fbf1446b5d30",
+    "source_title_sha256": "00183b83786d5cbea15ca8949dbc834af83c94e2468ada58ade409550714bccd",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "raoul-gabriel-urma-on-java-8",
+  "thumbnail": "/wp-content/uploads/2014/11/raoul-gabriel-urma-on-java-81.jpg",
+  "title": "Raoul-Gabriel Urma on Java 8",
+  "type": "post",
+  "video_id": "9w3j6GCBjRc",
+  "warnings": []
+}

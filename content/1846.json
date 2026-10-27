@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "CloudWorld Developer Mumbai",
+      "slug": "cloudworld-developer-mumbai"
+    }
+  ],
+  "date": "2016-04-09 04:12:09",
+  "excerpt": "Interview with Sai Janakiram on DevOps and Cloud at CloudWorld Developer Mumbai.",
+  "id": 1846,
+  "original_urls": [
+    "http://nighthacking.tv/sai-janakiram-on-devops-and-cloud/",
+    "http://nighthacking.com/sai-janakiram-on-devops-and-cloud/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "6213cac5913139d38bc6bae82513b8032d06ea943e33f3e7408c33de9f929ea7",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/kkqk2X-i-Co"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/sai-janakiram-on-devops-and-cloud/",
+    "post_id": 1846,
+    "rejected_urls": [],
+    "source_content_sha256": "ae0869868dd69fc4b37b26c2546787753db299015091277a3e33648cff16990d",
+    "source_date_sha256": "657628c443445df5a73d82fa84637380df2d669dfc35360ada5ce8c7f35cbcab",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "33afd662cef42c907d9b9a13796a954d5c9675b7c6f1e3f92914df1bcc79929b",
+      "_video_thumbnail": "c8316cc0efa475315ac5d54516110a5ddb0fd9c86e54de3762abe5af990a9e12",
+      "focus_video": "068a03621e9b92888921d42d6e00a63e7f29674fc4746347435dbc50d9529a3b"
+    },
+    "source_slug_sha256": "c28f7d30740601f86ae9b3c1fc9a34b7330b27ad493c0780af7d4de46e82aac9",
+    "source_title_sha256": "981cbfc6a4d25e91d6ae16c62fe601d036171faeb7fe3109413192f194724c8f",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "sai-janakiram-on-devops-and-cloud",
+  "thumbnail": "/wp-content/uploads/2016/04/sai-janakiram-on-devops-and-clou.jpg",
+  "title": "Sai Janakiram on DevOps and Cloud",
+  "type": "post",
+  "video_id": "kkqk2X-i-Co",
+  "warnings": []
+}

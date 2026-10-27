@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Devoxx 2014",
+      "slug": "devoxx-2014"
+    }
+  ],
+  "date": "2014-11-14 23:28:48",
+  "excerpt": "Chat with Kirk Pepperdine about Java 8, 9, and beyond over Belgium fries. :)   and Danish beer.  :(",
+  "id": 1194,
+  "original_urls": [
+    "http://nighthacking.tv/beer-and-fries-with-kirk-pepperdine/",
+    "http://nighthacking.com/beer-and-fries-with-kirk-pepperdine/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "b6f805010c28c7b4e99b3ee6f0034959afa1a7c44d3814fc29ab15b15f822abf",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=yqa0guPn8s4"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/beer-and-fries-with-kirk-pepperdine/",
+    "post_id": 1194,
+    "rejected_urls": [],
+    "source_content_sha256": "ebfbee13319d0c4a6bfb11adf13eb8aa7569e3e9a02a12738714bfce4551fd85",
+    "source_date_sha256": "af1ed9efe09be1649bd683eae244fbf5d7caac66767dd6b7c14289043ee96469",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "7123d367e354baefc7131376b2e3bbab1055dd45ba920b9f1ee2047cb1b72efc",
+      "_video_thumbnail": "92928a52adcd4fc4d192383990c0b061bd2c68654f19ca39b6a863cff1ee230b",
+      "focus_video": "523f2462a7ff9ae024f23fce9ffef2ef967c10b77ed99e8636f051e44f3a3fe5"
+    },
+    "source_slug_sha256": "9ccf9e55742e8b0829b3b34fd7c4c076f8e1d93c03a34fd6b3236877f1686a46",
+    "source_title_sha256": "c323671a5213ae02fdba0fc476ece9aa4140ad706b4c703f316c15ada9e05387",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "beer-and-fries-with-kirk-pepperdine",
+  "thumbnail": "/wp-content/uploads/2014/11/beer-and-fries-with-kirk-pepperd1.jpg",
+  "title": "Beer and Fries with Kirk Pepperdine",
+  "type": "post",
+  "video_id": "yqa0guPn8s4",
+  "warnings": []
+}

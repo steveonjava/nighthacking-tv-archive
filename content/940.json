@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-06-22 01:46:51",
+  "excerpt": "NightHacking interview with Paul Krill during the JCP 15th Year Anniversary Party.",
+  "id": 940,
+  "original_urls": [
+    "http://nighthacking.tv/jcp-interview-with-paul-krill/",
+    "http://nighthacking.com/jcp-interview-with-paul-krill/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "ad2eaee1a63768adc5ae92b005c729dd6b041f29584c5ad455399f35b752790f",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=h0SEtfrDhps"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jcp-interview-with-paul-krill/",
+    "post_id": 940,
+    "rejected_urls": [],
+    "source_content_sha256": "2dc613dce664eb6cf48266e0ff108fa39881d1249c39c975646a161c38665f32",
+    "source_date_sha256": "afd9334f3653a67c62621eefed160c9c505d3c8e96a0f22337f83b852ce1ee9d",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "68e1e435db6ab43fd38ae5df6c6a03b50a5c9c6290f4691e1b670a786c0ebe12",
+      "_video_thumbnail": "caaa4b171a81a70e5a454b3a430500079aa42c7321ffd17f99fdd20457989165",
+      "focus_video": "1aac38be6ad744505a4583ae5a034315a4d10cda0882155efab91e6e9832616c"
+    },
+    "source_slug_sha256": "2f95565b220a91c93efbea817dac5a134bf31aee371c4a4ea1102641b16179ac",
+    "source_title_sha256": "6ffa804f153c64dd190207924318ef106651ce7abcd05133dd7443cf54aa4a55",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jcp-interview-with-paul-krill",
+  "thumbnail": "/wp-content/uploads/2014/06/jcp-interview-with-paul-krill.jpg",
+  "title": "JCP Interview with Paul Krill ",
+  "type": "post",
+  "video_id": "h0SEtfrDhps",
+  "warnings": []
+}

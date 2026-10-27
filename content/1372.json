@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2015",
+      "slug": "javaland-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-03-24 09:33:12",
+  "excerpt": "Interview at the JavaLand Conference with Holly Cummins on Wearable Computing.",
+  "id": 1372,
+  "original_urls": [
+    "http://nighthacking.tv/holly-cummins-on-wearable-computing/",
+    "http://nighthacking.com/holly-cummins-on-wearable-computing/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "7f5e98e7fd1fb5a0c5e7b42539b3defa33792f798c2950b384bfa091fab258d2",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/bAUz8q9vET4"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/holly-cummins-on-wearable-computing/",
+    "post_id": 1372,
+    "rejected_urls": [],
+    "source_content_sha256": "b06e1c2fb1b07c29fb31656b3b692825d6c343d6705f8a719ab2ae43010a0d3c",
+    "source_date_sha256": "b094b27e11b34b77e4fc525b073f1c1c48f1a8601ce0e279a04f65c65efc656a",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "117019447c8cafa16c8c15c79e694a1b2e99bd3adc86a9121856b3fc810879f3",
+      "_video_thumbnail": "591c0337ec5d170768ad1b937bbfea84bb389b93bf17b2fb033fa297d2e7e33e",
+      "focus_video": "35575abe77b52504c1d1adedc6614eedb14184a5928d58ddd64be7510339bd06"
+    },
+    "source_slug_sha256": "5c471e59da43e4429efb0b1a491e601d86485c17ca718aa2fd3cbcbec2acc071",
+    "source_title_sha256": "ebbb2632ddb138a3500b8613b18c48193057328180e400ba09f8caa7267e5f7c",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "holly-cummins-on-wearable-computing",
+  "thumbnail": "/wp-content/uploads/2015/03/holly-cummins-on-wearable-comput.jpg",
+  "title": "Holly Cummins on Wearable Computing",
+  "type": "post",
+  "video_id": "bAUz8q9vET4",
+  "warnings": []
+}

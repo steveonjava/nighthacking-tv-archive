@@ -1,0 +1,73 @@
+{
+  "categories": [
+    {
+      "name": "\u00d8redev 2015",
+      "slug": "oredev-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-11-07 12:44:30",
+  "excerpt": "Interview with Reza Rahman on upcoming features in the Java EE 8 release.",
+  "id": 1559,
+  "original_urls": [
+    "http://nighthacking.tv/reza-rahman-on-java-ee-8/",
+    "http://nighthacking.com/reza-rahman-on-java-ee-8/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "ce9864e648c6b39dabb5660a81e1bf433bfd6950fc0d39203314e42f13929470",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/_TpxidD7ik0"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/reza-rahman-on-java-ee-8/",
+    "post_id": 1559,
+    "rejected_urls": [],
+    "source_content_sha256": "49627b659dbf0377ef38ec1d1770975fc894c96f7f0d86da70c52a2bda694fed",
+    "source_date_sha256": "6a3aafbdce1f2a3f0c6e7fc9d3bdf6d864178e138a8a8a3d5b129944b30afc51",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "aded40e220d2587b0ef1f88302a192d411bc55ddff1c4d818177777d6060a490",
+      "_video_thumbnail": "a8ae92f2bea0b16978e671315bafe204c0d2efd29efa8851d9aaa1a33a83dd27",
+      "focus_video": "78b318c54be3fa5957f8bb8432d7fac391fefa0f69eafee6785258fbcbc06ed0"
+    },
+    "source_slug_sha256": "a91909ae5e751627c75e28d69612d84b031fd6a540a856f442e2fecdd8783939",
+    "source_title_sha256": "35777f0a0da0a2082ea8e571373c22119fe7be53521d9d11603a002e8687542d",
+    "table": "wp_posts",
+    "video_status": "identified-unverified",
+    "body_video_identity_resolution": {
+      "record_id": 1559,
+      "video_id": "_TpxidD7ik0",
+      "source_url": "https://youtu.be/_TpxidD7ik0",
+      "method": "Unique explicit URL in the exported public author body and its source-text URL inventory",
+      "source_markdown_sha256": "ce9864e648c6b39dabb5660a81e1bf433bfd6950fc0d39203314e42f13929470",
+      "lab_export_json_sha256": "351592a23644f4699c6401c3e4ef075771ee884c43e6d1e47e00b7251fed8579",
+      "availability": "unverified",
+      "fetched": false
+    }
+  },
+  "review_status": "unreviewed",
+  "slug": "reza-rahman-on-java-ee-8",
+  "thumbnail": "/wp-content/uploads/2015/11/reza-rahman-on-java-ee-8.jpg",
+  "title": "Reza Rahman on Java EE 8",
+  "type": "post",
+  "video_id": "_TpxidD7ik0",
+  "warnings": [
+    "focus_video has no unique validated YouTube ID in a known field or URL.",
+    "The recording ID was recovered offline from the explicit unique author-body URL. Provider availability was not checked."
+  ]
+}

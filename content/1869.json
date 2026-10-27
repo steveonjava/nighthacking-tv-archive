@@ -1,0 +1,57 @@
+{
+  "categories": [
+    {
+      "name": "CloudWorld Developer Mumbai",
+      "slug": "cloudworld-developer-mumbai"
+    }
+  ],
+  "date": "2016-04-09 04:51:27",
+  "excerpt": "Interview with Sten Vesterli on building compelling mobile apps using MAF and JET at Oracle CloudWorld Developer in Mumbai, India.",
+  "id": 1869,
+  "original_urls": [
+    "http://nighthacking.tv/sten-vesterli-on-building-compelling-mobile-apps/",
+    "http://nighthacking.com/sten-vesterli-on-building-compelling-mobile-apps/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "a8e0eb3b3c77001e5567e96a7ed432f1a97fd1593e95efd7e6f1ec90c919b508",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video",
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/L4hKt1JYy1k"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/sten-vesterli-on-building-compelling-mobile-apps/",
+    "post_id": 1869,
+    "rejected_urls": [],
+    "source_content_sha256": "8805bfb59558e3c23d5b67b6c86bc24bf954baa8da584e29028d41ecbee84249",
+    "source_date_sha256": "fd130b2bd8b73da9db78359c1863cdabd6105742e6027fdec42f3b4c5e2ca4da",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "51f8abfe29ee9821b5727c55d31f9d29115fe91b610751d7c9586b91178c0119",
+      "_video_thumbnail": "e816c59f1244125ccd5eeadf862565961371626b170b28ada5d43957601308cb",
+      "focus_video": "abfbbf67b8fbc3b184393ee731dc2b5f4ba90eea849b957c5ba5f84c5bacef61"
+    },
+    "source_slug_sha256": "0b03acecaf947025293b690193f525b7420812f8194d9aeb1d4095c4f30c6fe4",
+    "source_title_sha256": "8691999176432f162e5b9b0f30e6f49fc8b23a199ddd1124689c8e54041b5c71",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "sten-vesterli-on-building-compelling-mobile-apps",
+  "thumbnail": "/wp-content/uploads/2016/04/sten-vesterli-on-building-compel.jpg",
+  "title": "Sten Vesterli on Building Compelling Mobile Apps",
+  "type": "post",
+  "video_id": "L4hKt1JYy1k",
+  "warnings": []
+}

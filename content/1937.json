@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2016",
+      "slug": "jcrete-2016"
+    }
+  ],
+  "date": "2016-08-01 00:23:05",
+  "excerpt": "Introduction to the JCrete conference by Heinz Kabutz and Dmitry Vyazelenko.",
+  "id": 1937,
+  "original_urls": [
+    "http://nighthacking.tv/introduction-to-jcrete/",
+    "http://nighthacking.com/introduction-to-jcrete/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "f5563cdf1c32423f8744142a7f5ff1b784f48d76fb8c9df0a1c5082eea286dec",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/9E4Dj85SkBE"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/introduction-to-jcrete/",
+    "post_id": 1937,
+    "rejected_urls": [],
+    "source_content_sha256": "4931df08d1e80dc2afe0352e10c79bf3edbba25547fa819b14f0e0162581f83c",
+    "source_date_sha256": "d4a50c9ada0295d654550293c898fb0dfea1f341c4a5cee9c707105ba0e558ed",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "94ad0b5b0a595b7eaafe9404423d8543b4c8dcfc26ecffb44f6894e2ca46fd61",
+      "_video_thumbnail": "cb2ea311749cc196a075bf61120ef0c24128e60e3e1c33bb3382da23ce74edde",
+      "focus_video": "b48753559cc291286a8a652947f18af519dd5bc1ce5734c3198dcd3d76384cb2"
+    },
+    "source_slug_sha256": "74dd40d244e061d57a7730c93c9c4b084f7d5a1c95caefb5ad87b663ad0d1a3f",
+    "source_title_sha256": "8ff276fb1a49db393bee47a9568fe836e3d51dbc1b70458b3f0400b674e821d7",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "introduction-to-jcrete",
+  "thumbnail": "/wp-content/uploads/2016/08/introduction-to-jcrete.jpg",
+  "title": "Introduction to JCrete",
+  "type": "post",
+  "video_id": "9E4Dj85SkBE",
+  "warnings": []
+}

@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "DevNexus 2016",
+      "slug": "devnexus2016"
+    }
+  ],
+  "date": "2016-02-17 11:16:46",
+  "excerpt": "Interview with Viktor Gamov on In-Memory Data Grids at the DevNexus conference in Atlanta, Georgia.",
+  "id": 1677,
+  "original_urls": [
+    "http://nighthacking.tv/viktor-gamov-on-in-memory-data-grids/",
+    "http://nighthacking.com/viktor-gamov-on-in-memory-data-grids/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "edb470d0b13c796e9d2447cc8342dd063797d5504f851d07bfe18f74a5c7075b",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/lgabhNr6LqM"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/viktor-gamov-on-in-memory-data-grids/",
+    "post_id": 1677,
+    "rejected_urls": [],
+    "source_content_sha256": "0191b786b1bcc378aa701e30e8731931671fea0fef314fb9a50ec15cbdcfc279",
+    "source_date_sha256": "06a1fe453f09437ee4a4d505aea3a17a924b2ad01b917ad19e8b9f503dd0aace",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "b93e56aec7724213a91e5c44256af055313fc7e8d80554fb7ed23b866470695b",
+      "_video_thumbnail": "20979e8d26638962f3e1e64b594f766def635b8f62d0447b7928364ee50badab",
+      "focus_video": "85e38d2fe08668a221829a40b41a5557a4aba634655e354ba3c4c686e01ff578"
+    },
+    "source_slug_sha256": "c370413e45fb4d601b56e2ad782ca1ee1db464da54511267162a2316916ae531",
+    "source_title_sha256": "4eda59cdd18a5e2b03be4a2bceb46710ff690d0c6c0caede92d335874420a78f",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "viktor-gamov-on-in-memory-data-grids",
+  "thumbnail": "/wp-content/uploads/2016/02/viktor-gamov-on-in-memory-data-g.jpg",
+  "title": "Viktor Gamov on In-Memory Data Grids",
+  "type": "post",
+  "video_id": "lgabhNr6LqM",
+  "warnings": []
+}

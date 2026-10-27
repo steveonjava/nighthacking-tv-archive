@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-06-17 13:35:44",
+  "excerpt": "Stuart Marks shows you how to effectively use Lambda expressions, Streams, Date & Time, etc to make your life easier.",
+  "id": 915,
+  "original_urls": [
+    "http://nighthacking.tv/java-8-and-javafx/",
+    "http://nighthacking.com/java-8-and-javafx/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "99178a098116019e01ee1a66f0638dd7dc387379933da078d1fdc84058e0f10d",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=eUnBkwywGkk"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/java-8-and-javafx/",
+    "post_id": 915,
+    "rejected_urls": [],
+    "source_content_sha256": "30cbf0ee5a44e93ac7dba49f3da326910cf3ad60cf5eb9b301989a9cf2ccb65a",
+    "source_date_sha256": "1bb2081046d11b718f0712c0148f6be510fb6affc3821eec46e68fe86e5b9c73",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "c4ed8e89485d94f74489c8120a6734bb7a9ebdd906328e22a7d89a79be6513cf",
+      "_video_thumbnail": "232466d81083a5b9eb97cb48a4488c1c6c64afa614e77b4bbd94312a001ca66d",
+      "focus_video": "6d2827c24fa913924f794ba9e7e13bd2ca33ff6f135e40b79082d210e199f023"
+    },
+    "source_slug_sha256": "853bc02a0a613b98ff11e86e2fba3128c1b22bb3eda21549a6f062b34fef1a5d",
+    "source_title_sha256": "018183eb155655549c02eb15f6839909806bf7e2a518f6ca428c018da595a4a1",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "java-8-and-javafx",
+  "thumbnail": "/wp-content/uploads/2014/06/java-8-and-javafx.jpg",
+  "title": "Java 8 and JavaFX",
+  "type": "post",
+  "video_id": "eUnBkwywGkk",
+  "warnings": []
+}

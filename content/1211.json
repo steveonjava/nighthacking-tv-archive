@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Devoxx 2014",
+      "slug": "devoxx-2014"
+    }
+  ],
+  "date": "2014-11-15 09:31:00",
+  "excerpt": "Live hacking session with Sven Reimers showing the new JavaFX-based Devoxx Tweet Wall in action!",
+  "id": 1211,
+  "original_urls": [
+    "http://nighthacking.tv/sven-reimers-on-the-devoxx-tweetwall/",
+    "http://nighthacking.com/sven-reimers-on-the-devoxx-tweetwall/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "1d8e37c16ce525b953798a4b647320a4739265cd7e3742f14193aa9e7b208547",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/8cjIHERFtco"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/sven-reimers-on-the-devoxx-tweetwall/",
+    "post_id": 1211,
+    "rejected_urls": [],
+    "source_content_sha256": "e289539cac9f81c05ca751646c527fbd98fb0a18f1abfbc3d0385363a9abe53a",
+    "source_date_sha256": "651df7934fcf9e6aef3dd21a3468c04165c538419d626145dc421057c4d1e801",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "de3d43caad2bd3c4f0622fc60deecd06b34a0f25a80e30b81fe051a3c54799bb",
+      "_video_thumbnail": "0d8c86b751ce48be36acad23c53f9355b621b73dc25543e4a1e58625ea9bbeea",
+      "focus_video": "2d31ee2366d6a072bed84e22ecff6c948b2bad174757946b7af0fe8552bddf78"
+    },
+    "source_slug_sha256": "b1f5beb381f9572b02ad08519a56415d5a214ce4c3026d5c1a4bbeaab73f7167",
+    "source_title_sha256": "413367b35c1448d471610e7ce291cc0c457b061602eb8a17a534cea00e789803",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "sven-reimers-on-the-devoxx-tweetwall",
+  "thumbnail": "/wp-content/uploads/2014/11/sven-reimers-on-the-devoxx-tweet.jpg",
+  "title": "Sven Reimers on the Devoxx Tweetwall",
+  "type": "post",
+  "video_id": "8cjIHERFtco",
+  "warnings": []
+}

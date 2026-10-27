@@ -1,0 +1,68 @@
+{
+  "categories": [
+    {
+      "name": "GeekOUT 2015",
+      "slug": "geekout-2015"
+    }
+  ],
+  "date": "2015-06-12 07:26:09",
+  "excerpt": "Interview with Nitsin Wakart from Azul on his lock free queues implementation: https://github.com/JCTools/JCTools",
+  "id": 1478,
+  "original_urls": [
+    "http://nighthacking.tv/nitsin-wakart-on-lock-free-queues/",
+    "http://nighthacking.com/nitsin-wakart-on-lock-free-queues/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "d4edb3a8fdd6119d8a893765f946f4213e0d57b4a1210d51453db55525dfa85c",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "a:href",
+          "link",
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "github.com",
+        "rendered": true,
+        "status": "unverified",
+        "url": "https://github.com/JCTools/JCTools"
+      },
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/Kwuenc35c_Q"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nitsin-wakart-on-lock-free-queues/",
+    "post_id": 1478,
+    "rejected_urls": [],
+    "source_content_sha256": "55a950da26ad32197298242437543e1af41705069899be395d782435d3a83541",
+    "source_date_sha256": "c26531d2130a47f7e35ce6b4921887c17b231178f0a0e8e9267ad32e99544daf",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "22b954454cfc20ef4813c70018c81004795496191338841e0ca4b9ed6e04e81a",
+      "_video_thumbnail": "f3c2014e5fdddc553e21ac9427fae20e26599ba36e2ff6507651f8adbb4cd21d",
+      "focus_video": "f3e5da3f1f58cc05f67a588a79487cc2483fb960359ca0c222d0492c40c90541"
+    },
+    "source_slug_sha256": "9e9aa4de2df8711fc4f6b29bc830899420a49d73ad2a3c6bb5a1af14c5135df1",
+    "source_title_sha256": "201323b967814e8d23e2374789ddf1caf2c16348701d8d0e73a33ef39591eee8",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nitsin-wakart-on-lock-free-queues",
+  "thumbnail": "/wp-content/uploads/2015/06/nitsin-wakart-on-lock-free-queue.jpg",
+  "title": "Nitsin Wakart on Lock Free Queues",
+  "type": "post",
+  "video_id": "Kwuenc35c_Q",
+  "warnings": []
+}

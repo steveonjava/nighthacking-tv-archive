@@ -1,0 +1,59 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2016",
+      "slug": "jfokus-2016"
+    }
+  ],
+  "date": "2016-02-10 08:25:35",
+  "excerpt": "NightHacking interview at the Jfokus conference with Amira Lakhal on IoT, Timeseries, and Prediction.  Also a great discussion about the French Java Duchess program creating opportunities for girls and women in tech.",
+  "id": 1645,
+  "original_urls": [
+    "http://nighthacking.tv/amira-lakhal-iot-timeseries-and-prediction/",
+    "http://nighthacking.com/amira-lakhal-iot-timeseries-and-prediction/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "d71e4933fb2d1a9fad42f5792f065df1d353702ac44c3af84f20c03502feed99",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video",
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/lH3hNU13QX4"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/amira-lakhal-iot-timeseries-and-prediction/",
+    "post_id": 1645,
+    "rejected_urls": [],
+    "source_content_sha256": "dc8c7762345b7314b2a1eca2cea005c644a9b9f866e8493736dc638c0eb468c4",
+    "source_date_sha256": "683a1f77e3858332bc6c70f06194da38da61ba74e6ead2d203f15fde8713a4cb",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "920232613e4a67a07d6c99b7974dbcd6765ee171da73e4961e1499a05a1f471b",
+      "_video_thumbnail": "817c3cb10000119d4ae8d0dc3d7107f8ad72abe56d61f6414a0be33cc93f6500",
+      "focus_video": "19c2eda0f39c2fe9667304949cf9fa37e1bbdc2e8d900a26be99168a13b52232"
+    },
+    "source_slug_sha256": "7d17a6f116fc52265bb9103f535c2b7c3b901736857ee03994e480dda35b6996",
+    "source_title_sha256": "af0398113c377af091a5492fe870975e9620c96f4eb49940f224b04116aecadf",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "amira-lakhal-iot-timeseries-and-prediction",
+  "thumbnail": "/wp-content/uploads/2016/02/amira-lakhal-iot-timeseries-and.jpg",
+  "title": "Amira Lakhal - IoT, Timeseries, and Prediction",
+  "type": "post",
+  "video_id": "lH3hNU13QX4",
+  "warnings": [
+    "A UTF-8 nonbreaking space was normalized to a space."
+  ]
+}

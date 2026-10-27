@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Madras JUG Developer Day 2016",
+      "slug": "madras-jug-developer-day-2016"
+    }
+  ],
+  "date": "2016-04-02 20:00:57",
+  "excerpt": "Taming Text Using Solr presented by John Eipe.\n- What is text search\n- How we can use Solr for text search",
+  "id": 1826,
+  "original_urls": [
+    "http://nighthacking.tv/taming-text-using-solr/",
+    "http://nighthacking.com/taming-text-using-solr/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "c8a49dbb50ef6b8cbb6360ae8e4ea9a1a477ad2fc65bf11e2cb657ff2c81a4dc",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/HF_iA6XgnAs"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/taming-text-using-solr/",
+    "post_id": 1826,
+    "rejected_urls": [],
+    "source_content_sha256": "eab8a114fc92116a6c166c16a83e195764a6c6dedd791fd6b17bb4638729707f",
+    "source_date_sha256": "b9f2d743e79165f76d027533d0a89f387427c73cd23d6a8c1027b324a3253f7f",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "4f6ceab7942f9dece7e2e0e93b2c16560d49670d2187082af547c3c3dd339460",
+      "_video_thumbnail": "6e9efa88a66568f1d47f9196e70a4b5eb317c9049b4df18e86b9526f0149478e",
+      "focus_video": "8514fcf22c1850179c44e98f75630784babcfb020c6fdf973c82d97c40a7e584"
+    },
+    "source_slug_sha256": "352bde6792613f58523398b9d88a90056506d750e2c049f1bb1fe83e73836db0",
+    "source_title_sha256": "334718d3dec4232fd2deeded2afd1542e38df00d5aefc83dfe4f11accfdb4c4e",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "taming-text-using-solr",
+  "thumbnail": "/wp-content/uploads/2016/04/taming-text-using-solr.jpg",
+  "title": "Taming Text Using Solr",
+  "type": "post",
+  "video_id": "HF_iA6XgnAs",
+  "warnings": []
+}

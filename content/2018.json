@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Oracle Code Japan Tour",
+      "slug": "oracle-code-japan-tour"
+    }
+  ],
+  "date": "2017-05-25 02:07:30",
+  "excerpt": "Presentation from David Delabassee on Java EE 8 as part of the Oracle Code Japan Tour.",
+  "id": 2018,
+  "original_urls": [
+    "http://nighthacking.tv/java-ee-8-with-david-delabassee/",
+    "http://nighthacking.com/java-ee-8-with-david-delabassee/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "fc323ec786a8579103a2cb92fe1b28ca1c92f76f4f391a8ed35a1b12cc184261",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=L2GjQwsNz6w"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/java-ee-8-with-david-delabassee/",
+    "post_id": 2018,
+    "rejected_urls": [],
+    "source_content_sha256": "4ab6ec4bea23e951c63fb8cd7024c8bb578c209c1365cf3341e9d8e3b9704839",
+    "source_date_sha256": "b91321d873e2fdcb0b775bd86172c8a688987e2fda1b6a9b9955ed111c5b72d5",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "73a2af8864fc500fa49048bf3003776c19938f360e56bd03663866fb3087884a",
+      "_video_thumbnail": "1273f36941d9901757b321910f7c082e358b8df85b6a23308af67d3bb1daf2d5",
+      "focus_video": "2165c160b9349f308fb9a9a67b5f809fc648467bf6ec498150aac2ae156d912f"
+    },
+    "source_slug_sha256": "78d52c3683363f5b2f2ad1cdb5d3f0ccfb1fdd596ffac557de7ee4a06ef94210",
+    "source_title_sha256": "bfa5c331e43bade403cb32dd3e2bf1be2f348798d7d5e27373d6075d9aadc200",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "java-ee-8-with-david-delabassee",
+  "thumbnail": "/wp-content/uploads/2017/05/java-ee-8-with-david-delabassee.jpg",
+  "title": "Java EE 8 with David Delabassee",
+  "type": "post",
+  "video_id": "L2GjQwsNz6w",
+  "warnings": []
+}

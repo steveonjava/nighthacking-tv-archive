@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2016",
+      "slug": "jcrete-2016"
+    }
+  ],
+  "date": "2016-08-05 04:57:21",
+  "excerpt": "JCrete 2016, Day 3\nWhy JNI is slow?\nCliff Click",
+  "id": 1978,
+  "original_urls": [
+    "http://nighthacking.tv/why-jni-is-slow/",
+    "http://nighthacking.com/why-jni-is-slow/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "9963cf4148fa1df7092ac0191abb3358eb0ec49bf912a128a9ba2281699251bc",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=LoyBTqkSkZk"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/why-jni-is-slow/",
+    "post_id": 1978,
+    "rejected_urls": [],
+    "source_content_sha256": "bd79fc5fe5cb900eadb48b12522c10811a4a54ddeff6db232e63f2996ef3d34a",
+    "source_date_sha256": "1991945762a3caa77575d2dad732752b40c33c20f046a686523a4b3c11ab41cd",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "051c2e380d07844ffaca43743957f8c0efe2bdf74c6c1e6a9dcccb8d1a3c596b",
+      "_video_thumbnail": "101ca7ddee9f7d3874c6a51d1e96ceafc6bc4447f1d5d778817c15b571e1bd18",
+      "focus_video": "56f0d1738102cf6a360e237eecc687a66b2d8f3047e70aa1adc214455c062d99"
+    },
+    "source_slug_sha256": "c16e566d648e79805e40c32eae2f1c8a2fc370b5656fe0ad7674fed4b3389095",
+    "source_title_sha256": "b34a42e1f796b543078e6eeae18494921c3df9b3d0702f4119d262a9a48b8792",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "why-jni-is-slow",
+  "thumbnail": "/wp-content/uploads/2016/08/why-jni-is-slow.jpg",
+  "title": "Why JNI is slow?",
+  "type": "post",
+  "video_id": "LoyBTqkSkZk",
+  "warnings": []
+}

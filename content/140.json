@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaOne",
+      "slug": "javaone"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2013-09-16 11:35:15",
+  "excerpt": "",
+  "id": 140,
+  "original_urls": [
+    "http://nighthacking.tv/javaone-interview-with-johan-vos/",
+    "http://nighthacking.com/javaone-interview-with-johan-vos/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=sqLuCVJQPow&list=PLX8CzqL3ArzXMvt5y8VHXKmr8gDC-xOH_&index=8"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/javaone-interview-with-johan-vos/",
+    "post_id": 140,
+    "rejected_urls": [],
+    "source_content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source_date_sha256": "35342a7e3315248668e276979c91e0a8862ea395b1f933f48ed7d969e2f09c60",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "bb668ca95563216088b98a62557fa1e26802563f3919ac78ae30533bb9ed422c",
+      "_video_thumbnail": "d99842601e3823a57abb39cfa95715c52b52b29ddd27cbecea05d9be75db55e6",
+      "focus_video": "597b0c403b676f904c7e2478886333c056f96bd216afde13f32d4e8d05f292ce"
+    },
+    "source_slug_sha256": "57f02150c0e8662917f36107ec4fc1790bcb969781fd43752e1843162023fd16",
+    "source_title_sha256": "9050692c27b420275b4e21e4de96e2ebbb02d494e18b624dfa5eafa2d9894cd4",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "javaone-interview-with-johan-vos",
+  "thumbnail": "/wp-content/uploads/2013/09/p140.jpg",
+  "title": "JavaOne Interview with Johan Vos",
+  "type": "post",
+  "video_id": "sqLuCVJQPow",
+  "warnings": []
+}

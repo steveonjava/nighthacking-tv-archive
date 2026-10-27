@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "QCon NYC 2016",
+      "slug": "qcon-nyc-2016"
+    }
+  ],
+  "date": "2016-06-15 08:29:45",
+  "excerpt": "Interview with Baruch Sadogursky (@jbaruch) from JFrog on their new Xray product for inspecting artifacts to do deep dependency graphs. #QCon",
+  "id": 1916,
+  "original_urls": [
+    "http://nighthacking.tv/baruch-sadogursky-on-jfrog-xray/",
+    "http://nighthacking.com/baruch-sadogursky-on-jfrog-xray/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "20bf115792839aac798374fabc587677dd525d6c4c29b8a145e3a99e971053e0",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/_0J4B7lfi9k"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/baruch-sadogursky-on-jfrog-xray/",
+    "post_id": 1916,
+    "rejected_urls": [],
+    "source_content_sha256": "3d3349b06525640d97db2f85bfed1b49e642795bd4a46fad3817481e42cef556",
+    "source_date_sha256": "750eaa232677f6a790cd8225d911134cb8b086438d7047ac993ff116f70e72ff",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "54e87e2783378cd883fb63bea84e2ecdd554b0646ec35a12d6df365ccad3c68b",
+      "_video_thumbnail": "6d043f3d4bfb17edc105e4155c18bd66311b02dc26f7ee5663635ed5d2f6a227",
+      "focus_video": "15dcc1f2e1d409b20479060bd15e4e49bbe04695fdd27acbe9aed11a81e7227a"
+    },
+    "source_slug_sha256": "3809416caf44256f69ae71131731d26d496b2c9fabdea644110ee85fc9d3069e",
+    "source_title_sha256": "c336e8b75ff5141b7422134dea3fbd4dcbcf0ca67f22b28fb3b437ffa3196770",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "baruch-sadogursky-on-jfrog-xray",
+  "thumbnail": "/wp-content/uploads/2016/06/baruch-sadogursky-on-jfrog-xray.jpg",
+  "title": "Baruch Sadogursky on JFrog Xray",
+  "type": "post",
+  "video_id": "_0J4B7lfi9k",
+  "warnings": []
+}

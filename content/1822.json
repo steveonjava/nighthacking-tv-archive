@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Madras JUG Developer Day 2016",
+      "slug": "madras-jug-developer-day-2016"
+    }
+  ],
+  "date": "2016-04-02 19:57:05",
+  "excerpt": "Functional Programming in Java presented by Narendran\n- Overview on function programming\n- Functional programming in the context of Java\n- Java 8 code examples for functional programming",
+  "id": 1822,
+  "original_urls": [
+    "http://nighthacking.tv/functional-programming-in-java/",
+    "http://nighthacking.com/functional-programming-in-java/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "14d77869dae4aca21eef9bd93c3dd4cc94461775ede3745cd843c1a304586119",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/bgHqBVO9Qo4"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/functional-programming-in-java/",
+    "post_id": 1822,
+    "rejected_urls": [],
+    "source_content_sha256": "4a986b29f12fc0d225d02e6cca73816b076dc215c55695ec5a05b02dc8f08403",
+    "source_date_sha256": "344b607463d9a6d22d9a9df1e9d19b393d7376b13bb23a57d1f8783ced9ea4bb",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "2ced184d8477465987593807f31360e94b539aa41f515e0a973179f881663698",
+      "_video_thumbnail": "775aa9c59d5a404d90324170320415c520343d69b9ecdd2ac8bae0c95ff02315",
+      "focus_video": "af7474ff16e03d23352e644b2f2541abb85f069625cc1b6cf6ee68b562ba385c"
+    },
+    "source_slug_sha256": "fa1709ae6cb61323ced99ee50a9011c4f00f83e45356aa045dd1eff31e4d9449",
+    "source_title_sha256": "58a0cd9b24027d988027233ba35b0e5567b71531b62b4cd9650644026ab3e0ca",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "functional-programming-in-java",
+  "thumbnail": "/wp-content/uploads/2016/04/functional-programming-in-java.jpg",
+  "title": "Functional Programming in Java",
+  "type": "post",
+  "video_id": "bgHqBVO9Qo4",
+  "warnings": []
+}

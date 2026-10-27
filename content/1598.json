@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2016",
+      "slug": "jfokus-2016"
+    }
+  ],
+  "date": "2016-02-08 06:21:47",
+  "excerpt": "Presentation from Charles Nutter (@headius) on optimizing above the JVM with the JRuby 9000 implementation at the Jfokus VM Tech Summit.",
+  "id": 1598,
+  "original_urls": [
+    "http://nighthacking.tv/charles-nutter-on-jruby-9000/",
+    "http://nighthacking.com/charles-nutter-on-jruby-9000/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "741c039461cd7868edf694ae92b252823aa978a47921028d94ca65b73c0394d9",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/-wT9DqrPmrY"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/charles-nutter-on-jruby-9000/",
+    "post_id": 1598,
+    "rejected_urls": [],
+    "source_content_sha256": "2d43a0d0215a15e6fb7a258b2366c03f04ab9d0470830bb25e4bc80cc0c8734a",
+    "source_date_sha256": "08c168be71372dbf8d14af60976b2ac12eea70de75dd6773de229aed750aa43f",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "b458944d9ec4322f9ff0de2885ce82d580341fcf0fd688422e9929b6e7ce3b2d",
+      "_video_thumbnail": "fc2b0bd45dd333f0eeb44cf51a12ce6ff544ae8784ebf3e55746c23f1c083252",
+      "focus_video": "4f6acf090a2cf23eb37436ba89788dfcf022a6e90999a4dbb90196833a96ae0d"
+    },
+    "source_slug_sha256": "0918f541085a6557eda637bb12910cd0b9a92f2d1d0085b0f0c04a67dd80eb82",
+    "source_title_sha256": "62bae6b424636da8d6af9dff096d5e1952bb6a262f6be1a590b0c6c2f9ac9671",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "charles-nutter-on-jruby-9000",
+  "thumbnail": "/wp-content/uploads/2016/02/charles-nutter-on-jruby-9000.jpg",
+  "title": "Charles Nutter on JRuby 9000",
+  "type": "post",
+  "video_id": "-wT9DqrPmrY",
+  "warnings": []
+}

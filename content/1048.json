@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2014",
+      "slug": "jcrete2014"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-08-31 23:44:25",
+  "excerpt": "Lab on the Neuroph Neural Network Framework for Java at the JCrete unconference.",
+  "id": 1048,
+  "original_urls": [
+    "http://nighthacking.tv/neuroph-hacking-session-at-jcrete/",
+    "http://nighthacking.com/neuroph-hacking-session-at-jcrete/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "95dae052a4fd62205a795051f0e7fcef134d4afa903253a2c5fce42517ea68e6",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/GPMlfZOynAM"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/neuroph-hacking-session-at-jcrete/",
+    "post_id": 1048,
+    "rejected_urls": [],
+    "source_content_sha256": "a2ece170615c53a9b84283cabb2df37ab62617fda48dee7fdd2e25c56fc4565d",
+    "source_date_sha256": "bc5f509e9dd006c4bfb0882e17796e51fc4d14d18a773a0176e517174e4f7ce9",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "ffa6059b954a4602a9fa1518d10ca6163bce3f9d4bd3ee51c860eb6c2da16675",
+      "_video_thumbnail": "3ccd3a2a33f4fa7991b407a34e7afee8c57bc2a0355beb188acd352b2a35d0ec",
+      "focus_video": "49527c0524424c3a7c6db040ea4f8d494747587181cc7315d9e11ef786825e7b"
+    },
+    "source_slug_sha256": "0fa44746d62f803f78f52045eff3de0d83cb0162762629ff18f741c0fc5c8654",
+    "source_title_sha256": "832039ae673c567524b653b080f7a237e214b60119d2ad8eb9d0b08c74853de3",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "neuroph-hacking-session-at-jcrete",
+  "thumbnail": "/wp-content/uploads/2014/08/neuroph-hacking-session-at-jcret.jpg",
+  "title": "Neuroph Hacking Session at JCrete",
+  "type": "post",
+  "video_id": "GPMlfZOynAM",
+  "warnings": []
+}

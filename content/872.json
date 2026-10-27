@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-04-26 04:09:32",
+  "excerpt": "NightHacking session at JUG Chennai on Java 8 lambdas and Java embedded devices such as Raspberry Pi, Lego Mindstorms, and the DukePad.",
+  "id": 872,
+  "original_urls": [
+    "http://nighthacking.tv/nighthacking-at-jug-chennai-lambdas-and-devices/",
+    "http://nighthacking.com/nighthacking-at-jug-chennai-lambdas-and-devices/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "4c34d6ef7d1780f27b8f847c4b005e69a84946e61bffadb31076edeb94a66825",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=dSigdHUXgTA"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nighthacking-at-jug-chennai-lambdas-and-devices/",
+    "post_id": 872,
+    "rejected_urls": [],
+    "source_content_sha256": "6c810ed99e95193ab160dacc6236df5076302c5df33f033bc14cbf22ff2394e1",
+    "source_date_sha256": "e03167a71e1d1e4e1e62990c034890f7d30e1d7f7b3f9459e98b9a66f8119e52",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "3d734d729009b74c011651eb24b06a74151fb99b8da5110295da8bb77ec3f92d",
+      "_video_thumbnail": "a9e700ad6acbfe93dc163df576ccd1ee82896a6eb4770bd5a218b108c031a3c6",
+      "focus_video": "201bbd13d6cf83ce98eaa11b3fc1562d71735c0f0a4974e5261141dc66b8e1bf"
+    },
+    "source_slug_sha256": "0903aa32f5547b98e52eed7e73ef09ab8e5989d2104b937cb30f8268a6c5590b",
+    "source_title_sha256": "539ed9cf2e12ebe2ea03593b3fcc0eb817190a5521e3c3136942f0678b1961ef",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nighthacking-at-jug-chennai-lambdas-and-devices",
+  "thumbnail": "/wp-content/uploads/2014/04/nighthacking-at-jug-chennai-lamb.jpg",
+  "title": "NightHacking at JUG Chennai - Lambdas and Devices ",
+  "type": "post",
+  "video_id": "dSigdHUXgTA",
+  "warnings": []
+}

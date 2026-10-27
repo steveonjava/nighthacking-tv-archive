@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-03-25 08:25:06",
+  "excerpt": "Interview with Stefan Tilkov at JavaLand on monoliths and modularization, discussion of the need or lack for standardizing on or picking a single JVM language, and REST adoption.  For more info about Stefan, check out http://innoq.com/.",
+  "id": 718,
+  "original_urls": [
+    "http://nighthacking.tv/nighthacking-with-stefan-tilkov-on-monoliths-and-modularization/",
+    "http://nighthacking.com/nighthacking-with-stefan-tilkov-on-monoliths-and-modularization/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "c7aa553b294f6957fd39c63b31476df4fdfb7bc8662fec5789af7837e79fa77c",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "innoq.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://innoq.com/"
+      },
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=wNXjBItbIKc"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nighthacking-with-stefan-tilkov-on-monoliths-and-modularization/",
+    "post_id": 718,
+    "rejected_urls": [],
+    "source_content_sha256": "5b013720636cce51652f3c29c345441e78c5a922ea9bcb7249cee2d229aa7007",
+    "source_date_sha256": "e78c4cc702bc56cfbd9c29819c18809048cd4275721018349ac6bcec7104100f",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "d829857eb1366e70be857a69886d1555af0d32681beab068afb93492c2e2b843",
+      "_video_thumbnail": "92a8cb6629f8beff9e921753dff2220e419759e6df74c1b88d13a3b53a474e95",
+      "focus_video": "dd0117602fd577cb00827db9da06b4daf1633578f19eed1ce896f80b8d239439"
+    },
+    "source_slug_sha256": "38f73ee3d9fefffb180bb624878fb699624a1fd44ad7be1543c06bcae8409024",
+    "source_title_sha256": "1cdc6aa61b902c715a91349013dcd7929504f6a7f9983c0edfcd6baa3da1a6af",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "nighthacking-with-stefan-tilkov-on-monoliths-and-modularization",
+  "thumbnail": "/wp-content/uploads/2014/03/nighthacking-with-stefan-tilkov.jpg",
+  "title": "NightHacking with Stefan Tilkov on Monoliths and Modularization ",
+  "type": "post",
+  "video_id": "wNXjBItbIKc",
+  "warnings": []
+}

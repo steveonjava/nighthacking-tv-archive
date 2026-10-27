@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2016",
+      "slug": "javaland-2016"
+    },
+    {
+      "name": "NightHacking Germany Tour",
+      "slug": "nighthacking-germany-tour"
+    }
+  ],
+  "date": "2016-03-13 16:03:14",
+  "excerpt": "Interview with Nicolas Rigaud and the NAO humanoid robot at JavaLand.  Nicolas is the community manager at Aldebaran Robotics, the creator of the NAO and Pepper robots.",
+  "id": 1753,
+  "original_urls": [
+    "http://nighthacking.tv/interview-with-nicolas-rigaud-and-nao/",
+    "http://nighthacking.com/interview-with-nicolas-rigaud-and-nao/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "337e8f5c14856a91e720470386c9f4e9572519e959cc4cd5a9263b3bc0c69cf4",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/E1PcAjWtXd4"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/interview-with-nicolas-rigaud-and-nao/",
+    "post_id": 1753,
+    "rejected_urls": [],
+    "source_content_sha256": "02ef1a47579dd5e001de76c81e01297e4f26fdaca425b15c3b4765ebebca0391",
+    "source_date_sha256": "dede6a214d4f57e6cde90e9fe1b9781d43b3dcd0a39b7522686b029cd19284c9",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "9ed1279b64427e295210c4bb660464639ab50d0d34e3fae67ee5d2b0af33507e",
+      "_video_thumbnail": "72692427968a4fca2f4f8fefc124bcc723c49815ae6fdb1c1c2732fdcc7219c2",
+      "focus_video": "0166bb86d17b92d1a5b15475248b188aba47650888ec22b5b0e223aa3e0897d7"
+    },
+    "source_slug_sha256": "075fcdb465a990741062b9c5c63f35f4c09874350e53e026d28a67a514e6fe15",
+    "source_title_sha256": "c81c2da26e1c541ea5547e8fda7fdb0586804eacb6b344a9151e6b2ec69d6bf3",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "interview-with-nicolas-rigaud-and-nao",
+  "thumbnail": "/wp-content/uploads/2016/03/interview-with-nicolas-rigaud-an.jpg",
+  "title": "Interview with Nicolas Rigaud and NAO",
+  "type": "post",
+  "video_id": "E1PcAjWtXd4",
+  "warnings": []
+}

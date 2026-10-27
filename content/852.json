@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-04-20 18:12:07",
+  "excerpt": "NightHacking session at the Barcelona JUG.",
+  "id": 852,
+  "original_urls": [
+    "http://nighthacking.tv/barcelona-jug-nighthacking/",
+    "http://nighthacking.com/barcelona-jug-nighthacking/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "6789b8918389970d7e5176f2c86331454e70dc0507f04c18e58b5baf8b312726",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=uTsNNLN2Txk"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/barcelona-jug-nighthacking/",
+    "post_id": 852,
+    "rejected_urls": [],
+    "source_content_sha256": "ff2b8ec47b9b0338d912dc8a292d587c19996002c36241ed27528417acd21965",
+    "source_date_sha256": "2cc028a317bc64c0fc85639fc12e1b9d22a5b47f14652babacc820655674567e",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "f0cbba2470c7c8706fe77e8d88e947ed8c33100409ffb51ae1af99af7d3077a8",
+      "_video_thumbnail": "688292248f8d25e68f1089652d01bf5c5214d45c6f1a80d05fe9d9405c985913",
+      "focus_video": "8a91a56fc2211d98039e28d1a18f78ae5883665852b099e3e25352198cb10a32"
+    },
+    "source_slug_sha256": "0736b4001df0a8dd6c73adeab3694247f0d7c5da1d98acbcf9ce879cb8e7618b",
+    "source_title_sha256": "79818e373ab91ccc263603035b9fc23500805708531273c12db4e517363f5164",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "barcelona-jug-nighthacking",
+  "thumbnail": "/wp-content/uploads/2014/04/barcelona-jug-nighthacking.jpg",
+  "title": "Barcelona JUG NightHacking ",
+  "type": "post",
+  "video_id": "uTsNNLN2Txk",
+  "warnings": []
+}

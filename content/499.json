@@ -1,0 +1,90 @@
+{
+  "categories": [],
+  "date": "2014-03-06 00:21:37",
+  "excerpt": "",
+  "id": 499,
+  "original_urls": [
+    "http://nighthacking.tv/nighthacking-java-8-tour/",
+    "http://nighthacking.com/nighthacking-java-8-tour/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "e86fdbaa0d56873795c5889f5ac7893ce73796ec63b783353b6c9272f9f9d9fb",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "a:href",
+          "link"
+        ],
+        "fetched": false,
+        "host": "steveonjava.com",
+        "rendered": true,
+        "status": "unverified",
+        "url": "http://steveonjava.com/"
+      },
+      {
+        "contexts": [
+          "a:href",
+          "link",
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "steveonjava.com",
+        "rendered": true,
+        "status": "unverified",
+        "url": "http://steveonjava.com/nighthacking-tour-1st-half-highlights/"
+      },
+      {
+        "contexts": [
+          "a:href",
+          "link"
+        ],
+        "fetched": false,
+        "host": "www.meetup.com",
+        "rendered": true,
+        "status": "unverified",
+        "url": "http://www.meetup.com/nighthackingworldwide/"
+      },
+      {
+        "contexts": [
+          "a:href",
+          "link"
+        ],
+        "fetched": false,
+        "host": "twitter.com",
+        "rendered": true,
+        "status": "unverified",
+        "url": "https://twitter.com/_nighthacking"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/nighthacking-java-8-tour/",
+    "page_ancestor_ids": [],
+    "page_parent_id": 0,
+    "post_id": 499,
+    "rejected_urls": [],
+    "source_ancestor_slug_sha256": {},
+    "source_content_sha256": "ffbf0d3d1b110dc539b2710599f74fb1500a25f8e94c8d9a613ab4bbba8f9bb0",
+    "source_date_sha256": "d29a68379b6051369cad6481cada867a337688b06a0d758e3b7f608ec3bb3a91",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "97a6d21df7c51e8289ac1a8c026aaac143e15aa1957f54f42e30d8f8a85c3a55"
+    },
+    "source_slug_sha256": "8cc81a5df977d2d727f34d5bb19d39fe621121406ef6a2c58b1c4d0691726492",
+    "source_title_sha256": "d668a2f54c1e9d611a44a4fda1b0183f9db5192868bbdd1409a7dbf8c1ca1226",
+    "table": "wp_posts",
+    "video_status": "not-applicable-static-page"
+  },
+  "review_status": "unreviewed",
+  "route": "/nighthacking-java-8-tour/",
+  "slug": "nighthacking-java-8-tour",
+  "thumbnail": "/wp-content/uploads/2014/03/Nighthacking_Tour1.001.png",
+  "title": "NightHacking Java 8 Tour",
+  "type": "page",
+  "video_id": null,
+  "warnings": [
+    "An active or embedded source element was omitted."
+  ]
+}

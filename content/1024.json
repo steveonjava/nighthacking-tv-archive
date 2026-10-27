@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JCrete 2014",
+      "slug": "jcrete2014"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-08-31 22:58:38",
+  "excerpt": "NightHacking interview with Sven Ruppert on Tinkerforge at the JCrete unconference.",
+  "id": 1024,
+  "original_urls": [
+    "http://nighthacking.tv/jcrete-interview-with-sven-ruppert/",
+    "http://nighthacking.com/jcrete-interview-with-sven-ruppert/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "95fc1c481f852cfe4e9af94661c8f2fa65f5b85313997582c693ff5d228aec49",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/7MIh2CxstBY"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/jcrete-interview-with-sven-ruppert/",
+    "post_id": 1024,
+    "rejected_urls": [],
+    "source_content_sha256": "3a5fd124ac7c3e3289828014262b1be1c4922d9bdeab0910f660643e1aeaf5f9",
+    "source_date_sha256": "c17ee5b48bc9c36092a17b9ce873b828f7e58582acf90f2563169042a46a410a",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "582c0168ba17eac49642bc85ae623204069e8d6ea06cf45af11e7de46ea31d18",
+      "_video_thumbnail": "63eaec65ef204ea67f7bb5eb65b8bb55082b520c58dc85bd50466da44d30db77",
+      "focus_video": "6a590893a4bf4e633c7333c7661bc339f9378a999828baedc4b8e03e48f05c50"
+    },
+    "source_slug_sha256": "a50861f2ace79ead1e911112b699b18445651d49dc3734137ea353514df59649",
+    "source_title_sha256": "389f7a817b1c5977c183443f0a1e25ce5196156470233ff5833614d60b3bb183",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "jcrete-interview-with-sven-ruppert",
+  "thumbnail": "/wp-content/uploads/2014/08/jcrete-interview-with-sven-ruppe.jpg",
+  "title": "JCrete Interview with Sven Ruppert",
+  "type": "post",
+  "video_id": "7MIh2CxstBY",
+  "warnings": []
+}

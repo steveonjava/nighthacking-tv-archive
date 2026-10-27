@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Devoxx 2014",
+      "slug": "devoxx-2014"
+    }
+  ],
+  "date": "2014-11-16 00:40:25",
+  "excerpt": "Live hacking session with Heinz Kabutz showing how to use ManagedBlocker to wait on I/O or other long running operations from Fork/Join and parallel lambdas.",
+  "id": 1234,
+  "original_urls": [
+    "http://nighthacking.tv/live-hacking-with-heinz-kabutz-on-managedblocker/",
+    "http://nighthacking.com/live-hacking-with-heinz-kabutz-on-managedblocker/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "5990103700a0aadb2b4a95768df0350c74d1c74d1aea1e9e14b5be1f747c6bbd",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://youtu.be/RuiCFXANJF4"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/live-hacking-with-heinz-kabutz-on-managedblocker/",
+    "post_id": 1234,
+    "rejected_urls": [],
+    "source_content_sha256": "42a82fefa11b9e59b13cb1c21a954675632b80ae0b1bc47257c7b1cf707b164f",
+    "source_date_sha256": "26a3d6684e446540cbe7d6b9d2eca89429bf153403c1948fa9e0b1261fda31da",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "7b0838c2af7e6b1f3fe5a49c32dd459d997a931cee349ca6869f3c17cc838394",
+      "_video_thumbnail": "ef3de1f91060dcdffed3ea3635bdc6455bb0e3a00219c38585fb2bc6b739a5cd",
+      "focus_video": "b879b0a9c3e4c068a67e4b6664269f5691a1b5e610254d5b0894d6c992e35e8e"
+    },
+    "source_slug_sha256": "d8237ecae3e954203338fc23ba5c785337074969f7210bef2cc352bf12d2445e",
+    "source_title_sha256": "feb7826d9600f540fbb979185277b58160d6be0715515b5a4765a49cc7ef0a80",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "live-hacking-with-heinz-kabutz-on-managedblocker",
+  "thumbnail": "/wp-content/uploads/2014/11/live-hacking-with-heinz-kabutz-o.jpg",
+  "title": "Live Hacking with Heinz Kabutz on ManagedBlocker",
+  "type": "post",
+  "video_id": "RuiCFXANJF4",
+  "warnings": []
+}

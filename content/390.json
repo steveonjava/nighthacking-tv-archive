@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-02-05 10:21:38",
+  "excerpt": "Do you use your IDE to the maximum extent? Join this live interview with Rabea Gransberger to find out some power user tips that can save you time and effort on your daily grind.",
+  "id": 390,
+  "original_urls": [
+    "http://nighthacking.tv/power-ide-usage/",
+    "http://nighthacking.com/power-ide-usage/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "ac3dcf72c077d89d789d6c9c254f4b64ef537d9b6e54577d788fe81f6b837aff",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "http://www.youtube.com/watch?v=K_AfRP9czYE"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/power-ide-usage/",
+    "post_id": 390,
+    "rejected_urls": [],
+    "source_content_sha256": "3e8943f19dcee2dc47e92e688e615985c9630bc6b04b9bd90f4a5bcb996fc1a7",
+    "source_date_sha256": "4daa155b4b6314174a2a5588f70146fa2903573db4f740912fd549c34f4b621a",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "04d19fde0a08b17aca69491e714bea43565384d12a63626e08477662cc03780e",
+      "_video_thumbnail": "e083620b3e4b60a1b52631ff47327e6148eadc6897cdff1a59be958ee8199e0d",
+      "focus_video": "fdee8aaf85261599e2ad92ec6be75bf0c701314f1c3d3855ea287d0f269d8160"
+    },
+    "source_slug_sha256": "1c47321abcced76e79c5362d014a6a0de4ddbf9e30b00ad3d67b716f66c02d21",
+    "source_title_sha256": "1a046137325547e82bf64f55488b9468631fc5496dd63eeb29f91e0f27076d4a",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "power-ide-usage",
+  "thumbnail": "/wp-content/uploads/2014/02/power-ide-usage.jpg",
+  "title": "Power IDE Usage",
+  "type": "post",
+  "video_id": "K_AfRP9czYE",
+  "warnings": []
+}

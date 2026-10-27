@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaLand 2015",
+      "slug": "javaland-2015"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2015-03-24 09:30:56",
+  "excerpt": "Interview at the JavaLand conference with Arun Gupta on Devoxx4Kids.",
+  "id": 1368,
+  "original_urls": [
+    "http://nighthacking.tv/arun-gupta-on-devoxx4kids/",
+    "http://nighthacking.com/arun-gupta-on-devoxx4kids/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "55b2aca60d26feca36bd31c4eeb94b4a081ad76d00d9333bcac38541493dd27a",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/sOpEteG088M"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/arun-gupta-on-devoxx4kids/",
+    "post_id": 1368,
+    "rejected_urls": [],
+    "source_content_sha256": "964dedf03031d65118e06f11edbd4b7cd62af433861ca2499219092d635a3a89",
+    "source_date_sha256": "54e3f831a2e21bb429a37193da59df80bfe29db3567153a45ac8ec87b925eef0",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "07e9bba1c63a7a01f935ee06d931c453e0864fc0fcc11ec445a8af60a36cc6c8",
+      "_video_thumbnail": "ccef78d88b916616923fb96d1a552ad29c3657d1dc8a23d4789a26cb4072d94f",
+      "focus_video": "b3bfa50e5bd3033fe52f4edd7df07b09603e9ec0cc75e7175d8508c5e802b02a"
+    },
+    "source_slug_sha256": "f1545bca357f0043dfa5d1f0889f57493c2e622c7fe6bec1c4fa2983b4520c75",
+    "source_title_sha256": "956ed8f3ddf3cc26d4ef1c576ccb25787eb227d1aeb6d593abbf387031f8d5e3",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "arun-gupta-on-devoxx4kids",
+  "thumbnail": "/wp-content/uploads/2015/03/arun-gupta-on-devoxx4kids.jpg",
+  "title": "Arun Gupta on Devoxx4Kids",
+  "type": "post",
+  "video_id": "sOpEteG088M",
+  "warnings": []
+}

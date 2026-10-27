@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Jfokus 2016",
+      "slug": "jfokus-2016"
+    }
+  ],
+  "date": "2016-02-10 08:18:19",
+  "excerpt": "NightHacking interview at the Jfokus conference with Vinicius and Yara Senger on their IoT Surfboard.",
+  "id": 1629,
+  "original_urls": [
+    "http://nighthacking.tv/vinicius-and-yara-senger-iot-surfboard/",
+    "http://nighthacking.com/vinicius-and-yara-senger-iot-surfboard/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "a900bed8a576e410121d281b4f17517bfbe9cdf1d148e9084c0837c22b2481b5",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/EmVpKOrrsEI"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/vinicius-and-yara-senger-iot-surfboard/",
+    "post_id": 1629,
+    "rejected_urls": [],
+    "source_content_sha256": "158d6e78261b6965c08d1c367b7e9fd449bb9496b66b6ba179719e17c78f5570",
+    "source_date_sha256": "ca96afc1d1c67d4842ff727b20b9100fbdda5daba4c0f2d4d386e70ddc0dc671",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "0341b5dd628e639abaa6a2a7affb6e8905dc4a0065309f69c67456473483c9dd",
+      "_video_thumbnail": "6b92d67af1328cdfc44cd71a033e7f81b4352d60ab6223ca8ef24c99ccf21fd3",
+      "focus_video": "53aa79894e52a142c2709fb9efaccae43d49e6a36196d832c22df96edf4eb7eb"
+    },
+    "source_slug_sha256": "028af223d918eaab5b0b9432b888d7896715df959ef9dfa2f77213f34b0eaca0",
+    "source_title_sha256": "75acacae8b75178325c832f44001eac877064374980d31824414bc9c8644cfbe",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "vinicius-and-yara-senger-iot-surfboard",
+  "thumbnail": "/wp-content/uploads/2016/02/vinicius-and-yara-senger-iot-sur.jpg",
+  "title": "Vinicius and Yara Senger - IoT Surfboard",
+  "type": "post",
+  "video_id": "EmVpKOrrsEI",
+  "warnings": []
+}

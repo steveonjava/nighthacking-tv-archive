@@ -1,0 +1,57 @@
+{
+  "categories": [
+    {
+      "name": "CloudWorld Developer Mumbai",
+      "slug": "cloudworld-developer-mumbai"
+    }
+  ],
+  "date": "2016-04-09 04:48:18",
+  "excerpt": "Interview with Ravi Pinto on Lightweight Node.js and Java in the Cloud with the Oracle Application Container Cloud Service at CloudWorld Developer Mumbai.",
+  "id": 1866,
+  "original_urls": [
+    "http://nighthacking.tv/ravi-pinto-on-lightweight-node-js-and-java-in-the-cloud/",
+    "http://nighthacking.com/ravi-pinto-on-lightweight-node-js-and-java-in-the-cloud/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "cd7812d6b0a12595d6066cd11c826f52761b61510e0bbe20fc588e939f3f6d4b",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video",
+          "source-text"
+        ],
+        "fetched": false,
+        "host": "youtu.be",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://youtu.be/h2N-l3WDFV8"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/ravi-pinto-on-lightweight-node-js-and-java-in-the-cloud/",
+    "post_id": 1866,
+    "rejected_urls": [],
+    "source_content_sha256": "de1fa4b3bcc46abd5facf63b5f8bba937c76f9abd6c3ebc44b091451b97b90d6",
+    "source_date_sha256": "cae689b7ddeed5100692b9eba51409ebe9e955cac00c48e7a484c9f2477cc548",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "8c9eda5bb5b3cc9e59a1a08e2ff9dba0ec84f1372f45056454e4ef18bc799263",
+      "_video_thumbnail": "4ecd4f853865eb7e33e414a7599c047fcc14d3829d0f0c5f6e7c4e30e5a28e6e",
+      "focus_video": "d65b0b5d7ad7063f589cf15cc4fc4fbee4684ef51c633e8362ef0420f3e75b3b"
+    },
+    "source_slug_sha256": "cf24d6d776a62b937f448fda3733b6383f303812f2df4eed42e939060eef0181",
+    "source_title_sha256": "b12d405ba588f93a21eced69042f2ef270ab0f0bc97ff66948843e3aefab0983",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "ravi-pinto-on-lightweight-node-js-and-java-in-the-cloud",
+  "thumbnail": "/wp-content/uploads/2016/04/ravi-pinto-on-lightweight-node-j.jpg",
+  "title": "Ravi Pinto on Lightweight Node.js and Java in the Cloud",
+  "type": "post",
+  "video_id": "h2N-l3WDFV8",
+  "warnings": []
+}

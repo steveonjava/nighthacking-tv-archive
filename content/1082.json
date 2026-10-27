@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "JavaOne 2014",
+      "slug": "javaone2014"
+    },
+    {
+      "name": "Video",
+      "slug": "video"
+    }
+  ],
+  "date": "2014-09-29 16:35:57",
+  "excerpt": "JavaOne NightHacking interview with the Lhings Connected Table IoT Challenge winner.",
+  "id": 1082,
+  "original_urls": [
+    "http://nighthacking.tv/lhings-connected-table/",
+    "http://nighthacking.com/lhings-connected-table/"
+  ],
+  "provenance": {
+    "authorship": "Original published text, not newly generated first-person prose",
+    "database": "nighthacking_wordpress",
+    "export_markdown_sha256": "cfeeb05906fee8ea079e8a481f38dc44b4b90f7966adfbb167fe40403e9815cb",
+    "exporter_version": "bulk-export-1",
+    "external_urls": [
+      {
+        "contexts": [
+          "meta:focus_video"
+        ],
+        "fetched": false,
+        "host": "www.youtube.com",
+        "rendered": false,
+        "status": "unverified",
+        "url": "https://www.youtube.com/watch?v=0GIPjwQUf-I"
+      }
+    ],
+    "image_omissions": [],
+    "original_root_route": "/lhings-connected-table/",
+    "post_id": 1082,
+    "rejected_urls": [],
+    "source_content_sha256": "377f32e64d75162a3e28a2c66a96e3cf4c35be0fc43a063a8712a11c4540d979",
+    "source_date_sha256": "32648b284144fbab332a06e9383030ed45b621b288975095d1c1f7477d7f3188",
+    "source_decoding_policy": "UTF-8 with an explicit fixed Windows-1252 error-byte repertoire. Unknown bytes remain reported replacement characters.",
+    "source_meta_sha256": {
+      "_thumbnail_id": "9fbb55aa1ca6da90db1c9914bc0960ad0d6a7b3eabe9a88c37580a6e31b5a0c0",
+      "_video_thumbnail": "61058341342af8985635ea78e41777131842c6614d680d9b57e370afaa5b0e45",
+      "focus_video": "a5ac2619a33105bdef11add9c3a5cb5652f3cbcca94676f49cef131fc3fd22d9"
+    },
+    "source_slug_sha256": "829103cae7c606ed33faf247c58cc7b26662b03d94752a07e676cbc5262ab7da",
+    "source_title_sha256": "787ba18cc31e6805cfffb194b3373cd071a1caff0c62eea2441e3befb8fc5d31",
+    "table": "wp_posts",
+    "video_status": "identified-unverified"
+  },
+  "review_status": "unreviewed",
+  "slug": "lhings-connected-table",
+  "thumbnail": "/wp-content/uploads/2014/09/lhings-connected-table.jpg",
+  "title": "Lhings Connected Table",
+  "type": "post",
+  "video_id": "0GIPjwQUf-I",
+  "warnings": []
+}
