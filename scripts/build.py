@@ -37,7 +37,7 @@ STATUSES = {"prototype", "launched"}
 ROBOTS = {"prototype": "noindex,nofollow", "launched": "index,follow"}
 SITEMAP_NS = "http://www.sitemaps.org/schemas/sitemap/0.9"
 MAX_SITEMAP_URLS = 50000
-REL = "nofollow noopener noreferrer"
+REL = "noopener noreferrer"
 # Hosts that served each site. Links to them become local routes, because the archive replaces them.
 ALIASES = {"steveonjava": {"steveonjava.com", "www.steveonjava.com"},
            "nighthacking": {"nighthacking.tv", "www.nighthacking.tv", "nighthacking.com", "www.nighthacking.com"}}
@@ -643,7 +643,40 @@ def rebase(html, base):
     return re.sub(r'(\b(?:href|src)=")/(?!/)', lambda match: match.group(1) + base + "/", html)
 
 
-def page(config, title, body, route, sidebar, layout="index", video="", meta=""):
+class OpeningParagraph(HTMLParser):
+    """Extract the first nonempty rendered paragraph, without image alt text."""
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.in_paragraph = False
+        self.parts = []
+        self.description = ""
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "p" and not self.description:
+            self.in_paragraph = True
+            self.parts = []
+
+    def handle_data(self, data):
+        if self.in_paragraph:
+            self.parts.append(data)
+
+    def handle_endtag(self, tag):
+        if tag == "p" and self.in_paragraph:
+            self.in_paragraph = False
+            self.description = " ".join("".join(self.parts).split())
+
+
+def record_description(rendered):
+    parser = OpeningParagraph()
+    parser.feed(rendered)
+    description = parser.description
+    if len(description) > 160:
+        shortened = description[:157].rsplit(" ", 1)[0]
+        description = (shortened if shortened else description[:157]) + "…"
+    return description
+
+
+def page(config, title, body, route, sidebar, layout="index", video="", meta="", description=""):
     night = config["site"] == "nighthacking"
     nav_items = [("/", "Watch" if night else "Home"), ("/archive/", "Archive")]
     if night:
@@ -676,7 +709,7 @@ def page(config, title, body, route, sidebar, layout="index", video="", meta="")
     return f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="{ROBOTS[config['status']]}"><meta http-equiv="Content-Security-Policy" content="{escape(CSP, quote=True)}">
-<meta name="description" content="{escape(title + ' | ' + config['title'], quote=True)}"><title>{escape(title)} | {escape(config['title'])}</title>
+<meta name="description" content="{escape(description or title + ' | ' + config['title'], quote=True)}"><title>{escape(title)} | {escape(config['title'])}</title>
 <link rel="canonical" href="{escape(config['canonical_base'] + route, quote=True)}"><link rel="stylesheet" href="/assets/archive.css"><script src="/assets/legacy.js" defer></script></head>
 <body class="{config['site']}"><a class="skip-link" href="#main">Skip to content</a><div class="site-shell">
 {header}<p id="legacy-status" role="status"></p><noscript><p class="no-js">{anchor('/archive/', 'Browse all posts')}</p></noscript>
@@ -744,7 +777,8 @@ class Audit(HTMLParser):
             safe_url(url, allowed_routes=self.allowed_routes, allowed_hosts={"steveonjava.com", "nighthacking.tv"})
             external = bool(urlsplit(url).scheme)
             if tag == "a" and external:
-                require(set(REL.split()) <= set(attrs.get("rel", "").split()), "Unsafe external link")
+                relations = set((attrs.get("rel") or "").lower().split())
+                require(set(REL.split()) <= relations and "nofollow" not in relations, "Unsafe external link")
             if key == "src" or tag == "link" and attrs.get("rel") == "stylesheet":
                 require(not external, "Remote resource")
             if external or url.startswith("#"):
@@ -899,6 +933,7 @@ def build(root, base=""):
     gallery = 'gallery' if night else 'index'
     # Render bodies once: home repeats the same prose, never duplicate evidence.
     rendered = {record["id"]: render_markdown(record["markdown"], config, routes, record_route(record), photos) for record in records}
+    descriptions = {record_route(record): record_description(rendered[record["id"]]) for record in records}
     pages = {"/": home_page(posts, rendered, night),
              "/404.html": ("Page not found", '<p>' + anchor('/archive/', 'Browse the archive') + ' or ' + anchor('/', 'return home') + '.</p>', 'index', '', '')}
     for start, title, kind, route, subset, number, total in chunks:
@@ -939,7 +974,7 @@ def build(root, base=""):
     for route, (title, body, layout, video, meta) in pages.items():
         target = output_path(output, route)
         target.parent.mkdir(parents=True, exist_ok=True)
-        html = apply_link_policy(page(config, title, body, route, sidebar, layout, video, meta), config, route)
+        html = apply_link_policy(page(config, title, body, route, sidebar, layout, video, meta, descriptions.get(route, "")), config, route)
         target.write_text(rebase(html, base), encoding="utf-8")
     if config["status"] == "launched":
         (output / "robots.txt").write_text(robots_txt(config["canonical_base"]), encoding="utf-8")
