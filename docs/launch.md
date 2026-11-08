@@ -6,7 +6,7 @@ The owner directed the launch of `nighthacking.tv` on 2026-10-28. The launch pul
 
 - Every page carries `<meta name="robots" content="index,follow">` instead of `noindex,nofollow`.
 - The build publishes `/robots.txt` and `/sitemap.xml`.
-- Links to other sites keep `rel="nofollow noopener noreferrer"`.
+- Links to other sites keep `rel="noopener noreferrer"` without `nofollow`, following the owner's subsequent approval.
 - Content, routes, images and theme are unchanged.
 
 ## Rights position

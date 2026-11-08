@@ -3,6 +3,7 @@ import contextlib
 from copy import deepcopy
 import io
 import hashlib
+
 import json
 import os
 from pathlib import Path
@@ -60,7 +61,8 @@ class ArchiveTests(unittest.TestCase):
                 self.assertIn("Watch on YouTube", page)
                 self.assertNotIn("Availability is unknown", page)
                 self.assertNotIn("<iframe", page)
-                self.assertIn('rel="nofollow noopener noreferrer"', page)
+                self.assertIn('rel="noopener noreferrer"', page)
+                self.assertNotIn('rel="nofollow', page)
                 self.assertIn("<strong>emphasis</strong>", page)
                 if site == "nighthacking":
                     self.assertTrue((self.root / "_site/videos/index.html").is_file())
@@ -76,6 +78,40 @@ class ArchiveTests(unittest.TestCase):
         self.assertIn("&lt;script&gt;", html)
         self.assertNotIn("<script>alert", html)
         self.assertNotIn("<img src=x", html)
+
+    def test_record_descriptions_use_rendered_prose_and_escape_attributes(self):
+        self.config.update(site="nighthacking", canonical_base="https://nighthacking.tv", status="launched")
+        self.markdown = ('![Synthetic](/wp-content/uploads/2014/01/synthetic.jpg)\n\n'
+                         'First **bold** and [linked](https://example.com/path) "words" & more.\n\nLater paragraph.')
+        self.save()
+        self.compile()
+        html = (self.root / "_site/synthetic-one/index.html").read_text()
+        self.assertIn('<meta name="description" content="First bold and linked &quot;words&quot; &amp; more.">', html)
+        self.assertIn('<meta name="robots" content="index,follow">', html)
+        self.assertNotIn('rel="nofollow', html)
+        for destination in ['https://example.com/path', 'https://www.youtube.com/watch?v=Abcdef123_-', 'https://stephenchin.com']:
+            self.assertIn('href="' + destination + '" rel="noopener noreferrer"', html)
+        self.assertIn('name="description" content="Latest Videos | Synthetic archive test"',
+                      (self.root / "_site/index.html").read_text())
+
+    def test_description_fallback_and_truncation(self):
+        self.assertEqual(build.record_description('<p><img src="/x" alt="Image"></p>'), '')
+        self.assertEqual(build.record_description('<p></p><p> First\n <em>text</em> &amp; more </p>'), 'First text & more')
+        for source in ['<p>' + ('word ' * 100) + '</p>', '<p>' + ('a' * 200) + '</p>']:
+            description = build.record_description(source)
+            self.assertLessEqual(len(description), 160)
+            self.assertTrue(description.endswith('…'))
+        self.markdown = '![Only an image](/wp-content/uploads/2014/01/synthetic.jpg)'
+        self.save()
+        self.compile()
+        self.assertIn('name="description" content="Synthetic post one | Synthetic archive test"',
+                      (self.root / "_site/synthetic-one/index.html").read_text())
+
+    def test_external_link_audit_rejects_nofollow_and_missing_security(self):
+        for rel in ['nofollow noopener noreferrer', 'NOFOLLOW noopener noreferrer', 'noopener', 'noreferrer', '']:
+            with self.subTest(rel=rel), self.assertRaisesRegex(ValueError, 'Unsafe external link'):
+                build.Audit(self.root, '/').feed('<a href="https://example.com" rel="' + rel + '">link</a>')
+        build.Audit(self.root, '/').feed('<a href="https://example.com" rel="noopener noreferrer">link</a>')
 
     def test_reject_dangerous_markdown_urls(self):
         for url in ["javascript:alert(1)", "data:text/html,evil", "//evil.example/a", "https://good.example/../secret", "https://user:pass@example.com/a", "%6aavascript:evil", "https://example.com/%2e%2e/secret"]:
@@ -504,7 +540,7 @@ class ArchiveTests(unittest.TestCase):
         self.assertNotIn("Pro Android Flash", html)
         self.assertIn("2009 JavaOne Rock Star!", html)
         self.assertNotIn("DZone", html)
-        self.assertIn('rel="nofollow noopener noreferrer"', html)
+        self.assertIn('rel="noopener noreferrer"', html)
 
     def test_nighthacking_home_has_featured_stage_without_a_player(self):
         self.config.update(site="nighthacking", canonical_base="https://nighthacking.tv")
